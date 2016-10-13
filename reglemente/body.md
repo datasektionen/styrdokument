@@ -900,8 +900,7 @@ Samtliga ordinarie ledamöter skall om möjligt delta på varje möte. Ordinarie
 
 #### §5.1.1.1 Ordinarie
 
-Näringslivsansvarig
-D-Dagenansvarig
+Näringslivsansvarig och D-Dagenansvarig
 
 ### §5.1.2 Idrottsrådet
 
