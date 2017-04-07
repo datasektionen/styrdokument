@@ -834,6 +834,8 @@ Har till uppgift att ansvara över sektionens bil och tillhörande ekonomi.
 
 Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till.
 
+Kan besluta att utdela medaljer, kallade Crashmedaljer, till de personer som orsakat bilen skada. Crashmedaljer får inte utdelas vid allvarlig skada på bilen, olovlig körning, rattfylleri eller personskada.
+
 #### §4.3.8.3 Organisation
 
 I det fall att posten är vakantsatt har Konglig Öfverdrif ansvar för bilen.
@@ -930,11 +932,11 @@ ISC ska
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.3.14 D-FEST
+### §4.3.14 D-Fest
 
 #### §4.3.14.1 Ändamål
 
-D-FEST ska verka för att öka sammanhållningen bland sektionens funktionärer.
+D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
 #### §4.3.14.2 Organisation
 
