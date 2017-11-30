@@ -952,17 +952,17 @@ I det fall att posten är vakantsatt är Ledamot för studiesociala frågor stä
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 
-### §4.3.14 D-Fest
+### §4.3.13 D-Fest
 
-#### §4.3.14.1 Ändamål
+#### §4.3.13.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §4.3.14.2 Organisation
+#### §4.3.13.2 Organisation
 
 Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §4.3.14.3 Verksamhet
+#### §4.3.13.3 Verksamhet
 
 Till funktionärens uppgifter hör att
 
@@ -972,7 +972,7 @@ Till funktionärens uppgifter hör att
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-#### §4.3.14.4 Mandatperiod
+#### §4.3.13.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
