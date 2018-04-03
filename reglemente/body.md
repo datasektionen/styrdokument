@@ -472,10 +472,10 @@ Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla
 --------------
 
 ### §3.16.1 Ändamål
-Den Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och skall verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.”
+Den Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och skall verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
 ### §3.16.2 Organisation
-”Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Övriga medlemmar är alla intresserade medlemmar.”
+Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Övriga medlemmar är alla intresserade medlemmar.
 
 ### §3.16.3 Verksamhet
 Internationella Nämnden skall
