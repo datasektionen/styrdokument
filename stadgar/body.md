@@ -219,7 +219,8 @@ Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Res
 §3.7 Protokoll
 ---------
 
-Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall innehålla en förteckning över närvarande, röstberättigade medlemmar. Protokoll skall i justerat skick anslås enligt §[1.8] samt tillsändas THS styrelse inom 14 dagar.
+Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall i justerat skick anslås enligt §1.8 inom 14 dagar, samt på begäran
+tillsändas THS styrelse.
 
 §3.8 Interpellation, motion och proposition
 --------------------------------------
