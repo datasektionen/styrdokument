@@ -229,10 +229,12 @@ D-rektoratet ansvarar för att motioner, interpellationer, svar på dessa samt p
 Det ska förflyta minst fem läsdagar mellan två på varandra följande SM. SM får inte hållas under tentamensperiod eller ferie.
 
 §3.10 Ordinarie SM
+------------
 
 Som ordinarie SM räknas de SM som regleras i reglementet, samt övriga, av D-rektoratet, utlysta ordinarie SM. Som ordinarie SM räknas ej extra SM. Det ska hållas minst ett ordinarie SM per termin.
 
 §3.11 Extra SM
+------------
 
 D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan endast behandla den eller de frågor som angivits i kallelsen, således behandlas ej övriga motioner, interpellationer eller propositioner. Dock kan övrig fråga väckas.
 
@@ -242,6 +244,7 @@ D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan en
 Mötets ordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen angivna reservtiden.
 
 §3.13 Val
+------------
 
 ### §3.13.1 Nomineringar
 
@@ -269,7 +272,7 @@ Nomineringslistan ska anslås enligt §[Nomineringar] senast 8 läsdagar före d
 
 Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett enhälligt beslut av SM.
 
-#### §5.1.4.6 Urnval
+### §3.13.6 Urnval
 
 Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §3.12.6.
 
@@ -318,7 +321,7 @@ DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och
 
 På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt §[1.8] i justerat skick senast 14 dagar efter mötet.
 
-§[4.2] Uppgifter
+§4.3 Uppgifter
 ---------
 
 Det åligger D-rektoratet
@@ -385,7 +388,7 @@ För varje nämnd ska det finnas en eller flera funktionärer som är ordförand
 
 Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
-§5.3 Obligatoriska Nämnder
+§5.3 Obligatoriska nämnder
 -------
 
 Det ska finnas en valberedning, en studienämnd, en sektionslokalnämnd samt en mottagningsnämnd.
