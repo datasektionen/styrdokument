@@ -1298,7 +1298,8 @@ Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötte
 
 E-cigarett är helt förbjudet i sektionslokalen.
 
-### §8.7 Samboendeavtal
+§8.7 Samboendeavtal
+------
 
 Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar
 hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan
