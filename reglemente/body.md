@@ -748,12 +748,13 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 Är ordförande för Jämlikhetsnämnden.
 
 Har även till uppgift att agera som studerandeskyddsombud för sektionen,
 med fokus på Jämlikhetsfrågor.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.2 Klubbmästare
 
