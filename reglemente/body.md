@@ -40,7 +40,7 @@ Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslo
 
 Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
 
-Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade.
+Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
 
 Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
 
@@ -1096,7 +1096,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 #### §5.3.6.1 Ändamål
 
-Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
+Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
 
 #### §5.3.6.2 Mandatperiod
 
