@@ -653,6 +653,12 @@ dJulkalendern ska varje december anordna en CTF-liknande tävling på den värld
 
 dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJulkalendern för nyantagna medlemmar till Konglig Datasektionen under mottagningen.
 
+## §3.23 Medias Klubbmästeri
+
+Medias Klubbmästeri, MKM, är bokföringspliktigt och dess medlemmar utses av D-rektoratet.
+
+MKM regleras vidare i Sektionen för Medietekniks styrdokument.
+
 # §4 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
