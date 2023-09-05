@@ -82,7 +82,7 @@ Material ska göras tillgängligt på de språk och i den utsträckning som spec
 
 # Ansvar
 
-Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämlikhetsnämndens Ordförande, Studiemiljöansvarig och styrelsen.
+Det yttersta ansvaret för att policyn efterlevs har Jämlikhetsnämndens ordförande, Studerandeskyddsombud och styrelsen.
 
 # Andra dokument
 
@@ -92,7 +92,7 @@ Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämli
 
 # Kontakt
 
--   Sektionsordförande [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
+-   Ordförande [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
 -   Jämlikhetsnämndens ordförande [jno@datasektionen.se](mailto:jno@datasektionen.se)
 -   D-rektoratet (Konglig Datasektionens styrelse) [drek@datasektionen.se](mailto:drek@datasektionen.se)
 -   Studiemiljöansvarig [sma@datasektionen.se](mailto:sma@datasektionen.se)

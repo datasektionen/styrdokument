@@ -236,7 +236,7 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Sektionsordförande, Vice sektionsordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
 
 ### §3.13.3 Fyllnadsval
 
@@ -254,7 +254,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Avvikande valprocesser
 
-Sektionsordförande, Vice sektionsordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanger väljs med urnval i enlighet med reglementet.
+Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanger väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
@@ -270,9 +270,9 @@ D-rektoratet är sektionens styrelse och högsta verkställande organ.
 
 D-rektoratet består av
 
--   Sektionsordförande
+-   Ordförande
 
--   Vice sektionsordförande
+-   Vice ordförande
 
 -   Sekreterare
 
@@ -332,15 +332,15 @@ Det åligger D-rektoratet att
 
 I brådskande fall äger D-rektoratet rätt att utöva SM:s befogenheter. D-rektoratet äger dock ej därigenom rätt att ändra stadgar eller reglemente eller att bevilja dispens från stadgarna. Beslut enligt detta stycke ska prövas på nästföljande SM.
 
-I brådskande fall äger Sektionsordförande rätt att utöva D-rektoratets befogenheter. Sektionsordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
+I brådskande fall äger Ordförande rätt att utöva D-rektoratets befogenheter. Ordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
 
 ## §4.5 Beslutsrätt gällande mindre summor
 
 D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
 
-## §4.6 Ställföreträdande Sektionsordförande
+## §4.6 Ställföreträdande Ordförande
 
-Om Sektionsordförande är oförmögen att göra så, utövar Vice sektionsordförande dennes befogenheter, och fullgör dennes plikter.
+Om Ordförande är oförmögen att göra så, utövar Vice ordförande dennes befogenheter, och fullgör dennes plikter.
 
 ## §4.7 Per capsulam-beslut
 
@@ -356,7 +356,7 @@ En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss de
 
 En nämnds sammansättning och verksamhet regleras i reglementet.
 
-## §5.1 Ordförande
+## §5.1 Nämndordförande
 
 För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
 

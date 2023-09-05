@@ -71,7 +71,7 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
 
-Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
+Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
 ### §3.1.3 Verksamhet
 
@@ -201,13 +201,13 @@ Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
 Titelgruppen ska utlysa platserna i höstens mottagning under våren. Alla sökande ska erbjudas intervjuer innan mottagningens sammansättning fastslås. De sökandes egna prioriteringar av sökta uppdrag inom Mottagningen ska respekteras.
 
-### §3.6.4 Sektionsordförandes roll
+### §3.6.4 Ordförandes roll
 
-Sektionsordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla sektionsordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Sektionsordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
+Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
-Sektionsordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
+Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
 
-Sektionsordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
+Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
 ### §3.6.5 Verksamhet
 
@@ -389,11 +389,11 @@ DEMON förespråkar även att man tillsammans ska gå på konserter/festivaler/s
 
 ### §3.12.1 Ändamål
 
-Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens Ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
+Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
 
 ### §3.12.2 Organisation
 
-Valberedningen leds av Valberedningens Ordförande. Valberedningen består av Ordförande och ledamöter som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
+Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
 
 ### §3.12.3 Verksamhet
 
@@ -537,7 +537,7 @@ Internationella nämnden, på engelska the International Group, är en delad nä
 
 ### §3.16.2 Organisation
 
-Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
+Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
 Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
@@ -698,7 +698,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 ## §5.1 D-rektoratet
 
-### §5.1.1 Sektionsordförande
+### §5.1.1 Ordförande
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd. Dessa ansvarsområden inkluderar att
 
@@ -714,15 +714,15 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.1.2 Vice sektionsordförande
+### §5.1.2 Vice ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Sektionsordförande. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
 -   arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
 
 -   delegera och följa upp på beslutsuppföljning inom styrelsen
 
--   kunna företräda organisationen tillsammans med Sektionsordförande
+-   kunna företräda organisationen tillsammans med Ordförande
 
 -   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
@@ -752,7 +752,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.4 Kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
 -   arbeta strategiskt med sektionens ekonomiska frågor
 
@@ -1003,7 +1003,7 @@ Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försva
 
 #### §5.3.1.2 Organisation
 
-SM ska välja en Fanbärare och en Vice fanbärare. Sektionsordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
+SM ska välja en Fanbärare och en Vice fanbärare. Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
 #### §5.3.1.3 Verksamhet
 
@@ -1209,7 +1209,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 #### §5.3.10.1 Ändamål
 
-Valberedningens ledamöter bereder val tillsammans med Valberedningens Ordförande.
+Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
 #### §5.3.10.2 Mandatperiod
 
@@ -1332,7 +1332,7 @@ Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfv
 
 ### §8.2.1 Ordförande Emeritus
 
-Ordförande Emeritus tilldelas de sektionsordförande som förtjänstfullt arbetat under en hel mandatperiod.
+Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
 Vidare gäller att Ordförande Emeriti
 

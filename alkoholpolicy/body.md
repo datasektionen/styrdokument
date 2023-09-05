@@ -12,7 +12,7 @@ Denna policy omfattar samtliga aktiviteter som genomförs i sektionens regi elle
 
 # §3 Öppnande av bar
 
-För att få öppna baren krävs godkännande av Sektionsordförande eller Klubbmästare. Vid alkoholevent på KTH kräver KTH att det görs en festanmälan. Denna festanmälan ska även skickas till Sektionsordförande. När baren öppnas måste det finnas en serveringsansvarig som har genomfört STAD-utbildningen. Denna person måste även vara registrerad hos Tillståndsenheten som serveringsansvarig hos Datasektionen. Det ska också finns en person som är festansvarig som har genomgått KTH:s FEST-utbildning.
+För att få öppna baren krävs godkännande av Ordförande eller Klubbmästare. Vid alkoholevent på KTH kräver KTH att det görs en festanmälan. Denna festanmälan ska även skickas till Ordförande. När baren öppnas måste det finnas en serveringsansvarig som har genomfört STAD-utbildningen. Denna person måste även vara registrerad hos Tillståndsenheten som serveringsansvarig hos Datasektionen. Det ska också finns en person som är festansvarig som har genomgått KTH:s FEST-utbildning.
 
 # §4 Alkohol under skoltid
 
