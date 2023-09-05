@@ -82,7 +82,7 @@ Material ska göras tillgängligt på de språk och i den utsträckning som spec
 
 # Ansvar
 
-Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämlikhetsnämndens Ordförande, Studerandeskyddsombud och styrelsen.
+Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämlikhetsnämndens Ordförande, Studiemiljöansvarig och styrelsen.
 
 # Andra dokument
 
@@ -95,8 +95,8 @@ Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämli
 -   Sektionsordförande [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
 -   Jämlikhetsnämndens ordförande [jno@datasektionen.se](mailto:jno@datasektionen.se)
 -   D-rektoratet (Konglig Datasektionens styrelse) [drek@datasektionen.se](mailto:drek@datasektionen.se)
--   Studerandeskyddsombud [sso@datasektionen.se](mailto:sso@datasektionen.se)
--   THS Studiesocialt [studiesocialt@ths.kth.se](mailto:studiesocialt@ths.kth.se)
--   EECS Kanslichef [marianlu@kth.se](mailto:marianlu@kth.se)
+-   Studiemiljöansvarig [sma@datasektionen.se](mailto:sma@datasektionen.se)
+-   THS Studiemiljö [studiemiljo@ths.kth.se](mailto:studiemiljo@ths.kth.se)
+-   EECS Vice Kanslichef [sofiano@kth.se](mailto:sofiano@kth.se)
 -   KTH Equality Office [equalityoffice@kth.se](mailto:qualityoffice@kth.se)
 -   Studievägledare [svl-data@kth.se](mailto:svl-data@kth.se)
