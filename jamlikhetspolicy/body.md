@@ -82,7 +82,7 @@ Material ska göras tillgängligt på de språk och i den utsträckning som spec
 
 # Ansvar
 
-Det yttersta ansvaret för att policyn efterlevs har Ordförande, Jämlikhetsnämndens ordförande, Studerandeskyddsombud och styrelsen.
+Det yttersta ansvaret för att policyn efterlevs har Jämlikhetsnämndens ordförande, Studerandeskyddsombud och styrelsen.
 
 # Andra dokument
 
