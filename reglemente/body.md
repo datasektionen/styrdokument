@@ -26,6 +26,8 @@ Dessa är underordnade stadgarna och reglementet.
 Beslut om ändringar i övriga styrdokument görs på SM såvida inget annat föreskrivs.
 
 ## §2.1 Policydokument
+Sektionen har ett antal policydokument. Dessa är:
+
 * Alkoholpolicy
 * dFunkpolicy
 * Informationshanteringspolicy
