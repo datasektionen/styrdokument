@@ -20,7 +20,36 @@ Sektionsplagget är studentoverall i samma färg som sektionsfärgen. Sektionsme
 
 # §2 Andra styrande dokument
 
-Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, samt ett antal policydokument. Sektionens policydokument består av dFunkpolicyn, jämlikhetspolicyn, alkoholpolicyn, rekryteringspolicyn, informationsspridningspolicyn, informationshanteringspolicyn och klimatpolicyn. Dessa dokument reglerar sektionens verksamhet och kompletterar stadgar och reglemente. Beslut om ändringar i dessa dokument tas på SM.
+Utöver sektionens stadgar och reglemente finns det kompletterande styrdokument.
+Dessa är underordnade stadgarna och reglementet.
+
+Beslut om ändringar i övriga styrdokument görs på SM såvida inget annat föreskrivs.
+
+## §2.1 Policydokument
+Sektionen har ett antal policydokument. Dessa är:
+
+* Alkoholpolicy
+* dFunkpolicy
+* Informationshanteringspolicy
+* Informationsspridningspolicy
+* Jämlikhetspolicy
+* Klimatpolicy
+* Rekryteringspolicy.
+
+## §2.2 Promemoria
+En promemoria, ett PM, är ett styrdokument som styrelsen efter styreslsebeslut äger rätt att ändra. Styrelsen ska informera Sektionen om ändringar på nästa sektionsmöte.
+
+## §2.3 Övriga styrdokument
+
+### §2.3.1 Verksamhetsplan
+Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
+Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+
+### §2.3.2 Ekonomisktstyrdokument
+Sektionen har ett ekonomiskt styrdokument som reglerar hur sektionens ekonomiska verksamhet ska skötas.
+
+### §2.3.3 Samboendeavtal
+Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
 # §3 Nämnder
 
@@ -1354,10 +1383,6 @@ En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelni
 # §9 Sektionslokalen
 
 Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall.
-
-## §9.1 Samboendeavtal
-
-Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och med synpunkter från de båda sektionernas engagerade.
 
 # §10 Stipendier
 
