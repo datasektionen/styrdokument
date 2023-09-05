@@ -293,7 +293,7 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   Programansvarig student
 
--   Studerandeskyddsombud
+-   Studiemiljöansvarig
 
 -   Ledamot för utbildningsfrågor
 
@@ -403,7 +403,7 @@ Valberedningen ska även annordna ett event per termin vars syfte är att skapa 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studerandeskyddsombud, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studiemiljöansvarig, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
 När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
@@ -1131,7 +1131,7 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.3.7 Studerandeskyddsombud
+### §5.3.7 Studiemiljöansvarig
 
 #### §5.3.7.1 Ändamål
 
@@ -1141,11 +1141,11 @@ Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så b
 
 #### §5.3.7.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
 
 #### §5.3.7.3 Verksamhet
 
-Studerandeskyddsombudet ska
+Studiemiljöansvarig ska
 
 -   ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
