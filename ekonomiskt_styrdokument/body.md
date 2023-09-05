@@ -54,9 +54,88 @@ Budgeten är ett instrument för att försöka planera och förutspå hur verksa
 
 Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Beslutet kan överklagas enligt nämnda ordning i §A.
 
-## §7.2 Användande av fikabudget
+## §7.2 Fördelning och användning av teambuilding- och fikabudget
 
-Fikabudget ska gå till inköp av ﬁka på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda ﬁka på alla aktiviteter, men i de fall då ﬁka erbjuds ska den vara tillgänglig för samtliga deltagare på aktiviteten. Minst två personer ska förväntas närvara på en aktivitet för att pengar ska få tas från ﬁka budgeten. Fika ska ej ersätta måltid.
+Budgeten för teambuilding och fika till intern grupp baseras på en kategoriindelning av
+nämnder och projekt. Beroende på vilken kategori som nämnden eller projektet faller
+inom tilldelas de ett visst belopp per aktiv medlem per år.
+
+Styrelsen innehar en förteckning över vilka kategorier som nämnder och projekt
+tillhör, samt beloppen kopplade till varje kategori. Styrelsen administrerar i vilken
+kategori varje nämnd och projekt tillhör men kan inte flytta ner en nämnd i en kategori
+under ett verksamhetsår utan beslut från SM. Styrelsen administrerar även storleken
+på beloppen kopplade till varje kategori.
+
+Budgeten för fika till event och personalvård bestäms på SM.
+
+### §7.2.1 Teambuildingbudget
+
+Teambuldingbudget ska gå till inköp inför eller under interna gruppers
+teambuildingaktiviteter. Inköpen ska ha en klar koppling till teambuildingen.
+
+Teambuildingbudget ska i största möjliga mån fördelas jämnt mellan medlemmarna i
+nämnden eller projektet.
+
+En teambuilding för en intern grupp ska i största möjliga mån annonseras i förväg så att
+hela hela gruppen har möjlighet att närvara.
+
+Minst 2 personer måste förväntas närvara för att man ska kunna spendera
+teambuildingbudget.
+
+Det ska dokumenteras vad som gjordes under ett TB-tillfälle, vilka som var där samt
+hur mycket pengar som spenderades.
+
+### §7.2.2 Fikabudget
+
+Fikabudget ska gå till inköp av fika på möten eller andra aktiviteter. Det är inte
+nödvändigt att erbjuda fika på alla möten eller aktiviteter, men i de fall då fika erbjuds
+ska den vara tillgänglig för samtliga deltagare på mötet eller aktiviteten. Minst två personer ska förväntas närvara på ett möte eller en aktivitet för att fikabudget ska
+spenderas.
+
+Med fika avses enklare förtäring av mindre värde som inte får ersätta måltid.
+Fikabudget får ej heller bekosta alkohol.
+
+#### §7.2.2.1 Fika till intern grupp
+
+Fika till intern grupp ska i första hand spenderas under de möten eller tillfällen som
+nämnder eller projekt har för att planera sin verksamhet, eller till dess arbetsmöten.
+
+Budgeten för fika ska i största möjliga mån fördelas jämnt mellan medlemmarna i
+gruppen.
+
+Ett tillfälle med fika för en intern grupp ska i största möjliga mån annonseras i förväg så
+att hela hela gruppen har möjlighet att närvara.
+
+Det är inte tillåtet att öka frekvensen av tillfällen i syfte att kunna spendera mer
+pengar på fika.
+
+Det ska dokumenteras vad som gjordes under tillfället, vilka som var där samt hur
+mycket pengar som spenderades.
+
+#### §7.2.2.2 Fika till event
+
+Fika till event ska vara tydligt kopplat till ett tillfälle och ett event riktat utåt mot hela
+sektionen.
+
+Ett event med fika riktat mot hela sektionen ska i största möjliga mån annonseras i
+förväg så att alla som vill har möjlighet att delta.
+
+Budgeten för eventfika ska i största möjliga mån fördelas jämnt mellan deltagarna
+under eventet.
+
+För att spendera budgeten för eventfika måste det närvara andra personer än
+nämndmedlemmar eller medlemmar i projektgruppen. Med undantag för öppna
+nämnder där medlemmar är samtliga intresserade sektionsmedlemmar.
+
+#### §7.2.2.3 Personalvård
+
+Personalvård ska vara tydligt kopplat till ett tillfälle och ett arbetspass.
+
+Budgeten för personalvård ska i största möjliga mån fördelas jämnt mellan de som
+deltar under passet och alla som arbetar ska ha möjlighet att ta del av personalvården.
+
+Budgeten för personalvård får endast spenderas på de som jobbar under
+arbetstillfället.
 
 # §8 Fonder
 
