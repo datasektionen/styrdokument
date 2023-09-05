@@ -332,7 +332,7 @@ Det åligger D-rektoratet att
 
 I brådskande fall äger D-rektoratet rätt att utöva SM:s befogenheter. D-rektoratet äger dock ej därigenom rätt att ändra stadgar eller reglemente eller att bevilja dispens från stadgarna. Beslut enligt detta stycke ska prövas på nästföljande SM.
 
-I brådskande fall äger Sektionsordförande rätt att utöva D-rektoratets befogenheter. Sektionsordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
+I brådskande fall äger Ordförande rätt att utöva D-rektoratets befogenheter. Ordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
 
 ## §4.5 Beslutsrätt gällande mindre summor
 
