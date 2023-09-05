@@ -338,9 +338,9 @@ I brådskande fall äger Sektionsordförande rätt att utöva D-rektoratets befo
 
 D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
 
-## §4.6 Ställföreträdande Sektionsordförande
+## §4.6 Ställföreträdande Ordförande
 
-Om Sektionsordförande är oförmögen att göra så, utövar Vice sektionsordförande dennes befogenheter, och fullgör dennes plikter.
+Om Ordförande är oförmögen att göra så, utövar Vice ordförande dennes befogenheter, och fullgör dennes plikter.
 
 ## §4.7 Per capsulam-beslut
 
