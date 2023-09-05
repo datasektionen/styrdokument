@@ -356,7 +356,7 @@ En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss de
 
 En nämnds sammansättning och verksamhet regleras i reglementet.
 
-## §5.1 Ordförande
+## §5.1 Nämndordförande
 
 För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
 
