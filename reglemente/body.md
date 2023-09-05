@@ -20,7 +20,36 @@ Sektionsplagget är studentoverall i samma färg som sektionsfärgen. Sektionsme
 
 # §2 Andra styrande dokument
 
-Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, samt ett antal policydokument. Sektionens policydokument består av dFunkpolicyn, jämlikhetspolicyn, alkoholpolicyn, rekryteringspolicyn, informationsspridningspolicyn, informationshanteringspolicyn och klimatpolicyn. Dessa dokument reglerar sektionens verksamhet och kompletterar stadgar och reglemente. Beslut om ändringar i dessa dokument tas på SM.
+Utöver sektionens stadgar och reglemente finns det kompletterande styrdokument.
+Dessa är underordnade stadgarna och reglementet.
+
+Beslut om ändringar i övriga styrdokument görs på SM såvida inget annat föreskrivs.
+
+## §2.1 Policydokument
+Sektionen har ett antal policydokument. Dessa är:
+
+* Alkoholpolicy
+* dFunkpolicy
+* Informationshanteringspolicy
+* Informationsspridningspolicy
+* Jämlikhetspolicy
+* Klimatpolicy
+* Rekryteringspolicy.
+
+## §2.2 Promemoria
+En promemoria, ett PM, är ett styrdokument som styrelsen efter styreslsebeslut äger rätt att ändra. Styrelsen ska informera Sektionen om ändringar på nästa sektionsmöte.
+
+## §2.3 Övriga styrdokument
+
+### §2.3.1 Verksamhetsplan
+Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
+Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+
+### §2.3.2 Ekonomisktstyrdokument
+Sektionen har ett ekonomiskt styrdokument som reglerar hur sektionens ekonomiska verksamhet ska skötas.
+
+### §2.3.3 Samboendeavtal
+Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
 # §3 Nämnder
 
@@ -264,7 +293,7 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   Programansvarig student
 
--   Studerandeskyddsombud
+-   Studiemiljöansvarig
 
 -   Ledamot för utbildningsfrågor
 
@@ -374,7 +403,7 @@ Valberedningen ska även annordna ett event per termin vars syfte är att skapa 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studerandeskyddsombud, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studiemiljöansvarig, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
 När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
@@ -1102,7 +1131,7 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.3.7 Studerandeskyddsombud
+### §5.3.7 Studiemiljöansvarig
 
 #### §5.3.7.1 Ändamål
 
@@ -1112,11 +1141,11 @@ Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så b
 
 #### §5.3.7.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
 
 #### §5.3.7.3 Verksamhet
 
-Studerandeskyddsombudet ska
+Studiemiljöansvarig ska
 
 -   ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
@@ -1354,10 +1383,6 @@ En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelni
 # §9 Sektionslokalen
 
 Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall.
-
-## §9.1 Samboendeavtal
-
-Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och med synpunkter från de båda sektionernas engagerade.
 
 # §10 Stipendier
 
