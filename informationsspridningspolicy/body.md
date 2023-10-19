@@ -26,7 +26,9 @@ Information som går ut till sektionens medlemmar ska i största möjliga mån �
 
 # §5 Anmälningar till arrangemang
 
-Arrangemang anordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera ett bestämt antal platser till personer som har hedersplats på arrangemanget. En sådan reservation måste då framgå vid anmälan till arrangemanget.
+Arrangemang anordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera platser till personer som har hedersplats på
+arrangemanget. Vilka personer som ska ha en sådan hedersplats bestäms i samråd med
+styrelsen innan anmälan till arrangemanget öppnar för övriga medlemmar.
 
 # §6 Känsliga uppgifter
 
