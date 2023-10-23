@@ -324,7 +324,7 @@ Det åligger D-rektoratet att
 
 -   svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
--   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, Kårfullmäktigesuppleant, Kårfullmäktigeledamot eller Valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
+-   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, studerandeskyddsombud, kårfullmäktigeledamot, kårfullmäktigesuppleant eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
 
 -   besluta om uppstartade projekt ska vara bokföringspliktiga.
 
