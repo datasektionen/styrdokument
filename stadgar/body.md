@@ -52,15 +52,11 @@ Stadgarna ändras genom likalydande beslut på två på varandra följande SM, v
 
 Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
 
-### §1.6.6 Ändamål
+### §1.6.6 Föreskrifter utöver stadgarna
 
 Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i sektionens reglemente som är direkt underställt dessa stadgar.
 
 Ändring av reglementet beslutas om på SM.
-
-### §1.6.8 Policydokument
-
-Sektionen har även ett antal policydokument som reglerar verksamheten. De gällande policydokumenten tas upp i reglementet.
 
 ## §1.7 Beslutsnivåer
 
