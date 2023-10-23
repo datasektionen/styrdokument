@@ -54,11 +54,9 @@ Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt besluta
 
 ### §1.6.6 Ändamål
 
-Reglementet reglerar sektionsverksamheten där stadgarna ej är tillräckligt utförliga. Reglementet är alltid underordnat stadgarna.
+Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i sektionens reglemente som är direkt underställt dessa stadgar.
 
-#### §1.6.7 Reglementesändring
-
-Reglementet kan ändras genom beslut på ett SM. Punkter som måste finnas enligt stadgarna kan dock inte avskaffas utan stadgeändring.
+Ändring av reglementet beslutas om på SM.
 
 ### §1.6.8 Policydokument
 
