@@ -712,7 +712,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 -   ha en god överblick av sektionens ekonomi.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.2 Vice ordförande
 
@@ -726,7 +726,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.3 Sekreterare
 
@@ -748,7 +748,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.4 Kassör
 
@@ -772,7 +772,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   ha ett nära samarbete med Vice kassör.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.5 Vice kassör
 
@@ -788,7 +788,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   ha ett nära samarbete med Kassör.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.6 Ledamot för näringsliv och kommunikation
 
@@ -802,7 +802,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.7 Ledamot för studiesociala frågor
 
@@ -816,7 +816,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.8 Ledamot för utbildningsfrågor
 
@@ -830,7 +830,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.1.9 Ledamot för studiemiljö och likabehandling
 
@@ -844,7 +844,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ## §5.2 Nämndordförande
 
@@ -854,97 +854,97 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Är studerandeskyddsombud, med fokus på jämlikhetsfrågor, för sektionen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.3 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.4 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.6 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.7 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.8 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.9 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.10 Adas ordförande
 
 Är ordförande för Ada.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.11 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.12 Valberedningens ordförande
 
 Är ordförande för Valberedningen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.13 Desctop
 
 Är ordförande för Datasektionens E-Sports Community.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.14 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.15 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.16 Bakis
 
 Är ordförande för Baknämnden.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.17 Internationell studentkoordinator
 
@@ -952,25 +952,25 @@ Internationell studentkoordinator, ISK, är ordförande för Internationella nä
 
 International student coordinator, förkortat ISC, är det engelska namnet.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod
+Väljs i Period 2. Har kalenderår som mandatperiod
 
 ### §5.2.18 Datas Art Director
 
 Är ordförande för Tag Monkeys.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.19 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
 
-Väljs på Val-SM. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §5.2.21 Mulle/Mullerina Schmeck
 
@@ -978,19 +978,19 @@ Väljs på Val-SM. Har mandatperiod från 1:a juli till 30:e december nästkomma
 
 Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.2.22 Körmästare
 
 Är ordförande för Scala.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.23 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
-Väljs på Revisions-SM. Har mandatperiod från 1:a april till 31:a mars.
+Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 
 ## §5.3 Övriga funktionärer
@@ -1011,7 +1011,7 @@ Fanbärare ska närvara på så många som möjligt av de tillställningar till 
 
 #### §5.3.1.4 Mandatperiod
 
-Fanbärare och Vice fanbärare väljs på Glögg-SM och har kalenderår som mandatperiod.
+Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
 
 ### §5.3.2 Kårfullmäktigeledamöter
 
@@ -1029,7 +1029,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §5.3.2.4 Mandatperiod
 
-Alla mandat tilldelade sektionen väljs på Revisions-SM och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
 
 ### §5.3.3 Programansvarig student
 
@@ -1057,7 +1057,7 @@ Programansvarig student ska
 
 #### §5.3.3.4 Mandatperiod
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.3.4 Revisorer
 
@@ -1095,7 +1095,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §5.3.4.4 Mandatperiod
 
-Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorn Väljs i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ### §5.3.5 Sektionshistoriker
 
@@ -1119,7 +1119,7 @@ Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla U
 
 #### §5.3.5.3 Mandatperiod
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.3.6 Ljud- och ljusansvarig
 
@@ -1129,7 +1129,7 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 #### §5.3.6.2 Mandatperiod
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.3.7 Studiemiljöansvarig
 
@@ -1163,7 +1163,7 @@ Studiemiljöansvarig ska
 
 #### §5.3.7.4 Mandatperiod
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.3.8 D-Fest
 
@@ -1187,7 +1187,7 @@ Till funktionärens uppgifter hör att
 
 #### §5.3.8.4 Mandatperiod
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.3.9 Kommunikatör
 
@@ -1203,7 +1203,7 @@ Kommunikatören kan tillsätta kortvariga projektgrupper vars uppgift är att m�
 
 #### §5.3.9.3 Mandatperiod
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.3.10 Valberedningsledamöter
 
@@ -1213,8 +1213,8 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens ordföran
 
 #### §5.3.10.2 Mandatperiod
 
-Tre ledamöter väljs på Val-SM och har läsår som mandatperiod. Ytterligare tre ledamöter
-väljs på Glögg-SM och har kalenderår som mandatperiod.
+Tre ledamöter Väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
+Väljs i Period 2 och har kalenderår som mandatperiod.
 
 ### §5.3.11 Sångledare
 
@@ -1232,7 +1232,7 @@ Sångledare ansvarar för att sånger i sångboken och /dev/audio är uppdaterad
 
 #### §5.3.11.4 Mandatperiod
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.3.12 Talman
 
@@ -1250,7 +1250,7 @@ Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sekti
 
 #### §5.3.12.4 Mandatperiod
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 # §6 Externa representanter
 

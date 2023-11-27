@@ -52,17 +52,11 @@ Stadgarna ändras genom likalydande beslut på två på varandra följande SM, v
 
 Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
 
-### §1.6.6 Ändamål
+### §1.6.6 Föreskrifter utöver stadgarna
 
-Reglementet reglerar sektionsverksamheten där stadgarna ej är tillräckligt utförliga. Reglementet är alltid underordnat stadgarna.
+Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i sektionens reglemente som är direkt underställt dessa stadgar.
 
-#### §1.6.7 Reglementesändring
-
-Reglementet kan ändras genom beslut på ett SM. Punkter som måste finnas enligt stadgarna kan dock inte avskaffas utan stadgeändring.
-
-### §1.6.8 Policydokument
-
-Sektionen har även ett antal policydokument som reglerar verksamheten. De gällande policydokumenten tas upp i reglementet.
+Ändring av reglementet beslutas om på SM.
 
 ## §1.7 Beslutsnivåer
 
@@ -324,7 +318,7 @@ Det åligger D-rektoratet att
 
 -   svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
--   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, Kårfullmäktigesuppleant, Kårfullmäktigeledamot eller Valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
+-   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, studerandeskyddsombud, kårfullmäktigeledamot, kårfullmäktigesuppleant eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
 
 -   besluta om uppstartade projekt ska vara bokföringspliktiga.
 
