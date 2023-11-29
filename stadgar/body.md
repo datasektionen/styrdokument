@@ -120,7 +120,7 @@ Endast för nyligen antagen till Datateknikprogrammet. Medlemskapet gäller frå
 
 ## §2.5 Gästmedlemskap
 
-Gästmedlemskap kan tilldelas personer vars utbildning faller under EECS skolan samt är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av D-rektoratet, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
+Gästmedlemskap kan tilldelas personer som är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av D-rektoratet, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
 
 Gästmedlemmar har rätt att
 
