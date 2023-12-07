@@ -583,7 +583,7 @@ Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidnin
 
 ### §3.18.2 Organisation
 
-Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
 
 ### §3.18.3 Verksamhet
 
