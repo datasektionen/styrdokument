@@ -992,7 +992,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-
 ## §5.3 Övriga funktionärer
 
 ### §5.3.1 Fanbärare
@@ -1003,7 +1002,9 @@ Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försva
 
 #### §5.3.1.2 Organisation
 
-SM ska välja en Fanbärare och en Vice fanbärare. Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
+SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högsti den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
+
+Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
 #### §5.3.1.3 Verksamhet
 
