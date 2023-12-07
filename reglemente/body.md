@@ -197,11 +197,7 @@ Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är
 
 Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
-### §3.6.3 Rekrytering till Mottagningen
-
-Titelgruppen ska utlysa platserna i höstens mottagning under våren. Alla sökande ska erbjudas intervjuer innan mottagningens sammansättning fastslås. De sökandes egna prioriteringar av sökta uppdrag inom Mottagningen ska respekteras.
-
-### §3.6.4 Ordförandes roll
+### §3.6.3 Ordförandes roll
 
 Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
@@ -209,7 +205,7 @@ Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som d
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
-### §3.6.5 Verksamhet
+### §3.6.4 Verksamhet
 
 Mottagningen ansvarar för att aktiviteter som främjar Mottagningens ändamål anordnas. Dessa aktiviteter avslutas sedan med nØlleGasquen och nØllans eventuella upphöjelse till Ettan. Mottagningen ansvarar för valet av årskursnamn som utfärdas i samband med upphöjelsen. För planeringen av verksamheten ansvarar Titelgruppen.
 
@@ -219,7 +215,7 @@ De nyantagna studenterna ska även introduceras till sektionens jämlikhet- och 
 
 Mottagningen ska involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
-### §3.6.6 Bokföringsplikt
+### §3.6.5 Bokföringsplikt
 
 Mottagningen är bokföringspliktig.
 
@@ -249,11 +245,7 @@ Näringslivsgruppen ska
 
 -   se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
-### §3.7.4 Avtal
-
-Näringslivsansvarig har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig för att denne ska kunna ingå i sagda avtal.
-
-### §3.7.5 Bokföringsplikt
+### §3.7.4 Bokföringsplikt
 
 Näringslivsgruppen är bokföringspliktig.
 
@@ -656,11 +648,7 @@ D-Dagen ska
 
 -   se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-### §3.21.4 Avtal
-
-D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal.
-
-### §3.21.5 Bokföringsplikt
+### §3.21.4 Bokföringsplikt
 
 D-Dagen är bokföringspliktigt.
 
@@ -801,6 +789,8 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 -   strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
 -   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
+  
+-   upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm isyfte att främja kulturellt utbyte och nätverkande
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
@@ -1195,12 +1185,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-Vidare har kommunikatören som ansvar att upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
-
-#### §5.3.9.2 Organisation
-
-Kommunikatören kan tillsätta kortvariga projektgrupper vars uppgift är att möjliggöra för sektionens medlemmar att delta i aktiviteter med studenter från andra universitet. Detta kan inkludera, men är inte begränsat till: marknadsföra event från andra universitet, ansvara för logistiken kring deltagande på event vid andra universitet samt ansvara för logistiken kring att bjuda in gäster från andra universitet att delta på våra event.
-
 #### §5.3.9.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
@@ -1263,24 +1247,6 @@ Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga 
 ### §6.2.1 Val av representanter
 
 Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
-
-### §6.2.2 Förteckning
-
-#### §6.2.2.1 Strategiska rådet
-
-Fattar beslut om bland annat budget och bokslut, samt de frågor som dekanen anser att styrelsen ska besluta om.
-
-#### §6.2.2.2 Ledningsgruppen
-
-Bereder och lämnar förslag inför viktigare beslut som ska fattas på skolan.
-
-#### §6.2.2.3 Rekryteringskommittén
-
-Rekryteringskommittén har till uppgift att bereda och avge förslag beträffande vissa anställningar.
-
-#### §6.2.2.4 Skolråd
-
-Skolrådet är öppet för alla studenter som studerar vid EECS-skolan. Skolrådet väljer representanter till andra råd.
 
 # §7 Ordinarie SM
 
@@ -1380,32 +1346,28 @@ För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D
 
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
 
-# §9 Sektionslokalen
+# §9 Stipendier
 
-Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall.
+## §9.1 THS Kamratstipendium
 
-# §10 Stipendier
-
-## §10.1 THS Kamratstipendium
-
-### §10.1.1 Stipendiet
+### §9.1.1 Stipendiet
 
 Stipendiet regleras i enlighet med THS PM för priser.
 
-### §10.1.2 Nominering
+### §9.1.2 Nominering
 
 D-rektoratet beslutar om nomineringstid för sektionsmedlemmar. Nomineringstiden ska vara minst två veckor lång och ligga under vårterminen. Nomineringsstopp får ligga senast två veckor innan kandidat ska rapporteras till THS. Under nomineringstiden kan sektionsmedlem nomineras för stipendiet. Nominering sker till D-rektoratet.
 
-### §10.1.3 Beslut
+### §9.1.3 Beslut
 
 D-rektoratet tar beslut om vilka kandidater som nomineras och rapporterar beslutet till THS.
 
-# §11 Övrigt
+# §10 Övrigt
 
-## §11.1 Visdomsord
+## §10.1 Visdomsord
 
 Det var bättre förr.
 
-### §11.1.1 Mer visdomsord
+### §10.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
