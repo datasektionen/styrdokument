@@ -1002,7 +1002,7 @@ Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försva
 
 #### §5.3.1.2 Organisation
 
-SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högsti den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
+SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
 
 Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
