@@ -499,8 +499,6 @@ Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar,
 
 ### §3.14.2 Organisation
 
-Prylmångleriet leds av Prylmånglaren.
-
 Prylmångleriet leds av Prylmånglaren. Övriga medlemmar utses av Prylmånglaren.
 
 ### §3.14.3 Verksamhet
