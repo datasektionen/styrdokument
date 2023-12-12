@@ -117,7 +117,7 @@ Informationsorganet, IOR, ska ansvara för sektionens datasystem och drift av de
 
 Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig.
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar utses av sektionens Systemansvarig.
 
 ### §3.3.3 Verksamhet
 
@@ -131,7 +131,9 @@ Jämlikhetsnämnden ska värna och upplysa om jämlikhet och mångfald på sekti
 
 ### §3.4.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling ska också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling ska också ingå i nämnden.
+
+Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
 ### §3.4.3 Verksamhet
 
@@ -267,7 +269,7 @@ Qulturnämnden, QN, har som syfte att anordna sociala evenemang med fokus på ku
 
 Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funktionär från Sektionen för Medieteknik.
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar utses av Qulturattaché och motsvarande ansvarig funktionär från Sektionen för Medieteknik.
 
 ### §3.8.3 Verksamhet
 
@@ -369,7 +371,7 @@ Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset 
 
 DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
 
 ### §3.11.3 Verksamhet
 
@@ -477,7 +479,7 @@ Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens dators
 
 Datasektionens E-Sports Community leds av DESCtop.
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar utses av DESCtop.
 
 ### §3.13.3 Verksamhet
 
@@ -499,7 +501,7 @@ Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar,
 
 Prylmångleriet leds av Prylmånglaren.
 
-Övriga medlemmar utses av Prylmånglaren från intresserade sektionsmedlemmar.
+Prylmångleriet leds av Prylmånglaren. Övriga medlemmar utses av Prylmånglaren.
 
 ### §3.14.3 Verksamhet
 
@@ -539,7 +541,7 @@ Internationella nämnden, på engelska the International Group, är en delad nä
 
 Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
 
 ### §3.16.3 Verksamhet
 
@@ -569,7 +571,7 @@ Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete samt att det
 
 ### §3.17.2 Organisation
 
-Tag Monkeys leds av Datas Art Director. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Tag Monkeys leds av Datas Art Director. Övriga medlemmar utses av Datas Art Director.
 
 ### §3.17.3 Verksamhet
 
