@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens informationsspridningspolicy -->
+<!-- Konglig Datasektionens PM för informationsspridning -->
 
 # §1 Om det här dokumentet
 
