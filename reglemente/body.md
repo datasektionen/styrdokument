@@ -100,9 +100,11 @@ Idrottsnämnden ska verka för att sektionsmedlemmarna får tillfälle att idrot
 
 ### §3.2.2 Organisation
 
-Idrottsnämnden leds av Sektionsidrottsledaren.
+Idrottsnämnden leds av Sektionsidrottsledaren. 
 
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Övriga medlemmar väljs av Sektionsidrottsledare. 
+
+Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.
 
 ### §3.2.3 Verksamhet
 
