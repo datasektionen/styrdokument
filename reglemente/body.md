@@ -1185,7 +1185,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-#### §5.3.9.3 Mandatperiod
+#### §5.3.9.2 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
