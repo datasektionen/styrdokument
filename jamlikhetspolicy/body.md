@@ -2,101 +2,79 @@
 
 # Bakgrund
 
-Detta dokument har tagits fram som ett tillägg till THS JML-policy. Detta är för att det ska bli tydligt hur vi jobbar med JML på Konglig Datasektionen. Dokumentet är skapat så att varje paragraf är kopplad till en paragraf i THS-policy och det första stycket i varje paragraf är hela policypunkten. Därefter följer underparagrafer som specificerar hur vi på Konglig Datasektionen arbetar med huvudpunkterna. För begreppsdefinitioner hänvisar vi till [THS JML-policy](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX?usp=sharing).
+Jämlikhet, mångfald och likabehandling (JML) är förutsättningar för gemenskap, utveckling och glädje. Konglig Datasektionen ska vara en plats där varje sektionsmedlem kan må bra, vara sig själv och utvecklas som person. Konglig Datasektionen ska utgöra en trygg miljö, både fysiskt och psykosocialt. Konglig Datasektionen ska även vara en plats som sätter personlig utveckling, gemenskap och inkludering i centrum. 
+
+Vårt mål är att skapa en stark känsla av samhörighet på sektionen där alla kan känna sig som en del av något större. Vi strävar efter att ge medlemmarna möjlighet att uppleva, arbeta och skapa minnen tillsammans. Vi kommer också ihåg att vi är en studentorganisation – allt måste inte vara fullt seriöst hela tiden. Vårt mål är att skapa en gemenskap där alla kan ha kul och som formar våra medlemmars tid på KTH till något bättre. Vi skapar och upprätthåller gemensamma traditioner som vi kan samlas kring och se fram emot under vår studietid. 
+
+Mer information och definitioner av viktiga begrepp finns på [datasektionen/jml](https://datasektionen.se/jml). Där finns även information om hur du anmäler om du upplevt ett brott mot denna policy.
+
+# Syfte
+Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet. 
+
+Genom att omfamna dessa riktlinjer kan Datasektionen bli en plats där så många medlemmar som möjligt kan växa och trivas. Genom att kontinuerligt arbeta med att förbättra oss inom dessa områden kan tiden på Datasektionen bli något våra medlemmar kan se tillbaka på med värme och stolthet.
+
 
 # §1 Inkludering och Mångfald
 
-THS organisation och verksamhet ska ha en öppen och inkluderande kultur samt genomsyras av mångfald.
+Konglig Datasektionens organisation och verksamhet ska ha en öppen och inkluderande kultur samt genomsyras av mångfald. 
 
-## §1.1
+Vi strävar efter att ha stor mångfald i sektionens nämnder och projekt. Vid rekrytering bör det uppnås genom att ta hänsyn, inte bara till hur väl anpassade individer är för rollen man söker, utan till hela gruppens potentiella dynamik och vad varje individ kan bidra med till gruppen.
 
-Vi strävar efter att ha stor mångfald i sektionens nämnder och projekt och tar hänsyn till sådant vid rekryteringar.
 
-## §1.2
+## §1.1 Inkludering
 
-Sektionen uppmuntrar att alla tillfällen där en medlem anser att avsteg från denna policy gjorts rapporteras till någon av sektionens kontaktpersoner (se avsnitt Kontakt).
+På Konglig Datasektionen ska det finnas något för alla och alla som vill göra något ska få chansen att göra det i ett välkomnande klimat. Vi strävar efter att göra Konglig Datasektionen till en mer inkluderande organisation genom att främja mångfald och öppenhet. Genom att främja mångfald och öppenhet tror vi att Datasektionen kan bli en mer inkluderande organisation där alla känner sig välkomna och uppmuntrade att delta.
+
+## §1.2 Mångfald
+
+Mångfald innebär att vi strävar efter att locka till oss en bred samling av idéer, åsikter och perspektiv, samtidigt som vi upprätthåller en stor variation av aktiviteter för att sektionen ska blomstra och förbli nyskapande. För att uppnå detta är det viktigt att vi alltid behandlar varandra med respekt och värdesätter en breddning av sektionens utbud av aktiviteter.
 
 # §2 Trygghet och tillgänglighet
 
-THS ska ha en trygg och tillgänglig fysisk och psykosocial miljö där alla kan utvecklas personligt, utbildnings- och karriärmässigt.
+Konglig Datasektionen ska ha en trygg och tillgänglig fysisk och psykosocial miljö där alla kan utvecklas personligt, utbildnings- och karriärmässigt.  Vi strävar efter att vara välkomnande och att vår verksamhet ska vara tillgänglig för alla som vill delta. 
 
-## §2.1
+Vi strävar efter att alla lokaler som Konglig Datasektionen använder vid sina tillställningar ska vara tillgängliga fysiskt för alla potentiella deltagare. 
 
-Alla lokaler som Konglig Datasektionen använder vid sina tillställningar ska vara tillgängliga fysiskt för alla potentiella deltagare.
+Funktionärer samt styrelse ska sträva efter att ta hänsyn till medlemmarnas arbetsbelastning och vara lyhörda kring potentiellt överarbete, och om sådant uppkommer göra förändringar för att avlasta. 
 
-## §2.2
+## §2.1 Personlig utveckling
 
-Funktionärer samt styrelse ska ta hänsyn till medlemmarnas arbetsbelastning och vara lyhörda kring potentiellt överarbete, och om sådant uppkommer göra förändringar för att avlasta.
+Vi strävar efter att skapa möjligheter för alla våra medlemmar att förvärva ny kunskap och utveckla nya färdigheter. Personlig utveckling är något vi värdesätter på flera nivåer, alltifrån social utveckling till att få nya meriter som kan gynna våra medlemmar i framtiden. 
 
-# §3 Lika villkor
+Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte sker på bekostnad av medlemmars hälsa eller studier.
 
-Inom THS ska alla behandlas på lika villkor och ha samma möjlighet att ta del av THS verksamhet och organisation.
+# §3 Likabehandling och Lika villkor
 
-## §3.1
+Inom Konglig Datasektionen ska alla behandlas på lika villkor och ha samma möjlighet att ta del av Konglig Datasektionens verksamhet och organisation. 
 
-De tillställningar som Konglig Datasektionen anordnar ska arbeta för alla deltagare ska kunna delta under samma villkor, oavsett förutsättningar för enskild deltagare.
+De tillställningar som Konglig Datasektionen anordnar ska arbeta för att alla deltagare ska kunna delta under samma villkor, oavsett förutsättningar för enskild deltagare.
 
-## §3.2
-
-Förtursbiljetter till evengemang ska enbart tillämpas enligt §5 Anmälningar till arrangemang i [Informationsspridningspolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
+Förtursbiljetter till evenemang ska enbart tillämpas enligt [Informationsspridningspolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
 
 # §4 Diskriminering och trakasserier
 
-THS ska ha nolltolerans mot diskriminering och trakasserier.
-
-## §4.1
+Konglig Datasektionen har nolltolerans mot diskriminering och trakasserier.
 
 Alla förtroendevalda får utbildning i JML och vet hur de ska agera om någon kommer till dem för att få hjälp med ett jämlikhetsärende.
 
-## §4.2
-
 Det ska finnas resurser för att jobba med JML på sektionens hemsida och alla förväntas jobba aktivt med det inom sin nämnd eller projekt.
-
-## §4.3
 
 Vi uppmuntrar att eventuella händelser anmäls till rätt instans och sektionen arbetar aktivt med att förhindra liknande händelser i fortsättningen.
 
 # §5 Normkritik och Självgranskning
 
-THS ska vara aktivt normkritisk och självgranskande.
-
-## §5.1
+Konglig Datasektionen ska vara aktivt normkritisk och självgranskande.
 
 Vid varje inval ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
-
-## §5.2
 
 Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förloppet av sina mandatperioder.
 
 # §6 Transparens
 
-THS ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
-
-## §6.1
+Konglig Datasektionen ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
 
 Inval ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
-## §6.2
-
 Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [Informationsspridningpolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
 
-# Ansvar
-
-Det yttersta ansvaret för att policyn efterlevs har Jämlikhetsnämndens ordförande, Studerandeskyddsombud och styrelsen.
-
-# Andra dokument
-
--   [THS JML-policy](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX?usp=sharing)
--   [THS Sångpolicy](https://drive.google.com/drive/folders/15GQMVeBq5oZzjLipTbLVJlSUqhQ4Nf_g?usp=sharing)
--   [KTHs uppförandekod för studenter](https://www.kth.se/student/studier/rattigheter-och-skyldigheter/uppforandekod-1.796562)
-
-# Kontakt
-
--   Ordförande [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
--   Jämlikhetsnämndens ordförande [jno@datasektionen.se](mailto:jno@datasektionen.se)
--   D-rektoratet (Konglig Datasektionens styrelse) [drek@datasektionen.se](mailto:drek@datasektionen.se)
--   Studiemiljöansvarig [sma@datasektionen.se](mailto:sma@datasektionen.se)
--   THS Studiemiljö [studiemiljo@ths.kth.se](mailto:studiemiljo@ths.kth.se)
--   EECS Vice Kanslichef [sofiano@kth.se](mailto:sofiano@kth.se)
--   KTH Equality Office [equalityoffice@kth.se](mailto:qualityoffice@kth.se)
--   Studievägledare [svl-data@kth.se](mailto:svl-data@kth.se)
+Slutligen åtar vi oss att agera för att göra sektionen transparent genom att tillhandahålla och kommunicera information på ett tydligt sätt.
