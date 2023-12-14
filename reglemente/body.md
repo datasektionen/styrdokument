@@ -499,7 +499,9 @@ Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar,
 
 ### §3.14.2 Organisation
 
-Prylmångleriet leds av Prylmånglaren. Övriga medlemmar utses av Prylmånglaren.
+Prylmångleriet leds av Prylmånglaren. 
+
+Övriga medlemmar utses av Prylmånglaren.
 
 ### §3.14.3 Verksamhet
 
@@ -569,7 +571,9 @@ Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete samt att det
 
 ### §3.17.2 Organisation
 
-Tag Monkeys leds av Datas Art Director. Övriga medlemmar utses av Datas Art Director.
+Tag Monkeys leds av Datas Art Director. 
+
+Övriga medlemmar utses av Datas Art Director.
 
 ### §3.17.3 Verksamhet
 
