@@ -42,9 +42,6 @@ En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut �
 Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
 Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
 
-### §2.3.2 Ekonomisktstyrdokument
-Sektionen har ett ekonomiskt styrdokument som reglerar hur sektionens ekonomiska verksamhet ska skötas.
-
 ### §2.3.3 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
@@ -83,10 +80,6 @@ Sektionslokalsgruppen ansvarar för
 -   organisering av såväl måndagsstäd som annan städning av sektionslokalen
 
 -   att upprätta och underhålla ett dokument med gällande regler för sektionslokalen.
-
-### §3.1.4 Bokföringsplikt
-
-Sektionslokalsgruppen är bokföringspliktigt.
 
 ## §3.2 Idrottsnämnden
 
@@ -176,10 +169,6 @@ Det åligger DKM att
 
 -   i sektionens informationskanaler informera om till klubbmästeriet inkomna inbjudningar till externa evenemang, samt fördela platser och biljetter om antalet aspiranter överstiger platsantalet.
 
-### §3.5.4 Bokföringsplikt
-
-DKM är bokföringspliktigt.
-
 ## §3.6 Mottagningen
 
 ### §3.6.1 Ändamål
@@ -214,10 +203,6 @@ De nyantagna studenterna ska även introduceras till sektionens jämlikhet- och 
 
 Mottagningen ska involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
-### §3.6.5 Bokföringsplikt
-
-Mottagningen är bokföringspliktig.
-
 ## §3.7 Näringslivsgruppen
 
 ### §3.7.1 Ändamål
@@ -243,10 +228,6 @@ Näringslivsgruppen ska
 -   sköta Näringslivsgruppens faktureringar
 
 -   se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
-
-### §3.7.4 Bokföringsplikt
-
-Näringslivsgruppen är bokföringspliktig.
 
 ## §3.8 Qulturnämnden
 
@@ -649,10 +630,6 @@ D-Dagen ska
 
 -   se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-### §3.21.4 Bokföringsplikt
-
-D-Dagen är bokföringspliktigt.
-
 ## §3.22 dJulkalendern
 
 ### §3.22.1 Ändamål
@@ -673,7 +650,7 @@ dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJulkalend
 
 ## §3.23 Medias Klubbmästeri
 
-Medias Klubbmästeri, MKM, är bokföringspliktigt och dess medlemmar utses av D-rektoratet.
+Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
