@@ -790,7 +790,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
   
--   upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm isyfte att främja kulturellt utbyte och nätverkande
+-   upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
