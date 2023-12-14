@@ -67,20 +67,6 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
-### §3.1.3 Verksamhet
-
-Sektionslokalsgruppen ansvarar för
-
--   administration av bokning och uthyrning av sektionslokalen samt dess olika rum
-
--   tekniken, möbler/inredning, samt påfyllning av förbrukningsmaterial i sektionslokalen
-
--   utveckling av sektionslokalen
-
--   organisering av såväl måndagsstäd som annan städning av sektionslokalen
-
--   att upprätta och underhålla ett dokument med gällande regler för sektionslokalen.
-
 ## §3.2 Idrottsnämnden
 
 ### §3.2.1 Ändamål
@@ -109,10 +95,6 @@ Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Intern
 
 Övriga medlemmar utses av sektionens Systemansvarig.
 
-### §3.3.3 Verksamhet
-
-Informationsorganet ska underhålla och utveckla sektionens datasystem samt ansvara för drift och underhåll av sektionens servrar. Informationsorganet ska även engagera sektionsmedlemmar i underhåll av sektionens system och konstruktionen av nya.
-
 ## §3.4 Jämlikhetsnämnden
 
 ### §3.4.1 Ändamål
@@ -125,26 +107,6 @@ Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studi
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
-### §3.4.3 Verksamhet
-
-Jämlikhetsnämnden ska
-
--   göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
-
--   arbeta för att öka jämlikheten och mångfalden på sektionen, i dess nämnder och funktionärsposter
-
--   hålla minst två möten per termin där aktuella frågor gällande jämlikhet diskuteras
-
--   skapa och kontinuerligt uppdatera en jämlikhetspolicy för sektionen
-
--   assistera D-rektoratet med att ta fram, följa upp och vid behov revidera en handlingsplan mot trakasserier
-
--   ha löpande samarbete med KTH, EECS och THS om jämlikhetsarbeten
-
--   synliggöra sitt arbete för resten av sektionen
-
--   annordna en JML-utbildning per termin för sektionens funktionärer.
-
 ## §3.5 Klubbmästeriet
 
 ### §3.5.1 Ändamål
@@ -156,18 +118,6 @@ Klubbmästeriet, DKM, anordnar fester och andra sociala arrangemang för sektion
 DKM leds av klubbmästaren.
 
 Övriga medlemmar utses av DKM.
-
-### §3.5.3 Verksamhet
-
-Det åligger DKM att
-
--   arrangera fester, jippon, högtidliga ceremonier och andra sociala arrangemang
-
--   vid behov assistera vid andra sektionsrelaterade arrangemang
-
--   skicka ut inbjudningar till övriga sektioner och andra högskolor till av DKM arrangerade evenemang
-
--   i sektionens informationskanaler informera om till klubbmästeriet inkomna inbjudningar till externa evenemang, samt fördela platser och biljetter om antalet aspiranter överstiger platsantalet.
 
 ## §3.6 Mottagningen
 
@@ -193,16 +143,6 @@ Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som d
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
-### §3.6.4 Verksamhet
-
-Mottagningen ansvarar för att aktiviteter som främjar Mottagningens ändamål anordnas. Dessa aktiviteter avslutas sedan med nØlleGasquen och nØllans eventuella upphöjelse till Ettan. Mottagningen ansvarar för valet av årskursnamn som utfärdas i samband med upphöjelsen. För planeringen av verksamheten ansvarar Titelgruppen.
-
-Mottagningen ska även se till att internationella studenter med anknytning till datateknikprogrammet blir introducerade till sektionen.
-
-De nyantagna studenterna ska även introduceras till sektionens jämlikhet- och likabehandlingsarbete
-
-Mottagningen ska involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
-
 ## §3.7 Näringslivsgruppen
 
 ### §3.7.1 Ändamål
@@ -215,20 +155,6 @@ Näringslivsgruppen leds av Näringslivsansvarig.
 
 Medlemmar utses av Näringslivsansvarig.
 
-### §3.7.3 Verksamhet
-
-Näringslivsgruppen ska
-
--   göra reklam för sektionen och datateknikprogrammet
-
--   samordna de av sektionens verksamheter som riktar sig mot näringslivet, så att företagen bemöts på ett professionellt sätt
-
--   hålla och ständigt förbättra kontakten med näringslivet
-
--   sköta Näringslivsgruppens faktureringar
-
--   se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
-
 ## §3.8 Qulturnämnden
 
 ### §3.8.1 Ändamål
@@ -240,16 +166,6 @@ Qulturnämnden, QN, har som syfte att anordna sociala evenemang med fokus på ku
 Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funktionär från Sektionen för Medieteknik.
 
 Övriga medlemmar utses av Qulturattaché och motsvarande ansvarig funktionär från Sektionen för Medieteknik.
-
-### §3.8.3 Verksamhet
-
-Qulturnämnden bör
-
--   anordna regelbundna aktiviteter som höjer den kulturella nivån på sektionen, såsom filmvisningar, spelkvällar och andra underhållande aktiviteter
-
--   tillhandahålla spel och annat kulturellt i sektionslokalen. Detta kan innefatta böcker, uråldriga tv-spel samt brädspel som inte går att finna längre
-
--   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
 ## §3.9 Studienämnden
 
@@ -325,12 +241,6 @@ Ada leds av Adas ordförande.
 
 Övriga medlemmar utses av Adas ordförande.
 
-### §3.10.3 Verksamhet
-
-Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära.
-
-Utöver det bör Ada även arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
-
 ## §3.11 Data Et Medias OrquesterNämnd
 
 ### §3.11.1 Ändamål
@@ -342,20 +252,6 @@ Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset 
 DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
 
 Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
-
-### §3.11.3 Verksamhet
-
-DEMON verkar för att främja musikintresset på Datasektionen och Sektionen för Medieteknik genom att anordna regelbundna träffar där man bland annat kan få
-
--   repa i sektionslokalen
-
--   dela med sig av musik
-
--   gå på DJ-kurs
-
--   umgås med likasinnade människor.
-
-DEMON förespråkar även att man tillsammans ska gå på konserter/festivaler/spelningar.
 
 ## §3.12 Valberedningen
 
@@ -451,16 +347,6 @@ Datasektionens E-Sports Community leds av DESCtop.
 
 Övriga medlemmar utses av DESCtop.
 
-### §3.13.3 Verksamhet
-
-Datasektionens E-Sports Community bör
-
--   anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
-
--   samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
-
--   skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
-
 ## §3.14 Prylmångleriet
 
 ### §3.14.1 Ändamål
@@ -472,18 +358,6 @@ Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar,
 Prylmångleriet leds av Prylmånglaren. 
 
 Övriga medlemmar utses av Prylmånglaren.
-
-### §3.14.3 Verksamhet
-
-Prylmångleriet ska kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt.
-
-Prylmångleriet ska regelbundet ordna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska ordnas inför större fester och evenemang.
-
-Prylmångleriet ska under Mottagningen göra sig synlig bland nØllan och arrangera tillfällen då nØllan får prova overaller. Prylmånglaren har som ansvar att överse införskaffandet av ettans overaller. Prylmångleriet ska också hjälpa ettan att utforma och beställa årskursmärken.
-
-Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i samarbete med ansvariga för händelsen utforma och beställa prylar relaterade till händelsen.
-
-Projekt och nämnder kan ta hjälp av Prylmångleriet för att sälja märken eller motsvarande föremål. Prylmångleriet sköter inköp och övrig administration men kan i samråd med nämnden eller projektet komma överens om övriga lösningar. Nämnden eller projektet bestämmer vem som får köpa märket eller föremålet.
 
 ## §3.15 Baknämnden
 
@@ -497,10 +371,6 @@ Ordförande för Baknämnden är Bakis.
 
 Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
 
-### §3.15.3 Verksamhet
-
-Baknämnden ska under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar. Andra delar av sektionen ska ha möjlighet att samarbeta med Baknämnden om fikabehov finns. Vidare ska nämndens recept dokumenteras så att kommande årgångar ska kunna ta del av dem.
-
 ## §3.16 Internationella nämnden
 
 ### §3.16.1 Ändamål
@@ -512,26 +382,6 @@ Internationella nämnden, på engelska the International Group, är en delad nä
 Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
 Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
-
-### §3.16.3 Verksamhet
-
-Internationella nämnden ska
-
--   samordna sektionens internationella verksamhet
-
--   hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
-
--   hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
-
--   genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-
--   fungera som kontaktperson för utländska studenter på sektionerna
-
--   genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
-
--   främja informationsspridning på engelska inom sektionen
-
--   verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 ## §3.17 Tag Monkeys
 
@@ -545,10 +395,6 @@ Tag Monkeys leds av Datas Art Director.
 
 Övriga medlemmar utses av Datas Art Director.
 
-### §3.17.3 Verksamhet
-
-Tag Monkeys ska regelbundet arrangera aktiviteter med fokus på konst och design samt ge möjlighet för sektionsmedlemmar att fördjupa sig inom det. Tag Monkeys ska även synliggöra sektionens funktionärer i sektionslokalen.
-
 ## §3.18 Redaqtionen
 
 ### §3.18.1 Ändamål
@@ -558,10 +404,6 @@ Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidnin
 ### §3.18.2 Organisation
 
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
-
-### §3.18.3 Verksamhet
-
-Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De ska även ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen ska vara noll prisbasbelopp.
 
 ## §3.19 Datasladden
 
@@ -573,22 +415,6 @@ Datasladden har till uppgift att ansvara över sektionsbilen.
 
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
-
-### §3.19.3 Verksamhet
-
-Datasladden ansvarar för att
-
--   administrera bokningar av sektionsbilen
-
--   sköta reparation och underhåll av sektionsbilen
-
--   se till att parkeringstillståndet befinner sig i sektionsbilen
-
--   utforma samt upprätthålla regler för sektionsbilen
-
--   se till att körjournalen befinner sig i sektionsbilen och används av alla som brukar den
-
--   sköta annat som hör bilen till.
 
 ## §3.20 Scala
 
@@ -602,10 +428,6 @@ Scala leds av Körmästare.
 
 Övriga medlemmar utses av Körmästare.
 
-### §3.20.3 Verksamhet
-
-Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. Nämnden ska bistå annan sektionsverksamhet genom uppträdanden på exempelvis Vårbalen eller liknande evenemang. Verksamheten i övrigt bestäms i samråd med medlemmarna i början av varje läsår.
-
 ## §3.21 D-Dagen
 
 ### §3.21.1 Ändamål
@@ -615,20 +437,6 @@ D-Dagen har till uppgift att informera näringslivet om sektionen och datateknik
 ### §3.21.2 Organisation
 
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
-
-### §3.21.3 Verksamhet
-
-D-Dagen ska
-
--   göra reklam för arbetsmarknadsdagen gentemot berörda studenter
-
--   hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
-
--   arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
-
--   sköta D-Dagens faktureringar
-
--   se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
 ## §3.22 dJulkalendern
 
@@ -641,12 +449,6 @@ dJulkalenderns ändamål är att främja intresse för etisk hackning, probleml�
 dJulkalendern leds av Tomtemor/-far.
 
 Övriga medlemmar utses av Tomtemor/-far.
-
-### §3.22.3 Verksamhet
-
-dJulkalendern ska varje december anordna en CTF-liknande tävling på den världsvida webben för Konglig Datasektionsns medlemmar samt övriga intresserade.
-
-dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJulkalendern för nyantagna medlemmar till Konglig Datasektionen under mottagningen.
 
 ## §3.23 Medias Klubbmästeri
 
@@ -974,11 +776,7 @@ SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordn
 
 Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
-#### §5.3.1.3 Verksamhet
-
-Fanbärare ska närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet. Fanbärare bär huvudansvaret för att sektionens fana hålls i gott skick.
-
-#### §5.3.1.4 Mandatperiod
+#### §5.3.1.3 Mandatperiod
 
 Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
 
@@ -1072,21 +870,7 @@ Revisorn Väljs i Period 2 till sakrevisor för sektionen under ett verksamhets�
 
 Sektionshistorikern ska se till att sektionens ärorika historia inte faller i glömska.
 
-#### §5.3.5.2 Verksamhet
-
-Sektionshistorikern ska
-
--   samla in och dokumentera historisk information och historiska föremål med anknytning till sektionen
-
--   vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
-
--   ansvara för sektionens alumniverksamhet
-
--   varje år upprätta en årskrönika.
-
-Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
-
-#### §5.3.5.3 Mandatperiod
+#### §5.3.5.2 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -1144,17 +928,7 @@ D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
 Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §5.3.8.3 Verksamhet
-
-Till funktionärens uppgifter hör att
-
--   Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
-
--   Anordna regelbundna teambuildings för sektionens funktionärer.
-
--   Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
-
-#### §5.3.8.4 Mandatperiod
+#### §5.3.8.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -1187,13 +961,9 @@ Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och an
 
 #### §5.3.11.2 Organisation
 
-Sångledaren ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
+När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
 
-#### §5.3.11.3 Verksamhet
-
-Sångledare ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångledare ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångledare ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska Sångledare även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
-
-#### §5.3.11.4 Mandatperiod
+#### §5.3.11.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
