@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens alkoholpolicy -->
+<!-- Konglig Datasektionens PM för Alkohol -->
 
 # §1 Relation till andra föreskrifter
 

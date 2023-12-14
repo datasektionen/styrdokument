@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens dFunkpolicy -->
+<!-- Konglig Datasektionens PM för dFunk -->
 
 # §1 Skyldigheter
 

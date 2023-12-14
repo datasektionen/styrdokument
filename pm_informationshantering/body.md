@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens informationshanteringspolicy -->
+<!-- Konglig Datasektionens PM för informationshantering -->
 
 # §1 Formalia
 
