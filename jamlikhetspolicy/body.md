@@ -49,7 +49,7 @@ Inom Konglig Datasektionen ska alla behandlas på lika villkor och ha samma möj
 
 De tillställningar som Konglig Datasektionen anordnar ska arbeta för att alla deltagare ska kunna delta under samma villkor, oavsett förutsättningar för enskild deltagare.
 
-Förtursbiljetter till evenemang ska enbart tillämpas enligt [Informationsspridningspolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
+Förtursbiljetter till evenemang ska enbart tillämpas enligt [PM för informationsspridning](https://styrdokument.datasektionen.se/pm_informationsspridning).
 
 # §4 Diskriminering och trakasserier
 
@@ -75,6 +75,6 @@ Konglig Datasektionen ska vara en transparent organisation som kommunicerar på 
 
 Inval ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
-Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [Informationsspridningpolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
+Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [PM för informationsspridning](https://styrdokument.datasektionen.se/pm_informationsspridning).
 
 Slutligen åtar vi oss att agera för att göra sektionen transparent genom att tillhandahålla och kommunicera information på ett tydligt sätt.
