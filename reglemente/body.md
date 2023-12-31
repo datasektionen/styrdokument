@@ -79,10 +79,6 @@ Idrottsnämnden leds av Sektionsidrottsledaren.
 
 Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
-### §3.2.3 Verksamhet
-
-Idrottsnämnden ska annordna olika typer av idrottsaktiviteter för sektionens medlemmar.
-
 ## §3.3 Informationsorganet
 
 ### §3.3.1 Ändamål
