@@ -3,7 +3,7 @@
 # §1 Nämnder
 ## § 1.1 Sektionslokalsgruppen
 
-Sektionslokalgruppen ska:
+Sektionslokalsgruppen ska:
 
 * Administrera bokning och uthyrning av sektionslokalen samt dess olika rum
 * Underhålla teknik, möbler och inredning i sektionslokalen
