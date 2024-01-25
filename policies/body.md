@@ -1,4 +1,4 @@
-# Polycies
+# Policies
 
 Datasektionen har ett antal Polycidokument.
 
