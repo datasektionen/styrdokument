@@ -1,0 +1,13 @@
+{
+  "/pm_alkohol": "/pm/pm_alkohol",
+  "/pm_dfunk": "/pm/pm_dfunk",
+  "/pm_ekonomi": "/pm/pm_ekonomi",
+  "/pm_informationshantering": "/pm/pm_informationshantering",
+  "/pm_informationsspridning": "/pm/pm_informationsspridning",
+  "/pm_verksamhet": "/pm/pm_verksamhet",
+  "/pm_stipendier": "/pm/pm_stipendier",
+  "/jamlikhetspolicy": "/policies/jamlikhetspolicy",
+  "/klimatpolicy": "/policies/klimatpolicy",
+  "/rekryteringspolicy": "/policies/rekryteringspolicy",
+  "/uppforandepolicy": "/policies/uppforandepolicy"
+}
