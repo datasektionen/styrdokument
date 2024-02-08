@@ -38,15 +38,15 @@ Gällande stadgar och andra styrdokument ska finnas tillgängliga för samtliga 
 
 ### §1.6.2 Tolkning
 
-Vid tveksamhet tolkas sektionens stadgar och övriga styrdokument i stigande ordning av D-rektoratet, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Sådan tolkning ska presenteras på nästkommande SM.
+Vid tveksamhet tolkas sektionens stadgar och övriga styrdokument i stigande ordning av styrelsen, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Sådan tolkning ska presenteras på nästkommande SM.
 
 ### §1.6.3 Konflikt
 
-Vid konflikt mellan dessa stadgar eller andra av sektionens styrdokument och THS stadgar eller andra styrdokument ska THS föreskrifter äga företräde. Om sådan konflikt uppmärksammas åligger det D-rektoratet att snarast inkomma till SM med proposition om nödvändiga ändringar.
+Vid konflikt mellan dessa stadgar eller andra av sektionens styrdokument och THS stadgar eller andra styrdokument ska THS föreskrifter äga företräde. Om sådan konflikt uppmärksammas åligger det styrelsen att snarast inkomma till SM med proposition om nödvändiga ändringar.
 
 ### §1.6.4 Stadgeändring
 
-Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[3.10]. D-rektoratet ska föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
+Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[3.10]. Styrelsen ska föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
 
 ### §1.6.5 Dispens från stadgarna
 
@@ -68,7 +68,7 @@ Information som kan intressera sektionens medlemmar i stort ska göras tillgäng
 
 ## §1.9 Firmatecknare
 
-Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
+Ordförande och Kassör tecknar firman var för sig. Styrelsen kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
 
 # §2 Medlemskap
 
@@ -120,7 +120,7 @@ Endast för nyligen antagen till Datateknikprogrammet. Medlemskapet gäller frå
 
 ## §2.5 Gästmedlemskap
 
-Gästmedlemskap kan tilldelas personer som är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av D-rektoratet, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
+Gästmedlemskap kan tilldelas personer som är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av styrelsen, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
 
 Gästmedlemmar har rätt att
 
@@ -150,7 +150,7 @@ Det åligger SM att
 
 -   granska funktionärers och revisorers berättelser samt sektionens ekonomiska redovisning
 
--   ta ställning till ansvarsfrihet för D-rektoratet
+-   ta ställning till ansvarsfrihet för styrelsen
 
 -   om sektionsmedlem så önskar granska protokoll från DM
 
@@ -160,7 +160,7 @@ Det åligger SM att
 
 ## §3.3 Kallelse
 
-D-rektoratet kallar till ordinarie och extra SM.
+Styrelsen kallar till ordinarie och extra SM.
 
 Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 35 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
@@ -168,7 +168,7 @@ Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse 
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar före mötet.
 
-Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
+Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos styrelsen, ska extra SM hållas inom 28 dagar.
 
 Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §3.12. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
@@ -193,14 +193,14 @@ tillsändas THS styrelse.
 
 ## §3.8 Interpellation, motion och proposition
 
-Motion eller interpellation till SM ska vara D-rektoratet tillhanda senast 14 dagar före SM. D-rektoratet ska skriftligen besvara samtliga motioner, såvida inte motionen dras tillbaka av motionären innan SM.
+Motion eller interpellation till SM ska vara styrelsen tillhanda senast 14 dagar före SM. Styrelsen ska skriftligen besvara samtliga motioner, såvida inte motionen dras tillbaka av motionären innan SM.
 Motion kan även behandla begäran av misstroendeförklaring mot förtroendevald.
 
-Förslag från D-rektoratet benämns proposition.
+Förslag från styrelsen benämns proposition.
 
-Interpellation ska besvaras skriftligen av den funktionär den ställts till, eller av D-rektoratet om den ställts till dem.
+Interpellation ska besvaras skriftligen av den funktionär den ställts till, eller av styrelsen om den ställts till dem.
 
-D-rektoratet ansvarar för att motioner, interpellationer, svar på dessa samt propositioner anslås tillsammans med föredragningslistan.
+Styrelsen ansvarar för att motioner, interpellationer, svar på dessa samt propositioner anslås tillsammans med föredragningslistan.
 
 ## §3.9 Sammanträden
 
@@ -208,11 +208,11 @@ Det ska förflyta minst 7 dagar mellan två på varandra följande SM. SM får i
 
 ## §3.10 Ordinarie SM
 
-Som ordinarie SM räknas de SM som regleras i reglementet, samt övriga, av D-rektoratet, utlysta ordinarie SM. Som ordinarie SM räknas ej extra SM. Det ska hållas minst ett ordinarie SM per termin.
+Som ordinarie SM räknas de SM som regleras i reglementet, samt övriga, av styrelsen, utlysta ordinarie SM. Som ordinarie SM räknas ej extra SM. Det ska hållas minst ett ordinarie SM per termin.
 
 ## §3.11 Extra SM
 
-D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan endast behandla den eller de frågor som angivits i kallelsen, således behandlas ej övriga motioner, interpellationer eller propositioner. Dock kan övrig fråga väckas.
+Styrelsen kan, själv eller på anmodan, kalla till extra SM. Extra SM kan endast behandla den eller de frågor som angivits i kallelsen, således behandlas ej övriga motioner, interpellationer eller propositioner. Dock kan övrig fråga väckas.
 
 ## §3.12 Ajournering
 
@@ -256,13 +256,13 @@ Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS s
 
 I det fall två eller fler personer kandiderar till en post tillsammans på SM ska processen gå till enligt följande: Kandidaterna ska få presentera sin kandidatur tillsammans och eventuella andra kandidater ska få presentera sina kandidaturer. SM ska få tillfälle att ställa frågor till kandidaterna tillsammans, varefter SM ska få chansen att diskutera. Därefter ska SM besluta om kandidaterna får kandidera tillsammans. Ifall kandidaterna inte får kandidera tillsammans ska den eller de av kandidaterna som eventuellt fortsätter kandidera var för sig eller i annan grupp få tillfälle att presentera sig och besvara frågor från SM igen.
 
-# §4 D-rektoratet
+# §4 Styrelsen
 
-D-rektoratet är sektionens styrelse och högsta verkställande organ.
+Sektionens styrelse benämns D-rektoratet och är dennes högsta verkställande organ.
 
 ## §4.1 Sammansättning
 
-D-rektoratet består av
+Styrelsen består av
 
 -   Ordförande
 
@@ -282,13 +282,15 @@ D-rektoratet består av
 
 -   Ledamot för studiemiljö och likabehandling
 
-Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
+Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger styrelsen rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. Styrelsen äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
-## §4.2 D-rektoratsmöte
+## §4.2 Styrelsemöte
+
+Styrelsemöten benämns DM.
 
 ### §4.2.1 Kallelse
 
-Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen ska anslås enligt §[1.8] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 7 dagar före mötet.
+Styrelsen kallar till DM. Kallelsen ska anslås enligt §[1.8] samt skickas med e-post till styrelsens ledamöter och sektionens funktionärer senast 7 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Kompletterande handlingar kan skickas ut samma dag som mötet hålls.
 
@@ -302,7 +304,7 @@ På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jäm
 
 ## §4.3 Uppgifter
 
-Det åligger D-rektoratet att
+Det åligger styrelsen att
 
 -   sköta sektionens löpande förvaltning
 
@@ -312,7 +314,7 @@ Det åligger D-rektoratet att
 
 -   efter skriftlig begäran från en av SM vald funktionär entlediga densamme
 
--   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
+-   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. Styrelsen får dock ej tillförordna styrelseledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
 
 -   vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
 
@@ -324,13 +326,13 @@ Det åligger D-rektoratet att
 
 ## §4.4 Brådskande ärenden
 
-I brådskande fall äger D-rektoratet rätt att utöva SM:s befogenheter. D-rektoratet äger dock ej därigenom rätt att ändra stadgar eller reglemente eller att bevilja dispens från stadgarna. Beslut enligt detta stycke ska prövas på nästföljande SM.
+I brådskande fall äger styrelsen rätt att utöva SM:s befogenheter. Styrelsen äger dock ej därigenom rätt att ändra stadgar eller reglemente eller att bevilja dispens från stadgarna. Beslut enligt detta stycke ska prövas på nästföljande SM.
 
-I brådskande fall äger Ordförande rätt att utöva D-rektoratets befogenheter. Ordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
+I brådskande fall äger Ordförande rätt att utöva styrelsens befogenheter. Ordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
 
 ## §4.5 Beslutsrätt gällande mindre summor
 
-D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
+Styrelsen äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
 
 ## §4.6 Ställföreträdande Ordförande
 
@@ -338,15 +340,15 @@ Om Ordförande är oförmögen att göra så, utövar Vice ordförande dennes be
 
 ## §4.7 Per capsulam-beslut
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. Styrelsen ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
 
 ## §4.8 D-rektiv
 
-D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
+Styrelsen må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
 # §5 Nämnder
 
-En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
+En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och styrelsen fattade beslut. Nämnder är de som upptas i reglementet.
 
 En nämnds sammansättning och verksamhet regleras i reglementet.
 
@@ -356,7 +358,7 @@ För varje nämnd ska det finnas en eller flera funktionärer som är ordförand
 
 ## §5.2 Skyldigheter
 
-Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från styrelsen eller SM fullständigt redovisa sin verksamhet för densamme.
 
 ## §5.3 Obligatoriska nämnder
 
@@ -368,7 +370,7 @@ Funktionär är den som av SM eller genom avvikande valprocess har valts till et
 
 ## §6.1 Skyldigheter
 
-Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av reglementet hålls aktuellt. Funktionär är skyldig att löpande hålla D-rektoratet informerat om sitt verksamhetsområde, samt att på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av reglementet hålls aktuellt. Funktionär är skyldig att löpande hålla styrelsen informerat om sitt verksamhetsområde, samt att på anmodan från styrelsen eller SM fullständigt redovisa sin verksamhet för densamme.
 
 ## §6.2 Mandatperiod
 
@@ -376,11 +378,11 @@ Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är fö
 
 ## §6.3 Obligatoriska funktionärer
 
-Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[5] uppräknade nämnderna, som regleras särskilt, ska det finnas en programansvarig student och ett studerandeskyddsombud.
+Utöver styrelsens ledamöter, revisorer och ordförande för de under §[5] uppräknade nämnderna, som regleras särskilt, ska det finnas en programansvarig student och ett studerandeskyddsombud.
 
 # §7 Projekt
 
-Ett projekt är ett tillfälligt sektionsorgan med syfte att genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
+Ett projekt är ett tillfälligt sektionsorgan med syfte att genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och styrelsens fattade beslut.
 
 ## §7.1 Uppstart
 
@@ -388,11 +390,11 @@ Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syf
 
 ## §7.2 Uppstart av återkommande projekt
 
-Projekt som D-rektoratet anser är regelbundet återkommande kan startas utan SM-beslut. De startas då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Vald projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång. D-rektoratet ansvarar för att en förteckning över återkommande projekt finns tillgänglig för alla sektionens medlemmar på dess hemsida.
+Projekt som styrelsen anser är regelbundet återkommande kan startas utan SM-beslut. De startas då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Vald projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång. Styrelsen ansvarar för att en förteckning över återkommande projekt finns tillgänglig för alla sektionens medlemmar på dess hemsida.
 
 ## §7.3 Avslutning
 
-Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
+Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till styrelsen. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
 
 ## §7.4 Projektledare
 
@@ -400,15 +402,15 @@ För varje projekt ska det finnas en eller flera personer som är projektledare.
 
 ### §7.4.1 Skyldigheter
 
-Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
+Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från styrelsen eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
 
 ### §7.4.2 Rättigheter
 
-D-rektoratet ansvarar för att projektledare i aktiva projekt får ta del av samma information som sektionens funktionärer samt att även dessa bjuds in till funktionärsmiddagar och liknande tillställningar. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
+Styrelsen ansvarar för att projektledare i aktiva projekt får ta del av samma information som sektionens funktionärer samt att även dessa bjuds in till funktionärsmiddagar och liknande tillställningar. Styrelsen äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
 
 ## §7.5 Delade projekt
 
-Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
+Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av styrelsen.
 
 # §8 Revision
 
@@ -434,7 +436,7 @@ Det åligger revisorerna att
 
 -   fortlöpande granska sektionens förvaltning och verksamhet
 
--   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
+-   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till styrelsen.
 
 ### §8.1.3 Revisionssed
 
@@ -462,7 +464,7 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [3.3]: #3-3-kallelse
 [3.10]: #3-9-1-ordinarie-sm
 [3.12]: #3-12-ajournering
-[4.2]: #4-2-d-rektoratsmöte
+[4.2]: #4-2-styrelsemöte
 [4.2.1]: #4-2-1-kallelse
 [5]: #5-nämnder
 [8.1]: #8-1-revisorer
