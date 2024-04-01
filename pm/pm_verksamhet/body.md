@@ -199,6 +199,17 @@ dJulkalendern ska:
 
 * Anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 * Anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen
+
+## §1.21  GUDAR
+
+GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
+
+* Samla in och dokumentera historisk information med anknytning till sektionen
+* Ansvara för sektionens alumniverksamhet
+* Varje år upprätta en årskrönika
+* Ansvara för underhållet av sektionens märkesarkiv
+* Vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
+
 # §2 Funktionärer
 
 ## §2.1  Fanbärare
@@ -209,18 +220,7 @@ Fanbärare ska:
 * Hålla sektionens fana i gott skick
 * Bära hönan fagt
 
-## §2.2  Sektionshistoriker
-
-Sektionshistorikern ska:
-
-* Samla in och dokumentera historisk information och historiska föremål med anknytning till sektionen
-* Vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
-* Ansvara för sektionens alumniverksamhet
-* Varje år upprätta en årskrönika
-
-Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
-
-## §2.3  D-Fest
+## §2.2  D-Fest
 
 D-Fest ska:
 
@@ -228,7 +228,7 @@ D-Fest ska:
 * Anordna regelbundna teambuildings för sektionens funktionärer.
 * Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-## §2.4  Sångledare
+## §2.3  Sångledare
 
 Sångledare ska:
 
