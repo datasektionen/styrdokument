@@ -18,6 +18,7 @@ Idrottsnämnden ska:
 * Anordna olika typer av idrottsaktiviteter för sektionens medlemmar
 * Sammanställa information för och ansöka om THS friskvårdsbidrag
 * Driva Datasektionens fotbollslag Tech-i-Taka
+
 ## §1.3 Informationsorganet
 
 Informationsorganet ska:
