@@ -771,6 +771,12 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
+### §5.2.24 D-fest
+
+Är ordförande för D-festeriet
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
 ## §5.3 Övriga funktionärer
 
 ### §5.3.1 Fanbärare
