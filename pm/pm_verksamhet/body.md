@@ -201,6 +201,16 @@ dJulkalendern ska:
 
 * Anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 * Anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen
+
+* ## §1.21  D-festeriet
+
+D-festeriet ska:
+
+* Anordna gasquer och andra evenemang för sektionsmedlemmar
+* Anordna TB samt Skiftes för funktionärer en gång per termin
+* Anordna evenemang i samarbete med andra studentföreningar
+* Hjälpa andra nämnder med gasqueverksamhet vid behov.
+
 # §2 Funktionärer
 
 ## §2.1  Fanbärare
