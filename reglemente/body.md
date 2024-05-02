@@ -454,6 +454,17 @@ Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
+## §3.24 D-festeriet
+
+### §3.24.1 Ändamål
+
+D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+### §3.24.2 Organisation
+
+D-festeriet leds av D-Fest.
+
+Övriga medlemmar utses av D-Fest.
+
 # §4 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
@@ -759,6 +770,12 @@ Väljs i Period 4. Har läsår som mandatperiod.
 Är ordförande för dJulkalendern.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+
+### §5.2.24 D-fest
+
+Är ordförande för D-festeriet
+
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ## §5.3 Övriga funktionärer
 

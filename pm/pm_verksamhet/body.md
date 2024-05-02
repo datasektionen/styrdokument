@@ -201,6 +201,16 @@ dJulkalendern ska:
 
 * Anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 * Anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen
+
+* ## §1.21  D-festeriet
+
+D-festeriet ska:
+
+* Anordna gasquer och andra evenemang för sektionsmedlemmar
+* Anordna TB samt Skiftes för funktionärer en gång per termin
+* Anordna evenemang i samarbete med andra studentföreningar
+* Hjälpa andra nämnder med gasqueverksamhet vid behov.
+
 # §2 Funktionärer
 
 ## §2.1  Fanbärare
@@ -221,14 +231,6 @@ Sektionshistorikern ska:
 * Varje år upprätta en årskrönika
 
 Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
-
-## §2.3  D-Fest
-
-D-Fest ska:
-
-* Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
-* Anordna regelbundna teambuildings för sektionens funktionärer.
-* Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
 ## §2.4  Sångledare
 
