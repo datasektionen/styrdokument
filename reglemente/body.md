@@ -621,7 +621,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   hantera JML-incidenter och leda kontakten med externa resurser
 
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
