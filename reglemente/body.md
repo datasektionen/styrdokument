@@ -270,6 +270,7 @@ Valberedningen ska även annordna ett event per termin vars syfte är att skapa 
 ### §3.12.4 Utlåtande
 
 Det bör hållas intervjuer med samtliga kandidater som sökt till:
+
 * D-rektoratet
 * Valberedningen
 * Revisor
