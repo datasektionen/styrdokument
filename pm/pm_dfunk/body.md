@@ -10,7 +10,7 @@ Varje δ-funktionär får en personlig datasektionenmailadress som är kopplat t
 
 ## §1.2 Överlämning
 
-Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna svara på frågor och hjälpa sin efterträdare på posten. Varje δ-funktionär har som skyldighet att be sin företrädare om hjälp ifall de är osäkra på hur en del av deras verksamhet ska utföras. Det är även rekommenderat att varje δ-funktionär anordnar ett överlämningstillfälle där detta kan ske.
+Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna svara på frågor och hjälpa sin efterträdare på posten. Varje δ-funktionär uppmanas att be sin företrädare om hjälp ifall de är osäkra på hur en del av deras verksamhet ska utföras. Det är även rekommenderat att varje δ-funktionär anordnar ett överlämningstillfälle där detta kan ske.
 
 ## §1.3 Testamente och Guide
 
@@ -19,6 +19,8 @@ Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna sva
 ## §1.4 Rapporter
 
 Inför varje ordinarie Sektionsmöte förväntas varje δ-funktionär lämna in en skriftlig rapport till D-rektoratet. Rapporten ska behandla hur δ-funktionären, samt den eventuella nämnden som δ-funktionären är ordförande för har fört sin verksamhet, sedan det senaste ordinarie Sektionsmötet. D-rektoratet har som plikt att inför varje SM berätta för funktionärerna hur de vill få rapporten inlämnad.
+
+Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de istället föra rapporten under mötet.
 
 ## 1.5 Verksamhetsberättelse
 δ-funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som berättar om den verksamhet som deras nämnd har drivit det senaste halvåret.
@@ -46,8 +48,16 @@ Det är en δ-funktionärs skyldighet att planera och efter bästa förmåga gen
 # §2 Belöningar
 
 För ett väl utfört arbete under din tid som δ-funktionär, så finns det ett antal saker som
-D-rektoratet är skyldiga att göra för att visa sin uppskattning:
+D-rektoratet är skyldiga att göra för att visa sin uppskattning. 
 
- - Två gånger per år, en gång på hösten och en gång på våren, ska D-fest å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-fest med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-fest.
- - Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
- - Om en δ-funktionär gjort ett bra jobb och uppfyllt alla punkter under §1 så belönas de av D-rektoratet med en δ-funktionärsmedalj.
+## §2.1 Skiftes
+
+Två gånger per år, en gång på hösten och en gång på våren, ska D-fest å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-fest med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-fest.
+
+## §2.2 Teambuilding
+
+Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
+
+## §2.3 Medaljer
+
+Om D-rektoratet anser att en δ-funktionär gjort ett bra jobb och och gjort sitt bästa för att uppfylla kraven i §1 så belönas de av D-rektoratet med en δ-funktionärsmedalj.”
