@@ -19,6 +19,8 @@ Idrottsnämnden ska:
 
 * Anordna olika typer av idrottsaktiviteter för sektionens medlemmar
 * Sammanställa information för och ansöka om THS friskvårdsbidrag
+* Driva Datasektionens fotbollslag Tech-i-Taka
+
 
 ## §1.3 Informationsorganet
 
@@ -200,7 +202,18 @@ dJulkalendern ska:
 * Anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 * Anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen
 
-## §1.21  GUDAR
+
+
+## §1.21  D-festeriet
+
+D-festeriet ska:
+
+* Anordna gasquer och andra evenemang för sektionsmedlemmar
+* Anordna TB samt Skiftes för funktionärer en gång per termin
+* Anordna evenemang i samarbete med andra studentföreningar
+* Hjälpa andra nämnder med gasqueverksamhet vid behov.
+
+## §1.22  GUDAR
 
 GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
@@ -220,15 +233,7 @@ Fanbärare ska:
 * Hålla sektionens fana i gott skick
 * Bära hönan fagt
 
-## §2.2  D-Fest
-
-D-Fest ska:
-
-* Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
-* Anordna regelbundna teambuildings för sektionens funktionärer.
-* Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
-
-## §2.3  Sångledare
+## §2.2  Sångledare
 
 Sångledare ska:
 

@@ -269,7 +269,25 @@ Valberedningen ska även annordna ett event per termin vars syfte är att skapa 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studiemiljöansvarig, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till:
+
+* D-rektoratet
+* Valberedningen
+* Revisor
+* Näringslivsansvarig
+* D-Dagenansvarig
+* Storasyskon
+* Konglig Öfverdrif
+* Klubbmästare
+* Studienämndens ordförande
+* Studiemiljöansvarig
+* Jämlikhetsnämndens ordförande
+* Konglig Lokalchef
+* Systemansvarig
+
+hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
+intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
+kandidatens kandidatur.
 
 När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
@@ -454,13 +472,25 @@ Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
-## §3.24 GUDAR
+
+## §3.24 D-festeriet
 
 ### §3.24.1 Ändamål
 
+D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+### §3.24.2 Organisation
+
+D-festeriet leds av D-Fest.
+
+Övriga medlemmar utses av D-Fest.
+
+## §3.25 GUDAR
+
+### §3.25.1 Ändamål
+
 Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
 
-### §3.24.2 Organisation
+### §3.25.2 Organisation
 
 GUDAR leds av Sektionshistoriker.
 
@@ -622,7 +652,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   hantera JML-incidenter och leda kontakten med externa resurser
 
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
@@ -772,7 +802,13 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-### §5.2.24 Sektionshistoriker
+### §5.2.24 D-fest
+
+Är ordförande för D-festeriet
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §5.2.25 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
