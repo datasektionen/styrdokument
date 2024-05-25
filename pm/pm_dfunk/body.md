@@ -10,8 +10,7 @@ Varje δ-funktionär får en personlig datasektionenmailadress som är kopplat t
 
 ## §1.2 Överlämning
 
-Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna svara på frågor och hjälpa sin efterträdare på posten. Varje δ-funktionär
-uppmanas att be sin företrädare om hjälp ifall de är osäkra på hur en del av deras verksamhet ska utföras. Det är även rekommenderat att varje δ-funktionär anordnar ett överlämningstillfälle där detta kan ske.
+Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna svara på frågor och hjälpa sin efterträdare på posten. Varje δ-funktionär uppmanas att be sin företrädare om hjälp ifall de är osäkra på hur en del av deras verksamhet ska utföras. Det är även rekommenderat att varje δ-funktionär anordnar ett överlämningstillfälle där detta kan ske.
 
 ## §1.3 Testamente och Guide
 
@@ -49,7 +48,7 @@ Det är en δ-funktionärs skyldighet att planera och efter bästa förmåga gen
 # §2 Belöningar
 
 För ett väl utfört arbete under din tid som δ-funktionär, så finns det ett antal saker som
-D-rektoratet är skyldiga att göra för att visa sin uppskattning:
+D-rektoratet är skyldiga att göra för att visa sin uppskattning. 
 
 ## §2.1 Skiftes
 
