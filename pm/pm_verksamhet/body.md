@@ -222,6 +222,7 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 * Varje år upprätta en årskrönika
 * Ansvara för underhållet av sektionens märkesarkiv
 * Vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
+* På hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
 # §2 Funktionärer
 
