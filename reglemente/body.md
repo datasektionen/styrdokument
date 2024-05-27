@@ -97,7 +97,7 @@ Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Intern
 
 ### §3.4.1 Ändamål
 
-Jämlikhetsnämnden ska värna och upplysa om jämlikhet och mångfald på sektionen.
+Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arbeta för att upplysa , engagera och intressera sektionsmedlemmar i områden som berör jämlikhet, mångfald och likabehandling.
 
 ### §3.4.2 Organisation
 
