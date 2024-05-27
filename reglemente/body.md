@@ -1028,6 +1028,35 @@ Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sekti
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+### §5.3.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+
+#### §5.3.12.1 Ändamål
+
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
+
+#### §5.3.12.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+
+#### §5.3.12.3 Verksamhet
+
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarigska
+- ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
+- arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
+- agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+- kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
+- göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
+- arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
+- anordna minst en JML-utbildning per termin för sektionens funktionärer
+- ha löpande samarbete med KTH, EECS och THS om JML-arbeten
+- synliggöra sitt arbete för resten av sektionen
+- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida
+
+#### §5.3.13.4 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.”
+
 # §6 Externa representanter
 
 ## §6.1 Representation i råd på THS
