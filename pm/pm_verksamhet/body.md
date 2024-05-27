@@ -115,6 +115,7 @@ Datasektionens E-Sports Community ska:
 * Samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 * Skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 * Samarbeta med Qulturnämnden för överlappande verksamhet
+* Driva Datasektionens Minecraftserver METAcraft
 
 ## §1.12  Prylmångleriet
 
