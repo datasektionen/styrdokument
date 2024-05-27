@@ -101,7 +101,7 @@ Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arb
 
 ### §3.4.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling ska också ingå i nämnden.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska också ingå i nämnden.
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
