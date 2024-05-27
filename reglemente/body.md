@@ -281,7 +281,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Klubbmästare
 * Studienämndens ordförande
 * Studiemiljöansvarig
-* Jämlikhetsnämndens ordförande
+* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 * Konglig Lokalchef
 * Systemansvarig
 
