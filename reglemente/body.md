@@ -662,8 +662,6 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för Jämlikhetsnämnden.
 
-Är studerandeskyddsombud, med fokus på jämlikhetsfrågor, för sektionen.
-
 Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §5.2.2 Klubbmästare
