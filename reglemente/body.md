@@ -97,7 +97,7 @@ Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Intern
 
 ### §3.4.1 Ändamål
 
-Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arbeta för att upplysa , engagera och intressera sektionsmedlemmar i områden som berör jämlikhet, mångfald och likabehandling.
+Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arbeta för att upplysa, engagera och intressera sektionsmedlemmar i områden som berör jämlikhet, mångfald och likabehandling.
 
 ### §3.4.2 Organisation
 
@@ -1038,7 +1038,7 @@ I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehan
 
 #### §5.3.12.3 Verksamhet
 
-Jämlikhets-, Mångfalds- och Likabehandlingsansvarigska
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 - ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
 - arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
 - agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
