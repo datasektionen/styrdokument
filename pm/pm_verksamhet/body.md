@@ -34,15 +34,12 @@ Informationsorganet ska:
 
 Jämlikhetsnämnden ska:
 
-* Arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
-* Kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
-* Göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
-* Hålla minst två möten per termin där aktuella frågor gällande JML diskuteras
-* Kontinuerligt underhålla sektionens styrdokument angående JML
-* Kontinuerligt uppdatera informationen om JML på sektionens hemsida
-* Ha löpande samarbete med KTH, EECS och THS om JML-arbeten
-* Synliggöra sitt arbete för resten av sektionen
-* Anordna minst en JML-utbildning per termin för sektionens funktionärer.
+* Anordna minst två aktiviteter eller event per år med teman kopplade till JML
+* Arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
+* Samarbeta med Jämlikhets-, Mångfalds- och Likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
+* Skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
+* Arbeta för att hålla gemensamma event med andra nämnder och sektioner
+* Arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
 
 ## §1.5  Klubbmästeriet
 
