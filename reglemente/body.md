@@ -713,7 +713,7 @@ Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästk
 
 Är ordförande för Studienämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §5.2.10 Adas ordförande
 
