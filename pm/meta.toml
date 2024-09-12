@@ -1,3 +1,4 @@
 Sort = 4
 Expanded = true
-title.sv = "PM"
+[title]
+sv = "PM"
