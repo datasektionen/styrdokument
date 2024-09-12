@@ -97,11 +97,11 @@ Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Intern
 
 ### §3.4.1 Ändamål
 
-Jämlikhetsnämnden ska värna och upplysa om jämlikhet och mångfald på sektionen.
+Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arbeta för att upplysa, engagera och intressera sektionsmedlemmar i områden som berör jämlikhet, mångfald och likabehandling.
 
 ### §3.4.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling ska också ingå i nämnden.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska också ingå i nämnden.
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
@@ -269,7 +269,25 @@ Valberedningen ska även annordna ett event per termin vars syfte är att skapa 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studiemiljöansvarig, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till:
+
+* D-rektoratet
+* Valberedningen
+* Revisor
+* Näringslivsansvarig
+* D-Dagenansvarig
+* Storasyskon
+* Konglig Öfverdrif
+* Klubbmästare
+* Studienämndens ordförande
+* Studiemiljöansvarig
+* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+* Konglig Lokalchef
+* Systemansvarig
+
+hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
+intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
+kandidatens kandidatur.
 
 När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
@@ -344,6 +362,9 @@ Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens dators
 Datasektionens E-Sports Community leds av DESCtop.
 
 Övriga medlemmar utses av DESCtop.
+
+Inom Datasektionens E-Sports Community drivs även en Minecraftserver som heter
+METAcraft. METAcraft drivs av internfunktionären Herobrine.
 
 ## §3.14 Prylmångleriet
 
@@ -453,6 +474,30 @@ dJulkalendern leds av Tomtemor/-far.
 Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
+
+
+## §3.24 D-festeriet
+
+### §3.24.1 Ändamål
+
+D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+### §3.24.2 Organisation
+
+D-festeriet leds av D-Fest.
+
+Övriga medlemmar utses av D-Fest.
+
+## §3.25 GUDAR
+
+### §3.25.1 Ändamål
+
+Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
+
+### §3.25.2 Organisation
+
+GUDAR leds av Sektionshistoriker.
+
+Övriga medlemmar utses av Sektionshistoriker.
 
 # §4 Delad verksamhet
 
@@ -610,7 +655,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   hantera JML-incidenter och leda kontakten med externa resurser
 
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
@@ -619,8 +664,6 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
-
-Är studerandeskyddsombud, med fokus på jämlikhetsfrågor, för sektionen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -670,7 +713,7 @@ Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästk
 
 Är ordförande för Studienämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §5.2.10 Adas ordförande
 
@@ -759,6 +802,18 @@ Väljs i Period 4. Har läsår som mandatperiod.
 Är ordförande för dJulkalendern.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+
+### §5.2.24 D-fest
+
+Är ordförande för D-festeriet
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §5.2.25 Sektionshistoriker
+
+Är ordförande för GUDAR.
+
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ## §5.3 Övriga funktionärer
 
@@ -862,39 +917,30 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 Revisorn Väljs i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
-### §5.3.5 Sektionshistoriker
+
+### §5.3.5 Ljud- och ljusansvarig
 
 #### §5.3.5.1 Ändamål
 
-Sektionshistorikern ska se till att sektionens ärorika historia inte faller i glömska.
+Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
 
 #### §5.3.5.2 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §5.3.6 Ljud- och ljusansvarig
-
-#### §5.3.6.1 Ändamål
-
-Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
-
-#### §5.3.6.2 Mandatperiod
-
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.7 Studiemiljöansvarig
+### §5.3.6 Studiemiljöansvarig
 
-#### §5.3.7.1 Ändamål
+#### §5.3.6.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
 
 Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
-#### §5.3.7.2 Organisation
+#### §5.3.6.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
 
-#### §5.3.7.3 Verksamhet
+#### §5.3.6.3 Verksamhet
 
 Studiemiljöansvarig ska
 
@@ -912,76 +958,105 @@ Studiemiljöansvarig ska
 
 -   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
-#### §5.3.7.4 Mandatperiod
+#### §5.3.6.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.8 D-Fest
+### §5.3.7 D-Fest
 
-#### §5.3.8.1 Ändamål
+#### §5.3.7.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §5.3.8.2 Organisation
+#### §5.3.7.2 Organisation
 
 Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §5.3.8.3 Mandatperiod
+#### §5.3.7.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.9 Kommunikatör
+### §5.3.8 Kommunikatör
 
-#### § 5.3.9.1 Ändamål
+#### § 5.3.8.1 Ändamål
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-#### §5.3.9.2 Mandatperiod
+#### §5.3.8.2 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.10 Valberedningsledamöter
+### §5.3.9 Valberedningsledamöter
 
-#### §5.3.10.1 Ändamål
+#### §5.3.9.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
-#### §5.3.10.2 Mandatperiod
+#### §5.3.9.2 Mandatperiod
 
 Tre ledamöter Väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
 Väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §5.3.11 Sångledare
+### §5.3.10 Sångledare
 
-#### §5.3.11.1 Ändamål
+#### §5.3.10.1 Ändamål
 
 Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §5.3.11.2 Organisation
+#### §5.3.10.2 Organisation
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
 
-#### §5.3.11.3 Mandatperiod
+#### §5.3.10.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.12 Talman
+### §5.3.11 Talman
 
-#### §5.3.12.1 Ändamål
+#### §5.3.11.1 Ändamål
 
 Talmannens uppgift är att arrangera samt leda sektionsmötet.
 
-#### §5.3.12.2 Organisation
+#### §5.3.11.2 Organisation
 
 I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
 
-#### §5.3.12.3 Verksamhet
+#### §5.3.11.3 Verksamhet
 
 Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
 
-#### §5.3.12.4 Mandatperiod
+#### §5.3.11.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §5.3.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+
+#### §5.3.12.1 Ändamål
+
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
+
+#### §5.3.12.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+
+#### §5.3.12.3 Verksamhet
+
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
+- ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
+- arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
+- agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+- kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
+- göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
+- arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
+- anordna minst en JML-utbildning per termin för sektionens funktionärer
+- ha löpande samarbete med KTH, EECS och THS om JML-arbeten
+- synliggöra sitt arbete för resten av sektionen
+- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida
+
+#### §5.3.13.4 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.”
 
 # §6 Externa representanter
 

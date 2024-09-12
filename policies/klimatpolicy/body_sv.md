@@ -62,4 +62,4 @@ I redovisning av verksamheten som gått (testamente eller verksamhetsrapport) b�
 
 # Ansvar
 
-Styrelsen ansvarar att se till att organisationen i sin helhet följer policyn, där Ledamot för studiesociala frågor har det uttalade huvudansvaret.
+Styrelsen ansvarar att se till att organisationen i sin helhet följer policyn, där Ledamot för Studiemiljö och Likabehandling har det uttalade huvudansvaret.

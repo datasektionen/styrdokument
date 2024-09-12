@@ -1,6 +1,7 @@
 <!-- Konglig Datasektionens PM för Nämnd- och Funktionärsverksamhet -->
 
 # §1 Nämnder
+
 ## § 1.1 Sektionslokalsgruppen
 
 Sektionslokalsgruppen ska:
@@ -11,12 +12,16 @@ Sektionslokalsgruppen ska:
 * Organisera städning av sektionslokalen, bland annat genom måndagsstäd
 * Upprätta och underhålla ett dokument med regler för sektionslokalen
 * Sköta utveckling av sektionslokalen
+
 ## §1.2 Idrottsnämnden
 
 Idrottsnämnden ska:
 
 * Anordna olika typer av idrottsaktiviteter för sektionens medlemmar
 * Sammanställa information för och ansöka om THS friskvårdsbidrag
+* Driva Datasektionens fotbollslag Tech-i-Taka
+
+
 ## §1.3 Informationsorganet
 
 Informationsorganet ska:
@@ -24,19 +29,18 @@ Informationsorganet ska:
 * Underhålla och utveckla sektionens datasystem
 * Ansvara för drift och underhåll av sektionens servrar
 * Engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya
+
 ## §1.4 Jämlikhetsnämnden
 
 Jämlikhetsnämnden ska:
 
-* Arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
-* Kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
-* Göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
-* Hålla minst två möten per termin där aktuella frågor gällande JML diskuteras
-* Kontinuerligt underhålla sektionens styrdokument angående JML
-* Kontinuerligt uppdatera informationen om JML på sektionens hemsida
-* Ha löpande samarbete med KTH, EECS och THS om JML-arbeten
-* Synliggöra sitt arbete för resten av sektionen
-* Anordna minst en JML-utbildning per termin för sektionens funktionärer.
+* Anordna minst två aktiviteter eller event per år med teman kopplade till JML
+* Arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
+* Samarbeta med Jämlikhets-, Mångfalds- och Likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
+* Skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
+* Arbeta för att hålla gemensamma event med andra nämnder och sektioner
+* Arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
+
 ## §1.5  Klubbmästeriet
 
 Datas Klubbmästeri (DKM) ska:
@@ -45,6 +49,7 @@ Datas Klubbmästeri (DKM) ska:
 * Vid behov assistera vid andra sektionsrelaterade arrangemang
 * Anordna den traditionella dJulmiddagen
 * Sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret
+
 ## §1.6  Mottagningen
 
 Mottagningen ska:
@@ -56,6 +61,7 @@ Mottagningen ska:
 * Introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
 * Introducera de nyantagna studenterna till sektionens JML-arbete
 * Involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event
+
 ## §1.7  Näringslivsgruppen
 
 Näringslivsgruppen ska:
@@ -66,6 +72,7 @@ Näringslivsgruppen ska:
 * Tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför D-Dagens verksamhet
 * Hålla och ständigt förbättra kontakten med näringslivet
 * Se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
+
 ## §1.8  Qulturnämnden
 
 Qulturnämnden ska:
@@ -74,6 +81,7 @@ Qulturnämnden ska:
 * Ansvara för inköp och underhåll av qultur i sektionslokalen och digitalt
 * Årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 * Samarbeta med DESC respektive TM för överlappande verksamhet
+
 ## §1.9  Ada
 
 Ada ska:
@@ -81,6 +89,7 @@ Ada ska:
 * Verka för att  ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
 * Anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
 * Arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag
+
 ## §1.10  Data Et Medias OrquesterNämnd
 
 Data Et Medias OrquesterNämnd (DEMON) ska:
@@ -94,6 +103,7 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 * Anordna regelbundna repetitioner för DEMON:s medlemmar
 * Bistå annan sektionsverksamhet genom spelningar på evenemang
 * Samordna gemensamma besök på konserter/festivaler/spelningar
+
 ## §1.11  Datasektionens E-Sports Community
 
 Datasektionens E-Sports Community ska:
@@ -102,6 +112,8 @@ Datasektionens E-Sports Community ska:
 * Samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 * Skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 * Samarbeta med Qulturnämnden för överlappande verksamhet
+* Driva Datasektionens Minecraftserver METAcraft
+
 ## §1.12  Prylmångleriet
 
 Prylmångleriet ska:
@@ -113,6 +125,7 @@ Prylmångleriet ska:
 * Hjälpa Ettan att utforma och beställa årskursmärken
 * Vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
 * Hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål. Prylmångleriet och nämnden eller projektet kan komma överens om egna lösningar för vem som sköter administration och inköp. Nämnden eller projektet bestämmer vem som får köpa märket eller föremålet
+
 ## §1.13  Baknämnden
 
 Baknämnden ska:
@@ -122,6 +135,7 @@ Baknämnden ska:
 * Dokumentera recept så att kommande årgångar ska kunna ta del av dem
 * Anordna event där bakningsintresserade sektionsmedlemmar får delta
 * Sköta inventering av ingredienser och redskap
+
 ## §1.14  Internationella nämnden
 
 Internationella nämnden ska:
@@ -134,6 +148,7 @@ Internationella nämnden ska:
 * Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
 * Främja informationsspridning på engelska inom sektionen
 * Verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
+
 ## §1.15  Tag Monkeys
 
 Tag Monkeys ska:
@@ -144,6 +159,7 @@ Tag Monkeys ska:
 * Administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
 * Samarbeta med övriga sektionen där det finns behov eller önskemål av design och konst
 * Samarbeta med Qulturnämnden för överlappande verksamhet
+
 ## §1.16  Redaqtionen
 
 Redaqtionen ska:
@@ -151,6 +167,7 @@ Redaqtionen ska:
 * Ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
 * Ge ut en nØlledbuggen till nØllan under Mottagningen
 * Dela med sig av dbuggen till andra D-sektioner i Sverige
+
 ## §1.17  Datasladden
 
 Datasladden ska: 
@@ -159,12 +176,14 @@ Datasladden ska:
 * Sköta reparation, underhåll och utveckling av sektionsbilen
 * Utforma samt upprätthålla regler för sektionsbilen
 * Se till att körjournalen används av alla som brukar sektionsbilen
+
 ## §1.18  Scala
 
 Scala ska:
 
 * Regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
 * Bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang
+
 ## §1.19  D-Dagen
 
 D-Dagen ska:
@@ -173,13 +192,38 @@ D-Dagen ska:
 * Hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
 * Arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
 * Se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+
 ## §1.20  dJulkalendern
 
 dJulkalendern ska:
 
 * Anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 * Anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen
+
+
+
+## §1.21  D-festeriet
+
+D-festeriet ska:
+
+* Anordna gasquer och andra evenemang för sektionsmedlemmar
+* Anordna TB samt Skiftes för funktionärer en gång per termin
+* Anordna evenemang i samarbete med andra studentföreningar
+* Hjälpa andra nämnder med gasqueverksamhet vid behov.
+
+## §1.22  GUDAR
+
+GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
+
+* Samla in och dokumentera historisk information med anknytning till sektionen
+* Ansvara för sektionens alumniverksamhet
+* Varje år upprätta en årskrönika
+* Ansvara för underhållet av sektionens märkesarkiv
+* Vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
+* På hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
+
 # §2 Funktionärer
+
 ## §2.1  Fanbärare
 
 Fanbärare ska:
@@ -187,24 +231,8 @@ Fanbärare ska:
 * Närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS eller SSCO, samt i andra sammanhang efter beslut av D-rektoratet
 * Hålla sektionens fana i gott skick
 * Bära hönan fagt
-## §2.2  Sektionshistoriker
 
-Sektionshistorikern ska:
-
-* Samla in och dokumentera historisk information och historiska föremål med anknytning till sektionen
-* Vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
-* Ansvara för sektionens alumniverksamhet
-* Varje år upprätta en årskrönika
-
-Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
-## §2.3  D-Fest
-
-D-Fest ska:
-
-* Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
-* Anordna regelbundna teambuildings för sektionens funktionärer.
-* Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
-## §2.4  Sångledare
+## §2.2  Sångledare
 
 Sångledare ska:
 

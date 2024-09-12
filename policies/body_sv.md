@@ -1,5 +1,4 @@
 # Policies
 
-Datasektionen har ett antal Polycidokument.
+Datasektionen har ett antal Policydokument.
 
-Dessa fastslås och uppdateras på SM, men är underordnade Stadgarna och reglementet.
