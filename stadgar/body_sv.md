@@ -248,7 +248,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Avvikande valprocesser
 
-Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanger väljs med urnval i enlighet med reglementet.
+Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanger väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
@@ -336,11 +336,16 @@ D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket bela
 
 Om Ordförande är oförmögen att göra så, utövar Vice ordförande dennes befogenheter, och fullgör dennes plikter.
 
-## §4.7 Per capsulam-beslut
+## §4.7 Ställföreträdande Kassör
+
+Om Kassör är oförmögen att utföra sina ansvarsområden utövar Vice kassör dennes
+befogenheter, och fullgör dennes plikter.
+
+## §4.8 Per capsulam-beslut
 
 Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
 
-## §4.8 D-rektiv
+## §4.9 D-rektiv
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
