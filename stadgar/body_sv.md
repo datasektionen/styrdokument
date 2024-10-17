@@ -388,7 +388,7 @@ Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syf
 
 ## §7.2 Uppstart av återkommande projekt
 
-Projekt som D-rektoratet anser är regelbundet återkommande kan startas utan SM-beslut. De startas då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Vald projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång. D-rektoratet ansvarar för att en förteckning över återkommande projekt finns tillgänglig för alla sektionens medlemmar på dess hemsida.
+Projekt skrivna som återkommande under reglementet startas utan beslut på bestämt datum. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Om D-rektoratet anser att ett återkommande projekt inte ska öppnas för nästa verksamhetsperiod så kan de bestämma det på ett DM innan datumet som projektet öppnas.
 
 ## §7.3 Avslutning
 
