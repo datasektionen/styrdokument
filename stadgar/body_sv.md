@@ -166,7 +166,7 @@ Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styre
 
 Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 11 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
-Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar före mötet.
+Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar före mötet. Föredragningslistan och övriga handlingar kan kompletteras för att lägga till sent inkomna ärenden eller ändra ordningen av föredragningslistan. Kompletterande handlingar ska anslås jämte kallelsen senast 3 dagar före mötet.
 
 Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
