@@ -197,7 +197,6 @@ Studienämnden leds av Studienämndens ordförande.
 
 I det fall att posten Studienämndens
 I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens Ledamot för utbildningsfrågor ställföreträdande nämndordförande.
-
 #### §3.9.2.1 Årskursrepresentant
 
 Årskursrepresentanter väljs av Studienämndens ordförande varje läsår. Årskursrepresentanterna är årskursernas representanter och kontakter i Studienämnden. Årskursrepresentanterna ansvarar för att det finns Kursansvarig student för kurserna årskursen läser och ska samordna och stötta dem i sitt arbete.
