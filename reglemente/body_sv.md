@@ -67,6 +67,8 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
+I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande."
+
 ## §3.2 Idrottsnämnden
 
 ### §3.2.1 Ändamål
@@ -139,6 +141,8 @@ Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst 
 
 Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
 
+I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
+
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
 ## §3.7 Näringslivsgruppen
@@ -191,6 +195,8 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   övriga intresserade THS-medlemmar.
 
+I det fall att posten Studienämndens
+I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens Ledamot för utbildningsfrågor ställföreträdande nämndordförande.
 #### §3.9.2.1 Årskursrepresentant
 
 Årskursrepresentanter väljs av Studienämndens ordförande varje läsår. Årskursrepresentanterna är årskursernas representanter och kontakter i Studienämnden. Årskursrepresentanterna ansvarar för att det finns Kursansvarig student för kurserna årskursen läser och ska samordna och stötta dem i sitt arbete.
@@ -1005,7 +1011,7 @@ Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och an
 
 #### §5.3.10.2 Organisation
 
-När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
+När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
 #### §5.3.10.3 Mandatperiod
 
