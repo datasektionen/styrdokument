@@ -505,17 +505,29 @@ GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
 
-# §4 Delad verksamhet
+
+## §4 Återkommande projekt
+Återkommande projekt är projekt som öppnas årligen under bestämt datum.
+
+Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
+
+Vald projektledare åläggs att inkomma med motion innehållande budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
+
+Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
+
+Sektionens återkommande projekt definieras i PM för återkommande projekt.
+
+# §5 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §5 Funktionärer
+# §6 Funktionärer
 
-## §5.1 D-rektoratet
+## §6.1 D-rektoratet
 
-### §5.1.1 Ordförande
+### §6.1.1 Ordförande
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd. Dessa ansvarsområden inkluderar att
 
@@ -531,7 +543,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.2 Vice ordförande
+### §6.1.2 Vice ordförande
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
@@ -545,7 +557,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.3 Sekreterare
+### §6.1.3 Sekreterare
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
@@ -567,7 +579,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.4 Kassör
+### §6.1.4 Kassör
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
@@ -591,7 +603,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.5 Vice kassör
+### §6.1.5 Vice kassör
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
@@ -607,7 +619,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.6 Ledamot för näringsliv och kommunikation
+### §6.1.6 Ledamot för näringsliv och kommunikation
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -623,7 +635,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.7 Ledamot för studiesociala frågor
+### §6.1.7 Ledamot för studiesociala frågor
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
@@ -637,7 +649,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.8 Ledamot för utbildningsfrågor
+### §6.1.8 Ledamot för utbildningsfrågor
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -651,7 +663,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.1.9 Ledamot för studiemiljö och likabehandling
+### §6.1.9 Ledamot för studiemiljö och likabehandling
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -665,105 +677,105 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-## §5.2 Nämndordförande
+## §6.2 Nämndordförande
 
-### §5.2.1 Jämlikhetsnämndens ordförande
+### §6.2.1 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.2 Klubbmästare
+### §6.2.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.3 Konglig Lokalchef
+### §6.2.3 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.4 Konglig Öfverdrif
+### §6.2.4 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
 Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §5.2.5 Näringslivsansvarig
+### §6.2.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.6 Qulturattaché
+### §6.2.6 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.7 Sektionsidrottsledare
+### §6.2.7 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.8 Storasyskon
+### §6.2.8 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
 Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §5.2.9 Studienämndens ordförande
+### §6.2.9 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
-### §5.2.10 Adas ordförande
+### §6.2.10 Adas ordförande
 
 Är ordförande för Ada.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.11 ÄrkeDEMON
+### §6.2.11 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.12 Valberedningens ordförande
+### §6.2.12 Valberedningens ordförande
 
 Är ordförande för Valberedningen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.13 Desctop
+### §6.2.13 Desctop
 
 Är ordförande för Datasektionens E-Sports Community.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.14 Prylmånglaren
+### §6.2.14 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.15 D-Dagenansvariga
+### §6.2.15 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
 Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §5.2.16 Bakis
+### §6.2.16 Bakis
 
 Är ordförande för Baknämnden.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.17 Internationell studentkoordinator
+### §6.2.17 Internationell studentkoordinator
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
@@ -771,25 +783,25 @@ International student coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod
 
-### §5.2.18 Datas Art Director
+### §6.2.18 Datas Art Director
 
 Är ordförande för Tag Monkeys.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.19 Chefredaqtör
+### §6.2.19 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.20 Systemansvarig
+### §6.2.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-### §5.2.21 Mulle/Mullerina Schmeck
+### §6.2.21 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
 
@@ -797,79 +809,79 @@ Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framfö
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.2.22 Körmästare
+### §6.2.22 Körmästare
 
 Är ordförande för Scala.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.2.23 Tomtemor/-far
+### §6.2.23 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-### §5.2.24 D-fest
+### §6.2.24 D-fest
 
 Är ordförande för D-festeriet
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §5.2.25 Sektionshistoriker
+### §6.2.25 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-## §5.3 Övriga funktionärer
+## §6.3 Övriga funktionärer
 
-### §5.3.1 Fanbärare
+### §6.3.1 Fanbärare
 
-#### §5.3.1.1 Ändamål
+#### §6.3.1.1 Ändamål
 
 Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
 
-#### §5.3.1.2 Organisation
+#### §6.3.1.2 Organisation
 
 SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
 
 Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
-#### §5.3.1.3 Mandatperiod
+#### §6.3.1.3 Mandatperiod
 
 Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §5.3.2 Kårfullmäktigeledamöter
+### §6.3.2 Kårfullmäktigeledamöter
 
-#### §5.3.2.1 Ändamål
+#### §6.3.2.1 Ändamål
 
 Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
 
-#### §5.3.2.2 Organisation
+#### §6.3.2.2 Organisation
 
 Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
 
-#### §5.3.2.3 Verksamhet
+#### §6.3.2.3 Verksamhet
 
 Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
 
-#### §5.3.2.4 Mandatperiod
+#### §6.3.2.4 Mandatperiod
 
 Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
 
-### §5.3.3 Programansvarig student
+### §6.3.3 Programansvarig student
 
-#### §5.3.3.1 Ändamål
+#### §6.3.3.1 Ändamål
 
 Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
 
-#### §5.3.3.2 Organisation
+#### §6.3.3.2 Organisation
 
 Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
 I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
 
-#### §5.3.3.3 Verksamhet
+#### §6.3.3.3 Verksamhet
 
 Programansvarig student ska
 
@@ -881,17 +893,17 @@ Programansvarig student ska
 
 -   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
-#### §5.3.3.4 Mandatperiod
+#### §6.3.3.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.4 Revisorer
+### §6.3.4 Revisorer
 
-#### §5.3.4.1 Ändamål
+#### §6.3.4.1 Ändamål
 
 Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionsorgans arbete.
 
-#### §5.3.4.2 Organisation
+#### §6.3.4.2 Organisation
 
 Enligt sektionens stadgar finns två av SM utsedda revisorer.
 
@@ -899,15 +911,15 @@ Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte be
 
 Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
 
-#### §5.3.4.3 Verksamhet
+#### §6.3.4.3 Verksamhet
 
 Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-##### §5.3.4.3.1 Revisionsberättelse
+##### §6.3.4.3.1 Revisionsberättelse
 
 Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
 
-##### §5.3.4.3.2 SM
+##### §6.3.4.3.2 SM
 
 Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
 
@@ -915,38 +927,38 @@ Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för
 
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
-##### §5.3.4.3.3 Bokföring
+##### §6.3.4.3.3 Bokföring
 
 Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens organ.
 
-#### §5.3.4.4 Mandatperiod
+#### §6.3.4.4 Mandatperiod
 
 Revisorn Väljs i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 
-### §5.3.5 Ljud- och ljusansvarig
+### §6.3.5 Ljud- och ljusansvarig
 
-#### §5.3.5.1 Ändamål
+#### §6.3.5.1 Ändamål
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
 
-#### §5.3.5.2 Mandatperiod
+#### §6.3.5.2 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.6 Studiemiljöansvarig
+### §6.3.6 Studiemiljöansvarig
 
-#### §5.3.6.1 Ändamål
+#### §6.3.6.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
 
 Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
-#### §5.3.6.2 Organisation
+#### §6.3.6.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
 
-#### §5.3.6.3 Verksamhet
+#### §6.3.6.3 Verksamhet
 
 Studiemiljöansvarig ska
 
@@ -964,88 +976,88 @@ Studiemiljöansvarig ska
 
 -   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
-#### §5.3.6.4 Mandatperiod
+#### §6.3.6.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.7 D-Fest
+### §6.3.7 D-Fest
 
-#### §5.3.7.1 Ändamål
+#### §6.3.7.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §5.3.7.2 Organisation
+#### §6.3.7.2 Organisation
 
 Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §5.3.7.3 Mandatperiod
+#### §6.3.7.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.8 Kommunikatör
+### §6.3.8 Kommunikatör
 
 #### § 5.3.8.1 Ändamål
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-#### §5.3.8.2 Mandatperiod
+#### §6.3.8.2 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.9 Valberedningsledamöter
+### §6.3.9 Valberedningsledamöter
 
-#### §5.3.9.1 Ändamål
+#### §6.3.9.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
-#### §5.3.9.2 Mandatperiod
+#### §6.3.9.2 Mandatperiod
 
 Tre ledamöter Väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
 Väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §5.3.10 Sångledare
+### §6.3.10 Sångledare
 
-#### §5.3.10.1 Ändamål
+#### §6.3.10.1 Ändamål
 
 Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §5.3.10.2 Organisation
+#### §6.3.10.2 Organisation
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
-#### §5.3.10.3 Mandatperiod
+#### §6.3.10.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §5.3.11 Talman
+### §6.3.11 Talman
 
-#### §5.3.11.1 Ändamål
+#### §6.3.11.1 Ändamål
 
 Talmannens uppgift är att arrangera samt leda sektionsmötet.
 
-#### §5.3.11.2 Organisation
+#### §6.3.11.2 Organisation
 
 I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
 
-#### §5.3.11.3 Verksamhet
+#### §6.3.11.3 Verksamhet
 
 Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
 
-#### §5.3.11.4 Mandatperiod
+#### §6.3.11.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §5.3.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §6.3.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
-#### §5.3.12.1 Ändamål
+#### §6.3.12.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
-#### §5.3.12.2 Organisation
+#### §6.3.12.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
-#### §5.3.12.3 Verksamhet
+#### §6.3.12.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 - ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
@@ -1060,71 +1072,71 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 - synliggöra sitt arbete för resten av sektionen
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida
 
-#### §5.3.13.4 Mandatperiod
+#### §6.3.13.4 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.”
 
-# §6 Externa representanter
+# §7 Externa representanter
 
-## §6.1 Representation i råd på THS
+## §7.1 Representation i råd på THS
 
 Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
 
-## §6.2 Representation inom organ på KTH
+## §7.2 Representation inom organ på KTH
 
-### §6.2.1 Val av representanter
+### §7.2.1 Val av representanter
 
 Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
 
-# §7 Ordinarie SM
+# §8 Ordinarie SM
 
-## §7.1 Förteckning
+## §8.1 Förteckning
 
-### §7.1.1 Budget-SM
+### §8.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §7.1.2 Glögg-SM
+### §8.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §7.1.3 Revisions-SM
+### §8.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
-### §7.1.4 Val-SM
+### §8.1.4 Val-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 
-### §7.2 Övrig verksamhet
+### §8.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §8 Förtjänsttecken och ordnar
+# §9 Förtjänsttecken och ordnar
 
-## §8.1 Hedersdeltat
+## §9.1 Hedersdeltat
 
 Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
-### §8.1.1 Syfte
+### §9.1.1 Syfte
 
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
 
-### §8.1.2 Förslagslämning
+### §9.1.2 Förslagslämning
 
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
 
-### §8.1.3 Utdelning
+### §9.1.3 Utdelning
 
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## §8.2 Ordnar
+## §9.2 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-### §8.2.1 Ordförande Emeritus
+### §9.2.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -1134,52 +1146,52 @@ Vidare gäller att Ordförande Emeriti
 
 -   erhåller årlig speciell inbjudan till Vårbalen.
 
-### §8.2.2 Klubbmästare Emeritus
+### §9.2.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §8.2.3 Konglig Öfverdrif Emeritus
+### §9.2.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §8.2.4 Storasyskon Emeritus
+### §9.2.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §8.2.5 Kassör Emeritus
+### §9.2.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §8.3 Funktionärsmedalj
+## §9.3 Funktionärsmedalj
 
-### §8.3.1 Syfte
+### §9.3.1 Syfte
 
 Funktionärsmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som funktionär på sektionen.
 
-### §8.3.2 Utdelning
+### §9.3.2 Utdelning
 
 Endast en medalj per funktionärspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## §8.4 Projektledarmedalj
+## §9.4 Projektledarmedalj
 
-### §8.4.1 Syfte
+### §9.4.1 Syfte
 
 Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt planerat och genomfört ett projekt vid sektionen i egenskap av projektledare samt i förekommande fall fullständigt avslutat den ekonomiska bokföringen.
 
-### §8.4.2 Urval
+### §9.4.2 Urval
 
 För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
 
-### §8.4.3 Utdelning
+### §9.4.3 Utdelning
 
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
 
-# §9 Övrigt
+# §10 Övrigt
 
-## §9.1 Visdomsord
+## §10.1 Visdomsord
 
 Det var bättre förr.
 
-### §9.1.1 Mer visdomsord
+### §10.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
