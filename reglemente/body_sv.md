@@ -197,7 +197,6 @@ Studienämnden leds av Studienämndens ordförande.
 
 I det fall att posten Studienämndens
 I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens Ledamot för utbildningsfrågor ställföreträdande nämndordförande.
-nämndordförande.
 
 #### §3.9.2.1 Årskursrepresentant
 
