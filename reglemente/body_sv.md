@@ -506,7 +506,7 @@ GUDAR leds av Sektionshistoriker.
 Övriga medlemmar utses av Sektionshistoriker.
 
 
-## §4 Återkommande projekt
+# §4 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
 Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
