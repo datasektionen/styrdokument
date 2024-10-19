@@ -339,7 +339,6 @@ Om Ordförande är oförmögen att göra så, utövar Vice ordförande dennes be
 ## §4.7 Ställföreträdande Kassör
 
 Om Kassör är oförmögen att utföra sina ansvarsområden utövar Vice kassör dennes
-befogenheter, och fullgör dennes plikter.
 
 ## §4.8 Per capsulam-beslut
 
