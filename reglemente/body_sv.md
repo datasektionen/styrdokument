@@ -142,7 +142,6 @@ Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst 
 Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
 
 I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande
-nämndordförande för Mottagningen.
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
