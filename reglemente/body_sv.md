@@ -685,7 +685,7 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 - Storasyskon
 - Konglig Öfverdrif
 - Kommunikatör
-- D-Fest
+- Qulturattaché
 - Klubbmästare
 - Näringslivsansvarig
 - D-Dagenansvariga
