@@ -248,13 +248,13 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Avvikande valprocesser
 
-Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanger väljs med urnval i enlighet med reglementet.
+Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
-I det fall två eller fler personer kandiderar till en post tillsammans på SM ska processen gå till enligt följande: Kandidaterna ska få presentera sin kandidatur tillsammans och eventuella andra kandidater ska få presentera sina kandidaturer. SM ska få tillfälle att ställa frågor till kandidaterna tillsammans, varefter SM ska få chansen att diskutera. Därefter ska SM besluta om kandidaterna får kandidera tillsammans. Ifall kandidaterna inte får kandidera tillsammans ska den eller de av kandidaterna som eventuellt fortsätter kandidera var för sig eller i annan grupp få tillfälle att presentera sig och besvara frågor från SM igen.
+Val av funktionärer som skett på valmöte, VM, ska redovisas och fastställas på nästa sektionsmöte. Valmöte regleras vidare i reglementet.
 
 # §4 D-rektoratet
 
