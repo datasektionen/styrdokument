@@ -321,27 +321,27 @@ Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7
 
 ### §3.12.8 Valhandlingar
 
-Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM där valet sker.
+Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
 
 #### §3.12.8.1 Innehåll
 
 Valhandlingarna ska innehålla
 
--   information om hur nomineringsprocessen föregående valet i fråga gick till
+- information om hur nomineringsprocessen föregående valet i fråga gick till
 
--   information om valprocessen under SM
+- information om valprocessen under SM eller VM
 
--   vilka av Valberedningens ledamöter som varit med och anordnat valet
+- vilka av Valberedningens ledamöter som varit med och anordnat valet
 
--   en sammanställning av de poster som väljs
+- en sammanställning av de poster som väljs
 
--   en lista över samtliga kandidater
+- en lista över samtliga kandidater
 
--   samtliga utlåtanden från de intervjuer Valberedningen har hållit
+- samtliga utlåtanden från de intervjuer Valberedningen har hållit
 
--   samtliga svar från de frågeformulär som kandidaterna har fått svara på
+- samtliga svar från de frågeformulär som kandidaterna har fått svara på
 
--   samtliga lämplighetsbedömningar som utförts.
+- samtliga lämplighetsbedömningar som utförts.
 
 Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
 
@@ -351,11 +351,11 @@ Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgar
 
 #### §3.12.8.3 Publiceringstid
 
-Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före det SM där valet sker.
+Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM eller VM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före valet sker.
 
 #### §3.12.8.4 Sekretessbeläggning
 
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
 
 ## §3.13 Datasektionens E-Sports Community
 
