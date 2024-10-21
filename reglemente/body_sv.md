@@ -541,7 +541,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 -   ha en god överblick av sektionens ekonomi.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.2 Vice ordförande
 
@@ -555,7 +555,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.3 Sekreterare
 
@@ -577,7 +577,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.4 Kassör
 
@@ -601,7 +601,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   ha ett nära samarbete med Vice kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.5 Vice kassör
 
@@ -617,7 +617,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   ha ett nära samarbete med Kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.6 Ledamot för näringsliv och kommunikation
 
@@ -633,7 +633,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
   
 -   upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.7 Ledamot för studiesociala frågor
 
@@ -647,7 +647,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.8 Ledamot för utbildningsfrågor
 
@@ -661,7 +661,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.1.9 Ledamot för studiemiljö och likabehandling
 
@@ -675,7 +675,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ## §6.2 Ledningsgruppen
 
@@ -708,25 +708,25 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Klubbmästeriet.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §6.3.3 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §6.3.4 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §6.3.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §6.3.6 Qulturattaché
 
@@ -744,13 +744,13 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §6.3.9 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §6.3.10 Adas ordförande
 
@@ -786,7 +786,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §6.3.16 Bakis
 
@@ -818,7 +818,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för Informationsorganet.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §6.3.21 Mulle/Mullerina Schmeck
 
@@ -952,7 +952,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §6.4.4.4 Mandatperiod
 
-Revisorn Väljs i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorn Väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 
 ### §6.4.5 Ljud- och ljusansvarig
@@ -997,7 +997,7 @@ Studiemiljöansvarig ska
 
 #### §6.4.6.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §6.4.7 D-Fest
 
@@ -1031,8 +1031,8 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens ordföran
 
 #### §6.4.9.2 Mandatperiod
 
-Tre ledamöter Väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
-Väljs i Period 2 och har kalenderår som mandatperiod.
+Tre ledamöter Väljs op SM i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
+Väljs på SM i Period 2 och har kalenderår som mandatperiod.
 
 ### §6.4.10 Sångledare
 
@@ -1093,7 +1093,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 #### §6.3.13.4 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.”
+Väljs på SM i Period 4. Har läsår som mandatperiod.”
 
 # §7 Externa representanter
 
