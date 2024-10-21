@@ -419,13 +419,54 @@ D-rektoratet ansvarar för att projektledare i aktiva projekt får ta del av sam
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
-# §8 Revision
+# §8 Valmötet
 
-## §8.1 Revisorer
+## §8.1 Sammansättning
+Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt stadgarnas §8.1 har närvaro-, yttrande- och yrkanderätt.
+
+Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+
+## §8.2 Kallelse
+
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §1.8 senast 21 dagar före mötet.
+
+Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
+
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §8.8. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+
+## §8.3 Beslutsmässighet
+
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §8.2 och minst 17 sektionsmedlemmar är närvarande.
+
+## §8.4 Beslut
+
+Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
+
+## §8.5 Protokoll
+
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §1.8 i justerat skick senast 7 dagar efter mötet.
+
+## §8.6 Sammanträden
+
+Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
+
+## §8.7 Val
+Nomineringslistan ska anslås enligt stadgarnas §3.13.1 senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
+
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
+
+Då ingen kandidat finns till en post under valmöte vartill val till posten lysts, kan VM besluta att öppna för fri kandidatur. Vid val av kandidat under fri kandidatur krävs ett beslut med 3/4-majoritet av VM.
+
+## §8.8 Ajournering
+Mötesordförande äger rätt att ajournera mötet till den, enligt §8.2 i kallelsen angivna reservtiden.
+
+# §9 Revision
+
+## §9.1 Revisorer
 
 SM ska utse två revisorer.
 
-### §8.1.1 Befogenheter
+### §9.1.1 Befogenheter
 
 Revisorerna har rätt att
 
@@ -437,7 +478,7 @@ Revisorerna har rätt att
 
 -   kalla till möte med samtliga sektionsorgan.
 
-### §8.1.2 Uppgifter
+### §9.1.2 Uppgifter
 
 Det åligger revisorerna att
 
@@ -445,7 +486,7 @@ Det åligger revisorerna att
 
 -   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
-### §8.1.3 Revisionssed
+### §9.1.3 Revisionssed
 
 Revisorerna är skyldiga att inte
 
@@ -455,7 +496,7 @@ Revisorerna är skyldiga att inte
 
 -   ha något ansvar inom sektionens styrelse eller valberedning.
 
-## §8.2 Verksamhetsberättelse och årsbokslut
+## §9.2 Verksamhetsberättelse och årsbokslut
 
 Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 14 dagar före samma SM.
 
