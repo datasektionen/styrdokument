@@ -693,6 +693,7 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 - Studienämndens ordförande
 - Studiemiljöansvarig
 - Jämlikhetsnämndens ordförande
+- Internationell studentkoordinator
 
 
 
@@ -800,7 +801,7 @@ Internationell studentkoordinator, ISK, är ordförande för Internationella nä
 
 International student coordinator, förkortat ISC, är det engelska namnet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod
+Väljs på SM i Period 2. Har kalenderår som mandatperiod
 
 ### §6.3.18 Datas Art Director
 
