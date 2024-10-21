@@ -405,7 +405,7 @@ Efter att projektets verksamhet är genomförd ska projektledare snarast möjlig
 
 ## §7.4 Projektledare
 
-För varje projekt ska det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
+För varje projekt ska det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM eller VM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
 
 ### §7.4.1 Skyldigheter
 
