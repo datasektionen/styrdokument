@@ -486,6 +486,7 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 ### §3.24.1 Ändamål
 
 D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+
 ### §3.24.2 Organisation
 
 D-festeriet leds av D-Fest.
@@ -503,7 +504,6 @@ Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika his
 GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
-
 
 # §4 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.

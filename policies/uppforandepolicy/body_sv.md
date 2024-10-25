@@ -131,25 +131,30 @@ Det är aldrig för sent att anmäla och man rekommenderas att anmäla tidigare 
 ## §5.2 Konsekvenser
 
 ### §5.2.1 Tillsägelse
+
 Den anklagade individen blir informerad om att dennes beteende inte är acceptabelt. Man kan få upprepade tillsägelser. Upprepade tillsägelser leder inte automatiskt till en varning. 
 
 ### §5.2.2 Varning
+
 En varning är en grövre tillsägelse. Individen blir informerad om att ifall dennes beteende upprepar sig kommer det att leda till en avstängning. En varning är aktiv i 1 år från att den utfärdats. Om ytterligare en varning utfärdas medan den första varningen är aktiv leder detta till en avstängning av första graden. 
 
 En varning bör komma före en avstängning. Vid särskilt grova fall såsom lagbrott är det möjligt för Trygghetsrådet att välja att utföra en avstängning av första graden utan tidigare varning. Detta beslut måste vara enhälligt inom Trygghetsrådet och kräver godkännande från Styrelsen. 
 
 ### §5.2.3 Avstängning av första graden 
+
 Individen får inte längre delta vid evenemang som arrangeras av sektionen (med undantag av SM, DM och studiepåverkande verksamhet av sina egna studier) under **3 månader** med omedelbar verkan. Individen får inte heller delta i någon av sektionens digitala forum under tiden för avstängningen, med undantag för kanaler där endast studier diskuteras, där individen behåller rätten att läsa men inte kan skriva. Förtroendevald som blir avstängd uppmanas att entlediga sig från sitt förtroendeuppdrag.
 
 Vid tidpunkten då avstängningen upphör att verka utfärdas en varning. Om ytterligare en varning utfärdas under avstängningen eller medan den första varningen är aktiv leder detta till en avstängning av andra graden.
 
 
-### §5.2.4 Avstängning av andra graden 
+### §5.2.4 Avstängning av andra graden
+
 Individen får inte längre delta vid evenemang som arrangeras av sektionen (med undantag av SM, DM och studiepåverkande verksamhet av sina egna studier) under **ett år** med omedelbar verkan. Individen får inte heller delta i någon av sektionens digitala forum under tiden för avstängningen, med undantag för kanaler där endast studier diskuteras, där individen behåller rätten att läsa men inte kan skriva. Förtroendevald som blir avstängd uppmanas att entlediga sig från sitt förtroendeuppdrag.
 
 Vid tidpunkten då avstängningen upphör att verka utfärdas en varning. Vid upprepade varningar under den aktiva avstängningen eller den efterföljande varningens aktiva period inleds en ny avstängning av andra graden. 
 
 ## §5.3 Utredning
+
 1. En anmälan mottages av Trygghetsrådet. 
 
 2. Möte upprättas med målsägande och Trygghetsrådet.
@@ -167,6 +172,7 @@ Vid tidpunkten då avstängningen upphör att verka utfärdas en varning. Vid up
 	3. I fallet då en avstängning utfärdas skall målsägande, den anmälda samt Ordförande, revisorer och berörda parter informeras om detta. Berörda parter innefattar alla som anordnar arrangemang där den avstängde medlemmen skulle kunna vara med samt personer som administrerar officiella och inofficiella informationskanaler där medlemmen inte längre tillåts vara med.
 
 ## §5.4 Uppföljning
+
 Trygghetsrådet informerar målsägande oberoende av utfall och den anmälda då utfallet är tillsägelse, varning eller avstängning. Vid avstängningar informeras även Sektionens revisorer och Sektionens Styrelse, som i sin tur informerar förtroendevalda. 
 
 Sektionens Styrelse och revisorer får information om hela ärendet, inklusive namn, anmäld händelse och beslut som tagits av Trygghetsrådet. Styrelsen informerar förtroendevalda om avstängningen, inklusive namn och datum för avstängningen. Förtroendevalda informeras inte om händelse, anmälan eller utredning. 
@@ -176,6 +182,7 @@ Förtroendevalda ansvarar för att informera övriga eventarrangörer inom sin n
 Delgivande av information till förtroendevalda sker med förtroendet att det sköts med aktsamhet och delges utanför förtroendevalda endast vid behov. 
 
 ## §5.5 Överklagan
+
 Överklagan görs till Styrelsen. Styrelsen ges 14 dagar att svara på en överklagan, annars hävs beslutet. Trygghetsrådet ska då motivera sitt beslut och redogöra för vad det grundas i. Den överklagande får också motivera varför denne anser att beslutet är felaktigt. 
 
 Vill man överklaga Styrelsens beslut görs detta till THS Studiemiljöansvarig. 
