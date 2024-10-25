@@ -35,7 +35,7 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
     - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
     - Denna information ska beläggas med sekretess och enbart sittande Valberedning samt revisorer får ta del av den.
   
-# $5 Rekrytering under mottagningen
+# §5 Rekrytering under mottagningen
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
 - Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
