@@ -67,7 +67,7 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
-I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande."
+I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
 
 ## §3.2 Idrottsnämnden
 
@@ -81,7 +81,7 @@ Idrottsnämnden leds av Sektionsidrottsledaren.
 
 Övriga medlemmar väljs av Sektionsidrottsledare. 
 
-Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.”
+Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.
 
 ## §3.3 Informationsorganet
 
@@ -1074,7 +1074,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 #### §6.3.13.4 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.”
+Väljs i Period 4. Har läsår som mandatperiod.
 
 # §7 Externa representanter
 
