@@ -15,16 +15,19 @@ Vid lagbrott rekommenderar Trygghetsrådet målsägande att göra polisanmälan,
 Som sektionsmedlem ska man sträva efter att följa Sektionens [Jämlikhetspolicy](../policies/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
 Exempel på brott mot dessa riktlinjer är:
 
-- Överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm.
-- Agera exkluderande.
-- Yttra, skriva eller på annat sätt kommunicera kränkande påstående eller budskap riktat mot individ eller identitet. Identitet innefattar men är ej begränsat till: 
-	- Kön
-	- Könsöverskridande identitet eller uttryck
-	- Religion eller annan trosuppfattning
-	- Funktionsnedsättning
-	- Etnisk bakgrund
-	- Sexuell läggning
-	- Ålder
+- överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm
+
+- agera exkluderande
+
+- yttra, skriva eller på annat sätt kommunicera kränkande påstående eller budskap riktat mot individ eller identitet. Identitet innefattar men är ej begränsat till: 
+
+	- kön
+	- könsöverskridande identitet eller uttryck
+	- religion eller annan trosuppfattning
+	- funktionsnedsättning
+	- etnisk bakgrund
+	- sexuell läggning
+	- ålder.
 
 Brott mot dessa kan medföra en tillsägelse, varning eller i värsta fall avstängning från sektionsevenemang (ej SM, DM eller studiepåverkande verksamhet av sina egna studier) och våra digitala gemensamma utrymmen.  
 
@@ -32,11 +35,15 @@ Brott mot dessa kan medföra en tillsägelse, varning eller i värsta fall avst�
 
 Policyn berör händelser som sker:
 
-- Inför, på eller strax efter ett av Sektionen arrangerat event
-- I eller invid sektionslokalen
-- I eller invid sektionsbilen
-- I Sektionens officiella eller inofficiella informationskanaler
-- Inom Sektionens verksamhet
+- inför, på eller strax efter ett av Sektionen arrangerat event
+
+- i eller invid sektionslokalen
+
+- i eller invid sektionsbilen
+
+- i Sektionens officiella eller inofficiella informationskanaler
+
+- inom Sektionens verksamhet.
 
 Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades igenom och anmälan av sådana händelser kan inte leda till en varning eller avstängning med denna policy som grund, utan till en diskussion med målet att förbättra situationen för de inblandade. 
 
@@ -52,17 +59,24 @@ Om Trygghetsrådet vänder sig till andra instanser på KTH eller THS för rådg
 
 Trygghetsrådet ska: 
 
-- Mottaga och utreda alla inkomna anmälningar till Trygghetsrådet
-- Arbeta för att förbättra situationen för de inblandade, även då en faktisk konsekvens enligt konsekvenstrappan ej blir aktuell
-- Sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende - ifrågasätts skall denne entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet 
-- Vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet. 
-	- I de fall där det inte är möjligt att tillsätta tillräckligt många objektiva styrelseledamöter ska utredningen istället lämnas över till högre instans inom KTH eller THS
-- Dokumentera de incidenter som anmäls till Trygghetsrådet
+- mottaga och utreda alla inkomna anmälningar till Trygghetsrådet
+
+- arbeta för att förbättra situationen för de inblandade, även då en faktisk konsekvens enligt konsekvenstrappan ej blir aktuell
+
+- sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende - ifrågasätts skall denne entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet 
+
+- vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet
+
+	- I de fall där det inte är möjligt att tillsätta tillräckligt många objektiva styrelseledamöter ska utredningen istället lämnas över till högre instans inom KTH eller THS.
+
+- dokumentera de incidenter som anmäls till Trygghetsrådet.
 
 ## §4.3 Beslutsnivåer
 
 - För att ett giltigt beslut skall nås måste hela Trygghetsrådet närvara.
+
 - För en tillsägelse krävs majoritet.
+
 - För en varning eller avstängning krävs ett enhälligt beslut.
 
 ## §4.4 Anonymitet
@@ -93,12 +107,17 @@ Om en medlem i Trygghetsrådet blir avstängd blir denne automatiskt entledigad 
 # §5 Beslutstagande och Utredning
 
 ## §5.1 Anmälan
-Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom:
+
+Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom följande:
 
 - Kontaktformuläret på [jml.datasektionen.se](http://jml.datasektionen.se). Här finns möjlighet att göra anmälan anonymt, men en anonym anmälan kan inte tas vidare till Trygghetsrådet
+
 - Mail till båda Skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
+
 - Mail till JNO via [jno@datasektionen.se](mailto:jno@datasektionen.se)
+
 - Mail till SMA via [sma@datasektionen.se](mailto:sma@datasektionen.se)
+
 - På valfritt annat sätt (META-slack, Discord, med andra kontaktuppgifter eller i person)
 
 Med målsägandens samtycke, och efter diskussion om tystnadsplikt, kan Skyddsombuden ta ärendet vidare till Trygghetsrådet. Målsägande kan när som helst välja att avsluta utredningen.
@@ -132,12 +151,19 @@ Vid tidpunkten då avstängningen upphör att verka utfärdas en varning. Vid up
 
 ## §5.3 Utredning
 1. En anmälan mottages av Trygghetsrådet. 
+
 2. Möte upprättas med målsägande och Trygghetsrådet.
+
 3. Om händelsen som beskrivs är ett brott mot någon av reglerna i denna policy kallas ansvarspersoner vid eventuellt event samt vittnen till händelsen, angivna av målsägande, till möten med Trygghetsrådet.
+
 4. Om utredningen i detta skede leder till att ett beslut om en tillsägelse, varning eller avstängning inte kommer att utfärdas läggs utredningen ner och målsägande informeras. 
+
 5. Om utredningen lider mot en tillsägelse, varning eller avstängning av någon grad kallas den anmälda till möte och utredningen fortskrider.
+
 	1. I fallet då tillsägelse, varning eller avstängning inte utfärdas informeras målsägande och den anmälda om detta.
+
 	2. I fallet då tillsägelse eller varning utfärdas skall målsägande och den anmälda informeras om detta.
+
 	3. I fallet då en avstängning utfärdas skall målsägande, den anmälda samt Ordförande, revisorer och berörda parter informeras om detta. Berörda parter innefattar alla som anordnar arrangemang där den avstängde medlemmen skulle kunna vara med samt personer som administrerar officiella och inofficiella informationskanaler där medlemmen inte längre tillåts vara med.
 
 ## §5.4 Uppföljning

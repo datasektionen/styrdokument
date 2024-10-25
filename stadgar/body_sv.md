@@ -128,7 +128,7 @@ Gästmedlemmar har rätt att
 
 -   närvara på DM såvida det inte beslutats om lyckta dörrar
 
--   delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar
+-   delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar.
 
 ## §2.6 Medlemsavgift
 
@@ -278,9 +278,9 @@ D-rektoratet består av
 
 -   Ledamot för studiesociala frågor
 
--   Ledamot för utbildningsfrågor.
+-   Ledamot för utbildningsfrågor
 
--   Ledamot för studiemiljö och likabehandling
+-   Ledamot för studiemiljö och likabehandling.
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
@@ -444,9 +444,9 @@ Det åligger revisorerna att
 
 Revisorerna är skyldiga att inte
 
--   vara nämndansvarig för en bokföringspliktig nämnd eller projekt.
+-   vara nämndansvarig för en bokföringspliktig nämnd eller projekt
 
--   vara bokföringsansvarig för en nämnd eller projekt.
+-   vara bokföringsansvarig för en nämnd eller projekt
 
 -   ha något ansvar inom sektionens styrelse eller valberedning.
 
