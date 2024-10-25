@@ -47,7 +47,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Nämnder
 
-Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
+Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
@@ -347,7 +347,7 @@ Då urnval anordnats ska även information om hur urnvalets röstprocess gått t
 
 #### §3.12.8.2 Publiceringsplats
 
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.8](../stadgar#1-8-officiella-informationskanaler).
 
 #### §3.12.8.3 Publiceringstid
 
@@ -1195,3 +1195,5 @@ Det var bättre förr.
 ### §10.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
+
+[2]: #2-andra-styrande-dokument

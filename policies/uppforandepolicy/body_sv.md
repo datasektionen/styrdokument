@@ -12,7 +12,7 @@ Vid lagbrott rekommenderar Trygghetsrådet målsägande att göra polisanmälan,
 
 # §2 Regler
 
-Som sektionsmedlem ska man sträva efter att följa Sektionens [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
+Som sektionsmedlem ska man sträva efter att följa Sektionens [Jämlikhetspolicy](../policies/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
 Exempel på brott mot dessa riktlinjer är:
 
 - Överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm.
