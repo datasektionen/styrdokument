@@ -187,7 +187,7 @@ Scala ska:
 
 ## §1.19  D-Dagen
 
-D-dagen ska:
+D-Dagen ska:
 
 * göra reklam för arbetsmarknadsdagen gentemot berörda studenter
 * hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
