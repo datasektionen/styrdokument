@@ -80,7 +80,7 @@ Sektionsmedlem är
 
 -   alumnimedlem enligt §[2.3]
 
--   juniormedlem enligt §[2.4].
+-   juniormedlem enligt §[2.4]
 
 -   gästmedlem enligt §[2.5].
 
@@ -128,7 +128,7 @@ Gästmedlemmar har rätt att
 
 -   närvara på DM såvida det inte beslutats om lyckta dörrar
 
--   delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar
+-   delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar.
 
 ## §2.6 Medlemsavgift
 
@@ -170,7 +170,7 @@ Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 
 
 Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §3.12. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §3.4 Beslutsmässighet
 
@@ -278,9 +278,9 @@ D-rektoratet består av
 
 -   Ledamot för studiesociala frågor
 
--   Ledamot för utbildningsfrågor.
+-   Ledamot för utbildningsfrågor
 
--   Ledamot för studiemiljö och likabehandling
+-   Ledamot för studiemiljö och likabehandling.
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
@@ -444,9 +444,9 @@ Det åligger revisorerna att
 
 Revisorerna är skyldiga att inte
 
--   vara nämndansvarig för en bokföringspliktig nämnd eller projekt.
+-   vara nämndansvarig för en bokföringspliktig nämnd eller projekt
 
--   vara bokföringsansvarig för en nämnd eller projekt.
+-   vara bokföringsansvarig för en nämnd eller projekt
 
 -   ha något ansvar inom sektionens styrelse eller valberedning.
 

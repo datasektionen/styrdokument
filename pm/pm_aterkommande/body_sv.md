@@ -61,11 +61,11 @@ Två projektledare bör väljas.
 
 ## §3.3 Verksamhet
 
-- att anordna företagsevent, huvudsakligen för projektgruppens medlemmar, med intressanta företag i industrin.
+- Att anordna företagsevent, huvudsakligen för projektgruppens medlemmar, med intressanta företag i industrin.
 
-- att anordna en studieresa för projektgruppen.
+- Att anordna en studieresa för projektgruppen.
 
-- att informera sektionens medlemmar om intressanta arbetsgivare och hur det är att leva och jobba med IT i andra länder.
+- Att informera sektionens medlemmar om intressanta arbetsgivare och hur det är att leva och jobba med IT i andra länder.
 
 ## §3.4 Period
 
@@ -83,11 +83,11 @@ Vårbalen leds av projektledare, benämnd Vårbalsgeneral.
 Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
 
 ## §4.3 Verksamhet
-- Anordna en finsittning med tillhörande efterkör under våren.
+- Att anordna en finsittning med tillhörande efterkör under våren.
 
-- Bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
+- Att bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
 
-- Bjuda in Ordförande Emeriti till Vårbalen.
+- Att bjuda in Ordförande Emeriti till Vårbalen.
 
 ## §4.4 Period
 Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade sittning skett nästkommande kalenderår.
@@ -106,13 +106,13 @@ Project Pride leds av projektledare.
 Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgruppen för Project Pride.
 
 ## §5.3 Verksamhet
-- Arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
+- Att arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
 
-- Anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
+- Att anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
 
-- Möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
+- Att möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
 
-- Se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
+- Att se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
 
 ## §5.4 Period
 Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet framtill

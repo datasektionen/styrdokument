@@ -1,0 +1,24 @@
+services:
+  taitan:
+    container_name: taitan
+    image: ghcr.io/datasektionen/taitan
+    environment:
+      - PORT=5000
+      - CONTENT_DIR=/content
+      - DARKMODE_URL=false
+      - DEFAULT_LANG=sv
+    volumes:
+      - ./:/content
+    command: ./taitan -v -w
+    network_mode: host
+    restart: on-failure
+
+  bawang:
+    container_name: bawang-styrdokument
+    build:
+      context: https://github.com/datasektionen/styrdokument-bawang.git
+    environment:
+      - TAITAN_URL=http://localhost:5000
+      - TAITAN_CACHE_TTL=0
+      - PORT=8000
+    network_mode: host
