@@ -97,7 +97,7 @@ För att lättast upprätta en anmälan mot någon i Trygghetsrådet kontaktar m
 
 Om det finns en eller två vakanta poster i Trygghetsrådet ska samma antal Styrelseledamoter tillförordnas av Styrelsen. Detta beslutas bakom lyckta dörrar. 
 
-Om båda Skyddsombuden i Trygghetsrådet, dvs JNO och SMA, är vakanta, eller behöver entledigas från Trygghetsrådet i ett enskilt ärende, ska även Studiemiljöansvarig på THS ingå i Trygghetsrådet. 
+Om båda Skyddsombuden i Trygghetsrådet, dvs JMLA och SMA, är vakanta, eller behöver entledigas från Trygghetsrådet i ett enskilt ärende, ska även Studiemiljöansvarig på THS ingå i Trygghetsrådet. 
 
 Om samtliga poster i Trygghetsrådet är vakanta agerar hela Styrelsen Trygghetsråd, tillsammans med THS SMA, tills dess att posterna är tillsatta genom val på SM. 
 
