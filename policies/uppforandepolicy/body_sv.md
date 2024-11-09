@@ -81,7 +81,7 @@ Trygghetsrådet ska:
 
 ## §4.4 Anonymitet
 
-Anmälan till Trygghetsrådet sker alltid via Skyddsombuden, dvs SMA och JNO. Dessa funktionärer har juridisk tystnadsplikt men med målsägandens samtycke kan ärendet anmälas till Trygghetsrådet. Trygghetsrådet som helhet har ingen juridisk tystnadsplikt men agerar med respekt till målsäganden i sin hantering av ärendet. Ärenden som inte tas vidare till Trygghetsrådet kan inte leda till konsekvenser enligt denna policy.
+Anmälan till Trygghetsrådet sker alltid via Skyddsombuden, dvs SMA och JMLA. Dessa funktionärer har juridisk tystnadsplikt men med målsägandens samtycke kan ärendet anmälas till Trygghetsrådet. Trygghetsrådet som helhet har ingen juridisk tystnadsplikt men agerar med respekt till målsäganden i sin hantering av ärendet. Ärenden som inte tas vidare till Trygghetsrådet kan inte leda till konsekvenser enligt denna policy.
 
 ## §4.5 Dokumentation
 
