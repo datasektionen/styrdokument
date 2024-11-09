@@ -114,7 +114,7 @@ Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom f�
 
 - Mail till båda Skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
-- Mail till JNO via [jno@datasektionen.se](mailto:jno@datasektionen.se)
+- Mail till JMLA via [jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
 - Mail till SMA via [sma@datasektionen.se](mailto:sma@datasektionen.se)
 
