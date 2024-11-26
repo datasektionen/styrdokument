@@ -22,26 +22,33 @@ D-Dagen är bokföringspliktigt.
 ### §2.1.6 Medias Klubbmästeri
 Medias Klubbmästeri är bokföringspliktigt. 
 
+## §2.2 Alkohol
+
+Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
+
 
 # §3 Skulder till engagerade
 
-Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
+Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
+
+Kvitton som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
 
 # §4 Lager
 
 ## §4.1 Förvaltning av dryckeslager
 
-DKM förvaltar sektionens dryckeslager, utom under mottagningsperioden då Mottagningen tar över den uppgiften. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub­- och klubbverksamhet ska lagerföras.
+DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager från DKM. Det innebär
+att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
-Dryckeslagren ska inventeras minst en gång varannan månad samt innan och efter mottagningsperioden. Det inventerade värdet ska synkas mot bokföringen genom av Kassör särskilt anvisad resultatgrupp. Schablonbeloppen nämnda i §5.2 ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
+Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §4.2 ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
 ## §4.2 Dryckeslager vid festtillfällen
 
-När en nämnd eller ett projekt har fest och använder sektionens dryckeslager ska det bokföras av bokföringsansvariga för nämnden eller projektet som festen ligger under. Nämnden/projektet ska både belastas för inköp av drycken och tilldelas försäljningen av den. Kostnaden för inköpet får beräknas enligt av Kassör tillhandahållna schablonbelopp. Serveringsansvarig för festtillfället är ansvarig för att betalning och dagsavslut görs efter sektionens standarder. Serveringsansvarig är även ansvarig för att eventuella handkassor hanteras enligt §4 i detta dokument. Serveringsansvarig ska i skälig tid innan festtillfället kontakta den nämnd som förvaltar dryckeslagren och informera sig om gällande bestämmelser för sektionen.
+När en nämnd eller ett projekt har fest och använder sektionens dryckeslager som sittningsdryck ska det bokföras av bokföringsansvariga för nämnden eller projektet som festen ligger under. Nämnden/projektet ska både belastas för inköp av drycken från lagret samt tilldelas biljettförsäljningen för evenemanget. Kostnaden för inköpet får beräknas enligt av Kassör tillhandahållna schablonbelopp. Serveringsansvarig för festtillfället är ansvarig för att betalning och dagsavslut görs efter sektionens standarder. Serveringsansvarig ska i skälig tid innan festtillfället kontakta den nämnd som förvaltar dryckeslagren och informera sig om gällande bestämmelser för sektionen.
 
 ## §4.3 Andra lager
 
-Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma Kassör till handa så snart som möjligt efter att den skett.
+Andra lager av betydande värde (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma Kassör till handa så snart som möjligt efter att den skett.
 
 # §5 Kvitton
 
@@ -53,94 +60,65 @@ Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
 Inköp på faktura betyder för det mesta att man nyttjar ett av sektionens kreditavtal. Detta får göras av sektionens funktionärer, både direkt (att funktionären nyttjar kreditavtalet) eller indirekt (att annan person nyttjar kreditavtalet på order av funktionär). Det är funktionärens ansvar att se till att det finns utrymme i budget för kostnaderna. Det går i regel bra att nyttja kreditavtal skrivna av andra organ inom sektionen än det man handlar för, men personen som gör inköpet ansvarar själv för att vara informerad om kreditavtalets gränser.
 
-Stora inköp på över 50000 kr som kan komma att påverka sektionens ekonomi i stort ska meddelas Kassör så fort det blir känt.
+Stora inköp på över ett prisbasbelopp som kan komma att påverka sektionens ekonomi i stort ska meddelas Kassör så fort det blir känt.
 
-Alla fakturor i sektionens namn ska skickas till sektionens gällande fakturaadress.
+Alla fakturor i sektionens namn skickas till sektionens gällande fakturaadress, eller av Kassör angiven metod.
+
+Endast firmatecknare har rätt att ingå avtal för sektionen. Köp via faktura räknas som att ingå avtal. Därmed behövs antingen en fullmakt att ingå avtal, ett existernade kreditavtal eller att fakturan ställs ut till en medlem. 
 
 ## §6.2 Försäljning via faktura
 
-Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Nämnder ansvarar själva för att kontinuerligt kontrollera att utskickade fakturor betalas i tid. En kopia av fakturan ska omgående komma bokföringsansvarig tillhanda.
+Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Nämnder ansvarar själva för att kontinuerligt kontrollera att utskickade fakturor betalas i tid. En kopia av fakturan ska omgående skickas till bokföringsansvarig.
 
 # §7 Budget
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna _Intäkter_ och _Utgifter_. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
 
 ## §7.1 Skyldighet
 
-Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Beslutet kan överklagas enligt nämnda ordning i §A.
+Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Ett sådant nekande bör kunna motiveras med hänsyn till relevanta regler, och man har rätt till en sådan motivering om den efterfrågas. Beslutet kan överklagas enligt nämnda ordning i §A.
 
-## §7.2 Fördelning och användning av teambuilding- och fikabudget
+## §7.2 Fördelning och användning av teambuilding-, personalvård- och fikabudget
 
-Budgeten för teambuilding och fika till intern grupp baseras på en kategoriindelning av
-nämnder och projekt. Beroende på vilken kategori som nämnden eller projektet faller
-inom tilldelas de ett visst belopp per aktiv medlem per år.
-
-Styrelsen innehar en förteckning över vilka kategorier som nämnder och projekt
-tillhör, samt beloppen kopplade till varje kategori. Styrelsen administrerar i vilken
-kategori varje nämnd och projekt tillhör men kan inte flytta ner en nämnd i en kategori
-under ett verksamhetsår utan beslut från SM. Styrelsen administrerar även storleken
-på beloppen kopplade till varje kategori.
-
-Budgeten för fika till event och personalvård bestäms på SM.
+Styrelsen ska arbeta för att fika till interna grupper, fika till event, teambuilding och personalvård ska fördelas på ett rimligt och rättvist sätt. Budget för fika till interna grupper, fika till event, teambuilding och personalvård beslutas av SM med styrelsens underlag som grund.
 
 ### §7.2.1 Teambuildingbudget
 
-Teambuldingbudget ska gå till inköp inför eller under interna gruppers
-teambuildingaktiviteter. Inköpen ska ha en klar koppling till teambuildingen.
+Teambuldingbudget ska gå till inköp inför eller under interna gruppers teambuildingaktiviteter. Inköpen ska ha en klar koppling till teambuildingen.
 
-Teambuildingbudget ska i största möjliga mån fördelas jämnt mellan medlemmarna i
-nämnden eller projektet.
+Teambuildingbudget ska i största möjliga mån fördelas jämnt mellan medlemmarna i nämnden eller projektet.
 
-En teambuilding för en intern grupp ska i största möjliga mån annonseras i förväg så att
-hela hela gruppen har möjlighet att närvara.
+En teambuilding för en intern grupp ska annonseras i förväg så att hela gruppen har möjlighet att närvara.
 
-Minst 2 personer måste förväntas närvara för att man ska kunna spendera
-teambuildingbudget.
+Minst 2 personer måste förväntas närvara för att man ska kunna spendera teambuildingbudget.
 
-Det ska dokumenteras vad som gjordes under ett TB-tillfälle, vilka som var där samt
-hur mycket pengar som spenderades.
+Det ska dokumenteras vad som gjordes under ett TB-tillfälle, vilka som var där samt hur mycket pengar som spenderades.
 
 ### §7.2.2 Fikabudget
 
-Fikabudget ska gå till inköp av fika på möten eller andra aktiviteter. Det är inte
-nödvändigt att erbjuda fika på alla möten eller aktiviteter, men i de fall då fika erbjuds
-ska den vara tillgänglig för samtliga deltagare på mötet eller aktiviteten. Minst två personer ska förväntas närvara på ett möte eller en aktivitet för att fikabudget ska
-spenderas.
+Fikabudget ska gå till inköp av fika på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda fika på alla möten eller aktiviteter, men i de fall då fika erbjuds ska den vara tillgänglig för samtliga deltagare på mötet eller aktiviteten. Minst två personer ska förväntas närvara på ett möte eller en aktivitet för att fikabudget ska spenderas.
 
-Med fika avses enklare förtäring av mindre värde som inte får ersätta måltid.
-Fikabudget får ej heller bekosta alkohol.
+Med fika avses enklare förtäring av mindre värde som inte ersätter måltid. Fikabudget får ej bekosta alkohol.
 
 #### §7.2.2.1 Fika till intern grupp
 
-Fika till intern grupp ska i första hand spenderas under de möten eller tillfällen som
-nämnder eller projekt har för att planera sin verksamhet, eller till dess arbetsmöten.
+Fika till intern grupp ska i första hand spenderas under de möten eller tillfällen som nämnder eller projekt har för att planera sin verksamhet, eller till dess arbetsmöten.
 
-Budgeten för fika ska i största möjliga mån fördelas jämnt mellan medlemmarna i
-gruppen.
+Budgeten för fika ska i största möjliga mån fördelas jämnt mellan medlemmarna i gruppen.
 
-Ett tillfälle med fika för en intern grupp ska i största möjliga mån annonseras i förväg så
-att hela hela gruppen har möjlighet att närvara.
+Ett tillfälle med fika för en intern grupp ska annonseras i förväg så att hela gruppen har möjlighet att närvara.
 
-Det är inte tillåtet att öka frekvensen av tillfällen i syfte att kunna spendera mer
-pengar på fika.
-
-Det ska dokumenteras vad som gjordes under tillfället, vilka som var där samt hur
-mycket pengar som spenderades.
+Det ska dokumenteras vad som gjordes under tillfället, vilka som var där samt hur mycket pengar som spenderades.
 
 #### §7.2.2.2 Fika till event
 
-Fika till event ska vara tydligt kopplat till ett tillfälle och ett event riktat utåt mot hela
-sektionen.
+Fika till event ska vara tydligt kopplat till ett tillfälle och ett event riktat utåt mot hela sektionen.
 
-Ett event med fika riktat mot hela sektionen ska i största möjliga mån annonseras i
-förväg så att alla som vill har möjlighet att delta.
+Ett event med fika riktat mot hela sektionen ska annonseras i förväg så att alla som vill har möjlighet att delta.
 
-Budgeten för eventfika ska i största möjliga mån fördelas jämnt mellan deltagarna
-under eventet.
+Budgeten för eventfika ska i största möjliga mån fördelas jämnt mellan deltagarna under eventet.
 
-För att spendera budgeten för eventfika måste det närvara andra personer än
-nämndmedlemmar eller medlemmar i projektgruppen. Med undantag för öppna
-nämnder där medlemmar är samtliga intresserade sektionsmedlemmar.
+För att spendera budgeten för eventfika måste det närvara andra personer än nämndmedlemmar eller medlemmar i projektgruppen. Med undantag för öppna nämnder där medlemmar är samtliga intresserade sektionsmedlemmar.
 
 #### §7.2.2.3 Personalvård
 
@@ -151,6 +129,15 @@ deltar under passet och alla som arbetar ska ha möjlighet att ta del av persona
 
 Budgeten för personalvård får endast spenderas på de som jobbar under
 arbetstillfället.
+
+Med personalvård avses enklare förtäring av mindre värde som ej ersätter måltid. Personalvårdsbudget får ej bekosta alkohol
+
+## §7.3 Bokföringskonton för teambuilding, personalvård och fika
+
+Fika till intern grupp ska bokföras på bokföringskontot 7691
+Fika till event ska bokföras på bokföringskontot 4045
+Personalvård ska bokföras på bokföringskontot 7691
+Teambuilding ska bokföras på bokföringskontot 7631
 
 # §8 Fonder
 
@@ -176,7 +163,7 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 # §9 Subventionering av profilkläder
 
-Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform bedöms av DM och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
+Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
 
 Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
 
@@ -187,7 +174,7 @@ Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då a
 Firmatecknare och Vice kassör har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
 Revisorer har tillgång till att se sektionens samtliga tillgångar och transaktioner på banken.
 
-Nämndordförande och projektledare för bokföringspliktiga nämnder och projekt ska ha tillgång till att se och hantera tillgångarna som ligger på sin egen nämnds bankkonto.
+Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller projekt. DM kan besluta om tillgångar till att hantera sektionens tillgångar. FIrmatecknare utfärdar accesser till att se tillgångar och transaktioner till nämndordförande, projektledare och bokföringsansvariga. 
 
 Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt till att se tillgångar och transaktioner på nämndens/projektets bankkonto.
 
@@ -195,11 +182,13 @@ Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att
 
 # §11 Attestering
 
-Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning organledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 
-Ett utlägg attesteras genom sektionens system för det syftet. En faktura attesteras antingen genom sektionens system för det syftet eller genom att godkänna fakturabetalningen på banken.
+Ifall det inte finns någon person som får attestera ett utlägg ska Ordförande och Kassör fatta ett enhälligt beslut i frågan. 
+
+Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflow.
 
 # §12 Avtal
 
