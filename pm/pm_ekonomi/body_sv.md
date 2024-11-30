@@ -180,7 +180,7 @@ Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt 
 
 Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att ge andra personer tillgång till att se och/eller hantera sektionens tillgångar. Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
-# §11 Attestering
+# §11 Attest
 
 Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning organledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
