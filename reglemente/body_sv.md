@@ -505,6 +505,18 @@ GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
 
+## §3.26 dRama
+
+### §3.26.1 Ändamål
+
+Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv
+
+### §3.26.2 Organisation
+
+dRama leds av dRamaturgen.
+
+Övriga medlemmar utses av dRamaturgen.
+
 # §4 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
@@ -831,6 +843,12 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
+
+### §6.2.26 dRamaturgen
+
+Är ordförande för dRama.
+
+Väljs på VM i period 4. Har läsår som mandatperiod.
 
 ## §6.3 Övriga funktionärer
 
