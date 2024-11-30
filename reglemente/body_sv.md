@@ -47,7 +47,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Nämnder
 
-Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
+Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
@@ -67,7 +67,7 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
-I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande."
+I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
 
 ## §3.2 Idrottsnämnden
 
@@ -81,7 +81,7 @@ Idrottsnämnden leds av Sektionsidrottsledaren.
 
 Övriga medlemmar väljs av Sektionsidrottsledare. 
 
-Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.”
+Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.
 
 ## §3.3 Informationsorganet
 
@@ -289,7 +289,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Studiemiljöansvarig
 * Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 * Konglig Lokalchef
-* Systemansvarig
+* Systemansvarig.
 
 hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
 intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
@@ -347,7 +347,7 @@ Då urnval anordnats ska även information om hur urnvalets röstprocess gått t
 
 #### §3.12.8.2 Publiceringsplats
 
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.8](../stadgar#1-8-officiella-informationskanaler).
 
 #### §3.12.8.3 Publiceringstid
 
@@ -481,12 +481,12 @@ Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
-
 ## §3.24 D-festeriet
 
 ### §3.24.1 Ändamål
 
 D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+
 ### §3.24.2 Organisation
 
 D-festeriet leds av D-Fest.
@@ -504,7 +504,6 @@ Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika his
 GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
-
 
 # §4 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
@@ -531,15 +530,15 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd. Dessa ansvarsområden inkluderar att
 
--   förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
+- förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
--   tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
+- tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
 
--   förvalta sektionens externa relationer
+- förvalta sektionens externa relationer
 
--   fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
+- fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
 
--   ha en god överblick av sektionens ekonomi.
+- ha en god överblick av sektionens ekonomi.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -547,13 +546,13 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
--   arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
+- arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
 
--   delegera och följa upp på beslutsuppföljning inom styrelsen
+- delegera och följa upp på beslutsuppföljning inom styrelsen
 
--   kunna företräda organisationen tillsammans med Ordförande
+- kunna företräda organisationen tillsammans med Ordförande
 
--   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
+- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -561,21 +560,21 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
--   protokoll från DM och SM anslås i enlighet med stadgarna
+- protokoll från DM och SM anslås i enlighet med stadgarna
 
--   stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
+- stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
 
--   tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
+- tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
 
--   hålla sektionens posthantering fungerande
+- hålla sektionens posthantering fungerande
 
--   verka för goda överlämningsrutiner i sektionens verksamhet
+- verka för goda överlämningsrutiner i sektionens verksamhet
 
--   tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
+- tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
 
--   efter ett SM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+- efter ett SM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
 
--   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
+- efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -583,23 +582,23 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
--   arbeta strategiskt med sektionens ekonomiska frågor
+- arbeta strategiskt med sektionens ekonomiska frågor
 
--   arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
+- arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
 
--   fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
+- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
--   ansvara för att upprätta och följa upp budgeten
+- ansvara för att upprätta och följa upp budgeten
 
--   arbeta strategiskt för att uppnå de ekonomiska målen satta av sektionen
+- arbeta strategiskt för att uppnå de ekonomiska målen satta av sektionen
 
--   vara ansvarig för sektionens bokföring
+- vara ansvarig för sektionens bokföring
 
--   se efter att rutinerna för sektionens likvida medel följs
+- se efter att rutinerna för sektionens likvida medel följs
 
--   ekonomisk lägesrapportering ska presenteras på SM
+- ekonomisk lägesrapportering ska presenteras på SM
 
--   ha ett nära samarbete med Vice kassör.
+- ha ett nära samarbete med Vice kassör.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -607,15 +606,15 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
--   arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
+- arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
 
--   fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
+- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
--   följa upp den kontinuerliga bokföringen
+- följa upp den kontinuerliga bokföringen
 
--   ansvara för att attesterade utlägg betalas och bokförs
+- ansvara för att attesterade utlägg betalas och bokförs
 
--   ha ett nära samarbete med Kassör.
+- ha ett nära samarbete med Kassör.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -623,15 +622,15 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
--   överblicka och verka för stärkandet av varumärket Datasektionen
+- överblicka och verka för stärkandet av varumärket Datasektionen
 
--   strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
+- strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
 
--   strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
+- strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
--   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
+- bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
   
--   upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
+- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -639,13 +638,13 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
--   strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
+- strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
--   verka för att möjliggöra rekreation utanför skoltid
+- verka för att möjliggöra rekreation utanför skoltid
 
--   upprätthålla och förvalta kontakten med andra sektioner och organisationer
+- upprätthålla och förvalta kontakten med andra sektioner och organisationer
 
--   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
+- verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -653,13 +652,13 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
--   verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
+- verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
 
--   ha en samordnade roll för de som arbetar med studentinflytande gentemot EECS på sektionen
+- ha en samordnade roll för de som arbetar med studentinflytande gentemot EECS på sektionen
 
--   strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
+- strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
 
--   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
+- från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -667,13 +666,13 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
--   verka för en god studiemiljö
+- verka för en god studiemiljö
 
--   ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+- ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
 
--   hantera JML-incidenter och leda kontakten med externa resurser
+- hantera JML-incidenter och leda kontakten med externa resurser
 
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
+- från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -903,13 +902,13 @@ I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställf
 
 Programansvarig student ska
 
--   ansvara för sektionens utbildningspåverkan på programnivå
+- ansvara för sektionens utbildningspåverkan på programnivå
 
--   arbeta från studentsidan med utbildningsprogrammets utformning
+- arbeta från studentsidan med utbildningsprogrammets utformning
 
--   ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
+- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
 
--   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
 #### §6.4.3.4 Mandatperiod
 
@@ -951,7 +950,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §6.4.4.4 Mandatperiod
 
-Revisorn Väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ### §6.4.5 Ljud- och ljusansvarig
 
@@ -979,19 +978,19 @@ I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehan
 
 Studiemiljöansvarig ska
 
--   ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
+- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
--   agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
+- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
 
--   närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
 
--   se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
+- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
 
--   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
 
--   inventera sjukvårdslådan en gång per period
+- inventera sjukvårdslådan en gång per period
 
--   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
 #### §6.4.6.4 Mandatperiod
 
@@ -1077,17 +1076,28 @@ I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehan
 #### §6.4.12.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
+
 - ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
+
 - arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
+
 - agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
+
 - närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+
 - kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
+
 - göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
+
 - arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
+
 - anordna minst en JML-utbildning per termin för sektionens funktionärer
+
 - ha löpande samarbete med KTH, EECS och THS om JML-arbeten
+
 - synliggöra sitt arbete för resten av sektionen
-- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida
+
+- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
 #### §6.3.13.4 Mandatperiod
 
@@ -1159,9 +1169,9 @@ Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under
 
 Vidare gäller att Ordförande Emeriti
 
--   erhåller evigt kostnadsfritt medlemskap i sektionen som Alumnimedlem
+- erhåller evigt kostnadsfritt medlemskap i sektionen som Alumnimedlem
 
--   erhåller årlig speciell inbjudan till Vårbalen.
+- erhåller årlig speciell inbjudan till Vårbalen.
 
 ### §9.2.2 Klubbmästare Emeritus
 
@@ -1212,3 +1222,5 @@ Det var bättre förr.
 ### §10.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
+
+[2]: #2-andra-styrande-dokument

@@ -49,7 +49,7 @@ Inom Konglig Datasektionen ska alla behandlas på lika villkor och ha samma möj
 
 De tillställningar som Konglig Datasektionen anordnar ska arbeta för att alla deltagare ska kunna delta under samma villkor, oavsett förutsättningar för enskild deltagare.
 
-Förtursbiljetter till evenemang ska enbart tillämpas enligt [PM för informationsspridning](https://styrdokument.datasektionen.se/pm_informationsspridning).
+Förtursbiljetter till evenemang ska enbart tillämpas enligt [PM för informationsspridning](../pm/pm_informationsspridning).
 
 # §4 Diskriminering och trakasserier
 
@@ -65,7 +65,7 @@ Vi uppmuntrar att eventuella händelser anmäls till rätt instans och sektionen
 
 Konglig Datasektionen ska vara aktivt normkritisk och självgranskande.
 
-Vid varje inval ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
+Vid varje inval ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](../policies/rekryteringspolicy).
 
 Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förloppet av sina mandatperioder.
 
@@ -73,8 +73,8 @@ Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förl
 
 Konglig Datasektionen ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
 
-Inval ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
+Inval ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](../policies/rekryteringspolicy).
 
-Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [PM för informationsspridning](https://styrdokument.datasektionen.se/pm_informationsspridning).
+Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [PM för informationsspridning](../pm/pm_informationsspridning).
 
 Slutligen åtar vi oss att agera för att göra sektionen transparent genom att tillhandahålla och kommunicera information på ett tydligt sätt.
