@@ -386,7 +386,6 @@ Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[5] 
 
 Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
 
-
 # §7 Projekt
 
 Ett projekt är ett tillfälligt sektionsorgan med syfte att genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
@@ -451,6 +450,7 @@ På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jäm
 Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
 
 ## §8.7 Val
+
 Nomineringslistan ska anslås enligt stadgarnas §3.13.1 senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
@@ -458,6 +458,7 @@ Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens or
 Då ingen kandidat finns till en post under valmöte vartill val till posten lysts, kan VM besluta att öppna för fri kandidatur. Vid val av kandidat under fri kandidatur krävs ett beslut med 3/4-majoritet av VM.
 
 ## §8.8 Ajournering
+
 Mötesordförande äger rätt att ajournera mötet till den, enligt §8.2 i kallelsen angivna reservtiden.
 
 # §9 Revision

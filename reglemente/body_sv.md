@@ -695,8 +695,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 - Jämlikhetsnämndens ordförande
 - Internationell studentkoordinator
 
-
-
 ## §6.3 Nämndordförande
 
 ### §6.3.1 Jämlikhetsnämndens ordförande
@@ -955,7 +953,6 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 Revisorn Väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
-
 ### §6.4.5 Ljud- och ljusansvarig
 
 #### §6.4.5.1 Ändamål
@@ -1032,8 +1029,8 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens ordföran
 
 #### §6.4.9.2 Mandatperiod
 
-Tre ledamöter Väljs op SM i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter
-Väljs på SM i Period 2 och har kalenderår som mandatperiod.
+Tre ledamöter väljs på SM i Period 4 och har läsår som mandatperiod. 
+Ytterligare tre ledamöter väljs på SM i Period 2 och har kalenderår som mandatperiod.
 
 ### §6.4.10 Sångledare
 
