@@ -248,7 +248,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Avvikande valprocesser
 
-Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
+Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
