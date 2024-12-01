@@ -226,8 +226,7 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
 dRama ska:
 
-* annornda veckovisa improvträffar eller workshops som utforskar något koncept
-relaterat till scenkonst
+* annornda veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
 * förbereda och utföra gyckel och spex på sittningar
 * en gång per termin anordna en improvshow för de som vill komma och kolla.
 
