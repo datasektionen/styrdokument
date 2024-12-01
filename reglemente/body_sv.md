@@ -1069,35 +1069,17 @@ När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektion
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §6.4.11 Talman
+### §6.4.11 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
 #### §6.4.11.1 Ändamål
 
-Talmannens uppgift är att arrangera samt leda sektionsmötet.
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
 #### §6.4.11.2 Organisation
 
-I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
-
-#### §6.4.11.3 Verksamhet
-
-Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
-
-#### §6.4.11.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §6.4.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
-
-#### §6.4.12.1 Ändamål
-
-Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
-
-#### §6.4.12.2 Organisation
-
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
-#### §6.4.12.3 Verksamhet
+#### §6.4.11.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
@@ -1123,7 +1105,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §6.3.13.4 Mandatperiod
+#### §6.3.11.4 Mandatperiod
 
 Väljs på SM i Period 4. Har läsår som mandatperiod.”
 
