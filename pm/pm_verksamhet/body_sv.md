@@ -222,6 +222,14 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 * vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
 * på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
+## §1.23 dRama
+
+dRama ska:
+
+* anordna veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
+* förbereda och utföra gyckel och spex på sittningar
+* en gång per termin anordna en improvshow för de som vill komma och kolla.
+
 # §2 Funktionärer
 
 ## §2.1  Fanbärare
