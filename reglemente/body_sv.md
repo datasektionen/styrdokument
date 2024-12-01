@@ -481,6 +481,8 @@ Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
+Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret. 
+
 ## §3.24 D-festeriet
 
 ### §3.24.1 Ändamål
@@ -849,6 +851,10 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
+
+### §6.3.26 Medias Klubbmästare
+
+Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
 ## §6.4 Övriga funktionärer
 
