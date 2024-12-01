@@ -507,6 +507,24 @@ GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
 
+## §3.26 Talmanspresidiet
+
+### §3.26.1 Ändamål
+
+Talmanspresidiet har som uppgift att arrangera samt leda SM.
+
+Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
+
+### §3.26.2 Organisation
+
+Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
+
+### Verksamhet
+
+Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
+
+Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
+
 # §4 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
