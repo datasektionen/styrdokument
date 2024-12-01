@@ -31,7 +31,7 @@ Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter då inkö
 
 ## §4.1 Förvaltning av dryckeslager
 
-DKM förvaltar sektionens dryckeslager, utom under mottagningsperioden då Mottagningen tar över den uppgiften. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub­- och klubbverksamhet ska lagerföras.
+DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s lager. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub­- och klubbverksamhet ska lagerföras.
 
 Dryckeslagren ska inventeras minst en gång varannan månad samt innan och efter mottagningsperioden. Det inventerade värdet ska synkas mot bokföringen genom av Kassör särskilt anvisad resultatgrupp. Schablonbeloppen nämnda i §5.2 ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
