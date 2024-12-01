@@ -874,6 +874,12 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
+### §6.3.27 Talman
+
+Är ordförande för Talmanspresidiet.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
 ## §6.4 Övriga funktionärer
 
 ### §6.4.1 Fanbärare
