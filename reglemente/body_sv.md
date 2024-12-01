@@ -546,6 +546,11 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 ## §6.1 D-rektoratet
 
+D-rektoratets ledamöter har ett gemensamt ansvar att
+- efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+- bibehålla styrdokument samt övrig formalia i gott skick
+- hålla sektionens posthantering fungerande
+
 ### §6.1.1 Ordförande
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd. Dessa ansvarsområden inkluderar att
@@ -572,7 +577,9 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - kunna företräda organisationen tillsammans med Ordförande
 
-- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
+- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
+
+- verka för goda överlämningsrutiner i sektionens verksamhet.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
