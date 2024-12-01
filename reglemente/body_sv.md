@@ -1111,9 +1111,21 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §6.3.11.4 Mandatperiod
+#### §6.4.11.4 Mandatperiod
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.”
+Väljs på SM i Period 4. Har läsår som mandatperiod.
+
+### §6.4.12 Vice talman
+
+#### §6.4.12.1 Ändamål
+
+Vice talman har som uppgift att bistå talman i att arrangera SM.
+
+Vice talman är ställföreträdande talman.
+
+#### §6.4.12.2 Mandatperiod
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 # §7 Externa representanter
 
