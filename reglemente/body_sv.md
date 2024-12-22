@@ -821,8 +821,6 @@ Sammankallande för Studiesociala organet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Studiesociala organet.
-
 ### §7.3.7 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
@@ -966,6 +964,8 @@ Tillhör Informationsorganet.
 Är ordförande för D-festeriet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
+
+Tillhör Studiesociala organet.
 
 ### §7.3.25 Sektionshistoriker
 
