@@ -59,7 +59,7 @@ Organet leds av Kommunikatör.
 
 ### §3.1.3 Studiesociala organet
 
-Organet leds av D-Fest.
+Organet leds av Qulturattaché.
 
 ### §3.1.4 Eventorganet
 
