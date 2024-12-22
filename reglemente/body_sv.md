@@ -984,7 +984,7 @@ Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som
 
 ##### §7.4.4.3.3 Bokföring
 
-Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens organ.
+Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
 
 #### §7.4.4.4 Mandatperiod
 
