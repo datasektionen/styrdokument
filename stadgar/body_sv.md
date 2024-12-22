@@ -424,7 +424,7 @@ För varje projekt ska det finnas en eller flera personer som är projektledare.
 
 ### §8.4.1 Skyldigheter
 
-Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
+Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
 
 ### §8.4.2 Rättigheter
 
