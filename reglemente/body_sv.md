@@ -534,6 +534,8 @@ D-Dagen har till uppgift att informera näringslivet om sektionen och datateknik
 
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
 
+Tillhör Näringslivsorganet.
+
 ## §4.22 dJulkalendern
 
 ### §4.22.1 Ändamål
