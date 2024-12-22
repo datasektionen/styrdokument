@@ -869,6 +869,8 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+Tillhör Studiesociala organet.
+
 ### §7.3.14 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
