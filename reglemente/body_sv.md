@@ -1158,6 +1158,8 @@ Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och an
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
+Tillhör Studiesociala organet.
+
 #### §7.4.10.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
