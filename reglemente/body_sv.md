@@ -131,6 +131,8 @@ Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Intern
 
 Övriga medlemmar utses av sektionens Systemansvarig.
 
+Tillhör Informationsorganet.
+
 ## §4.4 Jämlikhetsnämnden
 
 ### §4.4.1 Ändamål
