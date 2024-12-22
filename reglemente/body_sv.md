@@ -201,6 +201,8 @@ Näringslivsgruppen leds av Näringslivsansvarig.
 
 Medlemmar utses av Näringslivsansvarig.
 
+Tillhör Näringslivsorganet.
+
 ## §4.8 Qulturnämnden
 
 ### §4.8.1 Ändamål
