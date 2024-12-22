@@ -905,6 +905,8 @@ International student coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod
 
+Tillhör Eventorganet.
+
 ### §7.3.18 Datas Art Director
 
 Är ordförande för Tag Monkeys.
