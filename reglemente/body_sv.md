@@ -740,6 +740,8 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Klubbmästeriet.
 
+Sammankallande för Eventorganet
+
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §7.3.3 Konglig Lokalchef
