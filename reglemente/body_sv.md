@@ -915,6 +915,8 @@ Tillhör Informationsorganet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+Tillhör Informationsorganet.
+
 ### §7.3.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
