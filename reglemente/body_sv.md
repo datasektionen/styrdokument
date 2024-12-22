@@ -480,6 +480,8 @@ Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidnin
 
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
 
+Tillhör Informationsorganet.
+
 ## §4.19 Datasladden
 
 ### §4.19.1 Ändamål
