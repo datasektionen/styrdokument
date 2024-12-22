@@ -491,7 +491,7 @@ Revisorerna har rätt att
 
 -   begära och erhålla upplysningar rörande verksamhet och förvaltning
 
--   bevaka sammanträden av sektionens nämnder, projekt och dylikt med närvaro-, yttrande- och yrkanderätt
+-   bevaka samtliga av sektionens sammanträden med närvaro-, yttrande- och yrkanderätt
 
 -   kalla till möte med samtliga nämnder, projekt eller dylikt.
 
