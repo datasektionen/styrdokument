@@ -392,7 +392,7 @@ Funktionär skall även på anmodan från organledare, D-rektoratet eller SM ful
 
 ## §7.2 Mandatperiod
 
-Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet. Ordinarie val ska hållas på mandatperiodens sista ordinarie SM.
+Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
 
 ## §7.3 Obligatoriska funktionärer
 
