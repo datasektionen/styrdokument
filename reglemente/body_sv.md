@@ -295,6 +295,8 @@ DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen f
 
 Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
 
+Tillhör Studiesociala organet.
+
 ## §4.12 Valberedningen
 
 ### §4.12.1 Ändamål
