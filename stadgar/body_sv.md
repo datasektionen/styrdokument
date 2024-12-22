@@ -362,7 +362,7 @@ Organledare är sammankallande för sitt respektive organ.
 
 # §6 Nämnder
 
-En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
+En nämnd är en del av sektionen som ansvarar för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
 
 En nämnds sammansättning och verksamhet regleras i reglementet.
 
