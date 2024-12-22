@@ -205,6 +205,8 @@ Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funkt
 
 Övriga medlemmar utses av Qulturattaché och motsvarande ansvarig funktionär från Sektionen för Medieteknik.
 
+Tillhör Studiesociala organet.
+
 ## §4.9 Studienämnden
 
 ### §4.9.1 Ändamål
