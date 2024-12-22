@@ -501,6 +501,8 @@ Scala leds av Körmästare.
 
 Övriga medlemmar utses av Körmästare.
 
+Tillhör Studiesociala organet.
+
 ## §4.21 D-Dagen
 
 ### §4.21.1 Ändamål
