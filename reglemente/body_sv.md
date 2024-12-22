@@ -440,6 +440,8 @@ Ordförande för Baknämnden är Bakis.
 
 Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
 
+Tillhör Studiesociala organet.
+
 ## §4.16 Internationella nämnden
 
 ### §4.16.1 Ändamål
