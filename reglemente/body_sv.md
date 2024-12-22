@@ -756,6 +756,8 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
+Sammankallande för Mottagningsorganet
+
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §7.3.5 Näringslivsansvarig
