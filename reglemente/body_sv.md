@@ -426,6 +426,8 @@ Prylmångleriet leds av Prylmånglaren.
 
 Övriga medlemmar utses av Prylmånglaren.
 
+Tillhör Studiesociala organet.
+
 ## §4.15 Baknämnden
 
 ### §4.15.1 Ändamål
