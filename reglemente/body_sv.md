@@ -1101,6 +1101,8 @@ Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så b
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
 
+Tillhör Påverkansorganet.
+
 #### §7.4.6.3 Verksamhet
 
 Studiemiljöansvarig ska
