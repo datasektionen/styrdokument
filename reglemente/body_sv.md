@@ -886,7 +886,9 @@ Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 ### §7.3.24 D-fest
 
-Är ordförande för D-festeriet
+Är ordförande för D-festeriet.
+
+Sammankallande för Studiesociala organet
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
