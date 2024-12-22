@@ -965,6 +965,8 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+Tillhör Informationsorganet.
+
 ### §7.3.26 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
