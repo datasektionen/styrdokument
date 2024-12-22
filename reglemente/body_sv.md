@@ -762,6 +762,8 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för Näringslivsgruppen.
 
+Sammankallande för Näringslivsorganet
+
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §7.3.6 Qulturattaché
