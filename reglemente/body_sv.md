@@ -475,6 +475,8 @@ Datasladden har till uppgift att ansvara över sektionsbilen.
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
 
+Tillhör Förvaltningsorganet.
+
 ## §4.20 Scala
 
 ### §4.20.1 Ändamål
