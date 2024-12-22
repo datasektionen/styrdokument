@@ -570,6 +570,8 @@ D-festeriet leds av D-Fest.
 
 Övriga medlemmar utses av D-Fest.
 
+Tillhör Eventorganet.
+
 ## §4.25 GUDAR
 
 ### §4.25.1 Ändamål
@@ -581,6 +583,8 @@ Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika his
 GUDAR leds av Sektionshistoriker.
 
 Övriga medlemmar utses av Sektionshistoriker.
+
+Tillhör Informationsorganet.
 
 # §5 Återkommande projekt
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
