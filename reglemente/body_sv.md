@@ -935,6 +935,8 @@ Tillhör Förvaltningsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+Tillhör Studiesociala organet.
+
 ### §7.3.23 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
