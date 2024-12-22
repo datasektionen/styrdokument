@@ -889,6 +889,8 @@ Tillhör Studiesociala organet.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
+Tillhör Näringslivsorganet.
+
 ### §7.3.16 Bakis
 
 Är ordförande för Baknämnden.
