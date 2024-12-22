@@ -748,6 +748,8 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Sektionslokalsgruppen.
 
+Sammankallande för Förvaltningsorganet
+
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 ### §7.3.4 Konglig Öfverdrif
