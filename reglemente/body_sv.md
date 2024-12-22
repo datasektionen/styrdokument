@@ -101,6 +101,8 @@ Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fa
 
 I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
 
+Tillhör Förvaltningsorganet.
+
 ## §4.2 Idrottsnämnden
 
 ### §4.2.1 Ändamål
