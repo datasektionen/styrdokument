@@ -817,6 +817,8 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+Tillhör Studiesociala organet.
+
 ### §7.3.7 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
