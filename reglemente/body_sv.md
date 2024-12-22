@@ -159,6 +159,8 @@ DKM leds av klubbmästaren.
 
 Övriga medlemmar utses av DKM.
 
+Tillhör Eventorganet.
+
 ## §4.6 Mottagningen
 
 ### §4.6.1 Ändamål
