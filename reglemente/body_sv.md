@@ -45,6 +45,38 @@ Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhe
 ### §2.3.2 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
+# §3 Organ
+
+## §3.1 Organ i sektionen
+
+### §3.1.1 Mottagningsorganet
+
+Organet leds av Storasyskon och Konglig Öfverdrif.
+
+### §3.1.2 Informationsorganet
+
+Organet leds av Kommunikatör.
+
+### §3.1.3 Studiesociala organet
+
+Organet leds av D-Fest.
+
+### §3.1.4 Eventorganet
+
+Organet leds av Klubbmästare.
+
+### §3.1.5 Näringslivsorganet
+
+Organet leds av Näringslivsansvarig.
+
+### §3.1.6 Förvaltningsorganet
+
+Organet leds av Konglig Lokalchef.
+
+### §3.1.7 Påverkansorganet
+
+Organet leds av Studienämndens ordförande.
+
 # §4 Nämnder
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
