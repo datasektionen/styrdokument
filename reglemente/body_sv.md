@@ -877,6 +877,8 @@ Tillhör Studiesociala organet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+Tillhör Studiesociala organet.
+
 ### §7.3.15 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
