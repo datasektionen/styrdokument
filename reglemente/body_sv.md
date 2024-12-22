@@ -1021,6 +1021,8 @@ Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurser
 
 I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
 
+Tillhör Påverkansorganet.
+
 #### §7.4.3.3 Verksamhet
 
 Programansvarig student ska
