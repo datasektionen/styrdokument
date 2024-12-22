@@ -292,6 +292,8 @@ Ada leds av Adas ordförande.
 
 Övriga medlemmar utses av Adas ordförande.
 
+Tillhör Eventorganet.
+
 ## §4.11 Data Et Medias OrquesterNämnd
 
 ### §4.11.1 Ändamål
