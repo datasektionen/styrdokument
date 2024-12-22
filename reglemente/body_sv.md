@@ -949,6 +949,8 @@ Tillhör Studiesociala organet.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
+Tillhör Informationsorganet.
+
 ### §7.3.24 D-fest
 
 Är ordförande för D-festeriet.
