@@ -145,6 +145,8 @@ Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studi
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
+Tillhör Påverkansorganet.
+
 ## §4.5 Klubbmästeriet
 
 ### §4.5.1 Ändamål
