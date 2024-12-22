@@ -891,6 +891,8 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+Tillhör Studiesociala organet.
+
 ### §7.3.17 Internationell studentkoordinator
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
