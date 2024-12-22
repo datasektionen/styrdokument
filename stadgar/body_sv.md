@@ -493,7 +493,7 @@ Revisorerna har rätt att
 
 -   bevaka samtliga av sektionens sammanträden med närvaro-, yttrande- och yrkanderätt
 
--   kalla till möte med samtliga nämnder, projekt eller dylikt.
+-   kalla till möte med samtliga delar av sektionen.
 
 ### §10.1.2 Uppgifter
 
