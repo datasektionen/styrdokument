@@ -784,6 +784,8 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
+Sammankallande för Mottagningsorganet
+
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §7.3.9 Studienämndens ordförande
