@@ -662,7 +662,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
-- bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
+- bistå i samordnandet av näringslivsfrågor på sektionen.
   
 - upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
