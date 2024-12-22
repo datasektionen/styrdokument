@@ -740,7 +740,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Klubbmästeriet.
 
-Sammankallande för Eventorganet
+Sammankallande för Eventorganet.
 
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
@@ -748,7 +748,7 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Sektionslokalsgruppen.
 
-Sammankallande för Förvaltningsorganet
+Sammankallande för Förvaltningsorganet.
 
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
@@ -756,7 +756,7 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Sammankallande för Mottagningsorganet
+Sammankallande för Mottagningsorganet.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
@@ -764,7 +764,7 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för Näringslivsgruppen.
 
-Sammankallande för Näringslivsorganet
+Sammankallande för Näringslivsorganet.
 
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
@@ -784,7 +784,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Sammankallande för Mottagningsorganet
+Sammankallande för Mottagningsorganet.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
@@ -792,7 +792,7 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för Studienämnden.
 
-Sammankallande för Påverkansorganet
+Sammankallande för Påverkansorganet.
 
 Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
@@ -888,7 +888,7 @@ Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 Är ordförande för D-festeriet.
 
-Sammankallande för Studiesociala organet
+Sammankallande för Studiesociala organet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
@@ -1070,7 +1070,7 @@ Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Komm
 
 #### §7.4.8.2 Organisation
 
-Sammankallande för Informationsorganet
+Sammankallande för Informationsorganet.
 
 #### §7.4.8.2 Mandatperiod
 
