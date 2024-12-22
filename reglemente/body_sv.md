@@ -177,6 +177,8 @@ Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är
 
 Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
+Tillhör Mottagningsorganet.
+
 ### §4.6.3 Ordförandes roll
 
 Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
