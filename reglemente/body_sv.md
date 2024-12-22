@@ -580,7 +580,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
-- arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
+- arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
 - delegera och följa upp på beslutsuppföljning inom styrelsen
 
