@@ -350,7 +350,7 @@ D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommend
 
 # §5 Organ
 
-Ett organ är en samling av funktionärer och nämnder.
+Ett organ är en samling av funktionärer, nämnder och projekt.
 
 Varje organ leds av en organledare.
 
