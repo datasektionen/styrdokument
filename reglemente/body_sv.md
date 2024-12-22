@@ -412,6 +412,8 @@ Datasektionens E-Sports Community leds av DESCtop.
 Inom Datasektionens E-Sports Community drivs även en Minecraftserver som heter
 METAcraft. METAcraft drivs av internfunktionären Herobrine.
 
+Tillhör Studiesociala organet.
+
 ## §4.14 Prylmångleriet
 
 ### §4.14.1 Ändamål
