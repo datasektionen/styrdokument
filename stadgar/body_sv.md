@@ -348,6 +348,14 @@ Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästko
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
+# §5 Organ
+
+Ett organ är en samling av funktionärer och nämnder.
+
+Varje organ leds av en organledare.
+
+Organen och dessas sammansättningar regleras i reglementet.
+
 # §6 Nämnder
 
 En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
