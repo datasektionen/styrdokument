@@ -1137,7 +1137,7 @@ Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att för
 
 ### §8.1.3 Revisions-SM
 
-Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
+Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet, organ och nämnder med bokföringsplikt.
 
 ### §8.1.4 Val-SM
 
