@@ -465,6 +465,8 @@ Internationella nämnden leds tillsammans av Internationell studentkoordinator o
 
 Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
 
+Tillhör Eventorganet.
+
 ## §4.17 Tag Monkeys
 
 ### §4.17.1 Ändamål
