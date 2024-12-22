@@ -468,6 +468,8 @@ Tag Monkeys leds av Datas Art Director.
 
 Övriga medlemmar utses av Datas Art Director.
 
+Tillhör Informationsorganet.
+
 ## §4.18 Redaqtionen
 
 ### §4.18.1 Ändamål
