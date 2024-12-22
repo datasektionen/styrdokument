@@ -384,7 +384,11 @@ Funktionär är den som av SM eller genom avvikande valprocess har valts till et
 
 ## §7.1 Skyldigheter
 
-Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av reglementet hålls aktuellt. Funktionär är skyldig att löpande hålla D-rektoratet informerat om sitt verksamhetsområde, samt att på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av styrdokumenten hålls aktuellt. 
+
+Funktionär är skyldig att löpande hålla organledare informerad om sitt verksamhetsområde. Saknas organledare skall funktionären istället informera D-rektoratet.
+
+Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
 ## §7.2 Mandatperiod
 
