@@ -817,6 +817,8 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Qulturnämnden.
 
+Sammankallande för Studiesociala organet.
+
 Väljs i Period 4. Har läsår som mandatperiod.
 
 Tillhör Studiesociala organet.
@@ -962,8 +964,6 @@ Tillhör Informationsorganet.
 ### §7.3.24 D-fest
 
 Är ordförande för D-festeriet.
-
-Sammankallande för Studiesociala organet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
