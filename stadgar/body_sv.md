@@ -515,5 +515,5 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [3.12]: #3-12-ajournering
 [4.2]: #4-2-d-rektoratsmöte
 [4.2.1]: #4-2-1-kallelse
-[6]: #5-nämnder
+[6]: #6-nämnder
 [10.1]: #8-1-revisorer
