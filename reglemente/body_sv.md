@@ -956,7 +956,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 #### §7.4.4.1 Ändamål
 
-Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionsorgans arbete.
+Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
 
 #### §7.4.4.2 Organisation
 
