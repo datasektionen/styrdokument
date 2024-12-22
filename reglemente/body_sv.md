@@ -531,6 +531,8 @@ dJulkalendern leds av Tomtemor/-far.
 
 Övriga medlemmar utses av Tomtemor/-far.
 
+Tillhör Informationsorganet.
+
 ## §4.23 Medias Klubbmästeri
 
 Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
