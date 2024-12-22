@@ -428,7 +428,7 @@ Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av proje
 
 ### §8.4.2 Rättigheter
 
-D-rektoratet ansvarar för att projektledare i aktiva projekt får ta del av samma information som sektionens funktionärer samt att även dessa bjuds in till funktionärsmiddagar och liknande tillställningar. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
+Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
 
 ## §8.5 Delade projekt
 
