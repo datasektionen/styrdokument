@@ -404,7 +404,7 @@ Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt centr
 
 # §8 Projekt
 
-Ett projekt är ett tillfälligt sektionsorgan med syfte att genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
+Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
 
 ## §8.1 Uppstart
 
