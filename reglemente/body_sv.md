@@ -49,7 +49,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
-Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd och organ att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
 Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
