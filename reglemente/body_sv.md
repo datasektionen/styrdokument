@@ -1064,9 +1064,13 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §7.4.8 Kommunikatör
 
-#### § 5.3.8.1 Ändamål
+#### §7.4.8.1 Ändamål
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
+
+#### §7.4.8.2 Organisation
+
+Sammankallande för Informationsorganet
 
 #### §7.4.8.2 Mandatperiod
 
