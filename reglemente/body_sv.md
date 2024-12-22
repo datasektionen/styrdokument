@@ -779,6 +779,8 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+Tillhör Påverkansorganet.
+
 ### §7.3.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
