@@ -461,7 +461,7 @@ Tillhör Studiesociala organet.
 
 ### §4.16.1 Ändamål
 
-Internationella nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
+Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
 ### §4.16.2 Organisation
 
@@ -906,8 +906,6 @@ Tillhör Studiesociala organet.
 ### §7.3.17 Internationell studentkoordinator
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
-
-International student coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod
 
