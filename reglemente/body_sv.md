@@ -319,6 +319,8 @@ Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigan
 
 Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
+Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
+
 ### §3.12.8 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
