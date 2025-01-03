@@ -22,9 +22,9 @@ Idrottsnämnden ska:
 * driva Datasektionens fotbollslag Tech-i-Taka.
 
 
-## §1.3 Informationsorganet
+## §1.3 Systemgruppen
 
-Informationsorganet ska:
+Systemgruppen ska:
 
 * underhålla och utveckla sektionens datasystem
 * ansvara för drift och underhåll av sektionens servrar
