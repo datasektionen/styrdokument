@@ -123,7 +123,7 @@ Prylmångleriet ska:
 * köpa in, och sköta försäljningen av, overaller
 * hjälpa Ettan att utforma och beställa årskursmärken
 * vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
-* hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål. Prylmångleriet och nämnden eller projektet kan komma överens om egna lösningar för vem som sköter administration och inköp. Nämnden eller projektet bestämmer vem som får köpa märket eller föremålet.
+* hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
 
 ## §1.13  Baknämnden
 
