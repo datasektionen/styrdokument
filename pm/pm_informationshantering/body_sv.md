@@ -20,13 +20,15 @@ Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@
 
 ## §2.1 Laglig grund
 
-Genom bestämmelser i högskolelagen och studentkårsförordningenär det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse. Den behandling av personuppgifter som är nödvändig för att utöva verksamhet som grundas på nämnda föreskrifter kan därmed ske med stöd av den rättsliga grunden uppgift av **allmänt intresse** enligt **artikel 6.1 e** i EU:s dataskyddsförordning. Andra möjliga grunder:
+Genom bestämmelser i högskolelagen och studentkårsförordningenär det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
 
 -   **Samtycke** enligt **artikel 6.1 a** i dataskyddsförordningen.
 
 -   **Fullgörande** av avtal enligt **artikel 6.1 b** i dataskyddsförordningen.
 
 -   **Rättslig förpliktelse** enligt **artikel 6.1 c** i dataskyddsförordningen.
+
+-   **Allmänt intresse** enligt **artikel 6.1 e** i dataskyddsförordningen.
 
 -   **Intresseavvägning** enligt **artikel 6.1 f** i dataskyddsförordningen.
 
