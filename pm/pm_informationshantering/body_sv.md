@@ -70,7 +70,7 @@ Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordnin
 
 ## §4.1 Administration av uppgifter
 
-Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till att relevanta lagstiftningar samt interna policies efterföljs. Denne ska vara tillgänglig för frågor om uppgiftsinsamlingen samt ansvarar för att ta bort uppgifterna vid det tillfälle de inte längre behövs, exempelvis efter ett event eller vid avanmälan. Mail till den ansvarige och en länk till sektionens informationshanteringspolicy ska alltid finnas angivet i formuläret.
+Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till att relevanta lagstiftningar samt interna policies efterföljs. Denne ska vara tillgänglig för frågor om uppgiftsinsamlingen samt ansvarar för att anonymisera uppgifterna efter ett event är avslutat eller vid avanmälan. Mail till den ansvarige och en länk till sektionens PM för Informationshantering ska alltid finnas angivet i insamlingsformuläret.
 
 ## §4.2 Hantering av inkommande e-post
 
