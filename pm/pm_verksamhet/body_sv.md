@@ -230,6 +230,13 @@ dRama ska:
 * förbereda och utföra gyckel och spex på sittningar
 * en gång per termin anordna en improvshow för de som vill komma och kolla.
 
+## §1.24 Kommunikationsgruppen
+
+Kommunikationsgruppen ska:
+
+* Administrera och moderera datasektionens ofciella och inofciella informationskanaler
+* Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
+
 # §2 Funktionärer
 
 ## §2.1  Fanbärare
