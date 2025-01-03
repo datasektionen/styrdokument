@@ -18,7 +18,7 @@ Den som önskar näringslivssamarbeten med övriga delar av sektionen ska kontak
 
 ## §2.1 Ej önskvärda samarbeten
 
-Sektionens näringslivsgrupper och projekt ska främja ansvarstagande och hållbarhet inom alla aspekter av verksamheten. Affärsrelationer och samarbeten ska undvikas med företag vars huvudverksamhet är:
+Sektionens näringslivsgrupper och projekt ska främja ansvarstagande och hållbarhet inom alla aspekter av verksamheten. Affärsrelationer, samarbeten och investeringar ska undvikas med företag vars huvudverksamhet är:
 
 * Tillverkning eller försäljning av tobak/nikotinprodukter
 * Satsningsspel, inklusive lotterier och kasinon.
