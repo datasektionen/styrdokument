@@ -20,7 +20,7 @@ Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@
 
 ## §2.1 Laglig grund
 
-Genom bestämmelser i högskolelagen och studentkårsförordningenär det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse. Den behandling av personuppgifter som är nödvändig för att utöva verksamhet som grundas på nämnda föreskrifter kan därmed ske med stöd av den rättsliga grunden uppgift av **allmänt intresse** enligt **artikel 6.1 e** i EU:s dataskyddsförordning. Andra möjliga grunder:
+Genom bestämmelser i högskolelagen och studentkårsförordningenär det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
 
 -   **Samtycke** enligt **artikel 6.1 a** i dataskyddsförordningen.
 
@@ -28,21 +28,27 @@ Genom bestämmelser i högskolelagen och studentkårsförordningenär det i sven
 
 -   **Rättslig förpliktelse** enligt **artikel 6.1 c** i dataskyddsförordningen.
 
+-   **Allmänt intresse** enligt **artikel 6.1 e** i dataskyddsförordningen.
+
 -   **Intresseavvägning** enligt **artikel 6.1 f** i dataskyddsförordningen.
 
 # §3 Dina rättigheter
 
 ## §3.1 Tillgång till hanterade uppgifter
 
-För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa i form av ett registerutdrag. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
+Enligt dataskyddsförordningen artikel 15 har du rätt att få bekräftelse på huruvida dina personuppgifter håller på att behandlas och iså fall också få tillgång till personuppgifterna samt metainformation runt personuppgiftshanteringen.
+
+För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. Om du vill ha övrig information som du enligt dataskyddsförordningen har rätt till måste du specicera detta i samband med din begäran.
+
+För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
 
 ## §3.2 Rättelse av hanterade uppgifter
 
-I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
+I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du enligt dataskyddsförordningen artikel 16 rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
 
 ## §3.3 Borttagning av hanterade uppgifter
 
-Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respektive ändamål. Du kan dock begära att uppgifter relaterade till dig tas bort i följande fall:
+Enligt dataskyddsförordningen artikel 17 har du i vissa fall rätt att kräva radering av dina personuppgifter. Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respektive ändamål. I följande fall kan du begära att uppgifter relaterade till dig tas bort:
 
 -   Om uppgifterna inte längre är nödvändiga för ändamålet.
 
@@ -58,18 +64,16 @@ Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga 
 
 ## §3.4 Anmälan av felaktig hantering
 
-Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan du anmäla detta till Integritetsskyddsmyndigheten.
+Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan informera sektionensstyrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
 
 # §4 Vår hantering
 
 ## §4.1 Administration av uppgifter
 
-Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till att relevanta lagstiftningar samt interna policies efterföljs. Denne ska vara tillgänglig för frågor om uppgiftsinsamlingen samt ansvarar för att ta bort uppgifterna vid det tillfälle de inte längre behövs, exempelvis efter ett event eller vid avanmälan. Mail till den ansvarige och en länk till sektionens informationshanteringspolicy ska alltid finnas angivet i formuläret.
+Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till att relevanta lagstiftningar samt interna policies efterföljs. Denne ska vara tillgänglig för frågor om uppgiftsinsamlingen samt ansvarar för att anonymisera uppgifterna efter ett event är avslutat. Mail till den ansvarige och en länk till sektionens PM för Informationshantering ska alltid finnas angivet i insamlingsformuläret.
 
-## §4.2 Hantering av inkommande e-post
+## §4.2 Hur skyddar vi uppgifter
 
-E-post som kommer in behöver hanteras för att kunna genomföra sektionens verksamhet. Däremot innehåller e-post alltid kontaktuppgifter och behöver därför hanteras i enlighet med dataskyddsförordningen. Om det finns personuppgifter som behöver sparas ska dessa flyttas till andra system för vidare lagring och sedan tas bort. Funktionärer ska även rensa sin inkorg på alla mail var tredje månad för att säkerställa att inga hanterade e-postmeddelanden finns kvar. Vid utskick till många personer ska alla funktionärer även använda BCC för att inte sprida personuppgifter i onödan.
+Alla personuppgifter som hanteras av sektionen ska lagras på den Google Drive som gruppen använder i sin verksamhet eller serveryta som sektionen genom antingen ägarskap eller uthyrning förfogar över. Endast de som aktivt ingår i gruppen, sektionens systemansvarig, sektionens styrelse samt sektionens revisorer får ha tillgång till den information som sparas. Personuppgifter får inte spridas genom kommunikationskanaler utöver Google Drive eller sektionens egenhostade kommunikationssystem för att undvika att skapa ytterligare kopior. Vid arbete som kräver en lokal kopia ska alla lokala kopior tas bort så snart arbetet är färdigt. Då informationen lagras på Drive samt inhyrd serveryta finns det en chans att uppgifterna överförs till ett annat land för lagring, dock ska detta alltid göras i enlighet med GDPR.
 
-## §4.3 Hur skyddar vi uppgifter
-
-Alla personuppgifter ska lagras på den Google Drive som gruppen använder i sin verksamhet. Endast de som aktivt ingår i gruppen, sektionens styrelse vid behov samt sektionens revisorer får ha tillgång till den information som sparas. Personuppgifter får inte spridas genom andra kommunikationskanaler utan ska endast hanteras genom Google Drive för att undvika att skapa ytterligare kopior. Vid arbete som kräver en lokal kopia ska arbetet sparas på Google Drive och alla lokala kopior tas bort så snart arbetet är färdigt. Då informationen lagras på Drive finns det en chans att uppgifterna överförs till ett annat land för lagring, dock ska detta alltid göras i enlighet med GDPR.
+Undantag till ovanstående gäller personuppgiftersom hanterasi kondentiella sammanhang, till exempel inom trygghetsnämnden, där ovanstående rutin betydligt försvårar sekretess och/eller integriteten av ärendet.

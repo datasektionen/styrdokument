@@ -22,9 +22,9 @@ Idrottsnämnden ska:
 * driva Datasektionens fotbollslag Tech-i-Taka.
 
 
-## §1.3 Informationsorganet
+## §1.3 Systemgruppen
 
-Informationsorganet ska:
+Systemgruppen ska:
 
 * underhålla och utveckla sektionens datasystem
 * ansvara för drift och underhåll av sektionens servrar
@@ -46,7 +46,7 @@ Jämlikhetsnämnden ska:
 Datas Klubbmästeri (DKM) ska:
 
 * arrangera fester, jippon, pubar och andra sociala arrangemang
-* vid behov assistera vid andra sektionsrelaterade arrangemang
+* assistera resten av sektionen vid alkoholinköp till dryckslagret
 * anordna den traditionella dJulmiddagen
 * sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
 
@@ -101,7 +101,7 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
     * umgås med likasinnade människor.
 * anordna regelbundna repetitioner för DEMON:s medlemmar
 * bistå annan sektionsverksamhet genom spelningar på evenemang
-* band som använder DEMON:s budget för replokaler eller fika förväntas spela på något av sektionens evenemang och/eller spela å sektionens vägnar.
+* säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
 * samordna gemensamma besök på konserter/festivaler/spelningar.
 
 ## §1.11  Datasektionens E-Sports Community
@@ -109,7 +109,6 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 Datasektionens E-Sports Community ska:
 
 * anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
-* samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 * skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 * samarbeta med Qulturnämnden för överlappande verksamhet
 * driva Datasektionens Minecraftserver METAcraft.
@@ -124,7 +123,7 @@ Prylmångleriet ska:
 * köpa in, och sköta försäljningen av, overaller
 * hjälpa Ettan att utforma och beställa årskursmärken
 * vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
-* hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål. Prylmångleriet och nämnden eller projektet kan komma överens om egna lösningar för vem som sköter administration och inköp. Nämnden eller projektet bestämmer vem som får köpa märket eller föremålet.
+* hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
 
 ## §1.13  Baknämnden
 
@@ -144,7 +143,7 @@ Internationella nämnden ska:
 * hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 * hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
 * genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-* fungera som kontaktperson för utländska studenter på sektionerna
+* fungera som kontaktpersoner för utländska studenter på sektionerna
 * genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
 * främja informationsspridning på engelska inom sektionen
 * verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
@@ -175,7 +174,7 @@ Datasladden ska:
 * administrera bokningar av sektionsbilen
 * sköta reparation, underhåll och utveckling av sektionsbilen
 * utforma samt upprätthålla regler för sektionsbilen
-* se till att körjournalen används av alla som brukar sektionsbilen.
+* arbeta för att körjournalen används av alla som brukar sektionsbilen.
 
 ## §1.18  Scala
 
@@ -208,7 +207,7 @@ D-festeriet ska:
 * anordna gasquer och andra evenemang för sektionsmedlemmar
 * anordna TB samt Skiftes för funktionärer en gång per termin
 * anordna evenemang i samarbete med andra studentföreningar
-* hjälpa andra nämnder med gasqueverksamhet vid behov.
+* hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
 ## §1.22  GUDAR
 
@@ -218,7 +217,7 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 * ansvara för sektionens alumniverksamhet
 * varje år upprätta en årskrönika
 * ansvara för underhållet av sektionens märkesarkiv
-* vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
+* vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
 * på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
 ## §1.23 dRama
