@@ -109,7 +109,6 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 Datasektionens E-Sports Community ska:
 
 * anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
-* samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 * skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 * samarbeta med Qulturnämnden för överlappande verksamhet
 * driva Datasektionens Minecraftserver METAcraft.
