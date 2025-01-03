@@ -1334,7 +1334,7 @@ Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §10 Förtjänsttecken och ordnar
+# §10 Ordnar
 
 ## §10.1 Hedersdeltat
 
