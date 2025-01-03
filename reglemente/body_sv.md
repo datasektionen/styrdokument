@@ -943,7 +943,7 @@ Tillhör Studiesociala organet.
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
 Tillhör Näringslivsorganet.
 
