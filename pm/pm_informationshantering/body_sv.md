@@ -44,7 +44,7 @@ För att begära ut denna information kan du kontakta sektionens styrelse på dr
 
 ## §3.2 Rättelse av hanterade uppgifter
 
-I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
+I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du enligt dataskyddsförordningen artikel 16 rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
 
 ## §3.3 Borttagning av hanterade uppgifter
 
