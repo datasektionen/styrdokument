@@ -25,4 +25,5 @@ Sektionens näringslivsgrupper och projekt ska främja ansvarstagande och hållb
 * Vapenindustri, exklusive de företag som är reglerade av den svenska staten
 
 ## §2.2 Startups
+
 Sektionen ska sträva efter att erbjuda bättre erbjudanden till mindre företag och startups. Vilka företag som kvalicerar för dessa erbjudanden regleras av Näringslivsgruppen.
