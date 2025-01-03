@@ -50,6 +50,8 @@ Ingen får sälja och servera alkohol till sig själv.
 
 Högst 1/3 av pengarna spenderade på förtäring per person får vid ett tillfälle med en intern grupp användas för att bekosta alkohol. Det är inte tillåtet att ge personer som dricker alkohol större budget än de som inte gör det för att kunna bekosta mer alkohol.
 
+Alkohol ska bara köpas poster tydligt avsett för detta. Dessa inkluderar Teambuilding och Inköp Dryck men inte Mat, Ingrediens eller liknande. 
+
 # THS Alkohol- och drogpolicy
 
 Datasektionen följer THS Alkohol- och drogpolicy. Policyn kan hittas [här](https://dsekt.se/thsdrogpolicy).
