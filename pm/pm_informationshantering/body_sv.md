@@ -36,7 +36,11 @@ Genom bestämmelser i högskolelagen och studentkårsförordningenär det i sven
 
 ## §3.1 Tillgång till hanterade uppgifter
 
-För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa i form av ett registerutdrag. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
+Enligt dataskyddsförordningen artikel 15 har du rätt att få bekräftelse på huruvida dina personuppgifter håller på att behandlas och iså fall också få tillgång till personuppgifterna samt metainformation runt personuppgiftshanteringen.
+
+För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. Om du vill ha övrig information som du enligt dataskyddsförordningen har rätt till måste du specicera detta i samband med din begäran.
+
+För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
 
 ## §3.2 Rättelse av hanterade uppgifter
 
