@@ -1336,11 +1336,9 @@ Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter
 
 # §10 Ordnar
 
-## §10.2 Ordnar
-
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-### §10.2.1 Ordförande Emeritus
+## §10.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -1350,19 +1348,19 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-### §10.2.2 Klubbmästare Emeritus
+## §10.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §10.2.3 Konglig Öfverdrif Emeritus
+## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §10.2.4 Storasyskon Emeritus
+## §10.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
-### §10.2.5 Kassör Emeritus
+## §10.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
