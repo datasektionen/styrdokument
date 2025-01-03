@@ -600,19 +600,19 @@ dRama leds av dRamaturgen.
 
 Övriga medlemmar utses av dRamaturgen.
 
-## §4.26 Talmanspresidiet
+## §4.27 Talmanspresidiet
 
-### §4.26.1 Ändamål
+### §4.27.1 Ändamål
 
 Talmanspresidiet har som uppgift att arrangera samt leda SM.
 
 Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
 
-### §4.26.2 Organisation
+### §4.27.2 Organisation
 
 Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
 
-### Verksamhet
+### §4.27.3 Verksamhet
 
 Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
 
