@@ -160,6 +160,10 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
+## §8.4 Källarfonden
+
+Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 4 prisbasbelopp till denna fond varje verksamhetsår.
+
 # §9 Subventionering av profilkläder
 
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
