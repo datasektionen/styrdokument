@@ -1366,16 +1366,6 @@ Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §10.3 Funktionärsmedalj
-
-### §10.3.1 Syfte
-
-Funktionärsmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som funktionär på sektionen.
-
-### §10.3.2 Utdelning
-
-Endast en medalj per funktionärspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
-
 ## §10.4 Projektledarmedalj
 
 ### §10.4.1 Syfte
