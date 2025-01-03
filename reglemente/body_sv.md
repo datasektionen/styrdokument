@@ -1336,22 +1336,6 @@ Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter
 
 # §10 Ordnar
 
-## §10.1 Hedersdeltat
-
-Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
-
-### §10.1.1 Syfte
-
-Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
-
-### §10.1.2 Förslagslämning
-
-Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
-
-### §10.1.3 Utdelning
-
-D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
-
 ## §10.2 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
