@@ -116,7 +116,7 @@ Alumnimedlem har rätt att
 
 ## §2.4 Juniormedlem
 
-Endast för nyligen antagen till Datateknikprogrammet. Medlemskapet gäller från uppropet och två månader framåt. Juniormedlem har närvarorätt och yttranderätt på SM.
+Endast för nyligen antagen till datateknikprogrammet eller nyligen antagen internationell datastudent. Medlemskapet gäller från två veckor innan terminsstart till och med fyra veckor efter terminsstart. Juniormedlem har närvarorätt och yttranderätt på SM.
 
 ## §2.5 Gästmedlemskap
 
