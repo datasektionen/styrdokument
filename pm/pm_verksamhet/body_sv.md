@@ -217,7 +217,7 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 * ansvara för sektionens alumniverksamhet
 * varje år upprätta en årskrönika
 * ansvara för underhållet av sektionens märkesarkiv
-* vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
+* vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
 * på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
 ## §1.23 dRama
