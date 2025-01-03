@@ -101,7 +101,7 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
     * umgås med likasinnade människor.
 * anordna regelbundna repetitioner för DEMON:s medlemmar
 * bistå annan sektionsverksamhet genom spelningar på evenemang
-* band som använder DEMON:s budget för replokaler eller fika förväntas spela på något av sektionens evenemang och/eller spela å sektionens vägnar.
+* säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
 * samordna gemensamma besök på konserter/festivaler/spelningar.
 
 ## §1.11  Datasektionens E-Sports Community
