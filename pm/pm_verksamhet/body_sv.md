@@ -207,7 +207,7 @@ D-festeriet ska:
 * anordna gasquer och andra evenemang för sektionsmedlemmar
 * anordna TB samt Skiftes för funktionärer en gång per termin
 * anordna evenemang i samarbete med andra studentföreningar
-* hjälpa andra nämnder med gasqueverksamhet vid behov.
+* hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
 ## §1.22  GUDAR
 
