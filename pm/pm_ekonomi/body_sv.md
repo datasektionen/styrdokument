@@ -160,6 +160,10 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
+## §8.4 Källarfonden
+
+Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 4 prisbasbelopp till denna fond varje verksamhetsår.
+
 # §9 Subventionering av profilkläder
 
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
@@ -192,6 +196,20 @@ Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflo
 # §12 Avtal
 
 Avtal kan enligt svensk lag endast undertecknas av firmatecknare eller innehavare av fullmakt. Den som önskar skriva på ett avtal i sektionens namn ska så snabbt som möjligt kontakta firmatecknare för att utreda möjligheten till att göra det. Avtal eller utfärdande av fullmakt beslutas om att skrivas under antingen genom DM, med stöd i styrdokument eller med standardavtal. Avtal kan i undantagsfall skrivas under retroaktivt. Den som med fullmakt skriver under ett avtal i sektionens namn ansvarar för att original omgående kommer firmatecknare tillhanda. Firmatecknare ansvarar för att förvara sektionens alla gällande avtal ordnat och samlat.
+
+# §13 Investeringsregler
+
+## §13.1 Beslut av köp
+
+Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebeslut.
+
+## §13.2 Risk
+
+För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
+* Aktier och preferensaktier
+* Obligationer och räntebärande värdepapper
+* Fonder
+* Börshandlade fonder
 
 # §A Beslutsordning
 
