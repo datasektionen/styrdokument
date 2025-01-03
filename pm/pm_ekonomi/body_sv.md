@@ -197,6 +197,20 @@ Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflo
 
 Avtal kan enligt svensk lag endast undertecknas av firmatecknare eller innehavare av fullmakt. Den som önskar skriva på ett avtal i sektionens namn ska så snabbt som möjligt kontakta firmatecknare för att utreda möjligheten till att göra det. Avtal eller utfärdande av fullmakt beslutas om att skrivas under antingen genom DM, med stöd i styrdokument eller med standardavtal. Avtal kan i undantagsfall skrivas under retroaktivt. Den som med fullmakt skriver under ett avtal i sektionens namn ansvarar för att original omgående kommer firmatecknare tillhanda. Firmatecknare ansvarar för att förvara sektionens alla gällande avtal ordnat och samlat.
 
+# §13 Investeringsregler
+
+## §13.1 Beslut av köp
+
+Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebeslut.
+
+## §13.2 Risk
+
+För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
+* Aktier och preferensaktier
+* Obligationer och räntebärande värdepapper
+* Fonder
+* Börshandlade fonder
+
 # §A Beslutsordning
 
 För att ha en organisation där vi kan ta snabba beslut men samtidigt ha en rättsäkerhet sker bedömning av de delar som refererar till denna paragraf av följande instanser i stigande ordning: Kassör, styrelse, Revisorer, SM. Om man anser att ett beslut är felaktigt kan man alltså överklaga till en högre instans.
