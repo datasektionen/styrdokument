@@ -72,10 +72,6 @@ Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordnin
 
 Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till att relevanta lagstiftningar samt interna policies efterföljs. Denne ska vara tillgänglig för frågor om uppgiftsinsamlingen samt ansvarar för att anonymisera uppgifterna efter ett event är avslutat eller vid avanmälan. Mail till den ansvarige och en länk till sektionens PM för Informationshantering ska alltid finnas angivet i insamlingsformuläret.
 
-## §4.2 Hantering av inkommande e-post
-
-E-post som kommer in behöver hanteras för att kunna genomföra sektionens verksamhet. Däremot innehåller e-post alltid kontaktuppgifter och behöver därför hanteras i enlighet med dataskyddsförordningen. Om det finns personuppgifter som behöver sparas ska dessa flyttas till andra system för vidare lagring och sedan tas bort. Funktionärer ska även rensa sin inkorg på alla mail var tredje månad för att säkerställa att inga hanterade e-postmeddelanden finns kvar. Vid utskick till många personer ska alla funktionärer även använda BCC för att inte sprida personuppgifter i onödan.
-
 ## §4.3 Hur skyddar vi uppgifter
 
 Alla personuppgifter ska lagras på den Google Drive som gruppen använder i sin verksamhet. Endast de som aktivt ingår i gruppen, sektionens styrelse vid behov samt sektionens revisorer får ha tillgång till den information som sparas. Personuppgifter får inte spridas genom andra kommunikationskanaler utan ska endast hanteras genom Google Drive för att undvika att skapa ytterligare kopior. Vid arbete som kräver en lokal kopia ska arbetet sparas på Google Drive och alla lokala kopior tas bort så snart arbetet är färdigt. Då informationen lagras på Drive finns det en chans att uppgifterna överförs till ett annat land för lagring, dock ska detta alltid göras i enlighet med GDPR.
