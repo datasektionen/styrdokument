@@ -143,7 +143,7 @@ Internationella nämnden ska:
 * hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 * hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
 * genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-* fungera som kontaktperson för utländska studenter på sektionerna
+* fungera som kontaktpersoner för utländska studenter på sektionerna
 * genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
 * främja informationsspridning på engelska inom sektionen
 * verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
