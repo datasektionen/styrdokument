@@ -48,7 +48,7 @@ I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du
 
 ## §3.3 Borttagning av hanterade uppgifter
 
-Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respektive ändamål. Du kan dock begära att uppgifter relaterade till dig tas bort i följande fall:
+Enligt dataskyddsförordningen artikel 17 har du i vissa fall rätt att kräva radering av dina personuppgifter. Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respektive ändamål. I följande fall kan du begära att uppgifter relaterade till dig tas bort:
 
 -   Om uppgifterna inte längre är nödvändiga för ändamålet.
 
