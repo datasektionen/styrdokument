@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens PM för samarbeten -->
+<!-- Konglig Datasektionens Samarbetspolicy -->
 
 # §1 Näringslivssamarbeten
 
