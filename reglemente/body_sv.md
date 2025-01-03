@@ -1045,6 +1045,12 @@ Väljs på VM i period 4. Har läsår som mandatperiod.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
+### §7.3.29 Kommunikatör
+
+Är ordförande för Kommunikationsgruppen.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
 ## §7.4 Övriga funktionärer
 
 ### §7.4.1 Fanbärare
