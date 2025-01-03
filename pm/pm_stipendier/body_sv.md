@@ -25,7 +25,7 @@ Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora delta
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
 # §1.3 Hedersugglan
-Hedersugglan utgörs av en nål eller motsvarande med ett delta på en uggla.
+Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
 ### §1.3.1 Syfte
 Hedersugglan utdelas varje år till en sektionsmedlem som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
