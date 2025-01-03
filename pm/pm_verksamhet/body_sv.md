@@ -174,7 +174,7 @@ Datasladden ska:
 * administrera bokningar av sektionsbilen
 * sköta reparation, underhåll och utveckling av sektionsbilen
 * utforma samt upprätthålla regler för sektionsbilen
-* se till att körjournalen används av alla som brukar sektionsbilen.
+* arbeta för att körjournalen används av alla som brukar sektionsbilen.
 
 ## §1.18  Scala
 
