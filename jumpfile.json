@@ -9,5 +9,6 @@
   "/jamlikhetspolicy": "/policies/jamlikhetspolicy",
   "/klimatpolicy": "/policies/klimatpolicy",
   "/rekryteringspolicy": "/policies/rekryteringspolicy",
-  "/uppförandepolicy": "/policies/uppforandepolicy"
+  "/uppförandepolicy": "/policies/uppforandepolicy",
+  "/pm_samarbeten": "/pm/pm_samarbeten"
 }
