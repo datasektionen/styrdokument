@@ -28,27 +28,27 @@ Sektionens traditioner, vanor, och livsregler lyder:
 
 ## 1.2 D-rektiv
 
-### 2004/2005
+### 2004/2005 - Frej Naimi-Akbar
 
 "Alla sektionens medlemmar bör under sin sommarledighet passa på att besöka den vackra staden Åbo. Medlemmarna bör samtidigt ta tillfället i akt och promenera längs den fantastiska floden Aura."
 
-### 2006/2007
+### 2006/2007 - D-rektoratet
 
 "Det är bättre att vara punsch drunk, än full av skit."
 
-### 2007/2008
+### 2007/2008 - Simon Habtemikael
 
 "Bros before hoes."
 
-### 2009
+### 2009 - Joel Westberg
 
 "Don’t stop believin’, hold on to that feelin’. And do the Safety Dance."
 
-### 2010
+### 2010 - Egil Antonsen
 
 "Uppåt, framåt, högre, in i dimman!"
 
-### 2011
+### 2011 - Andreas Falk
 
 "Vi har alla våra hemliga span på Facebook som vi kanske är lite för fega att avslöja oss för! Inför Alla Hjärtans Dag är det dags för skärpning: gå in på www.lovechicken.se och peka på den du har ett visst intresse för. Ni kommer att avslöjas för varandra bara om ni båda är intresserade av varandra, annars förblir din hemlis säker!"
 
@@ -62,57 +62,57 @@ When work piles up, my brain doesn't have any idle cycles. It jumps directly fro
 
 – Daniel Burnham, Chicago architect. (1846-1912)
 
-### 2012
+### 2012 - Andreas Tarandi
 
 "När rytmen måste komma, låt ditt hjärta vara trumma, varje sekund av ditt liv är en del av din sång."
 
-### 2013
+### 2013 - Petter Djupfeldt
 
 "Be excellent to eachother."
 
-### 2014
+### 2014 - Jacob Sievers
 
 "Möjligheter dansar med de som redan är på dansgolvet, så dansa!"
 
-### 2015
+### 2015 - Lovisa Runhem
 
 "There is a truth and it’s on our side
 Dawn is coming
 Open your eyes
 Look into the sun as a new days rise"
 
-### 2016
+### 2016 - Henrik Johansson
 
 "It's in our hearts to discover
 the dreams we share with each other
 ’Cause we will light a brighter day
 we are your tomorrow"
 
-### 2017
+### 2017 - Alexander Viklund
 
 "Dit händerna pekar, det är riktningen man dabar"
 
-### 2018
+### 2018 - Victor Sellstedt
 
 "Gör alltid så mycket du kan. Gå bara inte in i väggen utan var smart, använd en stege och klättra över den."
 
-### 2019
+### 2019 - Ävelin Pantigoso
 
 "Det är ingen vidare mening med att uppleva intressanta saker som utmaningar, om man inte får vara två om dem. Det är bra mycket trevligare att vara två!"
 
-### 2020
+### 2020 - Niklas Vatn
 
 "Under ett år kan en stöta på många motgångar. Dessa brukar kännas lättare efter en löprunda. Om det inte känns lättare har du förhoppningsvis blivit så snabb att du kan springa ifrån dina problem."
 
-### 2021
+### 2021 - Johan Hamredal
 
 "It’s about drive, it’s about power, we stay hungry, we devour
 Put in the work, put in the hours, and take what’s ours"
 
-### 2022
+### 2022 - David Puustinen
 
 "Livet kan kännas monotont ibland, våga testa nya saker. Det värsta som kan hända är att du nöjer dig mer med din tidigare tillvaro."
 
-### 2023
+### 2023 - Douglas Fischer
 
 "Låt inte studierna stå i vägen för din utbildning."
