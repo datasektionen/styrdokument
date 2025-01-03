@@ -54,13 +54,13 @@ Endast en medalj per funktionärspost och mandatperiod. D-rektoratet ansvarar f�
 ### §2.2.1 Syfte
 Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt planerat och genomfört ett projekt vid sektionen i egenskap av projektledare samt i förekommande fall fullständigt avslutat den ekonomiska bokföringen.
 
-### §2.1.1 Utformning
+### §2.2.2 Utformning
 Projektledarmedaljen består av ett gyllene delta med ett blåvitt band.
 
-### §2.2.2 Urval
+### §2.2.3 Urval
 För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
 
-### §2.2.3 Utdelning
+### §2.2.4 Utdelning
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
 
 # §3 Stipendier
