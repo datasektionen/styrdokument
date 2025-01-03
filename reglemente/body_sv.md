@@ -1366,20 +1366,6 @@ Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §10.4 Projektledarmedalj
-
-### §10.4.1 Syfte
-
-Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt planerat och genomfört ett projekt vid sektionen i egenskap av projektledare samt i förekommande fall fullständigt avslutat den ekonomiska bokföringen.
-
-### §10.4.2 Urval
-
-För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
-
-### §10.4.3 Utdelning
-
-En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
-
 # §11 Övrigt
 
 ## §11.1 Visdomsord
