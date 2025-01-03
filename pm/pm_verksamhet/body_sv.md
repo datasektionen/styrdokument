@@ -46,7 +46,7 @@ Jämlikhetsnämnden ska:
 Datas Klubbmästeri (DKM) ska:
 
 * arrangera fester, jippon, pubar och andra sociala arrangemang
-* vid behov assistera vid andra sektionsrelaterade arrangemang
+* assistera resten av sektionen vid alkoholinköp till dryckslagret
 * anordna den traditionella dJulmiddagen
 * sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
 
