@@ -588,6 +588,18 @@ GUDAR leds av Sektionshistoriker.
 
 Tillhör Informationsorganet.
 
+## §4.26 dRama
+
+### §4.26.1 Ändamål
+
+Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
+
+### §4.26.2 Organisation
+
+dRama leds av dRamaturgen.
+
+Övriga medlemmar utses av dRamaturgen.
+
 ## §4.26 Talmanspresidiet
 
 ### §4.26.1 Ändamål
@@ -1005,11 +1017,17 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Tillhör Informationsorganet.
 
-### §7.3.26 Medias Klubbmästare
+### §7.2.26 dRamaturgen
+
+Är ordförande för dRama.
+
+Väljs på VM i period 4. Har läsår som mandatperiod.
+
+### §7.3.27 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
-### §7.3.27 Talman
+### §7.3.28 Talman
 
 Är ordförande för Talmanspresidiet.
 
