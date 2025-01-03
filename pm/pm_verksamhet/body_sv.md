@@ -68,8 +68,7 @@ Näringslivsgruppen ska:
 
 * skapa och främja kontakter mellan studenter och näringslivet, bland annat genom anordnande av evenemang där studenter och företag får mötas
 * göra reklam för sektionen och datateknikprogrammet gentemot näringslivet, att visa att sektionen finns och upprätthålla en god bild av sektionen utåt
-* samordna de av sektionens verksamheter som riktar sig mot näringslivet, så att företagen bemöts på ett enhetligt och professionellt sätt
-* tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför D-Dagens verksamhet
+* tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför Studs och D-Dagens verksamhet
 * hålla och ständigt förbättra kontakten med näringslivet
 * se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
