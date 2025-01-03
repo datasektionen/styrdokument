@@ -1211,58 +1211,44 @@ Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektorat
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §7.4.8 Kommunikatör
+### §7.4.8 Valberedningsledamöter
 
 #### §7.4.8.1 Ändamål
 
-Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
-
-#### §7.4.8.2 Organisation
-
-Sammankallande för Informationsorganet.
-
-#### §7.4.8.2 Mandatperiod
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §7.4.9 Valberedningsledamöter
-
-#### §7.4.9.1 Ändamål
-
 Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
-#### §7.4.9.2 Mandatperiod
+#### §7.4.8.2 Mandatperiod
 
 Tre ledamöter väljs på SM i Period 4 och har läsår som mandatperiod. 
 Ytterligare tre ledamöter väljs på SM i Period 2 och har kalenderår som mandatperiod.
 
-### §7.4.10 Sångledare
+### §7.4.9 Sångledare
 
-#### §7.4.10.1 Ändamål
+#### §7.4.9.1 Ändamål
 
 Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §7.4.10.2 Organisation
+#### §7.4.9.2 Organisation
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
 Tillhör Studiesociala organet.
 
-#### §7.4.10.3 Mandatperiod
+#### §7.4.9.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §7.4.11 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §7.4.10 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
-#### §7.4.11.1 Ändamål
+#### §7.4.10.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
-#### §7.4.11.2 Organisation
+#### §7.4.10.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
-#### §7.4.11.3 Verksamhet
+#### §7.4.10.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
@@ -1288,19 +1274,19 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §7.4.11.4 Mandatperiod
+#### §7.4.10.4 Mandatperiod
 
 Väljs på SM i Period 4. Har läsår som mandatperiod.
 
-### §7.4.12 Vice talman
+### §7.4.11 Vice talman
 
-#### §7.4.12.1 Ändamål
+#### §7.4.11.1 Ändamål
 
 Vice talman har som uppgift att bistå talman i att arrangera SM.
 
 Vice talman är ställföreträdande talman.
 
-#### §7.4.12.2 Mandatperiod
+#### §7.4.11.2 Mandatperiod
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
