@@ -13,7 +13,7 @@ Sektionens traditioner, vanor, och livsregler lyder:
 * Det är tradition att traditioner hålls, det är en vana att vanor hålls, och livsregler kan man oftast skita i 
 * Konglig Datasektionens maskot är Lusen
 * På gasquer ämnade för medlemmar av Konglig Datasektionen så ska varmrätten sjungas in med Datas bordsvisa
-* Konglig Datasektionens frackband skall alltid sitta högst på fracken. Om sektionsmedlem ej bär Konglig Datasektionens frackband överst bör de inte bära Konglig Datasektionens frackband alls.
+* Konglig Datasektionens frackband skall alltid sitta högst på fracken, precis över kårband. Eventuellt annat frackband bärs under dessa två. Om sektionsmedlem ej bär Konglig Datasektionens frackband överst bör de inte bära Konglig Datasektionens frackband alls.
 * Konglig Datasektionens sittningar avslutas alltid med En liten blå förgätmigej
 * Konglig Datasektionens officiella drink är anrik, men benämns icke i detta dokument
     – Ingredienserna till denna skall finnas i dryckesinventariet för alla av Konglig Datasektionen arrangerade evenemang
@@ -23,7 +23,8 @@ Sektionens traditioner, vanor, och livsregler lyder:
 * På Budget-SM ska fikat vara gyllene
 * På den årliga dJulmiddagen ska den nyvalda ordförande hålla ett tal som rimmar för att sätta tonen för det kommande året
 * Om Konglig Datasektionen ej delar sektionslokal med en annan sektion så ska deras lokal heta ESCapen och dess adress ska bytas till Osquars Backe 27
-* Konglig Datasektionens pubar och efterkör avslutas alltid med Closing Time
+* Konglig Datasektionens pubar och efterkör avslutas med Closing Time
+* Konglig Datasektionens sittningar inleds med Trippeln
 
 ## 1.2 D-rektiv
 
