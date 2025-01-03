@@ -116,3 +116,7 @@ Put in the work, put in the hours, and take what’s ours"
 ### 2023 - Douglas Fischer
 
 "Låt inte studierna stå i vägen för din utbildning."
+
+### 2024 - Adam Sjöberg
+
+"Låt inte dina gamla mål låsa dina framtida möjligheter."
