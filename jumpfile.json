@@ -10,5 +10,6 @@
   "/klimatpolicy": "/policies/klimatpolicy",
   "/rekryteringspolicy": "/policies/rekryteringspolicy",
   "/uppförandepolicy": "/policies/uppforandepolicy",
-  "/samarbetspolicy": "/samarbetspolicy"
+  "/samarbetspolicy": "/samarbetspolicy",
+  "/pm_traditioner": "/pm/pm_traditioner"
 }
