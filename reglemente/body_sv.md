@@ -511,7 +511,7 @@ GUDAR leds av Sektionshistoriker.
 
 ### §3.26.1 Ändamål
 
-Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv
+Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
 
 ### §3.26.2 Organisation
 
