@@ -586,7 +586,26 @@ GUDAR leds av Sektionshistoriker.
 
 Tillhör Informationsorganet.
 
+## §4.26 Talmanspresidiet
+
+### §4.26.1 Ändamål
+
+Talmanspresidiet har som uppgift att arrangera samt leda SM.
+
+Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
+
+### §4.26.2 Organisation
+
+Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
+
+### Verksamhet
+
+Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
+
+Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
+
 # §5 Återkommande projekt
+
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
 Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
@@ -606,6 +625,11 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 # §7 Funktionärer
 
 ## §7.1 D-rektoratet
+
+D-rektoratets ledamöter har ett gemensamt ansvar att
+- efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+- bibehålla styrdokument samt övrig formalia i gott skick
+- hålla sektionens posthantering fungerande
 
 ### §7.1.1 Ordförande
 
@@ -633,7 +657,9 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - kunna företräda organisationen tillsammans med Ordförande
 
-- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
+- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
+
+- verka för goda överlämningsrutiner i sektionens verksamhet.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
@@ -981,6 +1007,12 @@ Tillhör Informationsorganet.
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
+### §7.3.27 Talman
+
+Är ordförande för Talmanspresidiet.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
 ## §7.4 Övriga funktionärer
 
 ### §7.4.1 Fanbärare
@@ -1188,35 +1220,17 @@ Tillhör Studiesociala organet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §7.4.11 Talman
+### §7.4.11 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
 #### §7.4.11.1 Ändamål
 
-Talmannens uppgift är att arrangera samt leda sektionsmötet.
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
 #### §7.4.11.2 Organisation
 
-I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
-
-#### §7.4.11.3 Verksamhet
-
-Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
-
-#### §7.4.11.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §7.4.12 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
-
-#### §7.4.12.1 Ändamål
-
-Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
-
-#### §7.4.12.2 Organisation
-
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
-#### §7.4.12.3 Verksamhet
+#### §7.4.11.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
@@ -1242,9 +1256,21 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §7.3.13.4 Mandatperiod
+#### §7.4.11.4 Mandatperiod
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.”
+Väljs på SM i Period 4. Har läsår som mandatperiod.
+
+### §7.4.12 Vice talman
+
+#### §7.4.12.1 Ändamål
+
+Vice talman har som uppgift att bistå talman i att arrangera SM.
+
+Vice talman är ställföreträdande talman.
+
+#### §7.4.12.2 Mandatperiod
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 # §8 Externa representanter
 
