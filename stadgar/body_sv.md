@@ -374,10 +374,6 @@ Funktionär skall även på anmodan från organledare, D-rektoratet eller SM ful
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
 
-## §7.3 Obligatoriska funktionärer
-
-Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[5] uppräknade nämnderna, som regleras särskilt, ska det finnas en programansvarig student och ett studerandeskyddsombud.
-
 ## §7.4 Ledningsgruppen
 
 Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
