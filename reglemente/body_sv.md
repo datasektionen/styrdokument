@@ -61,10 +61,6 @@ Funktionär skall även på anmodan från organledare, D-rektoratet eller SM ful
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
 
-## §3.4 Ledningsgruppen
-
-Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
-
 # §3 Organ
 
 ## §3.1 Organ i sektionen
@@ -867,6 +863,10 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ## §7.2 Ledningsgruppen
+
+## §7.2.1 Syfte
+
+Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
 
 ### §7.2.1 Sammansättning
 
