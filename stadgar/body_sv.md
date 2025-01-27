@@ -336,7 +336,7 @@ Om Kassör är oförmögen att utföra sina ansvarsområden utövar Vice kassör
 
 ## §4.8 Per capsulam-beslut
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt, efter förfrågan från sektionsmedlem, prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
 
 ## §4.9 D-rektiv
 
