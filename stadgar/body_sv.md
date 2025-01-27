@@ -269,9 +269,13 @@ D-rektoratet är sektionens styrelse och högsta verkställande organ.
 ## §4.1 Sammansättning
 
 D-rektoratet består av
+
 - Ordförande
+
 - Vice ordförande
+
 - Kassör
+
 - Vice kassör
 
 samt övriga ledamöter föreskrivna i reglementet.
