@@ -63,6 +63,10 @@ Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är fö
 
 # §3 Organ
 
+Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
+
+Organledare är sammankallande för sitt respektive organ.
+
 ## §3.1 Organ i sektionen
 
 ### §3.1.1 Mottagningsorganet
