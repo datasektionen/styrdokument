@@ -79,6 +79,12 @@ Organet leds av Studienämndens ordförande.
 
 # §4 Nämnder
 
+En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
+
+För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
+
+Varje nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd och organ att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
