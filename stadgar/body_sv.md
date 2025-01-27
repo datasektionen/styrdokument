@@ -371,15 +371,15 @@ Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och
 
 ## §5.2 Kallelse
 
-D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §1.8 senast 21 dagar före mötet.
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.8] senast 21 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §5.9. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §5.3 Beslutsmässighet
 
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §5.2 och minst 17 sektionsmedlemmar är närvarande.
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 17 sektionsmedlemmar är närvarande.
 
 ## §5.4 Beslut
 
@@ -387,7 +387,7 @@ Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstet
 
 ## §5.5 Protokoll
 
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §1.8 i justerat skick senast 7 dagar efter mötet.
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.8] i justerat skick senast 7 dagar efter mötet.
 
 ## §5.6 Sammanträden
 
@@ -395,7 +395,7 @@ Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentam
 
 ## §5.7 Val
 
-Nomineringslistan ska anslås enligt stadgarnas §3.13.1 senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt stadgarnas §[3.13.1] senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
 
@@ -403,7 +403,7 @@ Då ingen kandidat finns till en post under valmöte vartill val till posten lys
 
 ## §5.8 Ajournering
 
-Mötesordförande äger rätt att ajournera mötet till den, enligt §5.2 i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[5.2] i kallelsen angivna reservtiden.
 
 # §6 Revision
 
@@ -454,10 +454,11 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [2.3]: #2-3-alumnimedlem
 [2.4]: #2-4-juniormedlem
 [2.5]: #2-5-gästmedlemskap
-[3.13.1]: #3-13-1-nomineringar
 [3.3]: #3-3-kallelse
-[3.10]: #3-9-1-ordinarie-sm
+[3.10]: #3-10-ordinarie-sm
 [3.12]: #3-12-ajournering
-[4.2]: #4-2-d-rektoratsmöte
+[3.13.1]: #3-13-1-nomineringar
 [4.2.1]: #4-2-1-kallelse
+[5.2]: #5-2-kallelse
+[5.8]: #5-8-ajournering
 [6.1]: #6-1-revisorer
