@@ -45,7 +45,7 @@ Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhe
 ### §2.3.2 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
-# §3 funktionärer
+# §3 Funktionärer
 
 Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. En funktionärs verksamhet och uppdrag regleras i reglementet.
 
