@@ -866,7 +866,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ## §7.2.1 Syfte
 
-Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
+Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare.
 
 ### §7.2.1 Sammansättning
 
