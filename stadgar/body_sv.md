@@ -138,7 +138,7 @@ Gästmedlemmar har rätt att
 
 ## §2.6 Medlemsavgift
 
-Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift.
+Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift. Eventuella undantag till medlemsavgift föreskriv i reglementet.
 
 # §3 Sektionsmötet
 
