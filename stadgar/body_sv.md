@@ -226,6 +226,10 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i ka
 
 ## §3.13 Val
 
+### 3.13.1 Valberedningen
+
+Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
+
 ### §3.13.1 Nomineringar
 
 Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.8]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
