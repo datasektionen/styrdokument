@@ -102,6 +102,9 @@ Ordinarie sektionsmedlem har rätt att
 
 Sektionen kan utse till hedersmedlem sådan person som synnerligen främjat sektionens intressen och strävanden. Förslag till hedersmedlem lämnas av sektionsmedlem. Hedersmedlem utses av SM med 5/6 majoritet. Faller fråga om val av hedersmedlem införs varken förslag eller beslut i protokoll.
 
+Hedersmedlem har rätt att
+- delta med närvaro- och yttranderätt på SM
+
 ## §2.3 Alumnimedlem
 
 Alumnimedlem är medlem som har anknytning till sektionen och antingen under samma period är stödmedlem hos THS eller av annan anledning är alumnimedlem i sektionen.
