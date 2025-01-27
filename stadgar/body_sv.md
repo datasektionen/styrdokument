@@ -359,38 +359,6 @@ Organen och dessas sammansättningar regleras i reglementet.
 Organledare är sammankallande för sitt respektive organ.
 
 
-# §8 Projekt
-
-Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
-
-## §8.1 Uppstart
-
-Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer på nästkommande SM.
-
-## §8.2 Uppstart av återkommande projekt
-
-Projekt skrivna som återkommande under reglementet startas utan beslut på bestämt datum. Val av projektledare ska ske på nästkommande SM eller VM enligt samma procedur som för övriga funktionärsposter. Om D-rektoratet anser att ett återkommande projekt inte ska öppnas för nästa verksamhetsperiod så kan de bestämma det på ett DM innan datumet som projektet öppnas.
-
-## §8.3 Avslutning
-
-Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
-
-## §8.4 Projektledare
-
-För varje projekt ska det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM eller VM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
-
-### §8.4.1 Skyldigheter
-
-Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
-
-### §8.4.2 Rättigheter
-
-Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
-
-## §8.5 Delade projekt
-
-Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
-
 # §9 Valmötet
 
 ## §9.1 Sammansättning
