@@ -282,7 +282,7 @@ Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS s
 
 Val av funktionärer som skett på valmöte, VM, ska redovisas och fastställas på nästa sektionsmöte. Valmöte regleras vidare i reglementet.
 
-# §4 D-rektoratet
+# §4 Styrelsen
 
 D-rektoratet är sektionens styrelse och högsta verkställande organ.
 
