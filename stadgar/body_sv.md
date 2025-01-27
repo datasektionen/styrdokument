@@ -188,7 +188,7 @@ Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 
 
 Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[10.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Om SM tar beslut att ajournera mötet så ska en lokal för mötets reservtid utses. Ifall lokalen för mötet av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om ändrad lokal och/eller lokal för reservtid ska anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Om sektionsmötet ajourneras till reservtiden så ska en lokal för mötets reservtid utses. Ifall lokalen för mötet av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om ändrad lokal och/eller lokal för reservtid ska anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §3.4 Beslutsmässighet
 
