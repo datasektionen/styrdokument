@@ -45,6 +45,26 @@ Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhe
 ### §2.3.2 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
+# §3 funktionärer
+
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. En funktionärs verksamhet och uppdrag regleras i reglementet.
+
+## §3.1 Skyldigheter
+
+Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av styrdokumenten hålls aktuellt. 
+
+Funktionär är skyldig att löpande hålla organledare informerad om sitt verksamhetsområde. Saknas organledare skall funktionären istället informera D-rektoratet.
+
+Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+
+## §3.2 Mandatperiod
+
+Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
+
+## §3.4 Ledningsgruppen
+
+Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
+
 # §3 Organ
 
 ## §3.1 Organ i sektionen
