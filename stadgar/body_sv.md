@@ -354,24 +354,6 @@ Organen och dessas sammansättningar regleras i reglementet.
 
 Organledare är sammankallande för sitt respektive organ.
 
-# §6 Nämnder
-
-En nämnd är en del av sektionen som ansvarar för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
-
-En nämnds sammansättning och verksamhet regleras i reglementet.
-
-## §6.1 Nämndordförande
-
-För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
-
-## §6.2 Skyldigheter
-
-Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
-
-## §6.3 Obligatoriska nämnder
-
-Det ska finnas en valberedning, en studienämnd, en sektionslokalnämnd samt en mottagningsnämnd.
-
 # §7 Funktionärer
 
 Funktionär är den som av SM eller genom avvikande valprocess har valts till ett förtroendeuppdrag. En funktionärs verksamhet och uppdrag regleras i reglementet.
