@@ -18,6 +18,8 @@ Sektionens uppgifter är att
 
 -   aktivt motverka diskriminering inom sektionen.
 
+-   driva bevakning av utbildningen för de program som är kopplade till sektionen.
+
 ## §1.3 Verksamhet
 
 Sektionen ska verka för att
