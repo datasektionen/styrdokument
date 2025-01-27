@@ -360,7 +360,7 @@ Organledare är sammankallande för sitt respektive organ.
 
 # §7 Funktionärer
 
-Funktionär är den som av SM eller genom avvikande valprocess har valts till ett förtroendeuppdrag. En funktionärs verksamhet och uppdrag regleras i reglementet.
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. En funktionärs verksamhet och uppdrag regleras i reglementet.
 
 ## §7.1 Skyldigheter
 
