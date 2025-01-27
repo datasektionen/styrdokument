@@ -284,7 +284,7 @@ Val av funktionärer som skett på valmöte, VM, ska redovisas och fastställas 
 
 # §4 Styrelsen
 
-D-rektoratet är sektionens styrelse och högsta verkställande organ.
+Styrelsen är sektionens högst verkställande organ och benämns D-rektoratet.
 
 ## §4.1 Sammansättning
 
