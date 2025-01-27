@@ -358,19 +358,6 @@ Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
-# §5 Organ
-
-Ett organ är en samling av funktionärer, nämnder och projekt.
-
-Varje organ leds av en organledare.
-
-Organen och dessas sammansättningar regleras i reglementet.
-
-## §5.1 Organledare
-
-Organledare är sammankallande för sitt respektive organ.
-
-
 # §9 Valmötet
 
 ## §9.1 Sammansättning
