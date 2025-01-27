@@ -269,24 +269,12 @@ D-rektoratet är sektionens styrelse och högsta verkställande organ.
 ## §4.1 Sammansättning
 
 D-rektoratet består av
+- Ordförande
+- Vice ordförande
+- Kassör
+- Vice kassör
 
--   Ordförande
-
--   Vice ordförande
-
--   Sekreterare
-
--   Kassör
-
--   Vice kassör
-
--   Ledamot för näringsliv och kommunikation
-
--   Ledamot för studiesociala frågor
-
--   Ledamot för utbildningsfrågor
-
--   Ledamot för studiemiljö och likabehandling.
+samt övriga ledamöter föreskrivna i reglementet.
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[10.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
