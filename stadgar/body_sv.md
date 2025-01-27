@@ -18,6 +18,18 @@ Sektionens uppgifter är att
 
 -   aktivt motverka diskriminering inom sektionen.
 
+## §1.3 Verksamhet
+
+Sektionen ska verka för att
+
+-   driva verksamhet som bevakar medlemmarnas utbildning
+
+-   driva en mottagning som välkomnar nyantagna studenter
+
+-   driva verksamhet som tar hand om sektionens lokaler om sådana finns
+
+samt annan verksamhet som sektionens medlemmar anser främjar sektionens ändamål.
+
 ## §1.3 Säte
 
 Sektionen har sitt säte i Stockholm.
