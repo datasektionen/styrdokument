@@ -306,8 +306,6 @@ Det åligger D-rektoratet att
 
 -   verkställa av SM fattade beslut
 
--   i brådskande fall utöva SM:s befogenheter. Sådant fall ska dock alltid prövas på nästkommande SM
-
 -   efter skriftlig begäran från en av SM vald funktionär entlediga densamme
 
 -   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
