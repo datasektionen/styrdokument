@@ -365,7 +365,8 @@ D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommend
 # §5 Valmötet
 
 ## §5.1 Sammansättning
-Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt stadgarnas §5.1 har närvaro-, yttrande- och yrkanderätt.
+
+Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
 
 Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
