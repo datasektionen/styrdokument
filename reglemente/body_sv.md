@@ -663,6 +663,18 @@ Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamå
 
 Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer på nästkommande SM.
 
+## §5.2 Återkommande projekt
+
+Återkommande projekt är projekt som öppnas årligen under bestämt datum.
+
+Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
+
+Vald projektledare åläggs att inkomma med motion innehållande budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
+
+Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
+
+Sektionens återkommande projekt definieras i PM för återkommande projekt.
+
 ## §5.2 Uppstart av återkommande projekt
 
 Projekt skrivna som återkommande under reglementet startas utan beslut på bestämt datum. Val av projektledare ska ske på nästkommande SM eller VM enligt samma procedur som för övriga funktionärsposter. Om D-rektoratet anser att ett återkommande projekt inte ska öppnas för nästa verksamhetsperiod så kan de bestämma det på ett DM innan datumet som projektet öppnas.
@@ -686,18 +698,6 @@ Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rä
 ## §5.5 Delade projekt
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
-
-# §5 Återkommande projekt
-
-Återkommande projekt är projekt som öppnas årligen under bestämt datum.
-
-Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
-
-Vald projektledare åläggs att inkomma med motion innehållande budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
-
-Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
-
-Sektionens återkommande projekt definieras i PM för återkommande projekt.
 
 # §6 Delad verksamhet
 
