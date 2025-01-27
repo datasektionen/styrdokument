@@ -300,7 +300,7 @@ D-rektoratet består av
 
 samt övriga ledamöter föreskrivna i reglementet.
 
-Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[10.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
+Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[6.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
 ## §4.2 D-rektoratsmöte
 
@@ -362,38 +362,38 @@ Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
-# §9 Valmötet
+# §5 Valmötet
 
-## §9.1 Sammansättning
-Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt stadgarnas §9.1 har närvaro-, yttrande- och yrkanderätt.
+## §5.1 Sammansättning
+Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt stadgarnas §5.1 har närvaro-, yttrande- och yrkanderätt.
 
 Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
-## §9.2 Kallelse
+## §5.2 Kallelse
 
 D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §1.8 senast 21 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §9.9. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §5.9. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
-## §9.3 Beslutsmässighet
+## §5.3 Beslutsmässighet
 
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §9.2 och minst 17 sektionsmedlemmar är närvarande.
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §5.2 och minst 17 sektionsmedlemmar är närvarande.
 
-## §9.4 Beslut
+## §5.4 Beslut
 
 Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
 
-## §9.5 Protokoll
+## §5.5 Protokoll
 
 På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §1.8 i justerat skick senast 7 dagar efter mötet.
 
-## §9.6 Sammanträden
+## §5.6 Sammanträden
 
 Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
 
-## §9.7 Val
+## §5.7 Val
 
 Nomineringslistan ska anslås enligt stadgarnas §3.13.1 senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
 
@@ -401,17 +401,17 @@ Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens or
 
 Då ingen kandidat finns till en post under valmöte vartill val till posten lysts, kan VM besluta att öppna för fri kandidatur. Vid val av kandidat under fri kandidatur krävs ett beslut med 3/4-majoritet av VM.
 
-## §9.8 Ajournering
+## §5.8 Ajournering
 
-Mötesordförande äger rätt att ajournera mötet till den, enligt §9.2 i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §5.2 i kallelsen angivna reservtiden.
 
-# §10 Revision
+# §6 Revision
 
-## §10.1 Revisorer
+## §6.1 Revisorer
 
 SM ska utse två revisorer.
 
-### §10.1.1 Befogenheter
+### §6.1.1 Befogenheter
 
 Revisorerna har rätt att
 
@@ -423,7 +423,7 @@ Revisorerna har rätt att
 
 -   kalla till möte med samtliga delar av sektionen.
 
-### §10.1.2 Uppgifter
+### §6.1.2 Uppgifter
 
 Det åligger revisorerna att
 
@@ -431,7 +431,7 @@ Det åligger revisorerna att
 
 -   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
-### §10.1.3 Revisionssed
+### §6.1.3 Revisionssed
 
 Revisorerna är skyldiga att inte
 
@@ -441,7 +441,7 @@ Revisorerna är skyldiga att inte
 
 -   ha något ansvar inom sektionens styrelse eller valberedning.
 
-## §10.2 Verksamhetsberättelse och årsbokslut
+## §6.2 Verksamhetsberättelse och årsbokslut
 
 Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 14 dagar före samma SM.
 
@@ -460,5 +460,4 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [3.12]: #3-12-ajournering
 [4.2]: #4-2-d-rektoratsmöte
 [4.2.1]: #4-2-1-kallelse
-[6]: #6-nämnder
-[10.1]: #8-1-revisorer
+[6.1]: #6-1-revisorer
