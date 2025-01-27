@@ -238,6 +238,10 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i ka
 
 ## §3.13 Val
 
+Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
+
+Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen.
+
 ### 3.13.1 Valberedningen
 
 Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
