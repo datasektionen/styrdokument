@@ -117,7 +117,8 @@ Ordinarie sektionsmedlem har rätt att
 Sektionen kan utse till hedersmedlem sådan person som synnerligen främjat sektionens intressen och strävanden. Förslag till hedersmedlem lämnas av sektionsmedlem. Hedersmedlem utses av SM med 5/6 majoritet. Faller fråga om val av hedersmedlem införs varken förslag eller beslut i protokoll.
 
 Hedersmedlem har rätt att
-- delta med närvaro- och yttranderätt på SM
+
+-   delta med närvaro- och yttranderätt på SM
 
 ## §2.3 Alumnimedlem
 
@@ -136,7 +137,8 @@ Alumnimedlem har rätt att
 Endast för nyligen antagen till datateknikprogrammet eller nyligen antagen internationell datastudent. Medlemskapet gäller från två veckor innan terminsstart till och med fyra veckor efter terminsstart.
 
 Juniormedlem har rätt att
-- delta med närvaro- och yttranderätt på SM.
+
+-   delta med närvaro- och yttranderätt på SM.
 
 ## §2.5 Gästmedlemskap
 
