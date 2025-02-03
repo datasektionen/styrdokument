@@ -710,9 +710,12 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 ## §8.1 D-rektoratet
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
-- efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
-- bibehålla styrdokument samt övrig formalia i gott skick
-- hålla sektionens posthantering fungerande
+
+-   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+
+-   bibehålla styrdokument samt övrig formalia i gott skick
+
+-   hålla sektionens posthantering fungerande
 
 ### §8.1.1 Ordförande
 
@@ -868,25 +871,37 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ## §8.2 Ledningsgruppen
 
-## §8.2.1 Syfte
+### §8.2.1 Syfte
 
 Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare.
 
-### §8.2.1 Sammansättning
+### §8.2.2 Sammansättning
 
 Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
-- Storasyskon
-- Konglig Öfverdrif
-- Kommunikatör
-- Qulturattaché
-- Klubbmästare
-- Näringslivsansvarig
-- D-Dagenansvariga
-- Konglig lokalchef
-- Studienämndens ordförande
-- Studiemiljöansvarig
-- Jämlikhetsnämndens ordförande
-- Internationell studentkoordinator
+
+-   Storasyskon
+
+-   Konglig Öfverdrif
+
+-   Kommunikatör
+
+-   Qulturattaché
+
+-   Klubbmästare
+
+-   Näringslivsansvarig
+
+-   D-Dagenansvariga
+
+-   Konglig lokalchef
+
+-   Studienämndens ordförande
+
+-   Studiemiljöansvarig
+
+-   Jämlikhetsnämndens ordförande
+
+-   Internationell studentkoordinator
 
 ## §8.3 Nämndordförande
 
