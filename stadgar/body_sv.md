@@ -32,55 +32,55 @@ Sektionen ska verka för att
 
 samt annan verksamhet som sektionens medlemmar anser främjar sektionens ändamål.
 
-## §1.3 Säte
+## §1.4 Säte
 
 Sektionen har sitt säte i Stockholm.
 
-## §1.4 Kårtillhörighet
+## §1.5 Kårtillhörighet
 
 Sektionen tillhör Tekniska Högskolans Studentkår, THS.
 
-## §1.5 Verksamhetsår
+## §1.6 Verksamhetsår
 
 Sektionens verksamhetsår löper från 1:a januari till 31:a december.
 
-## §1.6 Styrdokument
+## §1.7 Styrdokument
 
-### §1.6.1 Tillgänglighet
+### §1.7.1 Tillgänglighet
 
 Gällande stadgar och andra styrdokument ska finnas tillgängliga för samtliga sektionsmedlemmar på sektionens officiella webbplats.
 
-### §1.6.2 Tolkning
+### §1.7.2 Tolkning
 
 Vid tveksamhet tolkas sektionens stadgar och övriga styrdokument i stigande ordning av D-rektoratet, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Sådan tolkning ska presenteras på nästkommande SM.
 
-### §1.6.3 Konflikt
+### §1.7.3 Konflikt
 
 Vid konflikt mellan dessa stadgar eller andra av sektionens styrdokument och THS stadgar eller andra styrdokument ska THS föreskrifter äga företräde. Om sådan konflikt uppmärksammas åligger det D-rektoratet att snarast inkomma till SM med proposition om nödvändiga ändringar.
 
-### §1.6.4 Stadgeändring
+### §1.7.4 Stadgeändring
 
 Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[3.10]. D-rektoratet ska föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
 
-### §1.6.5 Dispens från stadgarna
+### §1.7.5 Dispens från stadgarna
 
 Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
 
-### §1.6.6 Föreskrifter utöver stadgarna
+### §1.7.6 Föreskrifter utöver stadgarna
 
 Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i sektionens reglemente som är direkt underställt dessa stadgar.
 
 Ändring av reglementet beslutas om på SM.
 
-## §1.7 Beslutsnivåer
+## §1.8 Beslutsnivåer
 
 Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 
-## §1.8 Officiella informationskanaler
+## §1.9 Officiella informationskanaler
 
 Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
 
-## §1.9 Firmatecknare
+## §1.10 Firmatecknare
 
 Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
 
@@ -152,7 +152,7 @@ Gästmedlemmar har rätt att
 
 ## §2.6 Medlemsavgift
 
-Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift. Eventuella undantag till medlemsavgift föreskriv i reglementet.
+Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift. Eventuella undantag till medlemsavgift föreskrivs i reglementet.
 
 # §3 Sektionsmötet
 
