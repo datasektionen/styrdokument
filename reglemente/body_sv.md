@@ -644,14 +644,14 @@ Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför et
 
 Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
 
-# §5.28 Kommunikationsgruppen
+## §5.28 Kommunikationsgruppen
 
-## §5.28.1 Ändamål
+### §5.28.1 Ändamål
 
 Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt.
 Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-## §5.28.2 Organisation
+### §5.28.2 Organisation
 
 Kommunikationsgruppen leds av Kommunikatör. Internfunktionärer utses av Kommunikatör.
 
