@@ -2,7 +2,7 @@
 
 # §1 Om det här dokumentet
 
-Detta dokument innehåller riktlinjer för hur informationsspridning inom sektionen ska ske. Ordet informatör nedan betyder Datasektionen, dess nämnder och/eller dess funktionärer.
+Detta dokument är sektionens informationsspridningspolicy och innehåller riktlinjer för hur informationsspridning inom sektionen ska ske. Ordet informatör nedan betyder Datasektionen, dess nämnder och/eller dess funktionärer.
 
 # §2 Officiella informationskanaler
 

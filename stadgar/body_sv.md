@@ -18,55 +18,69 @@ Sektionens uppgifter är att
 
 -   aktivt motverka diskriminering inom sektionen.
 
-## §1.3 Säte
+-   driva bevakning av utbildningen för de program som är kopplade till sektionen.
+
+## §1.3 Verksamhet
+
+Sektionen ska verka för att
+
+-   driva verksamhet som bevakar medlemmarnas utbildning
+
+-   driva en mottagning som välkomnar nyantagna studenter
+
+-   driva verksamhet som tar hand om sektionens lokaler om sådana finns
+
+samt annan verksamhet som sektionens medlemmar anser främjar sektionens ändamål.
+
+## §1.4 Säte
 
 Sektionen har sitt säte i Stockholm.
 
-## §1.4 Kårtillhörighet
+## §1.5 Kårtillhörighet
 
 Sektionen tillhör Tekniska Högskolans Studentkår, THS.
 
-## §1.5 Verksamhetsår
+## §1.6 Verksamhetsår
 
 Sektionens verksamhetsår löper från 1:a januari till 31:a december.
 
-## §1.6 Styrdokument
+## §1.7 Styrdokument
 
-### §1.6.1 Tillgänglighet
+### §1.7.1 Tillgänglighet
 
 Gällande stadgar och andra styrdokument ska finnas tillgängliga för samtliga sektionsmedlemmar på sektionens officiella webbplats.
 
-### §1.6.2 Tolkning
+### §1.7.2 Tolkning
 
 Vid tveksamhet tolkas sektionens stadgar och övriga styrdokument i stigande ordning av D-rektoratet, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Sådan tolkning ska presenteras på nästkommande SM.
 
-### §1.6.3 Konflikt
+### §1.7.3 Konflikt
 
 Vid konflikt mellan dessa stadgar eller andra av sektionens styrdokument och THS stadgar eller andra styrdokument ska THS föreskrifter äga företräde. Om sådan konflikt uppmärksammas åligger det D-rektoratet att snarast inkomma till SM med proposition om nödvändiga ändringar.
 
-### §1.6.4 Stadgeändring
+### §1.7.4 Stadgeändring
 
 Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[3.10]. D-rektoratet ska föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
 
-### §1.6.5 Dispens från stadgarna
+### §1.7.5 Dispens från stadgarna
 
 Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
 
-### §1.6.6 Föreskrifter utöver stadgarna
+### §1.7.6 Föreskrifter utöver stadgarna
 
 Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i sektionens reglemente som är direkt underställt dessa stadgar.
 
 Ändring av reglementet beslutas om på SM.
 
-## §1.7 Beslutsnivåer
+## §1.8 Beslutsnivåer
 
 Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 
-## §1.8 Officiella informationskanaler
+## §1.9 Officiella informationskanaler
 
 Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
 
-## §1.9 Firmatecknare
+## §1.10 Firmatecknare
 
 Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
 
@@ -102,6 +116,9 @@ Ordinarie sektionsmedlem har rätt att
 
 Sektionen kan utse till hedersmedlem sådan person som synnerligen främjat sektionens intressen och strävanden. Förslag till hedersmedlem lämnas av sektionsmedlem. Hedersmedlem utses av SM med 5/6 majoritet. Faller fråga om val av hedersmedlem införs varken förslag eller beslut i protokoll.
 
+Hedersmedlem har rätt att
+- delta med närvaro- och yttranderätt på SM
+
 ## §2.3 Alumnimedlem
 
 Alumnimedlem är medlem som har anknytning till sektionen och antingen under samma period är stödmedlem hos THS eller av annan anledning är alumnimedlem i sektionen.
@@ -116,7 +133,10 @@ Alumnimedlem har rätt att
 
 ## §2.4 Juniormedlem
 
-Endast för nyligen antagen till datateknikprogrammet eller nyligen antagen internationell datastudent. Medlemskapet gäller från två veckor innan terminsstart till och med fyra veckor efter terminsstart. Juniormedlem har närvarorätt och yttranderätt på SM.
+Endast för nyligen antagen till datateknikprogrammet eller nyligen antagen internationell datastudent. Medlemskapet gäller från två veckor innan terminsstart till och med fyra veckor efter terminsstart.
+
+Juniormedlem har rätt att
+- delta med närvaro- och yttranderätt på SM.
 
 ## §2.5 Gästmedlemskap
 
@@ -132,7 +152,7 @@ Gästmedlemmar har rätt att
 
 ## §2.6 Medlemsavgift
 
-Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift.
+Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift. Eventuella undantag till medlemsavgift föreskrivs i reglementet.
 
 # §3 Sektionsmötet
 
@@ -140,7 +160,7 @@ Sektionsmötet, SM, är sektionens högsta beslutande organ.
 
 ## §3.1 Sammansättning
 
-Vid SM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt §[10.1] har närvaro-, yttrande- och yrkanderätt. Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+Medlemmars rättigheter på sektionsmötet definieras under §[2] Medlemskap. Ledamöter i THS styrelse, THS revisorer och medlemmar i THS kårledning har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
 ## §3.2 Uppgifter
 
@@ -170,11 +190,11 @@ Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 
 
 Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[10.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Om sektionsmötet ajourneras till reservtiden så ska en lokal för mötets reservtid utses. Ifall lokalen för mötet av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om ändrad lokal och/eller lokal för reservtid ska anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §3.4 Beslutsmässighet
 
-SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst 17 sektionsmedlemmar är närvarande.
+SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst *max*(2δ + 1,  15), där δ är antalet ledamötposter i styrelsen, sektionsmedlemmar är närvarande.
 
 ## §3.5 Beslut
 
@@ -220,6 +240,14 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i ka
 
 ## §3.13 Val
 
+Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
+
+Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen.
+
+### 3.13.1 Valberedningen
+
+Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
+
 ### §3.13.1 Nomineringar
 
 Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.8]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
@@ -256,33 +284,25 @@ Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS s
 
 Val av funktionärer som skett på valmöte, VM, ska redovisas och fastställas på nästa sektionsmöte. Valmöte regleras vidare i reglementet.
 
-# §4 D-rektoratet
+# §4 Styrelsen
 
-D-rektoratet är sektionens styrelse och högsta verkställande organ.
+Styrelsen är sektionens högst verkställande organ och benämns D-rektoratet.
 
 ## §4.1 Sammansättning
 
 D-rektoratet består av
 
--   Ordförande
+- Ordförande
 
--   Vice ordförande
+- Vice ordförande
 
--   Sekreterare
+- Kassör
 
--   Kassör
+- Vice kassör
 
--   Vice kassör
+samt övriga ledamöter föreskrivna i reglementet.
 
--   Ledamot för näringsliv och kommunikation
-
--   Ledamot för studiesociala frågor
-
--   Ledamot för utbildningsfrågor
-
--   Ledamot för studiemiljö och likabehandling.
-
-Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[10.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
+Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[6.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
 ## §4.2 D-rektoratsmöte
 
@@ -308,8 +328,6 @@ Det åligger D-rektoratet att
 
 -   verkställa av SM fattade beslut
 
--   i brådskande fall utöva SM:s befogenheter. Sådant fall ska dock alltid prövas på nästkommande SM
-
 -   efter skriftlig begäran från en av SM vald funktionär entlediga densamme
 
 -   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
@@ -319,8 +337,6 @@ Det åligger D-rektoratet att
 -   svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
 -   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, studerandeskyddsombud, kårfullmäktigeledamot, kårfullmäktigesuppleant eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
-
--   besluta om uppstartade projekt ska vara bokföringspliktiga.
 
 ## §4.4 Brådskande ärenden
 
@@ -342,148 +358,63 @@ Om Kassör är oförmögen att utföra sina ansvarsområden utövar Vice kassör
 
 ## §4.8 Per capsulam-beslut
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt, efter förfrågan från sektionsmedlem, prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
 
 ## §4.9 D-rektiv
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
-# §5 Organ
+# §5 Valmötet
 
-Ett organ är en samling av funktionärer, nämnder och projekt.
+## §5.1 Sammansättning
 
-Varje organ leds av en organledare.
-
-Organen och dessas sammansättningar regleras i reglementet.
-
-## §5.1 Organledare
-
-Organledare är sammankallande för sitt respektive organ.
-
-# §6 Nämnder
-
-En nämnd är en del av sektionen som ansvarar för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
-
-En nämnds sammansättning och verksamhet regleras i reglementet.
-
-## §6.1 Nämndordförande
-
-För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
-
-## §6.2 Skyldigheter
-
-Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
-
-## §6.3 Obligatoriska nämnder
-
-Det ska finnas en valberedning, en studienämnd, en sektionslokalnämnd samt en mottagningsnämnd.
-
-# §7 Funktionärer
-
-Funktionär är den som av SM eller genom avvikande valprocess har valts till ett förtroendeuppdrag. En funktionärs verksamhet och uppdrag regleras i reglementet.
-
-## §7.1 Skyldigheter
-
-Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av styrdokumenten hålls aktuellt. 
-
-Funktionär är skyldig att löpande hålla organledare informerad om sitt verksamhetsområde. Saknas organledare skall funktionären istället informera D-rektoratet.
-
-Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
-
-## §7.2 Mandatperiod
-
-Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
-
-## §7.3 Obligatoriska funktionärer
-
-Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[5] uppräknade nämnderna, som regleras särskilt, ska det finnas en programansvarig student och ett studerandeskyddsombud.
-
-## §7.4 Ledningsgruppen
-
-Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare. Ledningsgruppens sammansättning regleras vidare i reglementet.
-
-# §8 Projekt
-
-Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
-
-## §8.1 Uppstart
-
-Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer på nästkommande SM.
-
-## §8.2 Uppstart av återkommande projekt
-
-Projekt skrivna som återkommande under reglementet startas utan beslut på bestämt datum. Val av projektledare ska ske på nästkommande SM eller VM enligt samma procedur som för övriga funktionärsposter. Om D-rektoratet anser att ett återkommande projekt inte ska öppnas för nästa verksamhetsperiod så kan de bestämma det på ett DM innan datumet som projektet öppnas.
-
-## §8.3 Avslutning
-
-Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
-
-## §8.4 Projektledare
-
-För varje projekt ska det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM eller VM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
-
-### §8.4.1 Skyldigheter
-
-Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
-
-### §8.4.2 Rättigheter
-
-Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
-
-## §8.5 Delade projekt
-
-Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
-
-# §9 Valmötet
-
-## §9.1 Sammansättning
-Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt stadgarnas §9.1 har närvaro-, yttrande- och yrkanderätt.
+Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
 
 Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
-## §9.2 Kallelse
+## §5.2 Kallelse
 
-D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §1.8 senast 21 dagar före mötet.
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.8] senast 21 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §9.9. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
-## §9.3 Beslutsmässighet
+## §5.3 Beslutsmässighet
 
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §9.2 och minst 17 sektionsmedlemmar är närvarande.
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 17 sektionsmedlemmar är närvarande.
 
-## §9.4 Beslut
+## §5.4 Beslut
 
 Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
 
-## §9.5 Protokoll
+## §5.5 Protokoll
 
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §1.8 i justerat skick senast 7 dagar efter mötet.
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.8] i justerat skick senast 7 dagar efter mötet.
 
-## §9.6 Sammanträden
+## §5.6 Sammanträden
 
 Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
 
-## §9.7 Val
+## §5.7 Val
 
-Nomineringslistan ska anslås enligt stadgarnas §3.13.1 senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt stadgarnas §[3.13.1] senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
 
 Då ingen kandidat finns till en post under valmöte vartill val till posten lysts, kan VM besluta att öppna för fri kandidatur. Vid val av kandidat under fri kandidatur krävs ett beslut med 3/4-majoritet av VM.
 
-## §9.8 Ajournering
+## §5.8 Ajournering
 
-Mötesordförande äger rätt att ajournera mötet till den, enligt §9.2 i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[5.2] i kallelsen angivna reservtiden.
 
-# §10 Revision
+# §6 Revision
 
-## §10.1 Revisorer
+## §6.1 Revisorer
 
 SM ska utse två revisorer.
 
-### §10.1.1 Befogenheter
+### §6.1.1 Befogenheter
 
 Revisorerna har rätt att
 
@@ -495,7 +426,7 @@ Revisorerna har rätt att
 
 -   kalla till möte med samtliga delar av sektionen.
 
-### §10.1.2 Uppgifter
+### §6.1.2 Uppgifter
 
 Det åligger revisorerna att
 
@@ -503,7 +434,7 @@ Det åligger revisorerna att
 
 -   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
-### §10.1.3 Revisionssed
+### §6.1.3 Revisionssed
 
 Revisorerna är skyldiga att inte
 
@@ -513,23 +444,24 @@ Revisorerna är skyldiga att inte
 
 -   ha något ansvar inom sektionens styrelse eller valberedning.
 
-## §10.2 Verksamhetsberättelse och årsbokslut
+## §6.2 Verksamhetsberättelse och årsbokslut
 
 Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 14 dagar före samma SM.
 
 [1.1]: #1-1-namn
 [1.6]: #1-6-styrdokument
 [1.8]: #1-8-officiella-informationskanaler
+[2]: #2-medlemskap
 [2.1]: #2-1-ordinarie-sektionsmedlem
 [2.2]: #2-2-hedersmedlem
 [2.3]: #2-3-alumnimedlem
 [2.4]: #2-4-juniormedlem
 [2.5]: #2-5-gästmedlemskap
-[3.13.1]: #3-13-1-nomineringar
 [3.3]: #3-3-kallelse
-[3.10]: #3-9-1-ordinarie-sm
+[3.10]: #3-10-ordinarie-sm
 [3.12]: #3-12-ajournering
-[4.2]: #4-2-d-rektoratsmöte
+[3.13.1]: #3-13-1-nomineringar
 [4.2.1]: #4-2-1-kallelse
-[6]: #6-nämnder
-[10.1]: #8-1-revisorer
+[5.2]: #5-2-kallelse
+[5.8]: #5-8-ajournering
+[6.1]: #6-1-revisorer

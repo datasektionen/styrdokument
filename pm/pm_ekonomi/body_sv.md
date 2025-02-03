@@ -26,6 +26,9 @@ Medias Klubbmästeri är bokföringspliktigt.
 
 Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
 
+## §2.3 Bokföringsplikt för projekt
+
+D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
 # §3 Skulder till engagerade
 
