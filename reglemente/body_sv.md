@@ -398,7 +398,7 @@ Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans 
 
 Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
-Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
+Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
 
 Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
 
@@ -430,7 +430,7 @@ Då urnval anordnats ska även information om hur urnvalets röstprocess gått t
 
 #### §5.12.8.2 Publiceringsplats
 
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.8](../stadgar#1-8-officiella-informationskanaler).
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
 
 #### §5.12.8.3 Publiceringstid
 
