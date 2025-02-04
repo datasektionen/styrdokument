@@ -42,7 +42,7 @@ Kvitton som inte attesterats eller saknar nödvändig information och inte utbet
 
 DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager från DKM. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
-Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §4.2 ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
+Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
 ## §4.2 Dryckeslager vid festtillfällen
 
@@ -78,7 +78,7 @@ Budgeten är ett instrument för att försöka planera och förutspå hur verksa
 
 ## §7.1 Skyldighet
 
-Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Ett sådant nekande bör kunna motiveras med hänsyn till relevanta regler, och man har rätt till en sådan motivering om den efterfrågas. Beslutet kan överklagas enligt nämnda ordning i §A.
+Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Ett sådant nekande bör kunna motiveras med hänsyn till relevanta regler, och man har rätt till en sådan motivering om den efterfrågas. Beslutet kan överklagas enligt nämnda ordning i §[A].
 
 ## §7.2 Fördelning och användning av teambuilding-, personalvård- och fikabudget
 
@@ -161,7 +161,7 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 ## §8.3 50-år jubileumsfonden
 
-50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
+50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §[8.2] Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
 ## §8.4 Källarfonden
 
@@ -188,7 +188,7 @@ Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att
 
 # §11 Attest
 
-Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning organledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning organledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 
@@ -217,3 +217,7 @@ För att risken inte ska bli för hög ska investeringar enbart ske i börsnoter
 # §A Beslutsordning
 
 För att ha en organisation där vi kan ta snabba beslut men samtidigt ha en rättsäkerhet sker bedömning av de delar som refererar till denna paragraf av följande instanser i stigande ordning: Kassör, styrelse, Revisorer, SM. Om man anser att ett beslut är felaktigt kan man alltså överklaga till en högre instans.
+
+[4.2]: #4-2-dryckeslager-vid-festtillfällen
+[8.2]: #8-2-jubileumsfonden
+[A]: #a-beslutsordning
