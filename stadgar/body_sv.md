@@ -258,7 +258,7 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 ### §3.13.3 Ordinarie val
 
-Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt §[3.13.2] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
 
@@ -266,11 +266,11 @@ Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens or
 
 Om en funktionärspost blir vakantsatt ska Valberedningen lysa fyllnadsval till nästkommande SM.
 
-Inför fyllnadsval ska nomineringslistan anslås enligt §[3.13.1] senast 21 dagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+Inför fyllnadsval ska nomineringslistan anslås enligt §[3.13.2] senast 21 dagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
 ### §3.13.5 Val vid extra SM
 
-Nomineringslistan ska anslås enligt §[3.13.1] senast 11 dagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast 1 dag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt §[3.13.2] senast 11 dagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast 1 dag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
 ### §3.13.6 Kandidatur under SM
 
@@ -400,7 +400,7 @@ Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentam
 
 ## §5.7 Val
 
-Nomineringslistan ska anslås enligt stadgarnas §[3.13.1] senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt stadgarnas §[3.13.2] senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
 
@@ -462,7 +462,7 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [3.3]: #3-3-kallelse
 [3.10]: #3-10-ordinarie-sm
 [3.12]: #3-12-ajournering
-[3.13.1]: #3-13-1-nomineringar
+[3.13.2]: #3-13-2-nomineringar
 [4.2.1]: #4-2-1-kallelse
 [5.2]: #5-2-kallelse
 [5.8]: #5-8-ajournering
