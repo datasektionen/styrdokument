@@ -60,4 +60,6 @@ Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktion�
 
 ## §2.3 Medaljer
 
-Om D-rektoratet anser att en δ-funktionär gjort ett bra jobb och och gjort sitt bästa för att uppfylla kraven i §1 så belönas de av D-rektoratet med en δ-funktionärsmedalj.”
+Om D-rektoratet anser att en δ-funktionär gjort ett bra jobb och och gjort sitt bästa för att uppfylla kraven i §[1] så belönas de av D-rektoratet med en δ-funktionärsmedalj.”
+
+[1]: #1-skyldigheter

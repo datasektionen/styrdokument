@@ -63,9 +63,9 @@ Trygghetsrådet ska:
 
 - arbeta för att förbättra situationen för de inblandade, även då en faktisk konsekvens enligt konsekvenstrappan ej blir aktuell
 
-- sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende - ifrågasätts skall denne entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet
+- sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende - ifrågasätts skall denne entledigas från ärendet och ersättas enligt §[4.7] Vakanta poster i Trygghetsrådet
 
-- vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt $[4.7] Vakanta poster i Trygghetsrådet
+- vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt §[4.7] Vakanta poster i Trygghetsrådet
 
 	- I de fall där det inte är möjligt att tillsätta tillräckligt många objektiva styrelseledamöter ska utredningen istället lämnas över till högre instans inom KTH eller THS.
 
@@ -121,7 +121,7 @@ Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom f�
 
 Med målsägandens samtycke, och efter diskussion om tystnadsplikt, kan Skyddsombuden ta ärendet vidare till Trygghetsrådet. Målsägande kan när som helst välja att avsluta utredningen.
 
-Anmälan av person inom Trygghetsrådet görs enligt $[4.6] Vid utredning av medlem i Trygghetsrådet.
+Anmälan av person inom Trygghetsrådet görs enligt §[4.6] Vid utredning av medlem i Trygghetsrådet.
 
 Anmälan gällande händelse inom, med Sektionen för Medieteknik, delad verksamhet utreds i samråd med motsvarande utredande instans på Sektionen för Medieteknik.
 
