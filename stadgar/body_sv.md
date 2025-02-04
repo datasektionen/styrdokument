@@ -246,37 +246,37 @@ Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns 
 
 Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen.
 
-### 3.13.1 Valberedningen
+### §3.13.1 Valberedningen
 
 Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
 
-### §3.13.1 Nomineringar
+### §3.13.2 Nomineringar
 
 Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.9]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
 
 Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås ska Valberedningen även anslå en lista på samtliga nominerade i valet.
 
-### §3.13.2 Ordinarie val
+### §3.13.3 Ordinarie val
 
 Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Ordförande, Vice ordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
 
-### §3.13.3 Fyllnadsval
+### §3.13.4 Fyllnadsval
 
 Om en funktionärspost blir vakantsatt ska Valberedningen lysa fyllnadsval till nästkommande SM.
 
 Inför fyllnadsval ska nomineringslistan anslås enligt §[3.13.1] senast 21 dagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
-### §3.13.4 Val vid extra SM
+### §3.13.5 Val vid extra SM
 
 Nomineringslistan ska anslås enligt §[3.13.1] senast 11 dagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast 1 dag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
-### §3.13.5 Kandidatur under SM
+### §3.13.6 Kandidatur under SM
 
 Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett beslut med 3/4-majoritet av SM.
 
-### §3.13.6 Avvikande valprocesser
+### §3.13.7 Avvikande valprocesser
 
 Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
 
