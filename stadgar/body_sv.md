@@ -176,7 +176,7 @@ Det åligger SM att
 
 -   om sektionsmedlem så önskar granska protokoll från DM
 
--   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §3.13.6
+-   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[3.13.7]
 
 -   genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
@@ -463,6 +463,7 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [3.10]: #3-10-ordinarie-sm
 [3.12]: #3-12-ajournering
 [3.13.2]: #3-13-2-nomineringar
+[3.13.7]: #3-13-7-avvikande-valprocesser
 [4.2.1]: #4-2-1-kallelse
 [5.2]: #5-2-kallelse
 [5.8]: #5-8-ajournering
