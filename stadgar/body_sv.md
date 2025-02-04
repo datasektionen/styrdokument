@@ -64,7 +64,7 @@ Stadgarna ändras genom likalydande beslut på två på varandra följande SM, v
 
 ### §1.7.5 Dispens från stadgarna
 
-Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
+Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.7] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens ska motiveras i mötesprotokollet.
 
 ### §1.7.6 Föreskrifter utöver stadgarna
 
@@ -184,15 +184,15 @@ Det åligger SM att
 
 D-rektoratet kallar till ordinarie och extra SM.
 
-Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 35 dagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till ordinarie SM ska anslås enligt §[1.9] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 35 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
-Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 11 dagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till extra SM ska anslås enligt §[1.9] samt tillsändas THS styrelse och THS sakrevisorer senast 11 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar före mötet. Föredragningslistan och övriga handlingar kan kompletteras för att lägga till sent inkomna ärenden eller ändra ordningen av föredragningslistan. Kompletterande handlingar ska anslås jämte kallelsen senast 3 dagar före mötet.
 
 Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[10.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Om sektionsmötet ajourneras till reservtiden så ska en lokal för mötets reservtid utses. Ifall lokalen för mötet av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om ändrad lokal och/eller lokal för reservtid ska anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Om sektionsmötet ajourneras till reservtiden så ska en lokal för mötets reservtid utses. Ifall lokalen för mötet av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om ändrad lokal och/eller lokal för reservtid ska anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §3.4 Beslutsmässighet
 
@@ -210,7 +210,7 @@ Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Res
 
 ## §3.7 Protokoll
 
-Vid SM ska diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll ska i justerat skick anslås enligt §[1.8] inom 14 dagar, samt på begäran
+Vid SM ska diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll ska i justerat skick anslås enligt §[1.9] inom 14 dagar, samt på begäran
 tillsändas THS styrelse.
 
 ## §3.8 Interpellation, motion och proposition
@@ -252,7 +252,7 @@ Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammans
 
 ### §3.13.1 Nomineringar
 
-Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.8]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
+Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.9]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
 
 Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås ska Valberedningen även anslå en lista på samtliga nominerade i valet.
 
@@ -310,7 +310,7 @@ Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revis
 
 ### §4.2.1 Kallelse
 
-Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen ska anslås enligt §[1.8] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 7 dagar före mötet.
+Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen ska anslås enligt §[1.9] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 7 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Kompletterande handlingar kan skickas ut samma dag som mötet hålls.
 
@@ -320,7 +320,7 @@ DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och
 
 ### §4.2.3 Protokoll
 
-På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt §[1.8] i justerat skick senast 21 dagar efter mötet.
+På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt §[1.9] i justerat skick senast 21 dagar efter mötet.
 
 ## §4.3 Uppgifter
 
@@ -360,7 +360,7 @@ Om Kassör är oförmögen att utföra sina ansvarsområden utövar Vice kassör
 
 ## §4.8 Per capsulam-beslut
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt, efter förfrågan från sektionsmedlem, prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt, efter förfrågan från sektionsmedlem, prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.9].
 
 ## §4.9 D-rektiv
 
@@ -376,11 +376,11 @@ Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och
 
 ## §5.2 Kallelse
 
-D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.8] senast 21 dagar före mötet.
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.9] senast 21 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.8], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §5.3 Beslutsmässighet
 
@@ -392,7 +392,7 @@ Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstet
 
 ## §5.5 Protokoll
 
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.8] i justerat skick senast 7 dagar efter mötet.
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
 
 ## §5.6 Sammanträden
 
@@ -434,7 +434,7 @@ Det åligger revisorerna att
 
 -   fortlöpande granska sektionens förvaltning och verksamhet
 
--   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
+-   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.9] samt inlämna revisionberättelse till D-rektoratet.
 
 ### §6.1.3 Revisionssed
 
@@ -448,11 +448,11 @@ Revisorerna är skyldiga att inte
 
 ## §6.2 Verksamhetsberättelse och årsbokslut
 
-Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 14 dagar före samma SM.
+Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.9] senast 14 dagar före samma SM.
 
 [1.1]: #1-1-namn
-[1.6]: #1-6-styrdokument
-[1.8]: #1-8-officiella-informationskanaler
+[1.7]: #1-7-styrdokument
+[1.9]: #1-9-officiella-informationskanaler
 [2]: #2-medlemskap
 [2.1]: #2-1-ordinarie-sektionsmedlem
 [2.2]: #2-2-hedersmedlem
