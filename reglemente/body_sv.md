@@ -603,46 +603,46 @@ Studiemiljöansvarig ska
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §3.6.8 Valberedningsledamöter
+### §3.6.7 Valberedningsledamöter
 
-#### §3.6.8.1 Ändamål
+#### §3.6.7.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
-#### §3.6.8.2 Mandatperiod
+#### §3.6.7.2 Mandatperiod
 
 Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
 Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §3.6.9 Sångledare
+### §3.6.8 Sångledare
 
-#### §3.6.9.1 Ändamål
+#### §3.6.8.1 Ändamål
 
 Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §3.6.9.2 Organisation
+#### §3.6.8.2 Organisation
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
 Tillhör Studiesociala organet.
 
-#### §3.6.9.3 Mandatperiod
+#### §3.6.8.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §3.6.10 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §3.6.9 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
-#### §3.6.10.1 Ändamål
+#### §3.6.9.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
-#### §3.6.10.2 Organisation
+#### §3.6.9.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
 Tillhör Påverkansorganet.
 
-#### §3.6.10.3 Verksamhet
+#### §3.6.9.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
@@ -668,19 +668,19 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §3.6.10.4 Mandatperiod
+#### §3.6.9.4 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §3.6.11 Vice talman
+### §3.6.10 Vice talman
 
-#### §3.6.11.1 Ändamål
+#### §3.6.10.1 Ändamål
 
 Vice talman har som uppgift att bistå talman i att arrangera SM.
 
 Vice talman är ställföreträdande talman.
 
-#### §3.6.11.2 Mandatperiod
+#### §3.6.10.2 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
