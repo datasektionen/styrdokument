@@ -630,9 +630,9 @@ dRama leds av dRamaturgen.
 
 ### §5.27.1 Ändamål
 
-Talmanspresidiet har som uppgift att arrangera samt leda SM.
+Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
 
-Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
+Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
 
 ### §5.27.2 Organisation
 
