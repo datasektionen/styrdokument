@@ -626,6 +626,8 @@ dRama leds av dRamaturgen.
 
 Övriga medlemmar utses av dRamaturgen.
 
+Tillhör Studiesociala organet.
+
 ## §5.27 Talmanspresidiet
 
 ### §5.27.1 Ändamål
@@ -654,6 +656,8 @@ Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrat
 ### §5.28.2 Organisation
 
 Kommunikationsgruppen leds av Kommunikatör. Internfunktionärer utses av Kommunikatör.
+
+Tillhör Informationsorganet.
 
 # §6 Projekt
 
@@ -909,8 +913,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Påverkansorganet.
-
 ### §8.3.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
@@ -957,8 +959,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-Tillhör Studiesociala organet.
-
 ### §8.3.8 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
@@ -981,15 +981,11 @@ Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december fö
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Eventorganet.
-
 ### §8.3.11 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
-
-Tillhör Studiesociala organet.
 
 ### §8.3.12 Valberedningens ordförande
 
@@ -1003,15 +999,11 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Studiesociala organet.
-
 ### §8.3.14 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
-
-Tillhör Studiesociala organet.
 
 ### §8.3.15 D-Dagenansvariga
 
@@ -1019,15 +1011,11 @@ Tillhör Studiesociala organet.
 
 Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
-Tillhör Näringslivsorganet.
-
 ### §8.3.16 Bakis
 
 Är ordförande för Baknämnden.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
-
-Tillhör Studiesociala organet.
 
 ### §8.3.17 Internationell studentkoordinator
 
@@ -1035,15 +1023,11 @@ Internationell studentkoordinator, ISK, är ordförande för Internationella nä
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod
 
-Tillhör Eventorganet.
-
 ### §8.3.18 Datas Art Director
 
 Är ordförande för Tag Monkeys.
 
 Väljs i Period 4. Har läsår som mandatperiod.
-
-Tillhör Informationsorganet.
 
 ### §8.3.19 Chefredaqtör
 
@@ -1051,15 +1035,11 @@ Tillhör Informationsorganet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-Tillhör Informationsorganet.
-
 ### §8.3.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
 
 Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
-
-Tillhör Informationsorganet.
 
 ### §8.3.21 Mulle/Mullerina Schmeck
 
@@ -1069,15 +1049,11 @@ Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framfö
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-Tillhör Förvaltningsorganet.
-
 ### §8.3.22 Körmästare
 
 Är ordförande för Scala.
 
 Väljs i Period 4. Har läsår som mandatperiod.
-
-Tillhör Studiesociala organet.
 
 ### §8.3.23 Tomtemor/-far
 
@@ -1085,23 +1061,17 @@ Tillhör Studiesociala organet.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-Tillhör Informationsorganet.
-
 ### §8.3.24 D-fest
 
 Är ordförande för D-festeriet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-Tillhör Studiesociala organet.
-
 ### §8.3.25 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
-
-Tillhör Informationsorganet.
 
 ### §8.2.26 dRamaturgen
 
@@ -1122,6 +1092,8 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 ### §8.3.29 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
+
+Sammankallande för Informationsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -1231,11 +1203,14 @@ Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verks
 
 ### §8.4.5 Ljud- och ljusansvarig
 
-Tillhör Förvaltningsorganet.
 
 #### §8.4.5.1 Ändamål
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
+
+#### §8.4.5.2 Organisation
+
+Tillhör Förvaltningsorganet.
 
 #### §8.4.5.2 Mandatperiod
 
@@ -1313,6 +1288,8 @@ Väljs i Period 4. Har läsår som mandatperiod.
 #### §8.4.10.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+
+Tillhör Påverkansorganet.
 
 #### §8.4.10.3 Verksamhet
 
