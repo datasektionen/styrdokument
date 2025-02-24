@@ -48,7 +48,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Funktionärer
 
-Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. En funktionärs verksamhet och uppdrag regleras i reglementet.
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär.
 
 ## §3.1 Skyldigheter
 
@@ -915,7 +915,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Sammankallande för Eventorganet.
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.3.3 Konglig Lokalchef
 
@@ -923,7 +923,7 @@ Väljs på SM i Period 4. Har läsår som mandatperiod.
 
 Sammankallande för Förvaltningsorganet.
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.3.4 Konglig Öfverdrif
 
@@ -939,7 +939,7 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Sammankallande för Näringslivsorganet.
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.3.6 Qulturattaché
 
@@ -969,7 +969,7 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Sammankallande för Påverkansorganet.
 
-Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §8.3.10 Adas ordförande
 
@@ -1005,7 +1005,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
 ### §8.3.16 Bakis
 
@@ -1017,7 +1017,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod
+Väljs i Period 2. Har kalenderår som mandatperiod
 
 ### §8.3.18 Datas Art Director
 
@@ -1035,7 +1035,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för Systemgruppen.
 
-Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §8.3.21 Mulle/Mullerina Schmeck
 
@@ -1055,7 +1055,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för dJulkalendern.
 
-Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 ### §8.3.24 D-fest
 
@@ -1073,7 +1073,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för dRama.
 
-Väljs på VM i period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §8.3.27 Medias Klubbmästare
 
@@ -1083,7 +1083,7 @@ Väljs på VM i period 4. Har läsår som mandatperiod.
 
 Är ordförande för Talmanspresidiet.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §8.3.29 Kommunikatör
 
@@ -1127,7 +1127,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §8.4.2.4 Mandatperiod
 
-Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen väljs på SM i Period 3 och har läsår som mandatperiod.
 
 ### §8.4.3 Programansvarig student
 
@@ -1195,7 +1195,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §8.4.4.4 Mandatperiod
 
-Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorn väljs i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ### §8.4.5 Ljud- och ljusansvarig
 
@@ -1246,7 +1246,7 @@ Studiemiljöansvarig ska
 
 #### §8.4.6.4 Mandatperiod
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §8.4.8 Valberedningsledamöter
 
@@ -1256,8 +1256,8 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens ordföran
 
 #### §8.4.8.2 Mandatperiod
 
-Tre ledamöter väljs på SM i Period 4 och har läsår som mandatperiod. 
-Ytterligare tre ledamöter väljs på SM i Period 2 och har kalenderår som mandatperiod.
+Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
+Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
 
 ### §8.4.9 Sångledare
 
@@ -1315,7 +1315,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 #### §8.4.10.4 Mandatperiod
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.4.11 Vice talman
 
@@ -1327,7 +1327,7 @@ Vice talman är ställföreträdande talman.
 
 #### §8.4.11.2 Mandatperiod
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 # §9 Externa representanter
 
