@@ -182,9 +182,9 @@ Klubbmästeriet, DKM, anordnar fester och andra sociala arrangemang för sektion
 
 ### §5.5.2 Organisation
 
-DKM leds av klubbmästaren.
+DKM leds av Klubbmästare.
 
-Övriga medlemmar utses av DKM.
+Övriga medlemmar utses av Klubbmästare.
 
 Tillhör Eventorganet.
 
