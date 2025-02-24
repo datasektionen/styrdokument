@@ -1277,20 +1277,6 @@ Studiemiljöansvarig ska
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
-### §8.4.7 D-Fest
-
-#### §8.4.7.1 Ändamål
-
-D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
-
-#### §8.4.7.2 Organisation
-
-Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
-
-#### §8.4.7.3 Mandatperiod
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §8.4.8 Valberedningsledamöter
 
 #### §8.4.8.1 Ändamål
