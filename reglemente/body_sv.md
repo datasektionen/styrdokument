@@ -86,7 +86,7 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 - ha en god överblick av sektionens ekonomi.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
@@ -102,7 +102,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
@@ -146,7 +146,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Vice kassör.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
@@ -162,7 +162,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Kassör.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
