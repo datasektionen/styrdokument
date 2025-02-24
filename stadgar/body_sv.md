@@ -240,6 +240,42 @@ D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan en
 
 Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen angivna reservtiden.
 
+# §5 Valmötet
+
+## §5.1 Sammansättning
+
+Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
+
+Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+
+## §5.2 Kallelse
+
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.9] senast 21 dagar före mötet.
+
+Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
+
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+
+## §5.3 Beslutsmässighet
+
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 2δ + 1 personer, där δ är antalet ledamötposter i styrelsen, eller 15 personer om antalet ledamötsposter i styrelsen är färre än 7, sektionsmedlemmar är närvarande.
+
+## §5.4 Beslut
+
+Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
+
+## §5.5 Protokoll
+
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
+
+## §5.6 Sammanträden
+
+Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
+
+## §5.8 Ajournering
+
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[5.2] i kallelsen angivna reservtiden.
+
 # §4 Val
 
 Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
@@ -365,41 +401,6 @@ Vid per capsulam beslut gäller 2/3-majoritet och att beslut informeras om, samt
 
 D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommendationer å de enskilda sektionsmedlemmarnas liv och leverne.
 
-# §5 Valmötet
-
-## §5.1 Sammansättning
-
-Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
-
-Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
-
-## §5.2 Kallelse
-
-D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.9] senast 21 dagar före mötet.
-
-Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
-
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[5.8]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
-
-## §5.3 Beslutsmässighet
-
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 2δ + 1 personer, där δ är antalet ledamötposter i styrelsen, eller 15 personer om antalet ledamötsposter i styrelsen är färre än 7, sektionsmedlemmar är närvarande.
-
-## §5.4 Beslut
-
-Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
-
-## §5.5 Protokoll
-
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
-
-## §5.6 Sammanträden
-
-Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
-
-## §5.8 Ajournering
-
-Mötesordförande äger rätt att ajournera mötet till den, enligt §[5.2] i kallelsen angivna reservtiden.
 
 # §6 Revision
 
