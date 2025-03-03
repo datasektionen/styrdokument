@@ -1229,7 +1229,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §8.4.4.4 Mandatperiod
 
-Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ### §8.4.5 Ljud- och ljusansvarig
 
