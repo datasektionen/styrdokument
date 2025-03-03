@@ -52,6 +52,10 @@ Använd kollektivtrafik i så stor mån som möjligt, t.ex. vid besök till Osqv
 
 Om ni behöver hyra bil, välj en miljövänlig då det är rimligt.
 
+## §5.3
+
+Sektionen bekostar inte flygresor. Medlemmar ska inte behöva flyga för att vara med på, av sektionen arrangerade, resor eller event.
+
 # Samarbeten
 
 Vid samarbeten med externa parter bör man uppmuntra till att den delade verksamheten har ett minimalt klimatavtryck.
