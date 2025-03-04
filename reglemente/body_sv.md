@@ -499,52 +499,38 @@ Internationella nämnden leds tillsammans av Internationell studentkoordinator o
 
 Tillhör Eventorganet.
 
-## §5.17 Tag Monkeys
+## §5.17 Redaqtionen
 
 ### §5.17.1 Ändamål
 
-Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete samt att det finns möjlighet för sektionsmedlemmar att engagera sig inom det.
-
-### §5.17.2 Organisation
-
-Tag Monkeys leds av Datas Art Director. 
-
-Övriga medlemmar utses av Datas Art Director.
-
-Tillhör Informationsorganet.
-
-## §5.18 Redaqtionen
-
-### §5.18.1 Ändamål
-
 Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen.
 
-### §5.18.2 Organisation
+### §5.17.2 Organisation
 
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
 
 Tillhör Informationsorganet.
 
-## §5.19 Datasladden
+## §5.18 Datasladden
 
-### §5.19.1 Ändamål
+### §5.18.1 Ändamål
 
 Datasladden har till uppgift att ansvara över sektionsbilen.
 
-### §5.19.2 Organisation
+### §5.18.2 Organisation
 
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
 
 Tillhör Förvaltningsorganet.
 
-## §5.20 Scala
+## §5.19 Scala
 
-### §5.20.1 Ändamål
+### §5.19.1 Ändamål
 
 Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
 
-### §5.20.2 Organisation
+### §5.19.2 Organisation
 
 Scala leds av Körmästare.
 
@@ -552,25 +538,25 @@ Scala leds av Körmästare.
 
 Tillhör Studiesociala organet.
 
-## §5.21 D-Dagen
+## §5.20 D-Dagen
 
-### §5.21.1 Ändamål
+### §5.20.1 Ändamål
 
 D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
 
-### §5.21.2 Organisation
+### §5.20.2 Organisation
 
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
 
 Tillhör Näringslivsorganet.
 
-## §5.22 dJulkalendern
+## §5.21 dJulkalendern
 
-### §5.22.1 Ändamål
+### §5.21.1 Ändamål
 
 dJulkalenderns ändamål är att främja intresse för etisk hackning, problemlösning och CTF-tävlingar inom Konglig Datasektionen.
 
-### §5.22.2 Organisation
+### §5.21.2 Organisation
 
 dJulkalendern leds av Tomtemor/-far.
 
@@ -578,7 +564,7 @@ dJulkalendern leds av Tomtemor/-far.
 
 Tillhör Informationsorganet.
 
-## §5.23 Medias Klubbmästeri
+## §5.22 Medias Klubbmästeri
 
 Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
@@ -586,13 +572,13 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
 Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret. 
 
-## §5.24 D-festeriet
+## §5.23 D-festeriet
 
-### §5.24.1 Ändamål
+### §5.23.1 Ändamål
 
 D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
 
-### §5.24.2 Organisation
+### §5.23.2 Organisation
 
 D-festeriet leds av D-Fest.
 
@@ -600,13 +586,13 @@ D-festeriet leds av D-Fest.
 
 Tillhör Eventorganet.
 
-## §5.25 GUDAR
+## §5.24 GUDAR
 
-### §5.25.1 Ändamål
+### §5.24.1 Ändamål
 
 Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
 
-### §5.25.2 Organisation
+### §5.24.2 Organisation
 
 GUDAR leds av Sektionshistoriker.
 
@@ -614,44 +600,44 @@ GUDAR leds av Sektionshistoriker.
 
 Tillhör Informationsorganet.
 
-## §5.26 dRama
+## §5.25 dRama
 
-### §5.26.1 Ändamål
+### §5.25.1 Ändamål
 
 Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
 
-### §5.26.2 Organisation
+### §5.25.2 Organisation
 
 dRama leds av dRamaturgen.
 
 Övriga medlemmar utses av dRamaturgen.
 
-## §5.27 Talmanspresidiet
+## §5.26 Talmanspresidiet
 
-### §5.27.1 Ändamål
+### §5.26.1 Ändamål
 
 Talmanspresidiet har som uppgift att arrangera samt leda SM.
 
 Talmanspresidiet skall säkerställa att dokument till och från SM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
 
-### §5.27.2 Organisation
+### §5.26.2 Organisation
 
 Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
 
-### §5.27.3 Verksamhet
+### §5.26.3 Verksamhet
 
 Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
 
 Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
 
-## §5.28 Kommunikationsgruppen
+## §5.27 Kommunikationsgruppen
 
-### §5.28.1 Ändamål
+### §5.27.1 Ändamål
 
 Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt.
 Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-### §5.28.2 Organisation
+### §5.27.2 Organisation
 
 Kommunikationsgruppen leds av Kommunikatör. Internfunktionärer utses av Kommunikatör.
 
