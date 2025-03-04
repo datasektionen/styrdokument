@@ -438,7 +438,7 @@ Det åligger revisorerna att
 
 ### §6.1.3 Revisionssed
 
-“Under det verksamhetsår de är valda för att granska är revisorerna skyldiga att inte”
+Revisorerna är skyldiga att inte
 
 -   vara nämndansvarig för en bokföringspliktig nämnd eller projekt
 
