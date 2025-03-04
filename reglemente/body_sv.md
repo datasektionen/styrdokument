@@ -1025,15 +1025,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod
 
 Tillhör Eventorganet.
 
-### §8.3.18 Datas Art Director
-
-Är ordförande för Tag Monkeys.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-Tillhör Informationsorganet.
-
-### §8.3.19 Chefredaqtör
+### §8.3.18 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
@@ -1041,7 +1033,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Tillhör Informationsorganet.
 
-### §8.3.20 Systemansvarig
+### §8.3.19 Systemansvarig
 
 Är ordförande för Informationsorganet.
 
@@ -1049,7 +1041,7 @@ Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nä
 
 Tillhör Informationsorganet.
 
-### §8.3.21 Mulle/Mullerina Schmeck
+### §8.3.20 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
 
@@ -1059,7 +1051,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Tillhör Förvaltningsorganet.
 
-### §8.3.22 Körmästare
+### §8.3.21 Körmästare
 
 Är ordförande för Scala.
 
@@ -1067,7 +1059,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Tillhör Studiesociala organet.
 
-### §8.3.23 Tomtemor/-far
+### §8.3.22 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
@@ -1075,7 +1067,7 @@ Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 Tillhör Informationsorganet.
 
-### §8.3.24 D-fest
+### §8.3.23 D-fest
 
 Är ordförande för D-festeriet.
 
@@ -1083,7 +1075,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Tillhör Studiesociala organet.
 
-### §8.3.25 Sektionshistoriker
+### §8.3.24 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
@@ -1091,23 +1083,23 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Tillhör Informationsorganet.
 
-### §8.2.26 dRamaturgen
+### §8.3.25 dRamaturgen
 
 Är ordförande för dRama.
 
 Väljs på VM i period 4. Har läsår som mandatperiod.
 
-### §8.3.27 Medias Klubbmästare
+### §8.3.26 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
-### §8.3.28 Talman
+### §8.3.27 Talman
 
 Är ordförande för Talmanspresidiet.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
-### §8.3.29 Kommunikatör
+### §8.3.28 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
 
@@ -1357,6 +1349,16 @@ Vice talman är ställföreträdande talman.
 #### §8.4.11.2 Mandatperiod
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.4.12 Datas Art Director
+
+#### §8.4.12.1 Ändamål
+
+Ansvarar för sektionens grafiska utveckling och arbete.
+
+#### §8.4.12.2 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.
 
 # §9 Externa representanter
 
