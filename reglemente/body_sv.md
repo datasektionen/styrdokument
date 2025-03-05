@@ -1326,7 +1326,7 @@ Vice talman är ställföreträdande talman.
 
 #### §8.4.11.2 Mandatperiod
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 # §9 Externa representanter
 
