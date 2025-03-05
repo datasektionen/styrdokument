@@ -1031,8 +1031,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-Tillhör Informationsorganet.
-
 ### §8.3.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
