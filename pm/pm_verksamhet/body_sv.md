@@ -148,18 +148,7 @@ Internationella nämnden ska:
 * främja informationsspridning på engelska inom sektionen
 * verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-## §1.15  Tag Monkeys
-
-Tag Monkeys ska:
-
-* anordna regelbundna aktiviteter med fokus på konst och design för intresserade sektionsmedlemmar
-* ge sektionsmedlemmar möjlighet att fördjupa sig inom konst och design
-* synliggöra sektionens funktionärer i sektionslokalen
-* administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
-* samarbeta med övriga sektionen där det finns behov eller önskemål av design och konst
-* samarbeta med Qulturnämnden för överlappande verksamhet.
-
-## §1.16  Redaqtionen
+## §1.15  Redaqtionen
 
 Redaqtionen ska:
 
@@ -167,7 +156,7 @@ Redaqtionen ska:
 * ge ut en nØlledbuggen till nØllan under Mottagningen
 * dela med sig av dbuggen till andra D-sektioner i Sverige.
 
-## §1.17  Datasladden
+## §1.16  Datasladden
 
 Datasladden ska: 
 
@@ -176,14 +165,14 @@ Datasladden ska:
 * utforma samt upprätthålla regler för sektionsbilen
 * arbeta för att körjournalen används av alla som brukar sektionsbilen.
 
-## §1.18  Scala
+## §1.17  Scala
 
 Scala ska:
 
 * regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
 * bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
 
-## §1.19  D-Dagen
+## §1.18  D-Dagen
 
 D-Dagen ska:
 
@@ -192,7 +181,7 @@ D-Dagen ska:
 * arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
 * se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-## §1.20  dJulkalendern
+## §1.19  dJulkalendern
 
 dJulkalendern ska:
 
@@ -200,7 +189,7 @@ dJulkalendern ska:
 * anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
 
 
-## §1.21  D-festeriet
+## §1.20  D-festeriet
 
 D-festeriet ska:
 
@@ -209,7 +198,7 @@ D-festeriet ska:
 * anordna evenemang i samarbete med andra studentföreningar
 * hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
-## §1.22  GUDAR
+## §1.21  GUDAR
 
 GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
@@ -220,7 +209,7 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 * vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
 * på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
-## §1.23 dRama
+## §1.22 dRama
 
 dRama ska:
 
@@ -228,7 +217,7 @@ dRama ska:
 * förbereda och utföra gyckel och spex på sittningar
 * en gång per termin anordna en improvshow för de som vill komma och kolla.
 
-## §1.24 Kommunikationsgruppen
+## §1.23 Kommunikationsgruppen
 
 Kommunikationsgruppen ska:
 
@@ -255,3 +244,12 @@ Sångledare ska:
 * sträva efter att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande
 * samarbeta med Prylmångleriet vid inköp av sångböcker
 * samarbeta med Jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy.
+
+## §2.3 Datas Art Director
+
+Datas Art Director ska:
+
+* synliggöra sektionens funktionärer i sektionslokalen
+* administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
+* samarbeta med övriga sektionen där det finns behov eller önskemål av design och grafisk utveckling
+* administrera över sektionens video- och fotoutrustning
