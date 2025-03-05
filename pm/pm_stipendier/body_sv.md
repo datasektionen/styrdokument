@@ -63,6 +63,20 @@ För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D
 ### §2.2.4 Utdelning
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
 
+## §2.3 Styrelsemedalj
+
+### §2.3.1 Syfte
+
+Styrelsemedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som styrelseledamot på sektionen.
+
+### §2.3.2 Utformning
+
+Styrelsemedaljen består av ett gyllene delta med ett cerise-gul-cerise band med svarta skiljelinjer mellan.
+
+### §2.3.3 Utdelning
+
+Endast en medalj per ledamotspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
+
 # §3 Stipendier
 
 ## §3.1 THS Kamratstipendium
