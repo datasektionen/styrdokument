@@ -1057,8 +1057,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-Tillhör Informationsorganet.
-
 ### §8.3.24 D-fest
 
 Är ordförande för D-festeriet.
