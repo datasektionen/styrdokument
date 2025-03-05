@@ -44,7 +44,7 @@ D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och mo
 Funktionärsmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som funktionär på sektionen.
 
 ### §2.1.2 Utformning
-Funktionärsmedaljen består av ett gyllene delta med ett blåvitt band.
+Funktionärsmedaljen består av ett gyllene delta med ett cerise-gul-cerise band med vita skiljelinjer mellan.
 
 ### §2.1.3 Utdelning
 Endast en medalj per funktionärspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
