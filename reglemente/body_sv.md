@@ -1069,8 +1069,6 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Informationsorganet.
-
 ### §8.2.26 dRamaturgen
 
 Är ordförande för dRama.
