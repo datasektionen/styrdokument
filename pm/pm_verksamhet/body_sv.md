@@ -2,7 +2,7 @@
 
 # §1 Nämnder
 
-## § 1.1 Sektionslokalsgruppen
+## §1.1 Sektionslokalsgruppen
 
 Sektionslokalsgruppen ska:
 
@@ -237,7 +237,7 @@ Kommunikationsgruppen ska:
 
 # §2 Funktionärer
 
-## §2.1  Fanbärare
+## §2.1 Fanbärare
 
 Fanbärare ska:
 
@@ -245,7 +245,7 @@ Fanbärare ska:
 * hålla sektionens fana i gott skick
 * bära hönan fagt.
 
-## §2.2  Sångledare
+## §2.2 Sångledare
 
 Sångledare ska:
 
