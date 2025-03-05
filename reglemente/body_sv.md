@@ -969,7 +969,7 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Sammankallande för Påverkansorganet.
 
-Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §8.3.10 Adas ordförande
 
