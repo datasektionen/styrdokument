@@ -1201,8 +1201,6 @@ Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verks
 
 ### §8.4.5 Ljud- och ljusansvarig
 
-Tillhör Förvaltningsorganet.
-
 #### §8.4.5.1 Ändamål
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
