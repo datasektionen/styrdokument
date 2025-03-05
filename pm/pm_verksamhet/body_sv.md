@@ -2,7 +2,7 @@
 
 # §1 Nämnder
 
-## § 1.1 Sektionslokalsgruppen
+## §1.1 Sektionslokalsgruppen
 
 Sektionslokalsgruppen ska:
 
@@ -205,7 +205,7 @@ dJulkalendern ska:
 D-festeriet ska:
 
 * anordna gasquer och andra evenemang för sektionsmedlemmar
-* anordna TB samt Skiftes för funktionärer en gång per termin
+* anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
 * anordna evenemang i samarbete med andra studentföreningar
 * hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
@@ -237,7 +237,7 @@ Kommunikationsgruppen ska:
 
 # §2 Funktionärer
 
-## §2.1  Fanbärare
+## §2.1 Fanbärare
 
 Fanbärare ska:
 
@@ -245,7 +245,7 @@ Fanbärare ska:
 * hålla sektionens fana i gott skick
 * bära hönan fagt.
 
-## §2.2  Sångledare
+## §2.2 Sångledare
 
 Sångledare ska:
 
