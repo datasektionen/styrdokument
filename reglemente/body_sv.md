@@ -1069,11 +1069,11 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §8.2.26 dRamaturgen
+### §8.3.26 dRamaturgen
 
 Är ordförande för dRama.
 
-Väljs på VM i period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §8.3.27 Medias Klubbmästare
 
