@@ -657,6 +657,8 @@ Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrat
 
 Kommunikationsgruppen leds av Kommunikatör. Internfunktionärer utses av Kommunikatör.
 
+Tillhör Informationsorganet.
+
 # §6 Projekt
 
 Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
