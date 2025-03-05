@@ -1063,8 +1063,6 @@ Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-Tillhör Studiesociala organet.
-
 ### §8.3.25 Sektionshistoriker
 
 Är ordförande för GUDAR.
