@@ -448,6 +448,241 @@ Sammankallande för Informationsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+## §8.4 Övriga funktionärer
+
+### §8.4.1 Fanbärare
+
+#### §8.4.1.1 Ändamål
+
+Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
+
+#### §8.4.1.2 Organisation
+
+SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
+
+Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
+
+#### §8.4.1.3 Mandatperiod
+
+Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
+
+### §8.4.2 Kårfullmäktigeledamöter
+
+#### §8.4.2.1 Ändamål
+
+Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
+
+#### §8.4.2.2 Organisation
+
+Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
+
+#### §8.4.2.3 Verksamhet
+
+Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+
+#### §8.4.2.4 Mandatperiod
+
+Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
+
+### §8.4.3 Programansvarig student
+
+#### §8.4.3.1 Ändamål
+
+Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
+
+#### §8.4.3.2 Organisation
+
+Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
+
+I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
+
+Tillhör Påverkansorganet.
+
+#### §8.4.3.3 Verksamhet
+
+Programansvarig student ska
+
+- ansvara för sektionens utbildningspåverkan på programnivå
+
+- arbeta från studentsidan med utbildningsprogrammets utformning
+
+- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
+
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+
+#### §8.4.3.4 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §8.4.4 Revisorer
+
+#### §8.4.4.1 Ändamål
+
+Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
+
+#### §8.4.4.2 Organisation
+
+Enligt sektionens stadgar finns två av SM utsedda revisorer.
+
+Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
+
+Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
+
+#### §8.4.4.3 Verksamhet
+
+Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
+
+##### §8.4.4.3.1 Revisionsberättelse
+
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
+
+##### §8.4.4.3.2 SM
+
+Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
+
+Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
+
+Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+
+##### §8.4.4.3.3 Bokföring
+
+Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
+
+#### §8.4.4.4 Mandatperiod
+
+Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+
+### §8.4.5 Ljud- och ljusansvarig
+
+#### §8.4.5.1 Ändamål
+
+Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
+
+#### §8.4.5.2 Organisation
+
+Tillhör Förvaltningsorganet.
+
+#### §8.4.5.2 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §8.4.6 Studiemiljöansvarig
+
+#### §8.4.6.1 Ändamål
+
+Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
+
+Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
+
+#### §8.4.6.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
+
+Tillhör Påverkansorganet.
+
+#### §8.4.6.3 Verksamhet
+
+Studiemiljöansvarig ska
+
+- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
+
+- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
+
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+
+- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
+
+- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+
+- inventera sjukvårdslådan en gång per period
+
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+
+#### §8.4.6.4 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §8.4.8 Valberedningsledamöter
+
+#### §8.4.8.1 Ändamål
+
+Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
+
+#### §8.4.8.2 Mandatperiod
+
+Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
+Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
+
+### §8.4.9 Sångledare
+
+#### §8.4.9.1 Ändamål
+
+Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
+
+#### §8.4.9.2 Organisation
+
+När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
+
+Tillhör Studiesociala organet.
+
+#### §8.4.9.3 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §8.4.10 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+
+#### §8.4.10.1 Ändamål
+
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
+
+#### §8.4.10.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+
+Tillhör Påverkansorganet.
+
+#### §8.4.10.3 Verksamhet
+
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
+
+- ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
+
+- arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
+
+- agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
+
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+
+- kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
+
+- göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
+
+- arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
+
+- anordna minst en JML-utbildning per termin för sektionens funktionärer
+
+- ha löpande samarbete med KTH, EECS och THS om JML-arbeten
+
+- synliggöra sitt arbete för resten av sektionen
+
+- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
+
+#### §8.4.10.4 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §8.4.11 Vice talman
+
+#### §8.4.11.1 Ändamål
+
+Vice talman har som uppgift att bistå talman i att arrangera SM.
+
+Vice talman är ställföreträdande talman.
+
+#### §8.4.11.2 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
@@ -1092,241 +1327,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
 # §8 Funktionärer
-
-## §8.4 Övriga funktionärer
-
-### §8.4.1 Fanbärare
-
-#### §8.4.1.1 Ändamål
-
-Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
-
-#### §8.4.1.2 Organisation
-
-SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump. 
-
-Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
-
-#### §8.4.1.3 Mandatperiod
-
-Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
-
-### §8.4.2 Kårfullmäktigeledamöter
-
-#### §8.4.2.1 Ändamål
-
-Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
-
-#### §8.4.2.2 Organisation
-
-Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
-
-#### §8.4.2.3 Verksamhet
-
-Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
-
-#### §8.4.2.4 Mandatperiod
-
-Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
-
-### §8.4.3 Programansvarig student
-
-#### §8.4.3.1 Ändamål
-
-Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
-
-#### §8.4.3.2 Organisation
-
-Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
-
-I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
-
-Tillhör Påverkansorganet.
-
-#### §8.4.3.3 Verksamhet
-
-Programansvarig student ska
-
-- ansvara för sektionens utbildningspåverkan på programnivå
-
-- arbeta från studentsidan med utbildningsprogrammets utformning
-
-- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
-
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
-
-#### §8.4.3.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.4.4 Revisorer
-
-#### §8.4.4.1 Ändamål
-
-Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
-
-#### §8.4.4.2 Organisation
-
-Enligt sektionens stadgar finns två av SM utsedda revisorer.
-
-Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
-
-Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
-
-#### §8.4.4.3 Verksamhet
-
-Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
-
-##### §8.4.4.3.1 Revisionsberättelse
-
-Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
-
-##### §8.4.4.3.2 SM
-
-Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
-
-Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
-
-Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
-
-##### §8.4.4.3.3 Bokföring
-
-Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
-
-#### §8.4.4.4 Mandatperiod
-
-Revisorn väljs på SM i Period 2 till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
-
-### §8.4.5 Ljud- och ljusansvarig
-
-#### §8.4.5.1 Ändamål
-
-Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
-
-#### §8.4.5.2 Organisation
-
-Tillhör Förvaltningsorganet.
-
-#### §8.4.5.2 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.4.6 Studiemiljöansvarig
-
-#### §8.4.6.1 Ändamål
-
-Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
-
-Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
-
-#### §8.4.6.2 Organisation
-
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
-
-Tillhör Påverkansorganet.
-
-#### §8.4.6.3 Verksamhet
-
-Studiemiljöansvarig ska
-
-- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
-
-- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
-
-- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
-
-- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
-
-- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
-
-- inventera sjukvårdslådan en gång per period
-
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
-
-#### §8.4.6.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.4.8 Valberedningsledamöter
-
-#### §8.4.8.1 Ändamål
-
-Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
-
-#### §8.4.8.2 Mandatperiod
-
-Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
-Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
-
-### §8.4.9 Sångledare
-
-#### §8.4.9.1 Ändamål
-
-Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
-
-#### §8.4.9.2 Organisation
-
-När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
-
-Tillhör Studiesociala organet.
-
-#### §8.4.9.3 Mandatperiod
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.4.10 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
-
-#### §8.4.10.1 Ändamål
-
-Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
-
-#### §8.4.10.2 Organisation
-
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
-
-Tillhör Påverkansorganet.
-
-#### §8.4.10.3 Verksamhet
-
-Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
-
-- ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
-
-- arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
-
-- agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
-
-- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
-
-- kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
-
-- göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
-
-- arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
-
-- anordna minst en JML-utbildning per termin för sektionens funktionärer
-
-- ha löpande samarbete med KTH, EECS och THS om JML-arbeten
-
-- synliggöra sitt arbete för resten av sektionen
-
-- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
-
-#### §8.4.10.4 Mandatperiod
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.4.11 Vice talman
-
-#### §8.4.11.1 Ändamål
-
-Vice talman har som uppgift att bistå talman i att arrangera SM.
-
-Vice talman är ställföreträdande talman.
-
-#### §8.4.11.2 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
 
 # §9 Externa representanter
 
