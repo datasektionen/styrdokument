@@ -1045,8 +1045,6 @@ Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framfö
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-Tillhör Förvaltningsorganet.
-
 ### §8.3.22 Körmästare
 
 Är ordförande för Scala.
