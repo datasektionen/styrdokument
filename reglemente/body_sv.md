@@ -977,8 +977,6 @@ Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 31:e december fö
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-Tillhör Eventorganet.
-
 ### §8.3.11 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
