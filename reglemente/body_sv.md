@@ -711,7 +711,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
 
--   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+-   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
 
 -   bibehålla styrdokument samt övrig formalia i gott skick
 
