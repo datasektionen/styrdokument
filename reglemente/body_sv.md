@@ -1404,7 +1404,7 @@ Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisio
 
 ### §10.1.4 Val-SM
 
-Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
+Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
 ### §10.2 Övrig verksamhet
 
