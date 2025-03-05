@@ -62,6 +62,166 @@ Funktionär skall även på anmodan från organledare, D-rektoratet eller SM ful
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
 
+## §3.3 D-rektoratet
+
+D-rektoratets ledamöter har ett gemensamt ansvar att
+
+-   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
+
+-   bibehålla styrdokument samt övrig formalia i gott skick
+
+-   hålla sektionens posthantering fungerande
+
+### §8.1.1 Ordförande
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd och organ. Dessa ansvarsområden inkluderar att
+
+- förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
+
+- tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
+
+- förvalta sektionens externa relationer
+
+- fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
+
+- ha en god överblick av sektionens ekonomi.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.2 Vice ordförande
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
+
+- arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
+
+- delegera och följa upp på beslutsuppföljning inom styrelsen
+
+- kunna företräda organisationen tillsammans med Ordförande
+
+- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
+
+- verka för goda överlämningsrutiner i sektionens verksamhet.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.3 Sekreterare
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
+
+- protokoll från SM, VM och DM anslås i enlighet med stadgarna
+
+- stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
+
+- tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
+
+- hålla sektionens posthantering fungerande
+
+- verka för goda överlämningsrutiner i sektionens verksamhet
+
+- tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
+
+- efter ett SM, VM eller DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.4 Kassör
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
+
+- arbeta strategiskt med sektionens ekonomiska frågor
+
+- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+
+- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
+
+- ansvara för att upprätta och följa upp budgeten
+
+- arbeta strategiskt för att uppnå de ekonomiska målen satta av sektionen
+
+- vara ansvarig för sektionens bokföring
+
+- se efter att rutinerna för sektionens likvida medel följs
+
+- ekonomisk lägesrapportering ska presenteras på SM
+
+- ha ett nära samarbete med Vice kassör.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.5 Vice kassör
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
+
+- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+
+- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
+
+- följa upp den kontinuerliga bokföringen
+
+- ansvara för att attesterade utlägg betalas och bokförs
+
+- ha ett nära samarbete med Kassör.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.6 Ledamot för näringsliv och kommunikation
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
+
+- överblicka och verka för stärkandet av varumärket Datasektionen
+
+- strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
+
+- strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
+
+- bistå i samordnandet av näringslivsfrågor på sektionen.
+  
+- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.7 Ledamot för studiesociala frågor
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
+
+- strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
+
+- verka för att möjliggöra rekreation utanför skoltid
+
+- upprätthålla och förvalta kontakten med andra sektioner och organisationer
+
+- verka för en god sammanhållning mellan sektionens engagerade medlemmar.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.8 Ledamot för utbildningsfrågor
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+
+- verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
+
+- ha en samordnade roll för de som arbetar med studentinflytande gentemot EECS på sektionen
+
+- strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
+
+- från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
+### §8.1.9 Ledamot för studiemiljö och likabehandling
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+
+- verka för en god studiemiljö
+
+- ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+
+- hantera JML-incidenter och leda kontakten med externa resurser
+
+- från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
+
+Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
@@ -706,166 +866,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
 # §8 Funktionärer
-
-## §8.1 D-rektoratet
-
-D-rektoratets ledamöter har ett gemensamt ansvar att
-
--   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
-
--   bibehålla styrdokument samt övrig formalia i gott skick
-
--   hålla sektionens posthantering fungerande
-
-### §8.1.1 Ordförande
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd och organ. Dessa ansvarsområden inkluderar att
-
-- förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
-
-- tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
-
-- förvalta sektionens externa relationer
-
-- fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
-
-- ha en god överblick av sektionens ekonomi.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.2 Vice ordförande
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
-
-- arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
-
-- delegera och följa upp på beslutsuppföljning inom styrelsen
-
-- kunna företräda organisationen tillsammans med Ordförande
-
-- se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
-
-- verka för goda överlämningsrutiner i sektionens verksamhet.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.3 Sekreterare
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
-
-- protokoll från SM, VM och DM anslås i enlighet med stadgarna
-
-- stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
-
-- tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
-
-- hålla sektionens posthantering fungerande
-
-- verka för goda överlämningsrutiner i sektionens verksamhet
-
-- tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
-
-- efter ett SM, VM eller DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.4 Kassör
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
-
-- arbeta strategiskt med sektionens ekonomiska frågor
-
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
-
-- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
-
-- ansvara för att upprätta och följa upp budgeten
-
-- arbeta strategiskt för att uppnå de ekonomiska målen satta av sektionen
-
-- vara ansvarig för sektionens bokföring
-
-- se efter att rutinerna för sektionens likvida medel följs
-
-- ekonomisk lägesrapportering ska presenteras på SM
-
-- ha ett nära samarbete med Vice kassör.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.5 Vice kassör
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
-
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
-
-- fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
-
-- följa upp den kontinuerliga bokföringen
-
-- ansvara för att attesterade utlägg betalas och bokförs
-
-- ha ett nära samarbete med Kassör.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.6 Ledamot för näringsliv och kommunikation
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
-
-- överblicka och verka för stärkandet av varumärket Datasektionen
-
-- strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
-
-- strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
-
-- bistå i samordnandet av näringslivsfrågor på sektionen.
-  
-- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.7 Ledamot för studiesociala frågor
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
-
-- strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
-
-- verka för att möjliggöra rekreation utanför skoltid
-
-- upprätthålla och förvalta kontakten med andra sektioner och organisationer
-
-- verka för en god sammanhållning mellan sektionens engagerade medlemmar.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.8 Ledamot för utbildningsfrågor
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
-
-- verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
-
-- ha en samordnade roll för de som arbetar med studentinflytande gentemot EECS på sektionen
-
-- strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
-
-- från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
-
-### §8.1.9 Ledamot för studiemiljö och likabehandling
-
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
-
-- verka för en god studiemiljö
-
-- ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
-
-- hantera JML-incidenter och leda kontakten med externa resurser
-
-- från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
-
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ## §8.2 Ledningsgruppen
 
