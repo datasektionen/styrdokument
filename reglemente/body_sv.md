@@ -1037,8 +1037,6 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-Tillhör Informationsorganet.
-
 ### §8.3.21 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
