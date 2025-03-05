@@ -923,7 +923,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Sammankallande för Förvaltningsorganet.
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.3.4 Konglig Öfverdrif
 
