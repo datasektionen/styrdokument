@@ -1245,7 +1245,7 @@ Studiemiljöansvarig ska
 
 #### §8.4.6.4 Mandatperiod
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §8.4.8 Valberedningsledamöter
 
