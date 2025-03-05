@@ -915,7 +915,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Sammankallande för Eventorganet.
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.3.3 Konglig Lokalchef
 
