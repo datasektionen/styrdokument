@@ -1093,6 +1093,8 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för Kommunikationsgruppen.
 
+Sammankallande för Informationsorganet.
+
 Väljs i Period 4. Har läsår som mandatperiod.
 
 ## §8.4 Övriga funktionärer
