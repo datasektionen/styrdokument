@@ -448,7 +448,7 @@ Sammankallande för Informationsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-## §8.4 Övriga funktionärer
+## §3.6 Övriga funktionärer
 
 ### §8.4.1 Fanbärare
 
@@ -1325,8 +1325,6 @@ Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
-
-# §8 Funktionärer
 
 # §9 Externa representanter
 
