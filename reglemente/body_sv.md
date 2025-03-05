@@ -102,7 +102,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
