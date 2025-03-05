@@ -1286,6 +1286,8 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
+Tillhör Påverkansorganet.
+
 #### §8.4.10.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
