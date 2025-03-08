@@ -196,7 +196,7 @@ Kallelse ska innehålla tid och lokal för mötet samt även information om en r
 
 ## §3.4 Beslutsmässighet
 
-SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst 2δ + 1 personer, där δ är antalet ledamötposter i styrelsen, eller 15 personer om antalet ledamötsposter i styrelsen är färre än 7, sektionsmedlemmar är närvarande.
+SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst *max*(2δ + 1,  15), där δ är antalet ledamötposter i styrelsen, sektionsmedlemmar är närvarande.
 
 ## §3.5 Beslut
 
@@ -384,7 +384,7 @@ Kallelse ska innehålla tid och lokal för mötet samt även information om en r
 
 ## §5.3 Beslutsmässighet
 
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 2δ + 1 personer, där δ är antalet ledamötposter i styrelsen, eller 15 personer om antalet ledamötsposter i styrelsen är färre än 7, sektionsmedlemmar är närvarande.
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §[5.2] och minst 17 sektionsmedlemmar är närvarande.
 
 ## §5.4 Beslut
 
