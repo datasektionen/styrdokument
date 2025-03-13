@@ -2,7 +2,7 @@
 
 # §1 Nämnder
 
-## § 1.1 Sektionslokalsgruppen
+## §1.1 Sektionslokalsgruppen
 
 Sektionslokalsgruppen ska:
 
@@ -41,7 +41,7 @@ Jämlikhetsnämnden ska:
 * arbeta för att hålla gemensamma event med andra nämnder och sektioner
 * arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
 
-## §1.5  Klubbmästeriet
+## §1.5 Klubbmästeriet
 
 Datas Klubbmästeri (DKM) ska:
 
@@ -50,7 +50,7 @@ Datas Klubbmästeri (DKM) ska:
 * anordna den traditionella dJulmiddagen
 * sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
 
-## §1.6  Mottagningen
+## §1.6 Mottagningen
 
 Mottagningen ska:
 
@@ -62,7 +62,7 @@ Mottagningen ska:
 * introducera de nyantagna studenterna till sektionens JML-arbete
 * involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
-## §1.7  Näringslivsgruppen
+## §1.7 Näringslivsgruppen
 
 Näringslivsgruppen ska:
 
@@ -72,7 +72,7 @@ Näringslivsgruppen ska:
 * hålla och ständigt förbättra kontakten med näringslivet
 * se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
-## §1.8  Qulturnämnden
+## §1.8 Qulturnämnden
 
 Qulturnämnden ska:
 
@@ -81,15 +81,15 @@ Qulturnämnden ska:
 * årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 * samarbeta med DESC respektive TM för överlappande verksamhet.
 
-## §1.9  Ada
+## §1.9 Ada
 
 Ada ska:
 
-* verka för att  ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
+* verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
 * anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
 * arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
 
-## §1.10  Data Et Medias OrquesterNämnd
+## §1.10 Data Et Medias OrquesterNämnd
 
 Data Et Medias OrquesterNämnd (DEMON) ska:
 
@@ -104,7 +104,7 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 * säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
 * samordna gemensamma besök på konserter/festivaler/spelningar.
 
-## §1.11  Datasektionens E-Sports Community
+## §1.11 Datasektionens E-Sports Community
 
 Datasektionens E-Sports Community ska:
 
@@ -113,7 +113,7 @@ Datasektionens E-Sports Community ska:
 * samarbeta med Qulturnämnden för överlappande verksamhet
 * driva Datasektionens Minecraftserver METAcraft.
 
-## §1.12  Prylmångleriet
+## §1.12 Prylmångleriet
 
 Prylmångleriet ska:
 
@@ -125,7 +125,7 @@ Prylmångleriet ska:
 * vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
 * hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
 
-## §1.13  Baknämnden
+## §1.13 Baknämnden
 
 Baknämnden ska:
 
@@ -135,7 +135,7 @@ Baknämnden ska:
 * anordna event där bakningsintresserade sektionsmedlemmar får delta
 * sköta inventering av ingredienser och redskap.
 
-## §1.14  Internationella nämnden
+## §1.14 Internationella nämnden
 
 Internationella nämnden ska:
 
@@ -148,7 +148,7 @@ Internationella nämnden ska:
 * främja informationsspridning på engelska inom sektionen
 * verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-## §1.15  Redaqtionen
+## §1.15 Redaqtionen
 
 Redaqtionen ska:
 
@@ -156,7 +156,7 @@ Redaqtionen ska:
 * ge ut en nØlledbuggen till nØllan under Mottagningen
 * dela med sig av dbuggen till andra D-sektioner i Sverige.
 
-## §1.16  Datasladden
+## §1.16 Datasladden
 
 Datasladden ska: 
 
@@ -165,14 +165,14 @@ Datasladden ska:
 * utforma samt upprätthålla regler för sektionsbilen
 * arbeta för att körjournalen används av alla som brukar sektionsbilen.
 
-## §1.17  Scala
+## §1.17 Scala
 
 Scala ska:
 
 * regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
 * bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
 
-## §1.18  D-Dagen
+## §1.18 D-Dagen
 
 D-Dagen ska:
 
@@ -181,7 +181,7 @@ D-Dagen ska:
 * arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
 * se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-## §1.19  dJulkalendern
+## §1.19 dJulkalendern
 
 dJulkalendern ska:
 
@@ -189,7 +189,7 @@ dJulkalendern ska:
 * anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
 
 
-## §1.20  D-festeriet
+## §1.20 D-festeriet
 
 D-festeriet ska:
 
@@ -198,7 +198,7 @@ D-festeriet ska:
 * anordna evenemang i samarbete med andra studentföreningar
 * hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
-## §1.21  GUDAR
+## §1.21 GUDAR
 
 GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
@@ -226,7 +226,7 @@ Kommunikationsgruppen ska:
 
 # §2 Funktionärer
 
-## §2.1  Fanbärare
+## §2.1 Fanbärare
 
 Fanbärare ska:
 
@@ -234,11 +234,11 @@ Fanbärare ska:
 * hålla sektionens fana i gott skick
 * bära hönan fagt.
 
-## §2.2  Sångledare
+## §2.2 Sångledare
 
 Sångledare ska:
 
-* hålla sånger i sångboken och på  /dev/audio uppdaterade, samt vid behov skapa nya revisioner av sångboken
+* hålla sånger i sångboken och på /dev/audio uppdaterade, samt vid behov skapa nya revisioner av sångboken
 * vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen
 * hålla en årlig sittning för att främja sångkulturen på sektionen
 * sträva efter att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande
