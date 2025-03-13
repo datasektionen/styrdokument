@@ -1018,7 +1018,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §8.3.19 Systemansvarig
 
-Är ordförande för Informationsorganet.
+Är ordförande för Systemgruppen.
 
 Väljs på SM i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
