@@ -194,7 +194,7 @@ dJulkalendern ska:
 D-festeriet ska:
 
 * anordna gasquer och andra evenemang för sektionsmedlemmar
-* anordna TB samt Skiftes för funktionärer en gång per termin
+* anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
 * anordna evenemang i samarbete med andra studentföreningar
 * hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
