@@ -270,7 +270,6 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   övriga intresserade THS-medlemmar.
 
-I det fall att posten Studienämndens
 I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens Ledamot för utbildningsfrågor ställföreträdande nämndordförande.
 
 Tillhör Påverkansorganet.
