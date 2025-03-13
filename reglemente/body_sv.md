@@ -257,6 +257,192 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Internationell studentkoordinator
 
+## §3.5 Nämndordförande
+
+### §3.5.1 Jämlikhetsnämndens ordförande
+
+Är ordförande för Jämlikhetsnämnden.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.2 Klubbmästare
+
+Är ordförande för Klubbmästeriet.
+
+Sammankallande för Eventorganet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.3 Konglig Lokalchef
+
+Är ordförande för Sektionslokalsgruppen.
+
+Sammankallande för Förvaltningsorganet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.4 Konglig Öfverdrif
+
+Är tillsammans med Storasyskon ansvarig för Mottagningen.
+
+Sammankallande för Mottagningsorganet.
+
+Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+
+### §3.5.5 Näringslivsansvarig
+
+Är ordförande för Näringslivsgruppen.
+
+Sammankallande för Näringslivsorganet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.6 Qulturattaché
+
+Är ordförande för Qulturnämnden.
+
+Sammankallande för Studiesociala organet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.7 Sektionsidrottsledare
+
+Är ordförande för Idrottsnämnden.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.8 Storasyskon
+
+Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
+
+Sammankallande för Mottagningsorganet.
+
+Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+
+### §3.5.9 Studienämndens ordförande
+
+Är ordförande för Studienämnden.
+
+Sammankallande för Påverkansorganet.
+
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+
+### §3.5.10 Adas ordförande
+
+Är ordförande för Ada.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.11 ÄrkeDEMON
+
+Är ordförande för Data Et Medias OrquesterNämnd.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.12 Valberedningens ordförande
+
+Är ordförande för Valberedningen.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.13 Desctop
+
+Är ordförande för Datasektionens E-Sports Community.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.14 Prylmånglaren
+
+Är ordförande för Prylmångleriet.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.15 D-Dagenansvariga
+
+Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
+
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
+
+### §3.5.16 Bakis
+
+Är ordförande för Baknämnden.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.17 Internationell studentkoordinator
+
+Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
+
+Väljs i Period 2. Har kalenderår som mandatperiod
+
+### §3.5.18 Chefredaqtör
+
+Är ordförande för Redaqtionen.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.19 Systemansvarig
+
+Är ordförande för Systemgruppen.
+
+Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+
+### §3.5.20 Mulle/Mullerina Schmeck
+
+Är ordförande för Datasladden.
+
+Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.21 Körmästare
+
+Är ordförande för Scala.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.22 Tomtemor/-far
+
+Är ordförande för dJulkalendern.
+
+Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+
+### §3.5.23 D-fest
+
+Är ordförande för D-festeriet.
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §3.5.24 Sektionshistoriker
+
+Är ordförande för GUDAR.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §3.5.25 dRamaturgen
+
+Är ordförande för dRama.
+
+Väljs i period 4. Har läsår som mandatperiod.
+
+### §3.5.26 Medias Klubbmästare
+
+Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
+
+### §3.5.27 Talman
+
+Är ordförande för Talmanspresidiet.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §3.5.28 Kommunikatör
+
+Är ordförande för Kommunikationsgruppen.
+
+Sammankallande för Informationsorganet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
@@ -887,192 +1073,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
 # §8 Funktionärer
-
-## §8.3 Nämndordförande
-
-### §8.3.1 Jämlikhetsnämndens ordförande
-
-Är ordförande för Jämlikhetsnämnden.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.2 Klubbmästare
-
-Är ordförande för Klubbmästeriet.
-
-Sammankallande för Eventorganet.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.3 Konglig Lokalchef
-
-Är ordförande för Sektionslokalsgruppen.
-
-Sammankallande för Förvaltningsorganet.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.4 Konglig Öfverdrif
-
-Är tillsammans med Storasyskon ansvarig för Mottagningen.
-
-Sammankallande för Mottagningsorganet.
-
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
-
-### §8.3.5 Näringslivsansvarig
-
-Är ordförande för Näringslivsgruppen.
-
-Sammankallande för Näringslivsorganet.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.6 Qulturattaché
-
-Är ordförande för Qulturnämnden.
-
-Sammankallande för Studiesociala organet.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.7 Sektionsidrottsledare
-
-Är ordförande för Idrottsnämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.8 Storasyskon
-
-Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
-
-Sammankallande för Mottagningsorganet.
-
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
-
-### §8.3.9 Studienämndens ordförande
-
-Är ordförande för Studienämnden.
-
-Sammankallande för Påverkansorganet.
-
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
-
-### §8.3.10 Adas ordförande
-
-Är ordförande för Ada.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.11 ÄrkeDEMON
-
-Är ordförande för Data Et Medias OrquesterNämnd.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.12 Valberedningens ordförande
-
-Är ordförande för Valberedningen.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.13 Desctop
-
-Är ordförande för Datasektionens E-Sports Community.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.14 Prylmånglaren
-
-Är ordförande för Prylmångleriet.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.15 D-Dagenansvariga
-
-Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
-
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
-
-### §8.3.16 Bakis
-
-Är ordförande för Baknämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.17 Internationell studentkoordinator
-
-Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod
-
-### §8.3.18 Chefredaqtör
-
-Är ordförande för Redaqtionen.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.19 Systemansvarig
-
-Är ordförande för Systemgruppen.
-
-Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
-
-### §8.3.20 Mulle/Mullerina Schmeck
-
-Är ordförande för Datasladden.
-
-Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.21 Körmästare
-
-Är ordförande för Scala.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.22 Tomtemor/-far
-
-Är ordförande för dJulkalendern.
-
-Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
-
-### §8.3.23 D-fest
-
-Är ordförande för D-festeriet.
-
-Väljs i period 2. Har kalenderår som mandatperiod.
-
-### §8.3.24 Sektionshistoriker
-
-Är ordförande för GUDAR.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §8.3.25 dRamaturgen
-
-Är ordförande för dRama.
-
-Väljs i period 4. Har läsår som mandatperiod.
-
-### §8.3.26 Medias Klubbmästare
-
-Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
-
-### §8.3.27 Talman
-
-Är ordförande för Talmanspresidiet.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §8.3.28 Kommunikatör
-
-Är ordförande för Kommunikationsgruppen.
-
-Sammankallande för Informationsorganet.
-
-Väljs i Period 4. Har läsår som mandatperiod.
 
 ## §8.4 Övriga funktionärer
 
