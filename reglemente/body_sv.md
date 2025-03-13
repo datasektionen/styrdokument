@@ -86,7 +86,7 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 - ha en god överblick av sektionens ekonomi.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
