@@ -31,7 +31,8 @@ Sektionen har ett antal policydokument. Dessa är:
 * Jämlikhetspolicy
 * Klimatpolicy
 * Rekryteringspolicy
-* Uppförandepolicy.
+* Uppförandepolicy
+* Samarbetspolicy.
 
 ## §2.2 Promemoria
 En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut äger rätt att ändra. Styrelsen ska informera Sektionen om ändringar på nästa sektionsmöte.
