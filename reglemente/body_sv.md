@@ -163,7 +163,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Kassör.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
