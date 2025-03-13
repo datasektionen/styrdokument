@@ -557,7 +557,7 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 Tillhör Förvaltningsorganet.
 
-#### §3.6.5.2 Mandatperiod
+#### §3.6.5.3 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
@@ -597,46 +597,46 @@ Studiemiljöansvarig ska
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §3.6.8 Valberedningsledamöter
+### §3.6.7 Valberedningsledamöter
 
-#### §3.6.8.1 Ändamål
+#### §3.6.7.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
 
-#### §3.6.8.2 Mandatperiod
+#### §3.6.7.2 Mandatperiod
 
 Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
 Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §3.6.9 Sångledare
+### §3.6.8 Sångledare
 
-#### §3.6.9.1 Ändamål
+#### §3.6.8.1 Ändamål
 
 Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §3.6.9.2 Organisation
+#### §3.6.8.2 Organisation
 
 När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
 
 Tillhör Studiesociala organet.
 
-#### §3.6.9.3 Mandatperiod
+#### §3.6.8.3 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §3.6.10 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §3.6.9 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
-#### §3.6.10.1 Ändamål
+#### §3.6.9.1 Ändamål
 
 Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
-#### §3.6.10.2 Organisation
+#### §3.6.9.2 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
 
 Tillhör Påverkansorganet.
 
-#### §3.6.10.3 Verksamhet
+#### §3.6.9.3 Verksamhet
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
@@ -662,29 +662,29 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 - kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
-#### §3.6.10.4 Mandatperiod
+#### §3.6.9.4 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §3.6.11 Vice talman
+### §3.6.10 Vice talman
 
-#### §3.6.11.1 Ändamål
+#### §3.6.10.1 Ändamål
 
 Vice talman har som uppgift att bistå talman i att arrangera SM.
 
 Vice talman är ställföreträdande talman.
 
-#### §3.6.11.2 Mandatperiod
+#### §3.6.10.2 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §3.6.12 Datas Art Director
+### §3.6.11 Datas Art Director
 
-#### §3.6.12.1 Ändamål
+#### §3.6.11.1 Ändamål
 
 Ansvarar för sektionens grafiska utveckling och arbete.
 
-#### §3.6.12.2 Mandatperiod
+#### §3.6.11.2 Mandatperiod
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -1291,23 +1291,23 @@ Vald projektledare åläggs att inkomma med motion innehållande budget samt ver
 
 Sektionens återkommande projekt definieras i PM för återkommande projekt.
 
-## §6.4 Avslutning
+## §6.3 Avslutning
 
 Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
 
-## §6.5 Projektledare
+## §6.4 Projektledare
 
 För varje projekt ska det finnas en eller flera personer som är projektledare. Endast sektionsmedlem som tillsatts av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som projektledare. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
 
-### §6.5.1 Skyldigheter
+### §6.4.1 Skyldigheter
 
 Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
 
-### §6.5.2 Rättigheter
+### §6.4.2 Rättigheter
 
 Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
 
-## §6.6 Delade projekt
+## §6.5 Delade projekt
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
@@ -1317,49 +1317,49 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §9 Externa representanter
+# 8 Externa representanter
 
-## §9.1 Representation i råd på THS
+## §8.1 Representation i råd på THS
 
 Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
 
-## §9.2 Representation inom organ på KTH
+## §8.2 Representation inom organ på KTH
 
-### §9.2.1 Val av representanter
+### §8.2.1 Val av representanter
 
 Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
 
-# §10 Ordinarie SM
+# §9 Ordinarie SM
 
-## §10.1 Förteckning
+## §9.1 Förteckning
 
-### §10.1.1 Budget-SM
+### §9.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §10.1.2 Glögg-SM
+### §9.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §10.1.3 Revisions-SM
+### §9.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet, organ och nämnder med bokföringsplikt.
 
-### §10.1.4 Glass-SM
+### §9.1.4 Glass-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
-### §10.2 Övrig verksamhet
+### §9.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §11 Ordnar
+# §10 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-## §11.1 Ordförande Emeritus
+## §10.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -1369,29 +1369,29 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-## §11.2 Klubbmästare Emeritus
+## §10.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.3 Konglig Öfverdrif Emeritus
+## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.4 Storasyskon Emeritus
+## §10.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.5 Kassör Emeritus
+## §10.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-# §12 Övrigt
+# §11 Övrigt
 
-## §12.1 Visdomsord
+## §11.1 Visdomsord
 
 Det var bättre förr.
 
-### §12.1.1 Mer visdomsord
+### §11.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
 
