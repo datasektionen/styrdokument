@@ -223,6 +223,40 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
+## §3.4 Ledningsgruppen
+
+### §3.4.1 Syfte
+
+Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare.
+
+### §3.4.2 Sammansättning
+
+Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
+
+-   Storasyskon
+
+-   Konglig Öfverdrif
+
+-   Kommunikatör
+
+-   Qulturattaché
+
+-   Klubbmästare
+
+-   Näringslivsansvarig
+
+-   D-Dagenansvariga
+
+-   Konglig lokalchef
+
+-   Studienämndens ordförande
+
+-   Studiemiljöansvarig
+
+-   Jämlikhetsnämndens ordförande
+
+-   Internationell studentkoordinator
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
@@ -853,40 +887,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
 # §8 Funktionärer
-
-## §8.2 Ledningsgruppen
-
-### §8.2.1 Syfte
-
-Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare.
-
-### §8.2.2 Sammansättning
-
-Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
-
--   Storasyskon
-
--   Konglig Öfverdrif
-
--   Kommunikatör
-
--   Qulturattaché
-
--   Klubbmästare
-
--   Näringslivsansvarig
-
--   D-Dagenansvariga
-
--   Konglig lokalchef
-
--   Studienämndens ordförande
-
--   Studiemiljöansvarig
-
--   Jämlikhetsnämndens ordförande
-
--   Internationell studentkoordinator
 
 ## §8.3 Nämndordförande
 
