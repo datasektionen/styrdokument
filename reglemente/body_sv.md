@@ -149,7 +149,7 @@ Tillhör Studiesociala organet.
 
 ### §5.3.1 Ändamål
 
-Informationsorganet, IOR, ska ansvara för sektionens datasystem och drift av dessa.
+Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
 ### §5.3.2 Organisation
 
