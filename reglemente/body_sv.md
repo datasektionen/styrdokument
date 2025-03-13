@@ -1004,7 +1004,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod
+Väljs i Period 2. Har kalenderår som mandatperiod
 
 ### §8.3.18 Chefredaqtör
 
