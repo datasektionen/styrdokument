@@ -1317,8 +1317,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §8 Funktionärer
-
 # §9 Externa representanter
 
 ## §9.1 Representation i råd på THS
