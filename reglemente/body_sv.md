@@ -739,7 +739,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
-- protokoll från DM och SM anslås i enlighet med stadgarna
+- protokoll från SM, VM och DM anslås i enlighet med stadgarna
 
 - stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
 
