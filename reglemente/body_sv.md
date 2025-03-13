@@ -147,7 +147,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Vice kassör.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
