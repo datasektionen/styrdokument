@@ -657,7 +657,7 @@ Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syf
 
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
-Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM efter projektets öppnande.
+Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM eller VM efter projektets öppnande.
 
 Vald projektledare åläggs att inkomma med motion innehållande budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
 
