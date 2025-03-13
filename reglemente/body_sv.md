@@ -612,6 +612,8 @@ dRama leds av dRamaturgen.
 
 Övriga medlemmar utses av dRamaturgen.
 
+Tillhör Studiesociala organet.
+
 ## §5.26 Talmanspresidiet
 
 ### §5.26.1 Ändamål
