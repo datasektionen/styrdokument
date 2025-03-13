@@ -1236,8 +1236,8 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens ordföran
 
 #### §8.4.8.2 Mandatperiod
 
-Tre ledamöter väljs på SM i Period 4 och har läsår som mandatperiod. 
-Ytterligare tre ledamöter väljs på SM i Period 2 och har kalenderår som mandatperiod.
+Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
+Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
 
 ### §8.4.9 Sångledare
 
