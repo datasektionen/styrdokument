@@ -1036,7 +1036,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för dJulkalendern.
 
-Väljs i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 ### §8.3.23 D-fest
 
