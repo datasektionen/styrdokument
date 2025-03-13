@@ -48,7 +48,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Funktionärer
 
-Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. En funktionärs verksamhet och uppdrag regleras i reglementet.
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär.
 
 ## §3.1 Skyldigheter
 
