@@ -1186,6 +1186,10 @@ Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verks
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
 
+#### §8.4.5.2 Organisation
+
+Tillhör Förvaltningsorganet.
+
 #### §8.4.5.2 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
