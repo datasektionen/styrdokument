@@ -1295,7 +1295,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 #### §8.4.10.4 Mandatperiod
 
-Väljs på SM i Period 4. Har läsår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §8.4.11 Vice talman
 
