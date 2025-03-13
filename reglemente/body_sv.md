@@ -1054,7 +1054,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för dRama.
 
-Väljs på VM i period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §8.3.26 Medias Klubbmästare
 
