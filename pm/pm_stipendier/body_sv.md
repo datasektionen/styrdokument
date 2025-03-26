@@ -1,7 +1,7 @@
 # §1 Förtjänsttecken
 
 ## §1.1 Hedersdeltat
-Sektionens naste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
+Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
 ### §1.1.1 Syfte
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
@@ -24,7 +24,7 @@ Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora delta
 ### §1.2.3 Utdelning
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §1.3 Hedersugglan
+## §1.3 Hedersugglan
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
 ### §1.3.1 Syfte
