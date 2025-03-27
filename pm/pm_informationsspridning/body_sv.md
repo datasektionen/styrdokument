@@ -22,7 +22,7 @@ Information i inofficiella kanaler ska överensstämma med den som finns i de of
 
 # §4 Information på engelska
 
-Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av alltid sammanfattas på engelska. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
+Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av sammanfattas på engelska vid efterfrågan av en medlem. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
 
 # §5 Anmälningar till arrangemang
 
