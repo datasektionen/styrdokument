@@ -28,7 +28,7 @@ D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revision
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
 ### §1.3.1 Syfte
-Hedersugglan utdelas varje år till en sektionsmedlem som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
+Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
 
 ### §1.3.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
