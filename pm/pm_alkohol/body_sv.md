@@ -52,6 +52,10 @@ Högst 1/3 av pengarna spenderade på förtäring per person får vid ett tillf�
 
 Alkohol ska bara köpas poster tydligt avsett för detta. Dessa inkluderar Teambuilding och Inköp Dryck men inte Mat, Ingrediens eller liknande. 
 
+# §13 Serveringstillstånd
+
+Ordförande ansvarar över sektionens serveringstillstånd. Tillståndsinnehavare ska innefatta Ordförande, Kassör och Klubbmästare.
+
 # THS Alkohol- och drogpolicy
 
 Datasektionen följer THS Alkohol- och drogpolicy. Policyn kan hittas [här](https://dsekt.se/thsdrogpolicy).
