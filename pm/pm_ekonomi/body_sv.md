@@ -209,9 +209,13 @@ Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebe
 ## §13.2 Risk
 
 För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
+
 * Aktier och preferensaktier
+
 * Obligationer och räntebärande värdepapper
+
 * Fonder
+
 * Börshandlade fonder
 
 # §A Beslutsordning
