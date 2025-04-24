@@ -20,7 +20,7 @@ Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@
 
 ## §2.1 Laglig grund
 
-Genom bestämmelser i högskolelagen och studentkårsförordningenär det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
+Genom bestämmelser i högskolelagen och studentkårsförordningen är det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
 
 -   **Samtycke** enligt **artikel 6.1 a** i dataskyddsförordningen.
 
@@ -36,9 +36,9 @@ Genom bestämmelser i högskolelagen och studentkårsförordningenär det i sven
 
 ## §3.1 Tillgång till hanterade uppgifter
 
-Enligt dataskyddsförordningen artikel 15 har du rätt att få bekräftelse på huruvida dina personuppgifter håller på att behandlas och iså fall också få tillgång till personuppgifterna samt metainformation runt personuppgiftshanteringen.
+Enligt dataskyddsförordningen artikel 15 har du rätt att få bekräftelse på huruvida dina personuppgifter håller på att behandlas och i så fall också få tillgång till personuppgifterna samt metainformation runt personuppgiftshanteringen.
 
-För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. Om du vill ha övrig information som du enligt dataskyddsförordningen har rätt till måste du specicera detta i samband med din begäran.
+För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. Om du vill ha övrig information som du enligt dataskyddsförordningen har rätt till måste du specificera detta i samband med din begäran.
 
 För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
 
@@ -64,7 +64,7 @@ Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga 
 
 ## §3.4 Anmälan av felaktig hantering
 
-Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan informera sektionensstyrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
+Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan du informera sektionens styrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
 
 # §4 Vår hantering
 
@@ -76,4 +76,4 @@ Vid insamling av uppgifter ska det alltid finnas en ansvarig person som ser till
 
 Alla personuppgifter som hanteras av sektionen ska lagras på den Google Drive som gruppen använder i sin verksamhet eller serveryta som sektionen genom antingen ägarskap eller uthyrning förfogar över. Endast de som aktivt ingår i gruppen, sektionens systemansvarig, sektionens styrelse samt sektionens revisorer får ha tillgång till den information som sparas. Personuppgifter får inte spridas genom kommunikationskanaler utöver Google Drive eller sektionens egenhostade kommunikationssystem för att undvika att skapa ytterligare kopior. Vid arbete som kräver en lokal kopia ska alla lokala kopior tas bort så snart arbetet är färdigt. Då informationen lagras på Drive samt inhyrd serveryta finns det en chans att uppgifterna överförs till ett annat land för lagring, dock ska detta alltid göras i enlighet med GDPR.
 
-Undantag till ovanstående gäller personuppgiftersom hanterasi kondentiella sammanhang, till exempel inom trygghetsnämnden, där ovanstående rutin betydligt försvårar sekretess och/eller integriteten av ärendet.
+Undantag till ovanstående gäller personuppgifter som hanteras i konfidentiella sammanhang, till exempel inom trygghetsnämnden, där ovanstående rutin betydligt försvårar sekretess och/eller integriteten av ärendet.
