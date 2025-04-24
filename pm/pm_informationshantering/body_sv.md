@@ -64,7 +64,7 @@ Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga 
 
 ## §3.4 Anmälan av felaktig hantering
 
-Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan informera sektionens styrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
+Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan du informera sektionens styrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
 
 # §4 Vår hantering
 
