@@ -13,7 +13,7 @@ Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdelta
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
 ## §1.2 Stora deltat
-Stora deltat utgörs av en nål eller motsvarande med ett litet delta inramat av ekgrenar.
+Stora deltat utgörs av en nål eller motsvarande med ett litet delta på ett ekblad inramat av ett stort delta.
 
 ### §1.2.1 Syfte
 Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
