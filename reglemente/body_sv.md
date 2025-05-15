@@ -1423,13 +1423,13 @@ Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersuggla
 ### 11.3.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §13 Övrigt
+# §12 Övrigt
 
-## §13.1 Visdomsord
+## §12.1 Visdomsord
 
 Det var bättre förr.
 
-### §13.1.1 Mer visdomsord
+### §12.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
 
