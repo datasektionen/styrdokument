@@ -1385,13 +1385,13 @@ Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-# §11 Övrigt
+# §13 Övrigt
 
-## §11.1 Visdomsord
+## §13.1 Visdomsord
 
 Det var bättre förr.
 
-### §11.1.1 Mer visdomsord
+### §13.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
 
