@@ -1385,13 +1385,51 @@ Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-# §11 Övrigt
+# 11 Förtjänsttecken
 
-## §11.1 Visdomsord
+## 11.1 Hedersdeltat
+Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
+
+### 11.1.1 Syfte
+Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
+
+### 11.1.2 Förslagslämning
+Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
+
+### 11.1.3 Utdelning
+D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
+
+## 11.2 Stora deltat
+Stora deltat utgörs av en nål eller motsvarande med ett litet delta inramat av ekgrenar.
+
+### 11.2.1 Syfte
+Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
+
+### 11.2.2 Förslagslämning
+Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora deltat, med motivering, till D-rektoratet.
+
+### 11.2.3 Utdelning
+D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
+
+## 11.3 Hedersugglan
+Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
+
+### 11.3.1 Syfte
+Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
+
+### 11.3.2 Förslagslämning
+Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
+
+### 11.3.3 Utdelning
+D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
+
+# §12 Övrigt
+
+## §12.1 Visdomsord
 
 Det var bättre förr.
 
-### §11.1.1 Mer visdomsord
+### §12.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
 
