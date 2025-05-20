@@ -62,43 +62,4 @@ Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktion�
 
 Om D-rektoratet anser att en δ-funktionär gjort ett bra jobb och och gjort sitt bästa för att uppfylla kraven i §[1] så belönas de av D-rektoratet med en δ-funktionärsmedalj.”
 
-### §2.3.1 Funktionärsmedalj
-
-#### §2.3.1.1 Syfte
-Funktionärsmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som funktionär på sektionen.
-
-#### §2.3.1.2 Utformning
-Funktionärsmedaljen består av ett gyllene delta med ett cerise-gul-cerise band med vita skiljelinjer mellan.
-
-#### §2.3.1.3 Utdelning
-Endast en medalj per funktionärspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
-
-### §2.3.2 Projektledarmedalj
-
-#### §2.3.2.1 Syfte
-Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt planerat och genomfört ett projekt vid sektionen i egenskap av projektledare samt i förekommande fall fullständigt avslutat den ekonomiska bokföringen.
-
-#### §2.3.2.2 Utformning
-Projektledarmedaljen består av ett gyllene delta med ett gul-cerise-gult band med vita skiljelinjer mellan.
-
-#### §2.3.2.3 Urval
-För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
-
-#### §2.3.2.4 Utdelning
-En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
-
-### §2.3.3 Styrelsemedalj
-
-#### §2.3.3.1 Syfte
-
-Styrelsemedaljen utdelas till de sektionsmedlemmar som förtjänstfullt under en hel mandatperiod tjänstgjort som styrelseledamot på sektionen.
-
-#### §2.3.3.2 Utformning
-
-Styrelsemedaljen består av ett gyllene delta med ett cerise-gul-cerise band med svarta skiljelinjer mellan.
-
-#### §2.3.3.3 Utdelning
-
-Endast en medalj per ledamotspost och mandatperiod. D-rektoratet ansvarar för att medaljen utdelas på Vårbalen eller motsvarande högtidligt tillfälle samma år.
-
 [1]: #1-skyldigheter
