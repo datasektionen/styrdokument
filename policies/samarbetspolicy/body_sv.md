@@ -1,5 +1,9 @@
 <!-- Konglig Datasektionens Samarbetspolicy -->
 
+# Syfte
+
+Syftet med denna policy ämnar att reglera de samarbeten med företag och organisationer Konglig Datasektionen ingår i, främst inom näringslivet. Denna policy ska bygga den enade front som Datasektionen ska ha gentemot företag och organisationer som Datasektionen. Den ska också fungera som ett stöd för sektionens medlemmar i hur kontakter och samarbeten med företag och organisationer ska hanteras, så att Datasektionen framstår som en tydlig och sammanhållen part.
+
 # §1 Näringslivssamarbeten
 
 ## §1.1 Självständiga näringslivsgrupper

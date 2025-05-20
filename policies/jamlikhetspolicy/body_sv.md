@@ -1,18 +1,11 @@
 <!-- Konglig Datasektionens jämlikhetspolicy -->
 
-# Bakgrund
-
-Jämlikhet, mångfald och likabehandling (JML) är förutsättningar för gemenskap, utveckling och glädje. Konglig Datasektionen ska vara en plats där varje sektionsmedlem kan må bra, vara sig själv och utvecklas som person. Konglig Datasektionen ska utgöra en trygg miljö, både fysiskt och psykosocialt. Konglig Datasektionen ska även vara en plats som sätter personlig utveckling, gemenskap och inkludering i centrum. 
-
-Vårt mål är att skapa en stark känsla av samhörighet på sektionen där alla kan känna sig som en del av något större. Vi strävar efter att ge medlemmarna möjlighet att uppleva, arbeta och skapa minnen tillsammans. Vi kommer också ihåg att vi är en studentorganisation – allt måste inte vara fullt seriöst hela tiden. Vårt mål är att skapa en gemenskap där alla kan ha kul och som formar våra medlemmars tid på KTH till något bättre. Vi skapar och upprätthåller gemensamma traditioner som vi kan samlas kring och se fram emot under vår studietid. 
-
-Mer information och definitioner av viktiga begrepp finns på [datasektionen/jml](https://datasektionen.se/jml). Där finns även information om hur du anmäler om du upplevt ett brott mot denna policy.
-
 # Syfte
-Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet. 
+Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så man kan må bra, vara sig själv och utvecklas som person. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
 
 Genom att omfamna dessa riktlinjer kan Datasektionen bli en plats där så många medlemmar som möjligt kan växa och trivas. Genom att kontinuerligt arbeta med att förbättra oss inom dessa områden kan tiden på Datasektionen bli något våra medlemmar kan se tillbaka på med värme och stolthet.
 
+Mer information och definitioner av viktiga begrepp finns på datasektionen.se/jml. Där finns även information om hur du anmäler om du upplevt ett brott mot denna policy.
 
 # §1 Inkludering och Mångfald
 

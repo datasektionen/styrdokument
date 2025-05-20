@@ -50,7 +50,7 @@ Projekttitel för respektive årgång är dÅre <år>, där <år> är det år d�
 
 # §3 Studs
 ## §3.1 Ändamål
-Studs är ett återkommande projekt vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. Studs ska även verka för att projektets medlemmar, och sektionens medlemmar i stort, får inblick i hur det är att leva och jobba med IT i andra länder.
+Studs är ett återkommande projekt vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin, samt inbringa sponsorpengar till sektionen genom en vinstmarginal på 25% av projektets näringslivsintäkter. Studs ska även verka för att projektets medlemmar, och sektionens medlemmar i stort, får inblick i hur det är att leva och jobba med IT i andra länder.
 
 ## §3.2 Organisation
 Studs leds av projektledare. 
