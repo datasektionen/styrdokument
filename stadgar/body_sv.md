@@ -196,7 +196,7 @@ Kallelse ska innehålla tid och lokal för mötet samt även information om en r
 
 ## §3.4 Beslutsmässighet
 
-SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst *max*(2δ + 1,  15), där δ är antalet ledamötposter i styrelsen, sektionsmedlemmar är närvarande.
+SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst 2δ + 1, där δ är antalet ledamötposter i styrelsen, eller 15 om δ är mindre än 7, sektionsmedlemmar är närvarande.
 
 ## §3.5 Beslut
 
