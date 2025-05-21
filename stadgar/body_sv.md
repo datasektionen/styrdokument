@@ -297,7 +297,7 @@ Valberedningen ska i samband med val anslå en nomineringslista via officiella i
 Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås ska Valberedningen även anslå en lista på samtliga nominerade i valet.
 
 # §4.4 Ordinarie val
-Nomineringslistan ska anslås enligt §[4.3] senast det datum valtillfället senast får kallas till. Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[4.1].
+Nomineringslistan ska anslås enligt §[4.3] senast 35 dagar före ett valtillfälle då ordinarie val sker. Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[4.1].
 
 Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan valtillfället. Detta gäller inte de poster som väljs med urnval enligt §[4.7] för att möjliggöra den processen.
 
