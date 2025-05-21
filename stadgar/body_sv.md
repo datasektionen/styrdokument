@@ -286,6 +286,47 @@ Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS s
 
 Val av funktionärer som skett på valmöte, VM, ska redovisas och fastställas på nästa sektionsmöte. Valmöte regleras vidare i reglementet.
 
+# §4 Val
+
+Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
+
+Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen
+på VM.
+
+# §4.1 Valtillfällen
+Val kan ske vid SM som regleras av §[3] eller vid VM som regleras av §[5].
+
+# §4.2 Valberedningen
+
+Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
+
+# §4.3 Nomineringar
+
+Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.9]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
+
+Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås ska Valberedningen även anslå en lista på samtliga nominerade i valet.
+
+# §4.4 Ordinarie val
+Nomineringslistan ska anslås enligt §[4.3] senast det datum valtillfället senast får kallas till. Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[4.1].
+
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan valtillfället. Detta gäller inte de poster som väljs med urnval enligt §[4.7] för att möjliggöra den processen.
+
+# §4.5 Fyllnadsval
+
+Om en funktionärspost blir vakantsatt ska Valberedningen lysa fyllnadsval till nästkommande valtillfälle enligt §[4.1]. Vidare reglering av fyllnadsval vid varje valtillfälle kan ske i enlighet med §[4.1].
+
+Inför fyllnadsval ska nomineringslistan anslås enligt §[4.3] senast 21 dagar före det valtillfälle då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det valtillfälle där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det valtillfälle där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+
+# §4.6 Kandidatur under valtillfället
+Då ingen kandidat finns till en post under ett valtillfälle vartill val till posten lysts, kan valtillfället besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett beslut med 3/4-majoritet av valtillfället.
+
+# §4.7 Avvikande valprocesser
+Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
+
+Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
+
+Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
+
 # §4 Styrelsen
 
 Styrelsen är sektionens högst verkställande organ och benämns D-rektoratet.
@@ -459,12 +500,14 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [2.3]: #2-3-alumnimedlem
 [2.4]: #2-4-juniormedlem
 [2.5]: #2-5-gästmedlemskap
+[3]: #3-sektionsmötet
 [3.3]: #3-3-kallelse
 [3.10]: #3-10-ordinarie-sm
 [3.12]: #3-12-ajournering
 [3.13.2]: #3-13-2-nomineringar
 [3.13.7]: #3-13-7-avvikande-valprocesser
 [4.2.1]: #4-2-1-kallelse
+[5]: #5-valmötet
 [5.2]: #5-2-kallelse
 [5.8]: #5-8-ajournering
 [6.1]: #6-1-revisorer
