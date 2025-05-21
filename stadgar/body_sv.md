@@ -250,7 +250,7 @@ Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och
 
 ## §5.2 Kallelse
 
-D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.9] senast 21 dagar före mötet.
+D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §[1.9] senast 35 dagar före mötet.
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
