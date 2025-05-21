@@ -176,7 +176,7 @@ Det åligger SM att
 
 -   om sektionsmedlem så önskar granska protokoll från DM
 
--   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[3.13.7]
+-   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[5.7]
 
 -   genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
