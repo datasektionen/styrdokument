@@ -393,14 +393,6 @@ På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jäm
 
 Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentamensperiod eller ferie.
 
-## §5.7 Val
-
-Nomineringslistan ska anslås enligt stadgarnas §[3.13.2] senast 21 dagar före VM. Nominering till funktionärspost måste lämnas in senast 14 dagar före det VM där valet sker. Nominering till funktionärspost måste accepteras senast 10 dagar före det VM där valet sker för att kandidaturen ska vara giltig.
-
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 3 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 dagar och därefter ska acceptansstoppet vara 1 dag innan VM.
-
-Då ingen kandidat finns till en post under valmöte vartill val till posten lysts, kan VM besluta att öppna för fri kandidatur. Vid val av kandidat under fri kandidatur krävs ett beslut med 3/4-majoritet av VM.
-
 ## §5.8 Ajournering
 
 Mötesordförande äger rätt att ajournera mötet till den, enligt §[5.2] i kallelsen angivna reservtiden.
