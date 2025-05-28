@@ -1,1 +1,1 @@
-<!-- Konglig Datasektionens styrdokument för Nämnder och Funktionärer -->
+<!-- Konglig Datasektionens Styrdokument för Nämnder och Funktionärer -->
