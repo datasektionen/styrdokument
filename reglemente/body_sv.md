@@ -381,6 +381,8 @@ Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd och organ
 
 Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
+Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
+
 ## §5.12 Valberedningen
 
 ### §5.12.1 Ändamål
