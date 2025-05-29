@@ -949,7 +949,7 @@ Datasektionens E-Sports Community ska:
 
 ### §2.14.1 Ändamål
 
-Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar, till exempel märken, spegater, sångböcker och profilkläder.
+Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar, till exempel märken, spegater, sångböcker och merch.
 
 ### §2.14.2 Organisation
 
