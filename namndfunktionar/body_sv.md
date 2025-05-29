@@ -1103,10 +1103,22 @@ Kommunikationsgruppen ska:
 
 Grodas syfte att bistå sektionen och dess medlemmar med arbetet kring ekologisk hållbarhet, samt att öka engagemang och medvetenhet för klimatet bland sektionsmedlemmarna.
 
-### 5.x.2 Organisation
+### 2.x.2 Organisation
 
 Groda leds av Grodförande.
 
 Övriga medlemmar utses av Grodförande.
 
 Tillhör Påverkansorganet.
+
+### 2.x.3 Verksamhet
+
+Groda ska:
+
+- bistå sektionen och dess medlemmar med kunskap och arbete kring ekologisk hållbarhet
+
+- verka för att minska sektionens klimatpåverkan och öka dess ekologiska hållbarhet
+
+- anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
+
+- göra det lättare att följa klimarpolicyn.
