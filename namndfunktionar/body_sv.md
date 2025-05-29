@@ -4,11 +4,59 @@
 
 ## §1.1 Nämndordförande
 
+### §1.1.10 Adas ordförande
+
+Är ordförande för Ada.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §1.1.16 Bakis
+
+Är ordförande för Baknämnden.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §1.1.18 Chefredaqtör
+
+Är ordförande för Redaqtionen.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §1.1.15 D-Dagenansvariga
+
+Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
+
+Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
+
+### §1.1.13 Desctop
+
+Är ordförande för Datasektionens E-Sports Community.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §1.1.23 D-fest
+
+Är ordförande för D-festeriet.
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §1.1.25 dRamaturgen
+
+Är ordförande för dRama.
+
+Väljs i period 4. Har läsår som mandatperiod.
+
 ### 1.1.x Grodförande
 
 Är ordförande för Groda.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §1.1.17 Internationell studentkoordinator
+
+Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
+
+Väljs i Period 2. Har kalenderår som mandatperiod
 
 ### §1.1.1 Jämlikhetsnämndens ordförande
 
@@ -19,6 +67,12 @@ Väljs i Period 4. Har läsår som mandatperiod.
 ### §1.1.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §1.1.28 Kommunikatör
+
+Är ordförande för Kommunikationsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -34,15 +88,45 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
+### §1.1.21 Körmästare
+
+Är ordförande för Scala.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §1.1.26 Medias Klubbmästare
+
+Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
+
 ### §1.1.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+### §1.1.20 Mulle/Mullerina Schmeck
+
+Är ordförande för Datasladden.
+
+Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §1.1.14 Prylmånglaren
+
+Är ordförande för Prylmångleriet.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
 ### §1.1.6 Qulturattaché
 
 Är ordförande för Qulturnämnden.
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+### §1.1.24 Sektionshistoriker
+
+Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -64,53 +148,6 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
-### §1.1.10 Adas ordförande
-
-Är ordförande för Ada.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §1.1.11 ÄrkeDEMON
-
-Är ordförande för Data Et Medias OrquesterNämnd.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.1.13 Desctop
-
-Är ordförande för Datasektionens E-Sports Community.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §1.1.14 Prylmånglaren
-
-Är ordförande för Prylmångleriet.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.1.15 D-Dagenansvariga
-
-Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
-
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
-
-### §1.1.16 Bakis
-
-Är ordförande för Baknämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.1.17 Internationell studentkoordinator
-
-Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod
-
-### §1.1.18 Chefredaqtör
-
-Är ordförande för Redaqtionen.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.19 Systemansvarig
 
@@ -118,55 +155,41 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-### §1.1.20 Mulle/Mullerina Schmeck
-
-Är ordförande för Datasladden.
-
-Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.1.21 Körmästare
-
-Är ordförande för Scala.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §1.1.22 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
 Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-### §1.1.23 D-fest
+### §1.1.11 ÄrkeDEMON
 
-Är ordförande för D-festeriet.
+Är ordförande för Data Et Medias OrquesterNämnd.
 
-Väljs i period 2. Har kalenderår som mandatperiod.
-
-### §1.1.24 Sektionshistoriker
-
-Är ordförande för GUDAR.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §1.1.25 dRamaturgen
-
-Är ordförande för dRama.
-
-Väljs i period 4. Har läsår som mandatperiod.
-
-### §1.1.26 Medias Klubbmästare
-
-Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
-
-### §1.1.28 Kommunikatör
-
-Är ordförande för Kommunikationsgruppen.
-
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ## §1.2 Övriga funktionärer
+
+### §1.2.11 Datas Art Director
+
+#### §1.2.11.1 Ändamål
+
+Ansvarar för sektionens grafiska utveckling och arbete.
+
+#### §1.2.11.2 Verksamhet
+
+Datas Art Director ska:
+
+- synliggöra sektionens funktionärer i sektionslokalen
+
+- administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
+
+- samarbeta med övriga sektionen där det finns behov eller önskemål av design och grafisk utveckling
+
+- administrera över sektionens video- och fotoutrustning
+
+#### §1.2.11.3 Mandatperiod
+
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §1.2.1 Fanbärare
 
@@ -193,105 +216,6 @@ Fanbärare ska:
 #### §1.2.1.4 Mandatperiod
 
 Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
-
-### §1.2.2 Kårfullmäktigeledamöter
-
-#### §1.2.2.1 Ändamål
-
-Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemmar i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
-
-#### §1.2.2.2 Organisation
-
-Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
-
-#### §1.2.2.3 Verksamhet
-
-Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
-
-#### §1.2.2.4 Mandatperiod
-
-Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
-
-### §1.2.3 Programansvarig student
-
-#### §1.2.3.1 Ändamål
-
-Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
-
-#### §1.2.3.2 Organisation
-
-Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
-
-
-I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
-
-Tillhör Påverkansorganet.
-
-#### §1.2.3.3 Verksamhet
-
-Programansvarig student ska
-
-- ansvara för sektionens utbildningspåverkan på programnivå
-
-- arbeta från studentsidan med utbildningsprogrammets utformning
-
-- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
-
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
-
-#### §1.2.3.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.2.5 Ljud- och ljusansvarig
-
-#### §1.2.5.1 Ändamål
-
-Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
-
-#### §1.2.5.2 Organisation
-
-Tillhör Förvaltningsorganet.
-
-#### §1.2.5.3 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
-### §1.2.6 Studiemiljöansvarig
-
-#### §1.2.6.1 Ändamål
-
-Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
-
-Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
-
-#### §1.2.6.2 Organisation
-
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
-
-Tillhör Påverkansorganet.
-
-#### §1.2.6.3 Verksamhet
-
-Studiemiljöansvarig ska
-
-- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
-
-- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
-
-- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
-
-- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
-
-- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
-
-- inventera sjukvårdslådan en gång per period
-
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
-
-#### §1.2.6.4 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §1.2.9 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
@@ -334,63 +258,399 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.2.11 Datas Art Director
+### §1.2.2 Kårfullmäktigeledamöter
 
-#### §1.2.11.1 Ändamål
+#### §1.2.2.1 Ändamål
 
-Ansvarar för sektionens grafiska utveckling och arbete.
+Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemmar i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
 
-#### §1.2.11.2 Verksamhet
+#### §1.2.2.2 Organisation
 
-Datas Art Director ska:
+Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
 
-- synliggöra sektionens funktionärer i sektionslokalen
+#### §1.2.2.3 Verksamhet
 
-- administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
+Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
 
-- samarbeta med övriga sektionen där det finns behov eller önskemål av design och grafisk utveckling
+#### §1.2.2.4 Mandatperiod
 
-- administrera över sektionens video- och fotoutrustning
+Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
 
-#### §1.2.11.3 Mandatperiod
+### §1.2.5 Ljud- och ljusansvarig
 
-Väljs i Period 4. Har läsår som mandatperiod.
+#### §1.2.5.1 Ändamål
 
-# §2 Nämnder
+Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
-## §2.1 Sektionslokalsgruppen
-
-### §2.1.1 Ändamål
-
-Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslokalen.
-
-### §2.1.2 Organisation
-
-Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
-
-Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
-
-Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
-
-I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
+#### §1.2.5.2 Organisation
 
 Tillhör Förvaltningsorganet.
 
-### §2.1.3 Verksamhet
+#### §1.2.5.3 Mandatperiod
 
-Sektionslokalsgruppen ska:
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
-- administrera bokning och uthyrning av sektionslokalen samt dess olika rum
+### §1.2.3 Programansvarig student
 
-- underhålla teknik, möbler och inredning i sektionslokalen
+#### §1.2.3.1 Ändamål
 
-- fylla på förbrukningsmaterial i sektionslokalen
+Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
 
-- organisera städning av sektionslokalen, bland annat genom måndagsstäd
+#### §1.2.3.2 Organisation
 
-- upprätta och underhålla ett dokument med regler för sektionslokalen
+Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
-- sköta utveckling av sektionslokalen.
+
+I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
+
+Tillhör Påverkansorganet.
+
+#### §1.2.3.3 Verksamhet
+
+Programansvarig student ska
+
+- ansvara för sektionens utbildningspåverkan på programnivå
+
+- arbeta från studentsidan med utbildningsprogrammets utformning
+
+- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
+
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+
+#### §1.2.3.4 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §1.2.6 Studiemiljöansvarig
+
+#### §1.2.6.1 Ändamål
+
+Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
+
+Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
+
+#### §1.2.6.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studiemiljöansvarig.
+
+Tillhör Påverkansorganet.
+
+#### §1.2.6.3 Verksamhet
+
+Studiemiljöansvarig ska
+
+- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
+
+- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
+
+- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+
+- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
+
+- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+
+- inventera sjukvårdslådan en gång per period
+
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+
+#### §1.2.6.4 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+# §2 Nämnder
+
+## §2.10 Ada
+
+### §2.10.1 Ändamål
+
+Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
+
+### §2.10.2 Organisation
+
+Ada leds av Adas ordförande.
+
+Övriga medlemmar utses av Adas ordförande.
+
+Tillhör Eventorganet.
+
+### §2.10.3 Verksamhet
+
+Ada ska:
+
+- verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
+
+- anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
+
+- arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
+
+## §2.15 Baknämnden
+
+### §2.15.1 Ändamål
+
+Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse sektionens medlemmar med bakverk.
+
+### §2.15.2 Organisation
+
+Ordförande för Baknämnden är Bakis.
+
+Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
+
+Tillhör Studiesociala organet.
+
+### §2.15.3 Verksamhet
+
+Baknämnden ska:
+
+- under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar
+
+- samarbeta med andra delar av sektionen för att tillhandahålla fika där fikabehov finns
+
+- dokumentera recept så att kommande årgångar ska kunna ta del av dem
+
+- anordna event där bakningsintresserade sektionsmedlemmar får delta
+
+- sköta inventering av ingredienser och redskap.
+
+## §2.11 Data Et Medias OrquesterNämnd
+
+### §2.11.1 Ändamål
+
+Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
+
+### §2.11.2 Organisation
+
+DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
+
+Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
+
+Tillhör Studiesociala organet.
+
+### §2.11.3 Verksamhet
+
+Data Et Medias OrquesterNämnd (DEMON) ska:
+
+- verka för att främja musikintresset på Datasektionen och Sektionen för Medieteknik
+
+- erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
+
+- anordna regelbundna träffar för sektionernas medlemmar där deltagarna bland annat kan få:
+
+    - repa tillsammans med DEMON:s medlemmar
+
+    - dela med sig och föreslå låtar till DEMON:s framtida spelningar
+
+    - umgås med likasinnade människor.
+
+- anordna regelbundna repetitioner för DEMON:s medlemmar
+
+- bistå annan sektionsverksamhet genom spelningar på evenemang
+
+- säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
+
+- samordna gemensamma besök på konserter/festivaler/spelningar.
+
+## §2.13 Datasektionens E-Sports Community
+
+### §2.13.1 Ändamål
+
+Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens datorspelsoch e-sportstörst.
+
+### §2.13.2 Organisation
+
+Datasektionens E-Sports Community leds av DESCtop.
+
+Övriga medlemmar utses av DESCtop.
+
+Inom Datasektionens E-Sports Community drivs även en Minecraftserver som heter METAcraft. METAcraft drivs av internfunktionären Herobrine.
+
+Tillhör Studiesociala organet.
+
+### §2.13.3 Verksamhet
+
+Datasektionens E-Sports Community ska:
+
+- anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
+
+- skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
+
+- samarbeta med Qulturnämnden för överlappande verksamhet
+
+- driva Datasektionens Minecraftserver METAcraft.
+
+## §2.18 Datasladden
+
+### §2.18.1 Ändamål
+
+Datasladden har till uppgift att ansvara över sektionsbilen.
+
+### §2.18.2 Organisation
+
+Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+
+Tillhör Förvaltningsorganet.
+
+### §2.18.3 Verksamhet
+
+Datasladden ska:
+
+- administrera bokningar av sektionsbilen
+
+- sköta reparation, underhåll och utveckling av sektionsbilen
+
+- utforma samt upprätthålla regler för sektionsbilen
+
+- arbeta för att körjournalen används av alla som brukar sektionsbilen.
+
+## §2.20 D-Dagen
+
+### §2.20.1 Ändamål
+
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+
+### §2.20.2 Organisation
+
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
+
+Tillhör Näringslivsorganet.
+
+### §2.20.3 Verksamhet
+
+D-Dagen ska:
+
+- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+
+- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+
+- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+
+- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+
+## §2.23 D-festeriet
+
+### §2.23.1 Ändamål
+
+D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
+
+### §2.23.2 Organisation
+
+D-festeriet leds av D-Fest.
+
+Övriga medlemmar utses av D-Fest.
+
+Tillhör Eventorganet.
+
+### §2.23.3 Verksamhet
+
+D-festeriet ska:
+
+- anordna gasquer och andra evenemang för sektionsmedlemmar
+
+- anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
+
+- anordna evenemang i samarbete med andra studentföreningar
+
+- hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
+
+## §2.21 dJulkalendern
+
+### §2.21.1 Ändamål
+
+dJulkalenderns ändamål är att främja intresse för etisk hackning, problemlösning och CTF-tävlingar inom Konglig Datasektionen.
+
+### §2.21.2 Organisation
+
+dJulkalendern leds av Tomtemor/-far.
+
+Övriga medlemmar utses av Tomtemor/-far.
+
+Tillhör Informationsorganet.
+
+### §2.21.3 Verksamhet
+
+dJulkalendern ska:
+
+- anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
+
+- anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
+
+## §2.25 dRama
+### §2.25.1 Ändamål
+
+Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
+
+### §2.25.2 Organisation
+
+dRama leds av dRamaturgen.
+
+Övriga medlemmar utses av dRamaturgen.
+
+Tillhör Studiesociala organet.
+
+### §2.25.3 Verksamhet
+
+dRama ska:
+
+- anordna veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
+
+- förbereda och utföra gyckel och spex på sittningar
+
+- en gång per termin anordna en improvshow för de som vill komma och kolla.
+
+## 2.x Groda
+
+### 2.x.1 Ändamål
+
+Grodas syfte att bistå sektionen och dess medlemmar med arbetet kring ekologisk hållbarhet, samt att öka engagemang och medvetenhet för klimatet bland sektionsmedlemmarna.
+
+### 2.x.2 Organisation
+
+Groda leds av Grodförande.
+
+Övriga medlemmar utses av Grodförande.
+
+Tillhör Påverkansorganet.
+
+### 2.x.3 Verksamhet
+
+Groda ska:
+
+- bistå sektionen och dess medlemmar med kunskap och arbete kring ekologisk hållbarhet
+
+- verka för att minska sektionens klimatpåverkan och öka dess ekologiska hållbarhet
+
+- anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
+
+- göra det lättare att följa klimarpolicyn.
+
+## §2.24 GUDAR
+
+### §2.24.1 Ändamål
+
+Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
+
+### §2.24.2 Organisation
+
+GUDAR leds av Sektionshistoriker.
+
+Övriga medlemmar utses av Sektionshistoriker.
+
+Tillhör Informationsorganet.
+
+### §2.24.3 Verksamhet
+
+GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
+
+- samla in och dokumentera historisk information med anknytning till sektionen
+
+- ansvara för sektionens alumniverksamhet
+
+- varje år upprätta en årskrönika
+
+- ansvara för underhållet av sektionens märkesarkiv
+
+- vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
+
+- på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
 ## §2.2 Idrottsnämnden
 
@@ -418,29 +678,39 @@ Idrottsnämnden ska:
 
 - driva Datasektionens fotbollslag Tech-i-Taka.
 
-## §2.3 Systemgruppen
+## §2.16 Internationella nämnden
 
-### §2.3.1 Ändamål
+### §2.16.1 Ändamål
 
-Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
+Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
-### §2.3.2 Organisation
+### §2.16.2 Organisation
 
-Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
+Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
-Övriga medlemmar utses av Systemansvarig.
+Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
 
-Tillhör Informationsorganet.
+Tillhör Eventorganet.
 
-### §2.3.3 Verksamhet
+### §2.16.3 Verksamhet
 
-Systemgruppen ska:
+Internationella nämnden ska:
 
-- underhålla och utveckla sektionens datasystem
+- samordna sektionens internationella verksamhet
 
-- ansvara för drift och underhåll av sektionens servrar
+- hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 
-- engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
+- hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
+
+- genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
+
+- fungera som kontaktpersoner för utländska studenter på sektionerna
+
+- genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
+
+- främja informationsspridning på engelska inom sektionen
+
+- verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 ## §2.4 Jämlikhetsnämnden
 
@@ -497,6 +767,33 @@ Datas Klubbmästeri (DKM) ska:
 - anordna den traditionella dJulmiddagen
 
 - sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
+
+## §2.27 Kommunikationsgruppen
+
+### §2.27.1 Ändamål
+Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt. Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
+
+### §2.27.2 Organisation
+
+Kommunikationsgruppen leds av Kommunikatör. Övriga medlemmar utses av Kommunikatör.
+
+Tillhör Informationsorganet.
+
+### §2.27.3 Verksamhet
+
+Kommunikationsgruppen ska:
+
+- Administrera och moderera datasektionens officiella och inofficiella informationskanaler
+
+- Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
+
+## §2.22 Medias Klubbmästeri
+
+Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
+
+MKM regleras vidare i Sektionen för Medietekniks styrdokument.
+
+Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
 
 ## §2.6 Mottagningen
 
@@ -572,6 +869,38 @@ Näringslivsgruppen ska:
 
 - se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
+## §2.14 Prylmångleriet
+
+### §2.14.1 Ändamål
+
+Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar, till exempel märken, spegater, sångböcker och merch.
+
+### §2.14.2 Organisation
+
+Prylmångleriet leds av Prylmånglaren.
+
+Övriga medlemmar utses av Prylmånglaren.
+
+Tillhör Studiesociala organet.
+
+### §2.14.3 Verksamhet
+
+Prylmångleriet ska:
+
+- kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt
+
+- anordna regelbundna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska även ordnas inför större fester och evenemang
+
+- under Mottagningen arrangera tillfällen då nØllan får prova overaller
+
+- köpa in, och sköta försäljningen av, overaller
+
+- hjälpa Ettan att utforma och beställa årskursmärken
+
+- vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
+
+- hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
+
 ## §2.8 Qulturnämnden
 
 ### §2.8.1 Ändamål
@@ -597,6 +926,83 @@ Qulturnämnden ska:
 - årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
 - samarbeta med DESC respektive TM för överlappande verksamhet.
+
+## §2.17 Redaqtionen
+
+### §2.17.1 Ändamål
+
+Redaqtionen ansvarar för att ge ut sektionstidningen dbuggen.
+
+### §2.17.2 Organisation
+
+Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
+
+Tillhör Informationsorganet.
+
+### §2.17.3 Verksamhet
+
+Redaqtionen ska:
+- ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
+
+- ge ut en nØlledbuggen till nØllan under Mottagningen
+
+- dela med sig av dbuggen till andra D-sektioner i Sverige.
+
+## §2.19 Scala
+
+### §2.19.1 Ändamål
+
+Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
+
+### §2.19.2 Organisation
+
+Scala leds av Körmästare.
+
+Övriga medlemmar utses av Körmästare.
+
+Tillhör Studiesociala organet.
+
+### §2.19.3 Verksamhet
+
+Scala ska:
+
+- regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
+
+- bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
+
+## §2.1 Sektionslokalsgruppen
+
+### §2.1.1 Ändamål
+
+Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslokalen.
+
+### §2.1.2 Organisation
+
+Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
+
+Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
+
+Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
+
+I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
+
+Tillhör Förvaltningsorganet.
+
+### §2.1.3 Verksamhet
+
+Sektionslokalsgruppen ska:
+
+- administrera bokning och uthyrning av sektionslokalen samt dess olika rum
+
+- underhålla teknik, möbler och inredning i sektionslokalen
+
+- fylla på förbrukningsmaterial i sektionslokalen
+
+- organisera städning av sektionslokalen, bland annat genom måndagsstäd
+
+- upprätta och underhålla ett dokument med regler för sektionslokalen
+
+- sköta utveckling av sektionslokalen.
 
 ## §2.9 Studienämnden
 
@@ -663,430 +1069,26 @@ Studienämnden ska hålla möte minst en gång per månad under terminstid. Möt
 
 Studienämndens dokument ska i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-## §2.10 Ada
+## §2.3 Systemgruppen
 
-### §2.10.1 Ändamål
+### §2.3.1 Ändamål
 
-Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
+Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
-### §2.10.2 Organisation
+### §2.3.2 Organisation
 
-Ada leds av Adas ordförande.
+Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
 
-Övriga medlemmar utses av Adas ordförande.
-
-Tillhör Eventorganet.
-
-### §2.10.3 Verksamhet
-
-Ada ska:
-
-- verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
-
-- anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
-
-- arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
-
-## §2.11 Data Et Medias OrquesterNämnd
-
-### §2.11.1 Ändamål
-
-Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
-
-### §2.11.2 Organisation
-
-DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
-
-Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
-
-Tillhör Studiesociala organet.
-
-### §2.11.3 Verksamhet
-
-Data Et Medias OrquesterNämnd (DEMON) ska:
-
-- verka för att främja musikintresset på Datasektionen och Sektionen för Medieteknik
-
-- erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
-
-- anordna regelbundna träffar för sektionernas medlemmar där deltagarna bland annat kan få:
-
-    - repa tillsammans med DEMON:s medlemmar
-
-    - dela med sig och föreslå låtar till DEMON:s framtida spelningar
-
-    - umgås med likasinnade människor.
-
-- anordna regelbundna repetitioner för DEMON:s medlemmar
-
-- bistå annan sektionsverksamhet genom spelningar på evenemang
-
-- säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
-
-- samordna gemensamma besök på konserter/festivaler/spelningar.
-
-## §2.13 Datasektionens E-Sports Community
-
-### §2.13.1 Ändamål
-
-Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens datorspelsoch e-sportstörst.
-
-### §2.13.2 Organisation
-
-Datasektionens E-Sports Community leds av DESCtop.
-
-Övriga medlemmar utses av DESCtop.
-
-Inom Datasektionens E-Sports Community drivs även en Minecraftserver som heter METAcraft. METAcraft drivs av internfunktionären Herobrine.
-
-Tillhör Studiesociala organet.
-
-### §2.13.3 Verksamhet
-
-Datasektionens E-Sports Community ska:
-
-- anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
-
-- skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
-
-- samarbeta med Qulturnämnden för överlappande verksamhet
-
-- driva Datasektionens Minecraftserver METAcraft.
-
-## §2.14 Prylmångleriet
-
-### §2.14.1 Ändamål
-
-Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar, till exempel märken, spegater, sångböcker och merch.
-
-### §2.14.2 Organisation
-
-Prylmångleriet leds av Prylmånglaren.
-
-Övriga medlemmar utses av Prylmånglaren.
-
-Tillhör Studiesociala organet.
-
-### §2.14.3 Verksamhet
-
-Prylmångleriet ska:
-
-- kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt
-
-- anordna regelbundna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska även ordnas inför större fester och evenemang
-
-- under Mottagningen arrangera tillfällen då nØllan får prova overaller
-
-- köpa in, och sköta försäljningen av, overaller
-
-- hjälpa Ettan att utforma och beställa årskursmärken
-
-- vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
-
-- hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
-
-## §2.15 Baknämnden
-### §2.15.1 Ändamål
-
-Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse sektionens medlemmar med bakverk.
-
-### §2.15.2 Organisation
-
-Ordförande för Baknämnden är Bakis.
-
-Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
-
-Tillhör Studiesociala organet.
-
-### §2.15.3 Verksamhet
-
-Baknämnden ska:
-
-- under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar
-
-- samarbeta med andra delar av sektionen för att tillhandahålla fika där fikabehov finns
-
-- dokumentera recept så att kommande årgångar ska kunna ta del av dem
-
-- anordna event där bakningsintresserade sektionsmedlemmar får delta
-
-- sköta inventering av ingredienser och redskap.
-
-## §2.16 Internationella nämnden
-
-### §2.16.1 Ändamål
-
-Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
-
-### §2.16.2 Organisation
-
-Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
-
-Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
-
-Tillhör Eventorganet.
-
-### §2.16.3 Verksamhet
-
-Internationella nämnden ska:
-
-- samordna sektionens internationella verksamhet
-
-- hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
-
-- hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
-
-- genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-
-- fungera som kontaktpersoner för utländska studenter på sektionerna
-
-- genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
-
-- främja informationsspridning på engelska inom sektionen
-
-- verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
-
-## §2.17 Redaqtionen
-
-### §2.17.1 Ändamål
-
-Redaqtionen ansvarar för att ge ut sektionstidningen dbuggen.
-
-### §2.17.2 Organisation
-
-Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
+Övriga medlemmar utses av Systemansvarig.
 
 Tillhör Informationsorganet.
 
-### §2.17.3 Verksamhet
+### §2.3.3 Verksamhet
 
-Redaqtionen ska:
-- ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
+Systemgruppen ska:
 
-- ge ut en nØlledbuggen till nØllan under Mottagningen
+- underhålla och utveckla sektionens datasystem
 
-- dela med sig av dbuggen till andra D-sektioner i Sverige.
+- ansvara för drift och underhåll av sektionens servrar
 
-## §2.18 Datasladden
-
-### §2.18.1 Ändamål
-
-Datasladden har till uppgift att ansvara över sektionsbilen.
-
-### §2.18.2 Organisation
-
-Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
-
-Tillhör Förvaltningsorganet.
-
-### §2.18.3 Verksamhet
-
-Datasladden ska:
-
-- administrera bokningar av sektionsbilen
-
-- sköta reparation, underhåll och utveckling av sektionsbilen
-
-- utforma samt upprätthålla regler för sektionsbilen
-
-- arbeta för att körjournalen används av alla som brukar sektionsbilen.
-
-## §2.19 Scala
-
-### §2.19.1 Ändamål
-
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
-
-### §2.19.2 Organisation
-
-Scala leds av Körmästare.
-
-Övriga medlemmar utses av Körmästare.
-
-Tillhör Studiesociala organet.
-
-### §2.19.3 Verksamhet
-
-Scala ska:
-
-- regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
-
-- bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
-
-## §2.20 D-Dagen
-
-### §2.20.1 Ändamål
-
-D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
-
-### §2.20.2 Organisation
-
-D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
-
-Tillhör Näringslivsorganet.
-
-### §2.20.3 Verksamhet
-
-D-Dagen ska:
-
-- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
-
-- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
-
-- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
-
-- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
-
-## §2.21 dJulkalendern
-
-### §2.21.1 Ändamål
-
-dJulkalenderns ändamål är att främja intresse för etisk hackning, problemlösning och CTF-tävlingar inom Konglig Datasektionen.
-
-### §2.21.2 Organisation
-
-dJulkalendern leds av Tomtemor/-far.
-
-Övriga medlemmar utses av Tomtemor/-far.
-
-Tillhör Informationsorganet.
-
-### §2.21.3 Verksamhet
-
-dJulkalendern ska:
-
-- anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
-
-- anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
-
-## §2.22 Medias Klubbmästeri
-
-Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
-
-MKM regleras vidare i Sektionen för Medietekniks styrdokument.
-
-Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
-
-## §2.23 D-festeriet
-
-### §2.23.1 Ändamål
-
-D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
-
-### §2.23.2 Organisation
-
-D-festeriet leds av D-Fest.
-
-Övriga medlemmar utses av D-Fest.
-
-Tillhör Eventorganet.
-
-### §2.23.3 Verksamhet
-
-D-festeriet ska:
-
-- anordna gasquer och andra evenemang för sektionsmedlemmar
-
-- anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
-
-- anordna evenemang i samarbete med andra studentföreningar
-
-- hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
-
-## §2.24 GUDAR
-
-### §2.24.1 Ändamål
-
-Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
-
-### §2.24.2 Organisation
-
-GUDAR leds av Sektionshistoriker.
-
-Övriga medlemmar utses av Sektionshistoriker.
-
-Tillhör Informationsorganet.
-
-### §2.24.3 Verksamhet
-
-GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
-
-- samla in och dokumentera historisk information med anknytning till sektionen
-
-- ansvara för sektionens alumniverksamhet
-
-- varje år upprätta en årskrönika
-
-- ansvara för underhållet av sektionens märkesarkiv
-
-- vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
-
-- på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
-
-## §2.25 dRama
-### §2.25.1 Ändamål
-
-Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
-
-### §2.25.2 Organisation
-
-dRama leds av dRamaturgen.
-
-Övriga medlemmar utses av dRamaturgen.
-
-Tillhör Studiesociala organet.
-
-### §2.25.3 Verksamhet
-
-dRama ska:
-
-- anordna veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
-
-- förbereda och utföra gyckel och spex på sittningar
-
-- en gång per termin anordna en improvshow för de som vill komma och kolla.
-
-## §2.27 Kommunikationsgruppen
-
-### §2.27.1 Ändamål
-Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt. Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
-
-### §2.27.2 Organisation
-
-Kommunikationsgruppen leds av Kommunikatör. Övriga medlemmar utses av Kommunikatör.
-
-Tillhör Informationsorganet.
-
-### §2.27.3 Verksamhet
-
-Kommunikationsgruppen ska:
-
-- Administrera och moderera datasektionens officiella och inofficiella informationskanaler
-
-- Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
-
-## 2.x Groda
-
-### 2.x.1 Ändamål
-
-Grodas syfte att bistå sektionen och dess medlemmar med arbetet kring ekologisk hållbarhet, samt att öka engagemang och medvetenhet för klimatet bland sektionsmedlemmarna.
-
-### 2.x.2 Organisation
-
-Groda leds av Grodförande.
-
-Övriga medlemmar utses av Grodförande.
-
-Tillhör Påverkansorganet.
-
-### 2.x.3 Verksamhet
-
-Groda ska:
-
-- bistå sektionen och dess medlemmar med kunskap och arbete kring ekologisk hållbarhet
-
-- verka för att minska sektionens klimatpåverkan och öka dess ekologiska hållbarhet
-
-- anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
-
-- göra det lättare att följa klimarpolicyn.
+- engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
