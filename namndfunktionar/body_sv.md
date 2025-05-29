@@ -269,7 +269,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 #### §1.2.5.1 Ändamål
 
-Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning tillsammans med Ljud- och ljusansvariga från Sektionen för Medieteknik.
+Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
 #### §1.2.5.2 Organisation
 
