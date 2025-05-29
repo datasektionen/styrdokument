@@ -265,44 +265,6 @@ Programansvarig student ska
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.2.4 Revisorer
-
-#### §1.2.4.1 Ändamål
-
-Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
-
-#### §1.2.4.2 Organisation
-
-Enligt sektionens stadgar finns två av SM utsedda revisorer.
-
-Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
-
-Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
-
-#### §1.2.4.3 Verksamhet
-
-Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
-
-##### §1.2.4.3.1 Revisionsberättelse
-
-Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
-
-##### §1.2.4.3.2 SM
-
-Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
-
-Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
-
-Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
-
-##### §1.2.4.3.3 Bokföring
-
-Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
-
-#### §1.2.4.4 Mandatperiod
-
-Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
-
 ### §1.2.5 Ljud- och ljusansvarig
 
 #### §1.2.5.1 Ändamål
