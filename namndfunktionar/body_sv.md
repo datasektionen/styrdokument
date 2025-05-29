@@ -14,15 +14,11 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Klubbmästeriet.
 
-Sammankallande för Eventorganet.
-
 Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §1.1.3 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
-
-Sammankallande för Förvaltningsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -30,23 +26,17 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Sammankallande för Mottagningsorganet.
-
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §1.1.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
-Sammankallande för Näringslivsorganet.
-
 Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §1.1.6 Qulturattaché
 
 Är ordförande för Qulturnämnden.
-
-Sammankallande för Studiesociala organet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
@@ -60,15 +50,11 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Sammankallande för Mottagningsorganet.
-
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §1.1.9 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
-
-Sammankallande för Påverkansorganet.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
@@ -171,8 +157,6 @@ Väljs i period 4. Har läsår som mandatperiod.
 ### §1.1.28 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
-
-Sammankallande för Informationsorganet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
