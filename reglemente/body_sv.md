@@ -247,9 +247,9 @@ Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare t
 
 ### §5.12.3 Verksamhet
 
-Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja ska Valberedningen informera denne om valprocessen.
+Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen.
 
-Valberedningen ska även annordna ett event per termin vars syfte är att skapa insyn i funktionärer och organs verksamhet för sektionens medlemmar.
+Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
 
 ### §5.12.4 Utlåtande
 
