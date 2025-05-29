@@ -220,7 +220,7 @@ Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatp
 
 #### §1.2.2.1 Ändamål
 
-Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
+Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemmar i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
 
 #### §1.2.2.2 Organisation
 
