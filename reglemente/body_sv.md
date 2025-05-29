@@ -440,18 +440,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Internationell studentkoordinator
 
-### §3.6.10 Vice talman
-
-#### §3.6.10.1 Ändamål
-
-Vice talman har som uppgift att bistå talman i att arrangera SM.
-
-Vice talman är ställföreträdande talman.
-
-#### §3.6.10.2 Mandatperiod
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
