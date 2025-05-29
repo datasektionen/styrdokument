@@ -504,7 +504,7 @@ Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
 Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
 
-Övriga medlemmar utses av sektionens Systemansvarig.
+Övriga medlemmar utses av Systemansvarig.
 
 Tillhör Informationsorganet.
 
