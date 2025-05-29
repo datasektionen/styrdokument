@@ -194,7 +194,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 #### §1.2.1.1 Ändamål
 
-Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
+Fanbärare är ett mycket hedersfyllt uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
 
 #### §1.2.1.2 Organisation
 
