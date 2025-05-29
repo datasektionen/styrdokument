@@ -428,13 +428,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Internationell studentkoordinator
 
-
-### §3.5.12 Valberedningens ordförande
-
-Är ordförande för Valberedningen.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §3.5.27 Talman
 
 Är ordförande för Talmanspresidiet.
