@@ -1260,7 +1260,7 @@ Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt.
 
 ### §2.27.2 Organisation
 
-Kommunikationsgruppen leds av Kommunikatör. Internfunktionärer utses av Kommunikatör.
+Kommunikationsgruppen leds av Kommunikatör. Övriga medlemmar utses av Kommunikatör.
 
 Tillhör Informationsorganet.
 
