@@ -1042,8 +1042,7 @@ Internationella nämnden ska:
 
 ### §2.17.1 Ändamål
 
-Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen
-dbuggen.
+Redaqtionen ansvarar för att ge ut sektionstidningen dbuggen.
 
 ### §2.17.2 Organisation
 
