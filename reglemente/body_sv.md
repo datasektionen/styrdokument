@@ -434,17 +434,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §3.6.7 Valberedningsledamöter
-
-#### §3.6.7.1 Ändamål
-
-Valberedningens ledamöter bereder val tillsammans med Valberedningens ordförande.
-
-#### §3.6.7.2 Mandatperiod
-
-Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. 
-Ytterligare tre ledamöter väljs i Period 2 och har kalenderår som mandatperiod.
-
 ### §3.6.10 Vice talman
 
 #### §3.6.10.1 Ändamål
