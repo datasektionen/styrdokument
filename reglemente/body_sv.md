@@ -440,12 +440,6 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Internationell studentkoordinator
 
-### §3.5.27 Talman
-
-Är ordförande för Talmanspresidiet.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
 ### §3.6.10 Vice talman
 
 #### §3.6.10.1 Ändamål
