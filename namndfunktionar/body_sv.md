@@ -578,7 +578,7 @@ Datas Klubbmästeri (DKM) ska:
 
 ### §2.6.1 Ändamål
 
-Mottagningen har som syfte att ta hand om och roa de nyantagna på till sektionen hörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
+Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
 
 ### §2.6.2 Organisation
 
