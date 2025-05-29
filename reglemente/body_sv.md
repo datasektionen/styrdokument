@@ -268,6 +268,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 * Konglig Lokalchef
 * Systemansvarig.
+* Talman
 
 hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
 intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
