@@ -227,6 +227,126 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
+## §5.12 Valberedningen
+
+### §5.12.1 Ändamål
+
+Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
+
+### §5.12.2 Organisation
+
+Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter. som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
+
+### §5.12.3 Verksamhet
+
+Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja ska Valberedningen informera denne om valprocessen.
+
+Valberedningen ska även annordna ett event per termin vars syfte är att skapa insyn i funktionärer och organs verksamhet för sektionens medlemmar.
+
+### §5.12.4 Utlåtande
+
+Det bör hållas intervjuer med samtliga kandidater som sökt till:
+
+* D-rektoratet
+* Valberedningen
+* Revisor
+* Näringslivsansvarig
+* D-Dagenansvarig
+* Storasyskon
+* Konglig Öfverdrif
+* Klubbmästare
+* Studienämndens ordförande
+* Studiemiljöansvarig
+* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+* Konglig Lokalchef
+* Systemansvarig.
+
+hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
+intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
+kandidatens kandidatur.
+
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
+
+I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär.
+
+### §5.12.5 Lämplighetsbedömning
+
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
+
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
+
+### §5.12.6 Sekretess
+
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
+
+### §5.12.7 Urnval
+
+Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
+
+Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
+
+Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+
+Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
+
+Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
+
+### §5.12.8 Valhandlingar
+
+Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
+
+#### §5.12.8.1 Innehåll
+
+Valhandlingarna ska innehålla
+
+- information om hur nomineringsprocessen föregående valet i fråga gick till
+
+- information om valprocessen under SM eller VM
+
+- vilka av Valberedningens ledamöter som varit med och anordnat valet
+
+- en sammanställning av de poster som väljs
+
+- en lista över samtliga kandidater
+
+- samtliga utlåtanden från de intervjuer Valberedningen har hållit
+
+- samtliga svar från de frågeformulär som kandidaterna har fått svara på
+
+- samtliga lämplighetsbedömningar som utförts.
+
+Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
+
+#### §5.12.8.2 Publiceringsplats
+
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
+
+#### §5.12.8.3 Publiceringstid
+
+Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM eller VM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före valet sker.
+
+#### §5.12.8.4 Sekretessbeläggning
+
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
+
+## §5.26 Talmanspresidiet
+
+### §5.26.1 Ändamål
+
+Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
+
+Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
+
+### §5.26.2 Organisation
+
+Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
+
+### §5.26.3 Verksamhet
+
+Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
+
+Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
+
 ## §3.4 Revisorer
 
 ### §3.4.1 Ändamål
@@ -386,126 +506,6 @@ Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd och organ
 Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
 Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
-
-## §5.12 Valberedningen
-
-### §5.12.1 Ändamål
-
-Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
-
-### §5.12.2 Organisation
-
-Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
-
-### §5.12.3 Verksamhet
-
-Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja ska Valberedningen informera denne om valprocessen.
-
-Valberedningen ska även annordna ett event per termin vars syfte är att skapa insyn i funktionärer och organs verksamhet för sektionens medlemmar.
-
-### §5.12.4 Utlåtande
-
-Det bör hållas intervjuer med samtliga kandidater som sökt till:
-
-* D-rektoratet
-* Valberedningen
-* Revisor
-* Näringslivsansvarig
-* D-Dagenansvarig
-* Storasyskon
-* Konglig Öfverdrif
-* Klubbmästare
-* Studienämndens ordförande
-* Studiemiljöansvarig
-* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
-* Konglig Lokalchef
-* Systemansvarig.
-
-hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
-intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
-kandidatens kandidatur.
-
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
-
-I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär.
-
-### §5.12.5 Lämplighetsbedömning
-
-I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
-
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
-
-### §5.12.6 Sekretess
-
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
-
-### §5.12.7 Urnval
-
-Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
-
-Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
-
-Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
-
-Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
-
-Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
-
-### §5.12.8 Valhandlingar
-
-Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
-
-#### §5.12.8.1 Innehåll
-
-Valhandlingarna ska innehålla
-
-- information om hur nomineringsprocessen föregående valet i fråga gick till
-
-- information om valprocessen under SM eller VM
-
-- vilka av Valberedningens ledamöter som varit med och anordnat valet
-
-- en sammanställning av de poster som väljs
-
-- en lista över samtliga kandidater
-
-- samtliga utlåtanden från de intervjuer Valberedningen har hållit
-
-- samtliga svar från de frågeformulär som kandidaterna har fått svara på
-
-- samtliga lämplighetsbedömningar som utförts.
-
-Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
-
-#### §5.12.8.2 Publiceringsplats
-
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
-
-#### §5.12.8.3 Publiceringstid
-
-Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM eller VM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före valet sker.
-
-#### §5.12.8.4 Sekretessbeläggning
-
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
-
-## §5.26 Talmanspresidiet
-
-### §5.26.1 Ändamål
-
-Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
-
-Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
-
-### §5.26.2 Organisation
-
-Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
-
-### §5.26.3 Verksamhet
-
-Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
-
-Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
 
 # §6 Projekt
 
