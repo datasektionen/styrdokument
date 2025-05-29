@@ -1090,3 +1090,17 @@ Kommunikationsgruppen ska:
 - Administrera och moderera datasektionens officiella och inofficiella informationskanaler
 
 - Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
+
+## 2.x Groda
+
+### 2.x.1 Ändamål
+
+Grodas syfte att bistå sektionen och dess medlemmar med arbetet kring ekologisk hållbarhet, samt att öka engagemang och medvetenhet för klimatet bland sektionsmedlemmarna.
+
+### 5.x.2 Organisation
+
+Groda leds av Grodförande.
+
+Övriga medlemmar utses av Grodförande.
+
+Tillhör Påverkansorganet.
