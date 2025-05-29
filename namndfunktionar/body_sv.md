@@ -293,38 +293,6 @@ Studiemiljöansvarig ska
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.2.8 Sångledare
-
-#### §1.2.8.1 Ändamål
-
-Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
-
-#### §1.2.8.2 Organisation
-
-När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten.
-
-Tillhör Studiesociala organet.
-
-#### §1.2.8.3 Verksamhet
-
-Sångledare ska:
-
-- hålla sånger i sångboken och på /dev/audio uppdaterade, samt vid behov skapa nya revisioner av sångboken
-
-- vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen
-
-- hålla en årlig sittning för att främja sångkulturen på sektionen
-
-- sträva efter att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande
-
-- samarbeta med Prylmångleriet vid inköp av sångböcker
-
-- samarbeta med Jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy.
-
-#### §1.2.8.4 Mandatperiod
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §1.2.9 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
 #### §1.2.9.1 Ändamål
