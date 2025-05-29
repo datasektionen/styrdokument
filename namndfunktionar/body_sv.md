@@ -502,7 +502,7 @@ Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
 ### §2.3.2 Organisation
 
-Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig.
+Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
 
 Övriga medlemmar utses av sektionens Systemansvarig.
 
