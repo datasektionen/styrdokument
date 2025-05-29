@@ -4,6 +4,12 @@
 
 ## §1.1 Nämndordförande
 
+### 1.1.x Grodförande
+
+Är ordförande för Groda.
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
 ### §1.1.1 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
