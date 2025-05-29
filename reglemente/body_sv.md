@@ -253,7 +253,7 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Studiemiljöansvarig
 
--   Jämlikhetsnämndens ordförande
+-   Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
 
 -   Internationell studentkoordinator
 
