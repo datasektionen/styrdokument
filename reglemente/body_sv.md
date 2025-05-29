@@ -235,7 +235,15 @@ Valberedningen har till uppgift att opartiskt administrera och bereda de val som
 
 ### §5.12.2 Organisation
 
-Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter. som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
+Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter.
+
+#### §3.4.2.1 Valberedningens ordförande
+
+Väljs i Period 4. Har läsår som mandatperiod.
+
+#### §3.4.2.2 Valberedningensledamöter
+
+Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
 
 ### §5.12.3 Verksamhet
 
