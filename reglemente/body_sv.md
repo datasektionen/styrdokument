@@ -348,7 +348,19 @@ Talmanspresidiet skall säkerställa att dokument till och från SM och VM ansl�
 
 ### §5.26.2 Organisation
 
-Talmanspresidiet leds av talman. Övriga medlemmar är vice talman och sekreterare.
+Talmanspresidiet leds av talman. Övriga medlemmar är Vice talman och Sekreterare.
+
+#### §3.5.2.1 Talman
+
+Är ordförande för Talmanspresidiet.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
+#### §3.5.2.2 Vice talman
+
+Bistår Talman i dess arbete.
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §5.26.3 Verksamhet
 
