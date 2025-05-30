@@ -98,19 +98,19 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
-### §1.1.17 Näringslivsansvarig
-
-Är ordförande för Näringslivsgruppen.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
-### §1.1.18 Mulle/Mullerina Schmeck
+### §1.1.17 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
 
 Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
+
+### §1.1.18 Näringslivsansvarig
+
+Är ordförande för Näringslivsgruppen.
+
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §1.1.19 Prylmånglaren
 
@@ -796,9 +796,9 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
 Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
 
-## §2.19 Mottagningen
+## §2.18 Mottagningen
 
-### §2.19.1 Ändamål
+### §2.18.1 Ändamål
 
 Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
 
