@@ -16,7 +16,7 @@ Innan nytt material köps in för evenemang eller övrig verksamhet som sektione
 
 ## §1.2 Inköp
 
-Vid inköp av nytt material ska produkter som är återanvändbara eller begagnade väljas i möjligaste mån.
+Vid inköp av nytt material ska produkter som är återanvändbara och begagnade väljas i möjligaste mån.
 
 # §2 Engångsartiklar
 
