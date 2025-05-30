@@ -278,6 +278,8 @@ När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller f�
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär.
 
+I fall av en gemensam kandidatur till en funktionärspost ansvarar Valberedningen för atti intervjuerna uppmana kandidaterna att motivera sin samkandidatur, eller skicka ut ett kompletterande frågeformulär om funktionärsposten inte är en intervjupost.
+
 ### §3.4.5 Lämplighetsbedömning
 
 I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
