@@ -48,7 +48,7 @@ Kött ska endast erbjudas då det finns skälig motivering för detta. Då någo
 
 ## §4.2 Ekologiskt och närproducerat
 
-Närproducerade och ekologiska livsmedel och material ska föredras.
+Då likvärdiga livsmedelsprodukter jämförs ska närproducerat och ekologiskt material föredras.
 
 # §5 Transport
 
