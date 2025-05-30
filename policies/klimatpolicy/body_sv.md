@@ -20,7 +20,7 @@ Vid inköp av nytt material ska produkter som är återanvändbara och begagnade
 
 # §2 Engångsartiklar
 
-Flergångsartiklar ska, i största möjliga mån, användas istället för engångsartiklar. Om den befintliga mängden flergångsartiklar inte är tillräcklig, ska Sektionslokalsgruppen informeras. Vid inköp av engångsartiklar ska plast undvikas.
+Flergångsartiklar ska, i största möjliga mån, användas istället för engångsartiklar. Vid inköp av engångsartiklar ska plast undvikas.
 
 ## §2.1 Bärkassar
 
