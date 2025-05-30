@@ -2,8 +2,7 @@
 
 # Syfte
 
-Denna policy är en utökning av [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ). I den händelse att
-Datasektionens Klimatpolicy strider mot THS Policy för klimat och miljö gäller THS Policy i första hand.
+Denna policy är en utökning av [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ). I den händelse att Datasektionens Klimatpolicy strider mot THS Policy för klimat och miljö gäller THS Policy i första hand.
 
 Syftet med sektionens utökade klimatpolicy är att etablera ett tydligt ramverk för funktionärer och sektionsaktiva i syfte att minimera Datasektionens klimat- och miljöpåverkan. Vidare ska klimatpolicyn underlätta för sektionens medlemmar att agera mer hållbart och klimatsmart. Vi som sektion ska inte bara göra det minsta som krävs för att följa reglerna, utan ska sträva efter att ligga i framkant.
 
@@ -45,8 +44,7 @@ Måltider som serveras vid evenemang anordnade av sektionen ska i första hand p
 
 ## §4.1 Servering av kött
 
-Kött ska endast erbjudas då det finns skälig motivering för detta. Då någon serveras kött ska det alltid vara till följd av ett aktivt val från personen i fråga. Om inget val görs,
-serveras en köttfri måltid som standard.
+Kött ska endast erbjudas då det finns skälig motivering för detta. Då någon serveras kött ska det alltid vara till följd av ett aktivt val från personen i fråga. Om inget val görs, serveras en köttfri måltid som standard.
 
 ## §4.2 Ekologiskt och närproducerat
 
