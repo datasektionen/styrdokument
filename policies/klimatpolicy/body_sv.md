@@ -1,65 +1,63 @@
 <!-- Konglig Datasektionens klimatpolicy -->
 
-# Bakgrund
+# Syfte
 
-THS kårfullmäktige har tagit fram ett policydokument för att förenkla klimat- och miljöarbetet inom THS. För att ytterligare hjälpa Datasektionens funktionärer att i sitt vardagliga arbete jobba utifrån den policyn så har det här dokumentet tagits fram. För att se orginaldokumentet, se [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ).
+Denna policy är en utökning av [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ). I den händelse att
+Datasektionens Klimatpolicy strider mot THS Policy för klimat och miljö gäller THS Policy i första hand.
 
-# §1 Minska nykonsumtion
+Syftet med sektionens utökade klimatpolicy är att etablera ett tydligt ramverk för funktionärer och sektionsaktiva i syfte att minimera Datasektionens klimat- och miljöpåverkan. Vidare ska klimatpolicyn underlätta för sektionens medlemmar att agera mer hållbart och klimatsmart. Vi som sektion ska inte bara göra det minsta som krävs för att följa reglerna, utan ska sträva efter att ligga i framkant.
 
-Inom och mellan THS olika verksamheter ska det finnas möjlighet att dela på materiella tillgångar och därmed minska nykonsumtion.
+# §1 Nykonsumtion
 
-## §1.1
+Datasektionens funktionärer ska dela på materiella tillgångar och undvika onödiga inköp för att minska onödig nykonsumtion.
 
-Samarbeta och dela material mellan nämnder och projekt. Om något behövs, kontakta andra nämnder och se över om dom redan äger det ni behöver.
+## §1.1 Återanvändning av Material
 
-# §2 Undvik engångsartiklar
+Innan nytt material köps in för evenemang eller övrig verksamhet som sektionen arrangerar ska det undersökas om likvärdigt eller ersättande material finns tillgängligt sedan tidigare och då återanvändas.
 
-Användning av engångsartiklar och utdelningsmaterial ska undvikas i största möjliga mån.
+## §1.2 Inköp
 
-## §2.1
+Vid inköp av nytt material ska produkter som är återanvändbara eller begagnade väljas i möjligaste mån.
 
-Om man ej kan undvika engångsartiklar, använd då så miljövänliga material som möjligt.
+# §2 Engångsartiklar
 
-## §2.2
+Flergångsartiklar ska, i största möjliga mån, användas istället för engångsartiklar. Om den befintliga mängden flergångsartiklar inte är tillräcklig, ska Sektionslokalsgruppen informeras. Vid inköp av engångsartiklar ska plast undvikas.
 
-Istället för fysiskt utdelningsmaterial, se över möjligheterna till digitala alternativ, t.ex. digitala broschyrer, programblad osv.
+## §2.1 Bärkassar
+
+Sektionen betalar ej för inköp av bärkassar om det inte är särskilt motiverat. Vid behov av bärkassar ska de flergångskassar som finns tillgängliga i sektionslokalen användas.
+
+## §2.2 Utdelningsmaterial
+
+Vid behov av utdelningsmaterial ska digitala alternativ föredras över fysiska. Vid sittning ska sångböcker användas istället för utskrivna sångblad, om så är möjligt.
 
 # §3 Återvinning
 
-Sortering av avfall för att möjliggöra återvinning ska utföras i största möjliga mån.
+Återvinningsbart avfall ska sorteras i lämpliga behållare, både under evenemang och vid annan verksamhet.
 
-## §3.1
+## §3.1 Återvinningsbehållare
 
-Se till att det finns möjlighet till sortering av avfall under event, såsom pant, glas osv.
+Behållare för återvinning ska finnas tillgängliga i sektionslokalen och vara tydligt märkta. Under och efter evenemang ansvarar eventansvarig för att återvinningsbehållare töms.
 
 # §4 Mat
 
-Mat med lågt klimatavtryck ska premieras i alla delar av THS verksamhet. Om kött erbjuds, ska det alltid vara som ett aktivt val.
+Måltider som serveras vid evenemang anordnade av sektionen ska i första hand planeras som köttfria. Mat med lågt klimatavtryck ska premieras vid dessa evenemang.
 
-## §4.1
+## §4.1 Servering av kött
 
-Måltider som serveras på event anordnade av sektionen ska i första hand planeras som köttfria. Det är tillåtet att erbjuda kött till de som önskar.
+Kött ska endast erbjudas då det finns skälig motivering för detta. Då någon serveras kött ska det alltid vara till följd av ett aktivt val från personen i fråga. Om inget val görs,
+serveras en köttfri måltid som standard.
+
+## §4.2 Ekologiskt och närproducerat
+
+Närproducerade och ekologiska livsmedel och material ska föredras.
 
 # §5 Transport
 
-Miljövänliga färdalternativ bör väljas om det inte orsakar signifikanta ekonomiska eller administrativa problem.
+## §5.1 Kollektivtrafik
 
-## §5.1
+Kollektivtrafik ska användas som transportmedel i största möjliga mån.
 
-Använd kollektivtrafik i så stor mån som möjligt, t.ex. vid besök till Osqvik.
+## §5.2 Val av bil
 
-## §5.2
-
-Om ni behöver hyra bil, välj en miljövänlig då det är rimligt.
-
-# Samarbeten
-
-Vid samarbeten med externa parter bör man uppmuntra till att den delade verksamheten har ett minimalt klimatavtryck.
-
-# Kommunikation
-
-I redovisning av verksamheten som gått (testamente eller verksamhetsrapport) bör man, om applicerbart, berätta hur man arbetat med att minska sin verksamhets klimatavtryck.
-
-# Ansvar
-
-Styrelsen ansvarar att se till att organisationen i sin helhet följer policyn, där Ledamot för Studiemiljö och Likabehandling har det uttalade huvudansvaret.
+Vid användning av sektionens fordon ska fordon med lägre miljöpåverkan prioriteras. Fordon med högre miljöpåverkan bör endast användas då ärendet ej är genomförbart med miljövänligare transportmedel på grund av exempelvis vid lastutrymme eller brist på tillgänglighet.
