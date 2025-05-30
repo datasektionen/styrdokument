@@ -36,7 +36,7 @@ Vid behov av utdelningsmaterial ska digitala alternativ föredras över fysiska.
 
 ## §3.1 Återvinningsbehållare
 
-Behållare för återvinning ska finnas tillgängliga i sektionslokalen och vara tydligt märkta. Under och efter evenemang ansvarar eventansvarig för att återvinningsbehållare töms.
+Behållare för återvinning ska finnas tillgängliga i sektionslokalen och vara tydligt märkta.
 
 # §4 Mat
 
