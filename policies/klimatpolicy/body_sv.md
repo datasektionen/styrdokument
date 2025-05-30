@@ -24,7 +24,7 @@ Flergångsartiklar ska, i största möjliga mån, användas istället för engå
 
 ## §2.1 Bärkassar
 
-Sektionen betalar ej för inköp av bärkassar om det inte är särskilt motiverat. Vid behov av bärkassar ska de flergångskassar som finns tillgängliga i sektionslokalen användas.
+Sektionen betalar ej för inköp av bärkassar om det inte är särskilt motiverat.
 
 ## §2.2 Utdelningsmaterial
 
