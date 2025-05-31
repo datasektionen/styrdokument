@@ -278,7 +278,7 @@ När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller f�
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär.
 
-I fall av en gemensam kandidatur till en funktionärspost ansvarar Valberedningen för atti intervjuerna uppmana kandidaterna att motivera sin samkandidatur, eller skicka ut ett kompletterande frågeformulär om funktionärsposten inte är en intervjupost.
+I fall av en gemensam kandidatur till en funktionärspost ansvarar Valberedningen för att i intervjuerna uppmana kandidaterna att motivera sin samkandidatur, eller skicka ut ett kompletterande frågeformulär om funktionärsposten inte är en intervjupost.
 
 ### §3.4.5 Lämplighetsbedömning
 
