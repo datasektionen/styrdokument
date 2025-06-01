@@ -137,7 +137,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - arbeta strategiskt med sektionens ekonomiska frågor
 
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+- arbetsleda nämnder och projekt i bokföringsarbetet
 
 - fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
