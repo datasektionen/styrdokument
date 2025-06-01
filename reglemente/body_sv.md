@@ -94,7 +94,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
