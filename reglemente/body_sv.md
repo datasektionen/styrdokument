@@ -420,7 +420,7 @@ Syftet med Ledningsgruppen är att skapa ett forum där styrelsen kan diskutera 
 
 ### §3.7.2 Sammansättning
 
-Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
+De funktionärer som ingår i Ledningsgruppen är:
 
 -   Storasyskon
 
