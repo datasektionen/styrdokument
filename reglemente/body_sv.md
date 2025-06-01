@@ -98,6 +98,8 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
+- kalla till och leda möten för Ledningsgruppen
+
 - delegera och följa upp på beslutsuppföljning inom styrelsen
 
 - kunna företräda organisationen tillsammans med Ordförande
