@@ -446,6 +446,10 @@ De funktionärer som ingår i Ledningsgruppen är:
 
 -   Internationell studentkoordinator
 
+-   Systemansvarig
+
+-   Direqteur
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
