@@ -58,7 +58,7 @@ Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avv
 
 Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av styrdokumenten hålls aktuellt. 
 
-Funktionär är skyldig att löpande hålla organledare informerad om sitt verksamhetsområde. Saknas organledare skall funktionären istället informera D-rektoratet.
+Funktionär är skyldig att löpande hålla D-rektoratet informerad om sitt verksamhetsområde. 
 
 Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
