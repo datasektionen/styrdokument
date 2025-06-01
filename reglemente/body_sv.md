@@ -416,7 +416,7 @@ Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verks
 
 Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen.
 
-Syftet med Ledningsgruppen är skapa ett forum där styrelsen kan diskutera strategiska frågor med de funktionärer som har en stor påverkan på sektionens dagliga verksamhet.
+Syftet med Ledningsgruppen är att skapa ett forum där styrelsen kan diskutera strategiska frågor med de funktionärer som har en stor påverkan på sektionens dagliga verksamhet.
 
 ### §3.7.2 Sammansättning
 
