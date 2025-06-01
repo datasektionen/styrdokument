@@ -159,7 +159,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+- arbetsleda nämnder och projekt i bokföringsarbetet
 
 - fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
