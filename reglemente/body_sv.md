@@ -460,31 +460,31 @@ D-rektoratets ledamöter kallar till d-råd för respektive organ för att disku
 
 ### §4.1.1 Mottagningsorganet
 
-Organet leds av Storasyskon och Konglig Öfverdrif.
+Ansvarar för mottagningen av nya studenter.
 
 ### §4.1.2 Informationsorganet
 
-Organet leds av Kommunikatör.
+Ansvarar för sektionens kommunikation inåt och utåt.
 
 ### §4.1.3 Studiesociala organet
 
-Organet leds av Qulturattaché.
+Ansvarar för all öppen studiesocial verksamhet.
 
 ### §4.1.4 Eventorganet
 
-Organet leds av Klubbmästare.
+Ansvarar för all studiesocial verksamhet i formen av större evenemang.
 
 ### §4.1.5 Näringslivsorganet
 
-Organet leds av Näringslivsansvarig.
+Ansvarar för att samordna sektionens näringslivsverksamhet.
 
 ### §4.1.6 Förvaltningsorganet
 
-Organet leds av Konglig Lokalchef.
+Ansvarar för att förvalta och utveckla sektionens faciliteter.
 
 ### §4.1.7 Påverkansorganet
 
-Organet leds av Studienämndens ordförande.
+Ansvarar för sektionens påverkansarbete inom studiefrågor gentemot THS och KTH.
 
 # §5 Nämnder
 
