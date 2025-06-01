@@ -452,9 +452,9 @@ De funktionärer som ingår i Ledningsgruppen är:
 
 # §4 Organ
 
-Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
+Ett organ är en samling av funktionärer, nämnder och projekt som har ett delat ansvar för en snarlik verksamhet inom sektionen.
 
-Organledare är sammankallande för sitt respektive organ.
+D-rektoratets ledamöter kallar till d-råd för respektive organ för att diskutera frågor som berör det organets verksamhet.
 
 ## §4.1 Organ i sektionen
 
