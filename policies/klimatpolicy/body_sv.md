@@ -58,4 +58,4 @@ Kollektivtrafik ska användas som transportmedel i största möjliga mån.
 
 ## §5.2 Val av bil
 
-Vid användning av sektionens fordon ska fordon med lägre miljöpåverkan prioriteras. Fordon med högre miljöpåverkan bör endast användas då ärendet ej är genomförbart med miljövänligare transportmedel på grund av exempelvis vid lastutrymme eller brist på tillgänglighet.
+Vid användning av sektionens fordon ska fordon med lägre miljöpåverkan prioriteras. Fordon med högre miljöpåverkan bör endast användas då ärendet ej är genomförbart med miljövänligare transportmedel på grund av exempelvis krav på lastutrymme eller brist på tillgänglighet.
