@@ -60,7 +60,7 @@ Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens d
 
 Funktionär är skyldig att löpande hålla D-rektoratet informerad om sitt verksamhetsområde. 
 
-Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
 ## §3.2 Mandatperiod
 
