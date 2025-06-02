@@ -6,7 +6,7 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 
 # §2 Bokföringsplikt
 
-Bokföringspliktiga nämnder, samt vissa projekt och organ sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om ett organ, en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av Kassör.
+Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av Kassör.
 
 ## §2.1 Bokföringspliktiga nämnder
 ### §2.1.1 Sektionslokalsgruppen
@@ -188,7 +188,7 @@ Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att
 
 # §11 Attest
 
-Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning organledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 

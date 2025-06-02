@@ -58,9 +58,9 @@ Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avv
 
 Funktionär ansvarar för sitt verksamhetsområde samt för att funktionärens del av styrdokumenten hålls aktuellt. 
 
-Funktionär är skyldig att löpande hålla organledare informerad om sitt verksamhetsområde. Saknas organledare skall funktionären istället informera D-rektoratet.
+Funktionär är skyldig att löpande hålla D-rektoratet informerad om sitt verksamhetsområde. 
 
-Funktionär skall även på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
+Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
 ## §3.2 Mandatperiod
 
@@ -78,7 +78,7 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 ### §3.3.1 Ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd och organ. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
 
 - förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
@@ -94,9 +94,11 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är sammankallande för ledningsgruppen. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
+
+- kalla till och leda möten för Ledningsgruppen
 
 - delegera och följa upp på beslutsuppföljning inom styrelsen
 
@@ -135,7 +137,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - arbeta strategiskt med sektionens ekonomiska frågor
 
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+- arbetsleda nämnder och projekt i bokföringsarbetet
 
 - fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
@@ -157,7 +159,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
-- arbetsleda nämnder, projekt och organ i bokföringsarbetet
+- arbetsleda nämnder och projekt i bokföringsarbetet
 
 - fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
 
@@ -412,11 +414,13 @@ Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verks
 
 ### §3.7.1 Syfte
 
-Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen, däribland samtliga organledare.
+Ledningsgruppen är en samling funktionärer vars verksamhet är särskilt central för sektionen.
+
+Syftet med Ledningsgruppen är att skapa ett forum där styrelsen kan diskutera strategiska frågor med de funktionärer som har en stor påverkan på sektionens dagliga verksamhet.
 
 ### §3.7.2 Sammansättning
 
-Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
+De funktionärer som ingår i Ledningsgruppen är:
 
 -   Storasyskon
 
@@ -442,41 +446,45 @@ Sammankallande för ledningsgruppen är vice ordförande. Övriga medlemmar är:
 
 -   Internationell studentkoordinator
 
+-   Systemansvarig
+
+-   Direqteur
+
 # §4 Organ
 
-Ett organ är en samling av funktionärer, nämnder och projekt. Varje organ leds av en organledare. Organen och dessas sammansättningar regleras i reglementet.
+Ett organ är en samling av funktionärer, nämnder och projekt som har ett delat ansvar för en snarlik verksamhet inom sektionen.
 
-Organledare är sammankallande för sitt respektive organ.
+D-rektoratets ledamöter kallar till d-råd för respektive organ för att diskutera frågor som berör det organets verksamhet.
 
 ## §4.1 Organ i sektionen
 
 ### §4.1.1 Mottagningsorganet
 
-Organet leds av Storasyskon och Konglig Öfverdrif.
+Ansvarar för mottagningen av nya studenter.
 
 ### §4.1.2 Informationsorganet
 
-Organet leds av Kommunikatör.
+Ansvarar för sektionens kommunikation inåt och utåt.
 
 ### §4.1.3 Studiesociala organet
 
-Organet leds av Qulturattaché.
+Ansvarar för all öppen studiesocial verksamhet.
 
 ### §4.1.4 Eventorganet
 
-Organet leds av Klubbmästare.
+Ansvarar för all studiesocial verksamhet i formen av större evenemang.
 
 ### §4.1.5 Näringslivsorganet
 
-Organet leds av Näringslivsansvarig.
+Ansvarar för att samordna sektionens näringslivsverksamhet.
 
 ### §4.1.6 Förvaltningsorganet
 
-Organet leds av Konglig Lokalchef.
+Ansvarar för att förvalta och utveckla sektionens faciliteter.
 
 ### §4.1.7 Påverkansorganet
 
-Organet leds av Studienämndens ordförande.
+Ansvarar för sektionens påverkansarbete inom studiefrågor gentemot THS och KTH.
 
 # §5 Nämnder
 
@@ -488,7 +496,7 @@ Varje nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
-Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd och organ att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
 Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
@@ -663,7 +671,7 @@ För varje projekt ska det finnas en eller flera personer som är projektledare.
 
 ### §6.4.1 Skyldigheter
 
-Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från organledare, D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
+Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
 
 ### §6.4.2 Rättigheter
 
@@ -707,7 +715,7 @@ Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att för
 
 ### §9.1.3 Revisions-SM
 
-Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet, organ och nämnder med bokföringsplikt.
+Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
 ### §9.1.4 Glass-SM
 
