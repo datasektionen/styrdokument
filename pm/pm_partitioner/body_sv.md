@@ -16,6 +16,4 @@ D-rektoratet kan då på DM stänga partitionen. Stängda partitioner förs in i
 
 # §4 Aktiva partitioner
 
-(Inga aktiva partitioner finns än)
-
 [1]: #1-uppstart
