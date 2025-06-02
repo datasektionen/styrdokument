@@ -5,12 +5,11 @@
   "/pm_informationshantering": "/pm/pm_informationshantering",
   "/pm_informationsspridning": "/pm/pm_informationsspridning",
   "/pm_klubbar": "/pm/pm_klubbar",
-  "/pm_verksamhet": "/pm/pm_verksamhet",
   "/pm_stipendier": "/pm/pm_stipendier",
+  "/pm_traditioner": "/pm/pm_traditioner",
   "/jamlikhetspolicy": "/policies/jamlikhetspolicy",
   "/klimatpolicy": "/policies/klimatpolicy",
   "/rekryteringspolicy": "/policies/rekryteringspolicy",
-  "/uppförandepolicy": "/policies/uppforandepolicy",
   "/samarbetspolicy": "/policies/samarbetspolicy",
-  "/pm_traditioner": "/pm/pm_traditioner"
+  "/uppförandepolicy": "/policies/uppforandepolicy"
 }
