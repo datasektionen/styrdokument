@@ -683,7 +683,7 @@ Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera 
 
 # §7 Partitioner
 
-En partition är en sammanslutning inom sektionen som bedriver studiesocial verksamhet. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
+En partition är en sammanslutning inom sektionen som bedriver verksamhet utifrån ett gemensamt intresseområde. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
 
 Sektionens partitioner defineras i PM för partitioner.
 
