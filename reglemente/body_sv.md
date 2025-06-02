@@ -681,19 +681,19 @@ Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rä
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
-# §7 Klubbar
+# §7 Partitioner
 
-En klubb är en sammanslutning inom sektionen som bedriver studiesocial verksamhet. Klubbar kan antingen benämnas som aktiva eller som inaktiva.
+En partition är en sammanslutning inom sektionen som bedriver studiesocial verksamhet. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
 
-Sektionens klubbar defineras i PM för klubbar.
+Sektionens partitioner defineras i PM för partitioner.
 
-## §7.1 Klubbledare
+## §7.1 Partiledare
 
-För varje aktiv klubb ska det finnas en klubbledare. Klubbledare utses av D-rektoratet på DM.
+För varje aktiv partition ska det finnas en partiledare. Partiledare utses av D-rektoratet på DM.
 
 ## §7.2 Ekonomi
 
-DM tilldelar en klubb medel ur sektionens klubbfond upp till 2000 kronor per verksamhetsår med ett maxtak av 5000 kr vid skälig motivering. För större anslag krävs SM-beslut.
+DM tilldelar en partition medel ur sektionens partitionfond upp till 2000 kronor per verksamhetsår med ett maxtak av 5000 kr vid skälig motivering. För större anslag krävs SM-beslut.
 
 # §8 Delad verksamhet
 
