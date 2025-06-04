@@ -500,8 +500,6 @@ Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de 
 
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
-Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
-
 Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
 
 # §6 Projekt
