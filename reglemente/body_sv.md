@@ -496,8 +496,6 @@ För varje nämnd ska det finnas en eller flera funktionärer som är ordförand
 
 Varje nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
-Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
-
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
 Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
