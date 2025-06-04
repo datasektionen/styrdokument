@@ -110,6 +110,8 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 - se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
 
+- säkerställa att det skickas ut välkomstmejl innehållande relevant information till nyvalda funktionärer
+
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
