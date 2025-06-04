@@ -47,6 +47,10 @@ Styrdokument för Nämnder och Funktionärer är ett dokument som definierar sek
 Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
 Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
 
+### §2.3.3 Budget
+
+Sektionen har en budget som funktionärer förväntas följa. Budgeten för det kommande verksamhetsåret ska fastslås på verksamhetsårets näst sista ordinarie sektionsmöte. Budgeten ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+
 ### §2.3.3 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
