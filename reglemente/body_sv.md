@@ -757,6 +757,8 @@ Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjär
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
+Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+
 ## §11.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
