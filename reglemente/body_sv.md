@@ -394,7 +394,7 @@ Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under d
 
 #### §3.6.3.1 Revisionsberättelse
 
-Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
 
 #### §3.6.3.2 SM
 
