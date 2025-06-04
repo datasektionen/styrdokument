@@ -705,37 +705,37 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §10 Ordinarie SM
+# §9 Ordinarie SM
 
-## §10.1 Förteckning
+## §9.1 Förteckning
 
-### §10.1.1 Budget-SM
+### §9.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §10.1.2 Glögg-SM
+### §9.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §10.1.3 Revisions-SM
+### §9.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
-### §10.1.4 Glass-SM
+### §9.1.4 Glass-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
-## §10.2 Övrig verksamhet
+## §9.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §11 Ordnar
+# §10 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-## §11.1 Ordförande Emeritus
+## §10.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -747,76 +747,74 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-## §11.2 Klubbmästare Emeritus
+## §10.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §11.3 Konglig Öfverdrif Emeritus
+## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §11.4 Storasyskon Emeritus
+## §10.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §11.5 Kassör Emeritus
+## §10.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-# 12 Förtjänsttecken
+# §11 Förtjänsttecken
 
-## 12.1 Hedersdeltat
+## §11.1 Hedersdeltat
 Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
-### 12.1.1 Syfte
+### §11.1.1 Syfte
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
 
-### 12.1.2 Förslagslämning
+### §11.1.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
 
-### 12.1.3 Utdelning
+### §11.1.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 12.2 Stora deltat
+## §11.2 Stora deltat
 Stora deltat utgörs av en nål eller motsvarande med ett litet delta på ett ekblad inramat av ett stort delta.
 
-### 12.2.1 Syfte
+### §11.2.1 Syfte
 Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
 
-### 12.2.2 Förslagslämning
+### §11.2.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora deltat, med motivering, till D-rektoratet.
 
-### 12.2.3 Utdelning
+### §11.2.3 Utdelning
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 12.3 Hedersugglan
+## §11.3 Hedersugglan
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
-### 12.3.1 Syfte
+### §11.3.1 Syfte
 Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
 
-### 12.3.2 Förslagslämning
+### §11.3.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
 
-### 12.3.3 Utdelning
+### §11.3.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §13 Övrigt
+# §12 Övrigt
 
-## §13.1 Visdomsord
+## §12.1 Visdomsord
 
 Det var bättre förr.
 
-### §13.1.1 Mer visdomsord
+### §12.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
-
-[2]: #2-andra-styrande-dokument
