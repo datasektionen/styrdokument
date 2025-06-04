@@ -76,6 +76,8 @@ Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är fö
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
 
+-   se till att samtliga utav sektionens funktionärer har en kontaktperson i styrelsen och att de blir informerade om vem deras kontaktperson är
+
 -   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
 
 -   bibehålla styrdokument samt övrig formalia i gott skick
