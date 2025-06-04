@@ -703,18 +703,6 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §9 Externa representanter
-
-## §9.1 Representation i råd på THS
-
-Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
-
-## §9.2 Representation inom organ på KTH
-
-### §9.2.1 Val av representanter
-
-Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
-
 # §10 Ordinarie SM
 
 ## §10.1 Förteckning
