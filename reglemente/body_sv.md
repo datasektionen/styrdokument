@@ -78,13 +78,13 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 -   se till att samtliga utav sektionens funktionärer har en kontaktperson i styrelsen och att de blir informerade om vem deras kontaktperson är
 
--   upplysa en vald funktionär om vilka råd inom THS som berör den.
+-   upplysa en vald funktionär om vilka råd inom THS som berör den
 
 -   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
 
 -   bibehålla styrdokument samt övrig formalia i gott skick
 
--   hålla sektionens posthantering fungerande
+-   hålla sektionens posthantering fungerande.
 
 ### §3.3.1 Ordförande
 
