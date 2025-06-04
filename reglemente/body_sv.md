@@ -126,8 +126,6 @@ Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområ
 
 - tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
 
-- hålla sektionens posthantering fungerande
-
 - verka för goda överlämningsrutiner i sektionens verksamhet
 
 - tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
