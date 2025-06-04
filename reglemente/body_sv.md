@@ -223,7 +223,7 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 - verka för en god studiemiljö
 
-- ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+- ha en samordnade roll för de som arbetar med studiemiljöfrågor gentemot EECS på sektionen
 
 - hantera JML-incidenter och leda kontakten med externa resurser
 
