@@ -739,6 +739,8 @@ Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfv
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
+Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna i guld med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+
 Vidare gäller att Ordförande Emeriti
 
 - erhåller evigt kostnadsfritt medlemskap i sektionen som Alumnimedlem
