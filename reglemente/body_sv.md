@@ -398,11 +398,9 @@ Revisionsberättelsen är det dokument som presenteras för SM vid fråga angåe
 
 #### §3.6.3.2 Förvaltningsrevisionsrapport
 
-Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
-
-Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
-
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+
+Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
 
 #### §3.6.3.3 Bokföring
 
