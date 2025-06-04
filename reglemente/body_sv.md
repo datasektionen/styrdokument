@@ -751,6 +751,8 @@ Vidare gäller att Ordförande Emeriti
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
+Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+
 ## §11.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
