@@ -64,7 +64,7 @@ Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt re
 
 ## §3.2 Mandatperiod
 
-Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
+Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet.
 
 ## §3.3 D-rektoratet
 
