@@ -82,7 +82,7 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 ### §3.3.1 Ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
+Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
 
 - förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
@@ -98,7 +98,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
+Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
@@ -116,7 +116,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
+Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
 - protokoll från SM, VM och DM anslås i enlighet med stadgarna
 
@@ -137,7 +137,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.4 Kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
+Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
 - arbeta strategiskt med sektionens ekonomiska frågor
 
@@ -161,7 +161,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
+Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
 - arbetsleda nämnder och projekt i bokföringsarbetet
 
@@ -177,7 +177,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
+Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
 - överblicka och verka för stärkandet av varumärket Datasektionen
 
@@ -193,7 +193,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.7 Ledamot för studiesociala frågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
+Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
 - strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
@@ -207,7 +207,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.8 Ledamot för utbildningsfrågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
 - verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
 
@@ -221,7 +221,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.9 Ledamot för studiemiljö och likabehandling
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
 - verka för en god studiemiljö
 
