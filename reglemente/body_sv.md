@@ -681,55 +681,69 @@ Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rä
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
-# §7 Delad verksamhet
+# §7 Partitioner
+
+En partition är en sammanslutning inom sektionen som bedriver verksamhet utifrån ett gemensamt intresseområde. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
+
+Sektionens partitioner defineras i PM för partitioner.
+
+## §7.1 Partiledare
+
+För varje aktiv partition ska det finnas en partiledare. Partiledare utses av D-rektoratet på DM.
+
+## §7.2 Ekonomi
+
+DM tilldelar en partition medel ur sektionens partitionfond upp till 2000 kronor per verksamhetsår med ett maxtak av 5000 kr vid skälig motivering. För större anslag krävs SM-beslut.
+
+# §8 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §8 Externa representanter
+# §9 Externa representanter
 
-## §8.1 Representation i råd på THS
+## §9.1 Representation i råd på THS
 
 Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
 
-## §8.2 Representation inom organ på KTH
+## §9.2 Representation inom organ på KTH
 
-### §8.2.1 Val av representanter
+### §9.2.1 Val av representanter
 
 Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
 
-# §9 Ordinarie SM
+# §10 Ordinarie SM
 
-## §9.1 Förteckning
+## §10.1 Förteckning
 
-### §9.1.1 Budget-SM
+### §10.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §9.1.2 Glögg-SM
+### §10.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §9.1.3 Revisions-SM
+### §10.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
-### §9.1.4 Glass-SM
+### §10.1.4 Glass-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
-### §9.2 Övrig verksamhet
+## §10.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §10 Ordnar
+# §11 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-## §10.1 Ordförande Emeritus
+## §11.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -739,67 +753,67 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-## §10.2 Klubbmästare Emeritus
+## §11.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §10.3 Konglig Öfverdrif Emeritus
+## §11.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §10.4 Storasyskon Emeritus
+## §11.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §10.5 Kassör Emeritus
+## §11.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-# 11 Förtjänsttecken
+# 12 Förtjänsttecken
 
-## 11.1 Hedersdeltat
+## 12.1 Hedersdeltat
 Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
-### 11.1.1 Syfte
+### 12.1.1 Syfte
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
 
-### 11.1.2 Förslagslämning
+### 12.1.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
 
-### 11.1.3 Utdelning
+### 12.1.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 11.2 Stora deltat
+## 12.2 Stora deltat
 Stora deltat utgörs av en nål eller motsvarande med ett litet delta på ett ekblad inramat av ett stort delta.
 
-### 11.2.1 Syfte
+### 12.2.1 Syfte
 Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
 
-### 11.2.2 Förslagslämning
+### 12.2.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora deltat, med motivering, till D-rektoratet.
 
-### 11.2.3 Utdelning
+### 12.2.3 Utdelning
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 11.3 Hedersugglan
+## 12.3 Hedersugglan
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
-### 11.3.1 Syfte
+### 12.3.1 Syfte
 Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
 
-### 11.3.2 Förslagslämning
+### 12.3.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
 
-### 11.3.3 Utdelning
+### 12.3.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §12 Övrigt
+# §13 Övrigt
 
-## §12.1 Visdomsord
+## §13.1 Visdomsord
 
 Det var bättre förr.
 
-### §12.1.1 Mer visdomsord
+### §13.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
 
