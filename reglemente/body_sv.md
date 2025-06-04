@@ -769,6 +769,8 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
+Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+
 # 12 Förtjänsttecken
 
 ## 12.1 Hedersdeltat
