@@ -12,7 +12,7 @@ Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glöm
 
 ## §1.3 Grafisk profil
 
-Sektionens grafiska profil regleras av Datas Art Director i samråd med Kommunikatör.
+Sektionens grafiska profil regleras av D-rektoratet i samråd med Datas Art Director och Kommunikatör.
 
 ## §1.4 Sektionsklädsel
 
@@ -24,6 +24,8 @@ Utöver sektionens stadgar och reglemente finns det kompletterande styrdokument.
 Dessa är underordnade stadgarna och reglementet.
 
 Beslut om ändringar i övriga styrdokument görs på SM såvida inget annat föreskrivs.
+
+Det åligger samtliga av sektionens medlemmar att förhålla sig till dessa dokument.
 
 ## §2.1 Policydokument
 Sektionen har ett antal policydokument. Dessa är:
@@ -47,7 +49,11 @@ Styrdokument för Nämnder och Funktionärer är ett dokument som definierar sek
 Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
 Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
 
-### §2.3.3 Samboendeavtal
+### §2.3.3 Budget
+
+Sektionen har en budget som funktionärer förväntas följa. Budgeten för det kommande verksamhetsåret ska fastslås på verksamhetsårets näst sista ordinarie sektionsmöte. Budgeten ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+
+### §2.3.4 Samboendeavtal
 Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal som reglerar verksamheten i lokalen. Avtalet ska revideras årligen av sektionernas styrelser i samråd med respektive sektions lokalansvarig. Synpunkter från båda sektionernas engagerade ska tas i beaktande.
 
 # §3 Funktionärer
@@ -64,21 +70,25 @@ Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt re
 
 ## §3.2 Mandatperiod
 
-Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet i reglementet.
+Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet.
 
 ## §3.3 D-rektoratet
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
 
+-   se till att samtliga utav sektionens funktionärer har en kontaktperson i styrelsen och att de blir informerade om vem deras kontaktperson är
+
+-   upplysa en vald funktionär om vilka råd inom THS som berör den
+
 -   efter ett DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande
 
 -   bibehålla styrdokument samt övrig formalia i gott skick
 
--   hålla sektionens posthantering fungerande
+-   hålla sektionens posthantering fungerande.
 
 ### §3.3.1 Ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
+Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
 
 - förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
@@ -94,7 +104,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
+Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
@@ -106,23 +116,21 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
 
+- säkerställa att det skickas ut välkomstmejl innehållande relevant information till nyvalda funktionärer
+
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
+Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
 - protokoll från SM, VM och DM anslås i enlighet med stadgarna
 
 - stötta funktionärer och övriga medlemmar i sitt arbete med styrdokumenten
 
 - tillsammans med styrelsen bibehålla styrdokument samt övrig formalia i gott skick
-
-- hålla sektionens posthantering fungerande
-
-- verka för goda överlämningsrutiner i sektionens verksamhet
 
 - tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
 
@@ -133,7 +141,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.4 Kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
+Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
 - arbeta strategiskt med sektionens ekonomiska frågor
 
@@ -157,7 +165,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
+Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
 - arbetsleda nämnder och projekt i bokföringsarbetet
 
@@ -173,7 +181,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
+Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
 - överblicka och verka för stärkandet av varumärket Datasektionen
 
@@ -189,7 +197,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.7 Ledamot för studiesociala frågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
+Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
 - strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
@@ -203,7 +211,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.8 Ledamot för utbildningsfrågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
 - verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
 
@@ -217,11 +225,11 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.9 Ledamot för studiemiljö och likabehandling
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
 - verka för en god studiemiljö
 
-- ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+- ha en samordnade roll för de som arbetar med studiemiljöfrågor gentemot EECS på sektionen
 
 - hantera JML-incidenter och leda kontakten med externa resurser
 
@@ -392,15 +400,15 @@ Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under d
 
 #### §3.6.3.1 Revisionsberättelse
 
-Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
-
-#### §3.6.3.2 SM
-
-Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
 
 Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
+#### §3.6.3.2 Förvaltningsrevisionsrapport
+
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+
+Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
 
 #### §3.6.3.3 Bokföring
 
@@ -490,15 +498,11 @@ Ansvarar för sektionens påverkansarbete inom studiefrågor gentemot THS och KT
 
 En nämnd är en officiell grupp med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
 
-För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess reglemente hålls aktuellt.
+För varje nämnd ska det finnas en eller flera funktionärer som är ordförande. Nämndens ordförande är ansvarig för nämndens verksamhet samt att dess del av styrdokumenten hålls aktuellt.
 
 Varje nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på anmodan från D-rektoratet eller SM fullständigt redovisa sin verksamhet för densamme.
 
-Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §[2]. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
-
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
-
-Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
 Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
 
@@ -701,51 +705,41 @@ Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar ve
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §9 Externa representanter
+# §9 Ordinarie SM
 
-## §9.1 Representation i råd på THS
+## §9.1 Förteckning
 
-Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
-
-## §9.2 Representation inom organ på KTH
-
-### §9.2.1 Val av representanter
-
-Representanter till många av dessa organ väljs inte direkt av sektionen, utan nomineras av skolrådet till THS styrelse som sedan tillsätter posterna.
-
-# §10 Ordinarie SM
-
-## §10.1 Förteckning
-
-### §10.1.1 Budget-SM
+### §9.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §10.1.2 Glögg-SM
+### §9.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §10.1.3 Revisions-SM
+### §9.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
-### §10.1.4 Glass-SM
+### §9.1.4 Glass-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
-## §10.2 Övrig verksamhet
+## §9.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §11 Ordnar
+# §10 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-## §11.1 Ordförande Emeritus
+## §10.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
+
+Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna i guld med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
 Vidare gäller att Ordförande Emeriti
 
@@ -753,68 +747,74 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-## §11.2 Klubbmästare Emeritus
+## §10.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.3 Konglig Öfverdrif Emeritus
+Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+
+## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.4 Storasyskon Emeritus
+Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+
+## §10.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
-## §11.5 Kassör Emeritus
+Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
+
+## §10.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
-# 12 Förtjänsttecken
+Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-## 12.1 Hedersdeltat
+# §11 Förtjänsttecken
+
+## §11.1 Hedersdeltat
 Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
-### 12.1.1 Syfte
+### §11.1.1 Syfte
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
 
-### 12.1.2 Förslagslämning
+### §11.1.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
 
-### 12.1.3 Utdelning
+### §11.1.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 12.2 Stora deltat
+## §11.2 Stora deltat
 Stora deltat utgörs av en nål eller motsvarande med ett litet delta på ett ekblad inramat av ett stort delta.
 
-### 12.2.1 Syfte
+### §11.2.1 Syfte
 Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
 
-### 12.2.2 Förslagslämning
+### §11.2.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora deltat, med motivering, till D-rektoratet.
 
-### 12.2.3 Utdelning
+### §11.2.3 Utdelning
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## 12.3 Hedersugglan
+## §11.3 Hedersugglan
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
-### 12.3.1 Syfte
+### §11.3.1 Syfte
 Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
 
-### 12.3.2 Förslagslämning
+### §11.3.2 Förslagslämning
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
 
-### 12.3.3 Utdelning
+### §11.3.3 Utdelning
 D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §13 Övrigt
+# §12 Övrigt
 
-## §13.1 Visdomsord
+## §12.1 Visdomsord
 
 Det var bättre förr.
 
-### §13.1.1 Mer visdomsord
+### §12.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
-
-[2]: #2-andra-styrande-dokument
