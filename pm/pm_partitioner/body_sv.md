@@ -16,4 +16,21 @@ D-rektoratet kan då på DM stänga partitionen. Stängda partitioner förs in i
 
 # §4 Aktiva partitioner
 
+## §4.1 Närstridskommittén
+
+### §4.1.1 Ändamål
+
+Närstridskommitténs syfte är att väcka och samla intresse för fightingspel.
+
+### §4.1.2 Organisation
+
+Närstridskommittén leds av partiledare för närstridskommittén, benämnd Professorn.
+
+### §4.1.3 Verksamhet
+
+Närstridskommitténs verksamhet består av att
+
+- anordna turneringar och spelkvällar för fightingspel
+- samordna gemensamt deltagande på externa fightingspelsevent.
+
 [1]: #1-uppstart
