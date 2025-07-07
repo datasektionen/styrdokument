@@ -13,8 +13,10 @@ Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bo
 Sektionslokalsgruppen är bokföringspliktigt.
 ### §2.1.2 DKM
 DKM är bokföringspliktigt.
+{{ if not .reception -}}
 ### §2.1.3 Mottagningen 
 Mottagningen är bokföringspliktig.
+{{- end }}
 ### §2.1.4 Näringslivsgruppen 
 Näringslivsgruppen är bokföringspliktig.
 ### §2.1.5 D-Dagen
@@ -40,9 +42,9 @@ Kvitton som inte attesterats eller saknar nödvändig information och inte utbet
 
 ## §4.1 Förvaltning av dryckeslager
 
-DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager från DKM. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
+DKM och MKM förvaltar var sitt dryckeslager{{ if not .reception -}}, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager från DKM{{- end }}. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
-Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
+Dryckeslagren ska inventeras minst en gång per period{{ if not .reception -}} samt innan och efter mottagningsperioden{{- end }}. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
 ## §4.2 Dryckeslager vid festtillfällen
 
@@ -169,7 +171,7 @@ Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en
 
 # §9 Subventionering av profilkläder
 
-Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
+Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck{{ if not .reception -}} eller mottagningströjorna{{- end }}, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
 
 Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
 

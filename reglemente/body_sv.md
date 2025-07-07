@@ -270,8 +270,10 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Revisor
 * Näringslivsansvarig
 * D-Dagenansvarig
+{{ if not .reception -}}
 * Storasyskon
 * Konglig Öfverdrif
+{{- end }}
 * Klubbmästare
 * Studienämndens ordförande
 * Studiemiljöansvarig
@@ -430,9 +432,11 @@ Syftet med Ledningsgruppen är att skapa ett forum där styrelsen kan diskutera 
 
 De funktionärer som ingår i Ledningsgruppen är:
 
+{{ if not .reception -}}
 -   Storasyskon
 
 -   Konglig Öfverdrif
+{{- end }}
 
 -   Kommunikatör
 
@@ -466,9 +470,11 @@ D-rektoratets ledamöter kallar till d-råd för respektive organ för att disku
 
 ## §4.1 Organ i sektionen
 
+{{ if not .reception -}}
 ### §4.1.1 Mottagningsorganet
 
 Ansvarar för mottagningen av nya studenter.
+{{- end }}
 
 ### §4.1.2 Informationsorganet
 
@@ -733,7 +739,7 @@ Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter
 
 # §10 Ordnar
 
-Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
+Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, {{ if not .reception -}}“Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, {{- end }}“Ordförande Emeritus” och “Kassör Emeritus”.
 
 ## §10.1 Ordförande Emeritus
 
@@ -753,6 +759,7 @@ Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat u
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
+{{ if not .reception -}}
 ## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
@@ -764,6 +771,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
+{{- end }}
 
 ## §10.5 Kassör Emeritus
 
