@@ -6,7 +6,7 @@ Detta PM benämner de traditioner, vanor, och livsregler som Konglig Datasektion
 
 Sektionsmedlemar kan önska att D-rektoratet skall lägga till traditioner, vanor, eller livsregler i dokumentet, men D-rektoratet uppmanas att ignorera dessa önskemål om de icke anses nödvändiga. 
 
-## 1.1 Allmänt
+## §1.1 Allmänt
 
 Sektionens traditioner, vanor, och livsregler lyder:
 
@@ -26,7 +26,7 @@ Sektionens traditioner, vanor, och livsregler lyder:
 * Konglig Datasektionens pubar och efterkör avslutas med Closing Time
 * Konglig Datasektionens sittningar inleds med Trippeln
 
-## 1.2 D-rektiv
+## §1.2 D-rektiv
 
 ### 2004/2005 - Frej Naimi-Akbar
 
