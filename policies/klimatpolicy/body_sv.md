@@ -62,4 +62,4 @@ Vid användning av sektionens fordon ska fordon med lägre miljöpåverkan prior
 
 ## §5.3 Flygresor
 
-Sektionen bekostar inte flygresor.
+Sektionen bekostar inte flygresor. Medlemmar ska inte behöva flyga för att vara med på, av sektionen arrangerade, resor eller event.
