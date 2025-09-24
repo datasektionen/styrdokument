@@ -444,7 +444,7 @@ De funktionärer som ingår i Ledningsgruppen är:
 
 -   D-Dagenansvariga
 
--   Konglig lokalchef
+-   Konglig Lokalchef
 
 -   Studienämndens ordförande
 
