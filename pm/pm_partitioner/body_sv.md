@@ -33,4 +33,20 @@ Närstridskommitténs verksamhet består av att
 - anordna turneringar och spelkvällar för fightingspel
 - samordna gemensamt deltagande på externa fightingspelsevent.
 
+## §4.2 Schackklubben
+
+### §4.2.1 Ändamål
+
+Schackklubbens syfte är att samla intresse för schackspel samt att förbättra schackförmågan bland sektionens medlemmar.
+
+### §4.2.2 Organisation
+
+Schackklubben leds av partiledare för Schackklubben.
+
+### §4.2.3 Verksamhet
+
+Schackklubbens verksamhet består av att
+
+- anordna schackkvällar.
+
 [1]: #1-uppstart
