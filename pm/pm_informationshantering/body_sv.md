@@ -40,11 +40,11 @@ Enligt dataskyddsförordningen artikel 15 har du rätt att få bekräftelse på 
 
 För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. Om du vill ha övrig information som du enligt dataskyddsförordningen har rätt till måste du specificera detta i samband med din begäran.
 
-För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
+För att begära ut denna information kan du kontakta sektionens styrelse på [drek@datasektionen.se](mailto:drek@datasektionen.se). Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
 
 ## §3.2 Rättelse av hanterade uppgifter
 
-I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du enligt dataskyddsförordningen artikel 16 rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
+I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du enligt dataskyddsförordningen artikel 16 rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
 ## §3.3 Borttagning av hanterade uppgifter
 
@@ -64,7 +64,7 @@ Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga 
 
 ## §3.4 Anmälan av felaktig hantering
 
-Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan du informera sektionens styrelse på drek@datasektionen.se. Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
+Om du anser att vår hantering av dina uppgifter bryter mot dataskyddsförordningen kan du informera sektionens styrelse på [drek@datasektionen.se](mailto:drek@datasektionen.se). Om du anser att vi avsiktligen hanterar uppgifterna felaktigt kan du anmäla detta till Integritetsskyddsmyndigheten.
 
 # §4 Vår hantering
 
