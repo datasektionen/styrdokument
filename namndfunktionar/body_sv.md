@@ -82,11 +82,13 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
+{{ if not .reception -}}
 ### §1.1.14 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+{{- end }}
 
 ### §1.1.15 Körmästare
 
@@ -136,11 +138,13 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+{{ if not .reception -}}
 ### §1.1.23 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+{{- end }}
 
 ### §1.1.24 Studienämndens ordförande
 
@@ -570,7 +574,9 @@ dJulkalendern ska:
 
 - anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 
+{{ if not .reception -}}
 - anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
+{{- end }}
 
 ## §2.9 dRama
 
@@ -796,6 +802,7 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
 Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
 
+{{ if not .reception -}}
 ## §2.18 Mottagningen
 
 ### §2.18.1 Ändamål
@@ -841,6 +848,7 @@ Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som d
 I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
+{{- end }}
 
 ## §2.19 Näringslivsgruppen
 
@@ -892,7 +900,9 @@ Prylmångleriet ska:
 
 - anordna regelbundna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska även ordnas inför större fester och evenemang
 
+{{ if not .reception -}}
 - under Mottagningen arrangera tillfällen då nØllan får prova overaller
+{{- end }}
 
 - köpa in, och sköta försäljningen av, overaller
 
@@ -945,7 +955,9 @@ Tillhör Informationsorganet.
 Redaqtionen ska:
 - ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
 
+{{ if not .reception -}}
 - ge ut en nØlledbuggen till nØllan under Mottagningen
+{{- end }}
 
 - dela med sig av dbuggen till andra D-sektioner i Sverige.
 

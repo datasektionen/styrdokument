@@ -8,7 +8,7 @@ Syftet med detta dokument är att beskriva hur inval och rekrytering till såvä
 
 Ett **öppet val** till Datasektionens funktionärsposter hålls under sektionsmötet där alla medlemmar har rätt att kandidera. Undantaget är när en funktionärspost är vakantsatt, då har styrelsen möjligheten att tillförordna en medlem på posten tills dessa att fyllnadsval kan ske.
 
-Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. Inval är exempelvis val av ledningsgrupper till projekt samt, i dagsläget, val av medlemmar i DKM och mottagningspersonal.
+Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. Inval är exempelvis val av ledningsgrupper till projekt samt, i dagsläget, val av medlemmar i DKM{{ if not .reception -}} och mottagningspersonal{{- end }}.
 
 **Rekrytering** syftar på hur nämnder och projekt arbetar för att engagera och rekrytera fler medlemmar till sina verksamheter.
 
@@ -34,13 +34,15 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
     - Valberedare som ställt upp i ett inval har inte rätt att rösta om en sådan begäran eller ta del av specifik information om det invalet.
     - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
     - Denna information ska beläggas med sekretess och enbart sittande Valberedning samt revisorer får ta del av den.
-  
+
+{{ if not .reception -}}
 # §4 Rekrytering under mottagningen
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
 - Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
 - Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
 - Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
+{{- end }}
 
 # §5 Intern rekrytering
 

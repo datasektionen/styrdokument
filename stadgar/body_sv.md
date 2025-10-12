@@ -26,7 +26,9 @@ Sektionen ska verka för att
 
 -   driva verksamhet som bevakar medlemmarnas utbildning
 
+{{ if not .reception -}}
 -   driva en mottagning som välkomnar nyantagna studenter
+{{- end }}
 
 -   driva verksamhet som tar hand om sektionens lokaler om sådana finns
 
