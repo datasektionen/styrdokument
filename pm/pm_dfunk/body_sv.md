@@ -37,7 +37,7 @@ Om en δ-funktionär inte tillhör något av D-råden så kommer deras kontaktpe
 
 ## §1.8 Representant för Datasektionen
 
-Som δ-funktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du datasektionen och det du gör och säger kan anses komma från Datasektionen.
+Som δ-funktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du Datasektionen och det du gör och säger kan anses komma från Datasektionen.
 
 Det är din skyldighet som δ-funktionär och representant för Datasektionen att representera sektionen väl.
 
