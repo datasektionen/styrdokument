@@ -49,4 +49,21 @@ Schackklubbens verksamhet består av att
 
 - anordna schackkvällar.
 
+## §4.3 Blodgruppen
+
+### §4.3.1 Ändamål
+
+Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens
+medlemmar att ge blod.
+
+### §4.3.2 Organisation
+
+Blodgruppen leds av partiledare för Blodgruppen, benämnd dRacula.
+
+### §4.3.3 Verksamhet
+
+Blodgruppens verksamhet består av att
+
+- organisera regelbundna besök till blodcentraler och blodbussar.
+
 [1]: #1-uppstart
