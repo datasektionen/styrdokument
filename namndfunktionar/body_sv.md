@@ -620,7 +620,7 @@ Groda ska:
 
 - anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
 
-- göra det lättare att följa klimatpolicyn.
+- göra det lättare att följa Klimatpolicyn.
 
 ## §2.11 GUDAR
 
