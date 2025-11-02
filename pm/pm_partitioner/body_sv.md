@@ -66,6 +66,7 @@ Huvudtruppen utses av Geten, övriga ska få möjlighet att delta på träningar
 Tech-i-takas verksamhet består av att
 
 - arrangera fotbollsträningar
+- 
 - delta på korpenmatcher både inom och utanför KTH.
 
 [1]: #1-uppstart
