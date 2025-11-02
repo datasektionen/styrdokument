@@ -472,8 +472,6 @@ Datasektionens E-Sports Community ska:
 
 - samarbeta med Qulturnämnden för överlappande verksamhet
 
-- driva Datasektionens Minecraftserver METAcraft.
-
 ## §2.5 Datasladden
 
 ### §2.5.1 Ändamål
