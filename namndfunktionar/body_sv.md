@@ -674,8 +674,6 @@ Idrottsnämnden ska:
 
 - sammanställa information för och ansöka om THS friskvårdsbidrag
 
-- driva Datasektionens fotbollslag Tech-i-Taka.
-
 ## §2.13 Internationella nämnden
 
 ### §2.13.1 Ändamål
