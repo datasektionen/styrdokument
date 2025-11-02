@@ -66,6 +66,7 @@ METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
 METAcrafts verksamhets består av att
 
 - driva sektionens Minecraftserver METAcraft
+- 
 - anordna event och turneringar inom Minecraft
 
 [1]: #1-uppstart
