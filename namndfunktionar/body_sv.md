@@ -294,7 +294,7 @@ Ljud- och ljusansvarig ska
 
 - administrera bokningar av sektionens ljud- och ljusutrustning
 
-#### §1.2.5.3 Mandatperiod
+#### §1.2.5.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
