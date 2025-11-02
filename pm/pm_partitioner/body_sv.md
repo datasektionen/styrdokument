@@ -49,4 +49,23 @@ Schackklubbens verksamhet består av att
 
 - anordna schackkvällar.
 
+## §4.5 Tech-i-taka
+
+### §4.5.1 Ändamål
+
+Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
+
+### §4.5.2 Organisation
+
+Tech-i-taka leds av partiledare för Tech-i-taka, benämnd Geten.
+
+Huvudtruppen utses av Geten, övriga ska få möjlighet att delta på träningar.
+
+### §4.5.3 Verksamhet
+
+Tech-i-takas verksamhet består av att
+
+- arrangera fotbollsträningar
+- delta på korpenmatcher både inom och utanför KTH.
+
 [1]: #1-uppstart
