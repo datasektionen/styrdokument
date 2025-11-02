@@ -664,8 +664,6 @@ Idrottsnämnden leds av Sektionsidrottsledaren.
 
 Övriga medlemmar väljs av Sektionsidrottsledare.
 
-Inom Idrottsnämnden finns även fotbollslaget Tech-i-taka som drivs av internfunktionären Geten.
-
 Tillhör Studiesociala organet.
 
 ### §2.12.3 Verksamhet
