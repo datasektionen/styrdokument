@@ -40,7 +40,7 @@ Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är
 
 - Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
 - Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
-- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
+- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad.
 
 # §5 Intern rekrytering
 
