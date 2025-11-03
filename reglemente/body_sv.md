@@ -526,6 +526,8 @@ Vald projektledare åläggs att inkomma med motion innehållande budget samt ver
 
 Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
 
+Sektionens återkommande projekt definieras vidare i Styrdokument för Nämnder och Funktionärer.
+
 ## §6.3 Avslutning
 
 Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
