@@ -34,13 +34,15 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
     - Valberedare som ställt upp i ett inval har inte rätt att rösta om en sådan begäran eller ta del av specifik information om det invalet.
     - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
     - Denna information ska beläggas med sekretess och enbart sittande Valberedning samt revisorer får ta del av den.
+5. I de fall där Valberedningen upptäcker att en rekryteringsprocess frångått sin godkända plan för rekrytering har Valberedningen rätt att ogiltigförklara rekryteringen. I samband med att en rekrytering ogiltigförklaras skall Valberedningen meddela ansvarig rekryterande funktionär samt styrelsen på vilka grunder rekryteringen ogiltigförklaras, samt om möjligt vilka problem som behöver åtgärdas för att rekryteringen skall få återupptas eller startas om.<br><br>Beslut om ogiltigförklaring av rekrytering sker genom sluten votering med enkel majoritet inom Valberedningen.
   
 # §4 Rekrytering under mottagningen
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
-- Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
-- Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
-- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
+- Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad
+- Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet
+- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad
+- Valberedningen förväntas ej kontrollera eller reglera rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delas med andra sektioner eller organisationer.
 
 # §5 Intern rekrytering
 

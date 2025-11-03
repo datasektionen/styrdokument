@@ -257,7 +257,7 @@ Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare t
 
 ### §3.4.3 Verksamhet
 
-Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen.
+Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
 Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
 
@@ -292,9 +292,11 @@ I fall av en gemensam kandidatur till en funktionärspost ansvarar Valberedninge
 
 ### §3.4.5 Lämplighetsbedömning
 
-I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
 
 I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
+
+Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
 
 ### §3.4.6 Sekretess
 
