@@ -104,4 +104,21 @@ METAcrafts verksamhets består av att
 - driva sektionens Minecraftserver METAcraft
 - anordna event och turneringar inom Minecraft
 
+## §4.7 Bakverket
+
+### §4.7.1 Ändamål
+
+Bakverket syfte är att främja och samla intresset för bakning inom sektionen.
+
+### §4.7.2 Organisation
+
+Bakverket leds av partiledare för Bakverket, benämnd Bakis.
+
+### §4.7.3 Verksamhet
+
+Bakverket verksamhets består av att
+
+- anordna event där sektionens medlemmar får baka
+- baka temaenligt fika inför SM
+
 [1]: #1-uppstart
