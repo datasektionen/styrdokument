@@ -666,6 +666,29 @@ att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
 
+### §6.2.7 D-Dagen
+
+#### §6.2.7.1 Ändamål
+
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+
+#### §6.2.7.2 Organisation
+
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
+
+Tillhör Näringslivsorganet.
+
+#### §6.2.7.3 Verksamhet
+
+D-Dagen ska:
+
+- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+
+- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+
+- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+
+- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
 ## §6.3 Avslutning
 
