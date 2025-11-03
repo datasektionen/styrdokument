@@ -1066,3 +1066,197 @@ STUDS ska:
 - se till att sektionen uppfyller avtal framförhandlade av STUDS.
 
 # §3 Återkommande projekt
+
+## §3.1 METAspexet
+
+### §3.1.1 Ändamål
+
+METAspexet är ett återkommande projekt som har delad verksamhet med motsvarande nämnd på Sektionen för Medieteknik.
+
+METAspexet skall verka för att ge sektionsmedlemmar av Konglig Datasektionen och Sektionen för Medieteknik chans att utveckla flertalet färdigheter relaterad till teaterproduktion samt för att förstärka relationen mellan Konglig Datasektionen och Sektionen för Medieteknik.
+
+### §3.1.2 Organisation
+
+METAspexet leds av projektledare, benämnd Direqteur, för Konglig Datasektionen samt motsvarande nämndordförande för Sektionen för Medieteknik. Dessa projektledare och nämndordförande benämns METAspexets direqteurer. 
+
+METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projektgrupp.
+
+### §3.1.3 Verksamhet
+
+- Att sätta upp spexföreställningar under nästkommande kalenderår.
+
+- Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de kän-
+ner att de bidrar till ett större projekt.
+
+- Att ge medlemmar möjlighet att lära sig nya saker tillsammans och av varandra.
+
+- Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som re-
+lationerna mellan sektionernas medlemmar.
+
+### §3.1.4 Period
+
+Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess
+föreställningar har skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
+
+## §3.2 dÅre
+
+### §3.2.1 Ändamål
+
+dÅre är ett återkommande projekt som syftar att främja idrottsengagemanget inom sektionen samt främja gemenskap mellan studenter från olika årgångar genom att organisera en skidsemester.
+
+### §3.2.2 Organisation
+
+dÅre leds av projektledare.
+
+Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgrupp.
+
+### §3.2.3 Verksamhet
+
+- Att organisera en skidsemester för Konglig Datasektionens medlemmar.
+
+- Att uppmuntra medlemmar oberoende av tidigare erfarenhet att delta i alpint idrottsengagemanget.
+
+### §3.2.4 Period
+
+Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
+
+## §3.4 Vårbalen
+
+### §3.4.1 Ändamål
+
+Vårbalen är ett återkommande projekt med syfte att anordna en finsittning under våren.
+
+### §3.4.2 Organisation
+
+Vårbalen leds av projektledare, benämnd Vårbalsgeneral.
+
+Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
+
+### §3.4.3 Verksamhet
+
+- Att anordna en finsittning med tillhörande efterkör under våren.
+
+- Att bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
+
+- Att bjuda in Ordförande Emeriti till Vårbalen.
+
+### §3.4.4 Period
+
+Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade sittning skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Vårbalen <år>, där <år> är det år Vårbalens sittning planeras hållas.
+
+## §3.5 Project Pride
+
+### §3.5.1 Ändamål
+
+Project Pride är ett återkommande projekt som ämnar organisera deltagande i Stockholm Pride Parade, samt planera event under våren. Project Pride verkar för att uppmärksamma och främja HBTQIA+.
+
+### §3.5.2 Organisation
+
+Project Pride leds av projektledare.
+
+Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgruppen för Project Pride.
+
+### §3.5.3 Verksamhet
+
+- Att arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
+
+- Att anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
+
+- Att möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
+
+- Att se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
+
+### §3.5.4 Period
+
+Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet framtill
+att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
+
+## §3.6 Mottagningen
+
+### §3.6.1 Ändamål
+
+Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
+
+### §3.6.2 Organisation
+
+Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
+
+Mottagningen består av fem huvudsakliga grenar: Det Kongliga Dadderiet, Det Kongliga Drifveriet, Det Kongliga Doqumenteriet, Det Kongliga Quisineriet och Det Kongliga Ekonomeriet.
+
+Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är en del av Titel och ansvariga för att sammankalla och leda Titels arbete. Titel arbetar både strategiskt och operativt. Under mottagningens gång fungerar Titel som gruppchefer för respektive gren.
+
+Mottagningens sammansättning beslutas gemensamt av hela Titel.
+
+Tillhör Mottagningsorganet.
+
+### §3.6.3 Verksamhet
+
+Mottagningen ska:
+
+- planera och anordna aktiviteter som främjar Mottagningens ändamål
+
+- ansvara för nØllans eventuella upphöjelse till Ettan i samband med nØllegasquen
+
+- i samråd med D-rektoratet välja årskursnamn som utfärdas i samband med upphöjelsen
+
+- bistå Ettan i planering och genomförande av Mottagningstack och Ettans fest
+
+- introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
+
+- introducera de nyantagna studenterna till sektionens JML-arbete
+
+- involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
+
+### §3.6.4 Ordförandes roll
+
+Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
+
+Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
+
+I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
+
+Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
+
+### §3.6.5 Period
+
+Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet framtill att Mottagningen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
+
+## §3.7 D-Dagen
+
+### §3.7.1 Ändamål
+
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+
+### §3.7.2 Organisation
+
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
+
+Tillhör Näringslivsorganet.
+
+### §3.7.3 Verksamhet
+
+D-Dagen ska:
+
+- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+
+- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+
+- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+
+- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+
+### §3.7.4 D-Dagen
+
+Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att D-Dagen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
