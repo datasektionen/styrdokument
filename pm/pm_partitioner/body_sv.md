@@ -66,4 +66,23 @@ Blodgruppens verksamhet består av att
 
 - organisera regelbundna besök till blodcentraler och blodbussar.
 
+## §4.6 METAcraft
+
+### §4.6.1 Ändamål
+
+METAcrafts syfte är att driva och underhålla sektionens Minecraftserver.
+
+### §4.6.2 Organisation
+
+METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
+
+Övriga medlemmar utses av Herobrine.
+
+### §4.6.3 Verksamhet
+
+METAcrafts verksamhets består av att
+
+- driva sektionens Minecraftserver METAcraft
+- anordna event och turneringar inom Minecraft
+
 [1]: #1-uppstart
