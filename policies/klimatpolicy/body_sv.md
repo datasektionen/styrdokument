@@ -44,7 +44,7 @@ Mat med lågt klimatavtryck ska premieras vid evenemang arrangerade av sektionen
 
 ## §4.1 Servering av kött
 
-Kött ska endast erbjudas då det finns skälig motivering för detta. Då någon serveras kött ska det alltid vara till följd av ett aktivt val från personen i fråga. Om inget val görs, serveras en köttfri måltid som standard.
+Om kött erbjuds, ska det alltid vara som ett aktivt val.
 
 ## §4.2 Ekologiskt och närproducerat
 
