@@ -666,13 +666,13 @@ att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
 
-## §6.2.6 Mottagningen
+### §6.2.6 Mottagningen
 
-### §6.2.6.1 Ändamål
+#### §6.2.6.1 Ändamål
 
 Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
 
-### §6.2.6.2 Organisation
+#### §6.2.6.2 Organisation
 
 Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
 
@@ -684,7 +684,7 @@ Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
 Tillhör Mottagningsorganet.
 
-### §6.2.6.3 Verksamhet
+#### §6.2.6.3 Verksamhet
 
 Mottagningen ska:
 
@@ -702,7 +702,7 @@ Mottagningen ska:
 
 - involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
-### §6.2.6.4 Ordförandes roll
+#### §6.2.6.4 Ordförandes roll
 
 Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
@@ -711,6 +711,12 @@ Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som d
 I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
+
+#### §6.2.6.5 Period
+
+Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet framtill att Mottagningen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
 ### §6.2.7 D-Dagen
 
