@@ -1044,3 +1044,23 @@ Systemgruppen ska:
 - ansvara för drift och underhåll av sektionens servrar
 
 - engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
+
+## §2.27 STUDS
+
+### §2.27.1 Ändamål
+
+Studs är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. Studs, din språngbräda in i arbetslivet.
+
+### §2.27.2 Organisation
+
+Ordförande för STUDS är STUDS-ansvarig.
+
+Övriga medlemmar utses av STUDS-ansvarig.
+
+### §2.27.3 Verksamhet
+
+STUDS ska:
+
+- anordna företagsevent, huvudsakligen för master studenter, med intressanta företag i industrin
+- informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
+- se till att sektionen uppfyller avtal framförhandlade av STUDS.
