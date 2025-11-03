@@ -26,6 +26,8 @@ Mångfald innebär att vi strävar efter att locka till oss en bred samling av i
 
 Konglig Datasektionen ska ha en trygg och tillgänglig fysisk och psykosocial miljö där alla kan utvecklas personligt, utbildnings- och karriärmässigt.  Vi strävar efter att vara välkomnande och att vår verksamhet ska vara tillgänglig för alla som vill delta. 
 
+Tillgänglighet omfattar även digital verksamhet. Vi strävar efter att våra digitala verktyg, evenemang och informationskanaler ska vara tillgängliga för alla medlemmar.
+
 Vi strävar efter att alla lokaler som Konglig Datasektionen använder vid sina tillställningar ska vara tillgängliga fysiskt för alla potentiella deltagare. 
 
 Funktionärer samt styrelse ska sträva efter att ta hänsyn till medlemmarnas arbetsbelastning och vara lyhörda kring potentiellt överarbete, och om sådant uppkommer göra förändringar för att avlasta. 
