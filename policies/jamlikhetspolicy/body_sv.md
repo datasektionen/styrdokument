@@ -1,7 +1,7 @@
 <!-- Konglig Datasektionens jämlikhetspolicy -->
 
 # Syfte
-Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så man kan må bra, vara sig själv och utvecklas som person. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
+Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så att alla kan må bra, vara sig själva och utvecklas som personer. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
 
 Genom att omfamna dessa riktlinjer kan Datasektionen bli en plats där så många medlemmar som möjligt kan växa och trivas. Genom att kontinuerligt arbeta med att förbättra oss inom dessa områden kan tiden på Datasektionen bli något våra medlemmar kan se tillbaka på med värme och stolthet.
 
@@ -16,7 +16,7 @@ Vi strävar efter att ha stor mångfald i sektionens nämnder och projekt. Vid r
 
 ## §1.1 Inkludering
 
-På Konglig Datasektionen ska det finnas något för alla och alla som vill göra något ska få chansen att göra det i ett välkomnande klimat. Vi strävar efter att göra Konglig Datasektionen till en mer inkluderande organisation genom att främja mångfald och öppenhet. Genom att främja mångfald och öppenhet tror vi att Datasektionen kan bli en mer inkluderande organisation där alla känner sig välkomna och uppmuntrade att delta.
+På Konglig Datasektionen ska det finnas något för alla och alla som vill göra något ska få chansen att göra det i ett välkomnande klimat. Vi strävar efter att göra Datasektionen till en mer inkluderande organisation genom att främja mångfald och öppenhet, så att alla känner sig välkomna och uppmuntrade att delta.
 
 ## §1.2 Mångfald
 
@@ -26,6 +26,8 @@ Mångfald innebär att vi strävar efter att locka till oss en bred samling av i
 
 Konglig Datasektionen ska ha en trygg och tillgänglig fysisk och psykosocial miljö där alla kan utvecklas personligt, utbildnings- och karriärmässigt.  Vi strävar efter att vara välkomnande och att vår verksamhet ska vara tillgänglig för alla som vill delta. 
 
+Tillgänglighet omfattar även digital verksamhet. Vi strävar efter att våra digitala verktyg, evenemang och informationskanaler ska vara tillgängliga för alla medlemmar.
+
 Vi strävar efter att alla lokaler som Konglig Datasektionen använder vid sina tillställningar ska vara tillgängliga fysiskt för alla potentiella deltagare. 
 
 Funktionärer samt styrelse ska sträva efter att ta hänsyn till medlemmarnas arbetsbelastning och vara lyhörda kring potentiellt överarbete, och om sådant uppkommer göra förändringar för att avlasta. 
@@ -34,7 +36,7 @@ Funktionärer samt styrelse ska sträva efter att ta hänsyn till medlemmarnas a
 
 Vi strävar efter att skapa möjligheter för alla våra medlemmar att förvärva ny kunskap och utveckla nya färdigheter. Personlig utveckling är något vi värdesätter på flera nivåer, alltifrån social utveckling till att få nya meriter som kan gynna våra medlemmar i framtiden. 
 
-Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte sker på bekostnad av medlemmars hälsa eller studier.
+Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte kan förväntas ske på bekostnad av medlemmars hälsa eller studier.
 
 # §3 Likabehandling och Lika villkor
 
