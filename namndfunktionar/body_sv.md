@@ -292,7 +292,7 @@ Ljud- och ljusansvarig ska
 
 - ansvara för underhållet och utvecklingen av sektionens ljud- och ljusutrustning
 
-- administrera bokningar av sektionens ljud- och ljusutrustning
+- administrera bokningar av sektionens ljud- och ljusutrustning.
 
 #### §1.2.5.4 Mandatperiod
 
