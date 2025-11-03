@@ -257,7 +257,7 @@ Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare t
 
 ### §3.4.3 Verksamhet
 
-Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen.
+Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
 Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
 
