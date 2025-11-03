@@ -40,7 +40,7 @@ Behållare för återvinning ska finnas tillgängliga i sektionslokalen och vara
 
 # §4 Mat
 
-Måltider som serveras vid evenemang anordnade av sektionen ska i första hand planeras som köttfria. Mat med lågt klimatavtryck ska premieras vid dessa evenemang.
+Mat med lågt klimatavtryck ska premieras vid evenemang arrangerade av sektionen.
 
 ## §4.1 Servering av kött
 
