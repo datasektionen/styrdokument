@@ -40,12 +40,6 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 4. Har läsår som mandatperiod.
 
-### §1.1.8 dRamaturgen
-
-Är ordförande för dRama.
-
-Väljs i period 4. Har läsår som mandatperiod.
-
 ### 1.1.9 Grodförande
 
 Är ordförande för Groda.
@@ -577,30 +571,6 @@ dJulkalendern ska:
 - anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 
 - anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
-
-## §2.10 dRama
-
-### §2.10.1 Ändamål
-
-Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
-
-### §2.10.2 Organisation
-
-dRama leds av dRamaturgen.
-
-Övriga medlemmar utses av dRamaturgen.
-
-Tillhör Studiesociala organet.
-
-### §2.10.3 Verksamhet
-
-dRama ska:
-
-- anordna veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
-
-- förbereda och utföra gyckel och spex på sittningar
-
-- en gång per termin anordna en improvshow för de som vill komma och kolla.
 
 ## §2.11 Groda
 
