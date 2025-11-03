@@ -16,7 +16,7 @@ Sektionens uppgifter är att
 
 -   skapa och upprätthålla goda kontakter med närstående personer och organisationer
 
--   aktivt motverka diskriminering inom sektionen.
+-   aktivt motverka diskriminering inom sektionen
 
 -   driva bevakning av utbildningen för de program som är kopplade till sektionen.
 
