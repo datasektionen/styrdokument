@@ -583,34 +583,6 @@ Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtil
 
 Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
 
-### §6.2.3 Studs
-
-#### §6.2.3.1 Ändamål
-
-Studs är ett återkommande projekt vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin, samt inbringa sponsorpengar till sektionen genom en vinstmarginal på 25% av projektets näringslivsintäkter. Studs ska även verka för att projektets medlemmar, och sektionens medlemmar i stort, får inblick i hur det är att leva och jobba med IT i andra länder.
-
-#### §6.2.3.2 Organisation
-
-Studs leds av projektledare. 
-
-Projektledare för Studs ansvarar för att leda projektet samt att rekrytera projektets medlemmar.
-
-Två projektledare bör väljas.
-
-#### §6.2.3.3 Verksamhet
-
-- Att anordna företagsevent, huvudsakligen för projektgruppens medlemmar, med intressanta företag i industrin.
-
-- Att anordna en studieresa för projektgruppen.
-
-- Att informera sektionens medlemmar om intressanta arbetsgivare och hur det är att leva och jobba med IT i andra länder.
-
-#### §6.2.3.4 Period
-
-Nya Studs-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess studieresa har skett nästkommande kalenderår, plus avslutande verksamhet.
-
-Projekttitel för respektive årgång är Studs <år>, där <år> är det år Studs resa planeras hållas.
-
 ### §6.2.4 Vårbalen
 
 #### §6.2.4.1 Ändamål
