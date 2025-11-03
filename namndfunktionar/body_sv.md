@@ -116,7 +116,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Är ordförande för Prylmångleriet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i Period 4. Har läsår som mandatperiod.
 
 ### §1.1.21 Qulturattaché
 
