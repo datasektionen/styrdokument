@@ -29,7 +29,7 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 3. Valberedningen har ett övergripande ansvar för att rekrytering och inval sker på rätt sätt inom sektionen.
     - Inför varje inval är ansvarig funktionär skyldig att höra av sig till Valberedningen med en plan för sin invalsprocess.
     - Om Valberedningen anser det nödvändigt har de rätt att begära ändringar i planen. Planen måste godkännas av valberedningen innan rekryteringen får påbörjas.
-4. Personlig information som samlas in under rekryteringsprocessen är sekretessbelagd och ska endast delas med Valberedningen efter att Valberedningen begärt ut denna. Exempel på personlig information är vilka som sökt till nämnden och vad en individ har svarat på en intervjufråga.
+4. Personlig information som samlas in under rekryteringsprocessen är sekretessbelagd. Valberedningen får begära ut och sedan ta del av denna information. Exempel på personlig information är vilka som sökt till nämnden och vad en individ har svarat på en intervjufråga.
     - En begäran på personlig information kan endast utföras med godkännande av Valberedningens ordförande eller efter majoritetsbeslut inom Valberedningen.
     - Valberedare som ställt upp i ett inval har inte rätt att rösta om en sådan begäran eller ta del av specifik information om det invalet.
     - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
