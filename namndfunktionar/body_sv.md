@@ -1064,3 +1064,5 @@ STUDS ska:
 - anordna företagsevent, huvudsakligen för master studenter, med intressanta företag i industrin
 - informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
 - se till att sektionen uppfyller avtal framförhandlade av STUDS.
+
+# §3 Återkommande projekt
