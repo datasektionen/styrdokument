@@ -82,12 +82,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.16 Körmästare
-
-Är ordförande för Scala.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §1.1.17 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
