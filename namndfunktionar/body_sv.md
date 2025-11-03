@@ -40,6 +40,12 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
+### §1.1.7 Dives Ordförande
+
+Är ordförande för Dive.
+
+Väljs i period 4. Har läsår som mandatperiod.
+
 ### §1.1.7 dRamaturgen
 
 Är ordförande för dRama.
