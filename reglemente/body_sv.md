@@ -296,6 +296,8 @@ I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighet
 
 I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
 
+Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
+
 ### §3.4.6 Sekretess
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
