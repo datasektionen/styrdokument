@@ -16,7 +16,7 @@ Vi strävar efter att ha stor mångfald i sektionens nämnder och projekt. Vid r
 
 ## §1.1 Inkludering
 
-På Konglig Datasektionen ska det finnas något för alla och alla som vill göra något ska få chansen att göra det i ett välkomnande klimat. Vi strävar efter att göra Konglig Datasektionen till en mer inkluderande organisation genom att främja mångfald och öppenhet. Genom att främja mångfald och öppenhet tror vi att Datasektionen kan bli en mer inkluderande organisation där alla känner sig välkomna och uppmuntrade att delta.
+På Konglig Datasektionen ska det finnas något för alla och alla som vill göra något ska få chansen att göra det i ett välkomnande klimat. Vi strävar efter att göra Datasektionen till en mer inkluderande organisation genom att främja mångfald och öppenhet, så att alla känner sig välkomna och uppmuntrade att delta.
 
 ## §1.2 Mångfald
 
