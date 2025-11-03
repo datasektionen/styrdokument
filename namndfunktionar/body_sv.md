@@ -556,6 +556,36 @@ D-festeriet ska:
 
 - hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
+## §2.8 Dive
+
+### §2.8.1 Ändamål
+
+Dive har som syfte att på lång sikt främja mångfald och jämlikhet på sektionen och datatekniksprogrammet. Detta ska ske genom att informera och marknadsföra Datasektionen och datateknikprogrammet gentemot gymnasiestudenter och andra grupper som kan ha intresse för programmet.
+
+### §2.8.2 Organisation
+
+Dive leds av Dives ordförande.
+
+Övriga medlemmar utses av Dives ordförande.
+
+Tillhör Påverkansorganet.
+
+### §2.8.3 Verksamhet
+
+Dive ska:
+
+- motverka stereotyper och farhågor som potentiellt intresserade kandidater har genom att:
+
+    - anordna event
+
+    - besöka gymnasieklasser
+
+    - delta vid KTH Öppet hus och liknande arrangemang
+
+- utveckla och uppehålla material och kontakt för marknadsföring och informationsspridning
+
+- bygga vidare på och uppehålla Datasektionens profil ut mot framtida universitetsstudenter genom sociala medier och en hemsida anpassad för detta ändamål.
+
 ## §2.8 dJulkalendern
 
 ### §2.8.1 Ändamål
