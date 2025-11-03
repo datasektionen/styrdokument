@@ -38,9 +38,10 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 # §4 Rekrytering under mottagningen
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
-- Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
-- Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
-- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad.
+- Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad
+- Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet
+- Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad
+- Valberedningen förväntas ej kontrollera eller reglera rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delas med andra sektioner eller organisationer.
 
 # §5 Intern rekrytering
 
