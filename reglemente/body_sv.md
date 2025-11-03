@@ -690,6 +690,12 @@ D-Dagen ska:
 
 - se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
+#### §6.2.7.4 D-Dagen
+
+Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att D-Dagen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
+
 ## §6.3 Avslutning
 
 Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
