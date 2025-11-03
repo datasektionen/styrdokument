@@ -1,7 +1,7 @@
 <!-- Konglig Datasektionens jämlikhetspolicy -->
 
 # Syfte
-Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så man kan må bra, vara sig själv och utvecklas som person. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
+Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så att alla kan må bra, vara sig själva och utvecklas som personer. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
 
 Genom att omfamna dessa riktlinjer kan Datasektionen bli en plats där så många medlemmar som möjligt kan växa och trivas. Genom att kontinuerligt arbeta med att förbättra oss inom dessa områden kan tiden på Datasektionen bli något våra medlemmar kan se tillbaka på med värme och stolthet.
 
