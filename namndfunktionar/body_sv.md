@@ -915,28 +915,6 @@ Redaqtionen ska:
 
 - dela med sig av dbuggen till andra D-sektioner i Sverige.
 
-## §2.24 Scala
-
-### §2.24.1 Ändamål
-
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
-
-### §2.24.2 Organisation
-
-Scala leds av Körmästare.
-
-Övriga medlemmar utses av Körmästare.
-
-Tillhör Studiesociala organet.
-
-### §2.24.3 Verksamhet
-
-Scala ska:
-
-- regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
-
-- bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
-
 ## §2.25 Sektionslokalsgruppen
 
 ### §2.25.1 Ändamål
