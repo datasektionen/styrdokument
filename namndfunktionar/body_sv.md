@@ -10,12 +10,6 @@
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.2 Bakis
-
-Är ordförande för Baknämnden.
-
-Väljs i Period 2. Har kalenderår som mandatperiod.
-
 ### §1.1.3 Chefredaqtör
 
 Är ordförande för Redaqtionen.
