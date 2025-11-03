@@ -292,7 +292,15 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 Tillhör Förvaltningsorganet.
 
-#### §1.2.5.3 Mandatperiod
+#### §1.2.5.3 Verksamhet
+
+Ljud- och ljusansvarig ska
+
+- ansvara för underhållet och utvecklingen av sektionens ljud- och ljusutrustning
+
+- administrera bokningar av sektionens ljud- och ljusutrustning.
+
+#### §1.2.5.4 Mandatperiod
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
