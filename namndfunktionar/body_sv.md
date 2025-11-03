@@ -82,12 +82,6 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.16 Körmästare
-
-Är ordförande för Scala.
-
-Väljs i Period 4. Har läsår som mandatperiod.
-
 ### §1.1.17 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
@@ -920,28 +914,6 @@ Redaqtionen ska:
 - ge ut en nØlledbuggen till nØllan under Mottagningen
 
 - dela med sig av dbuggen till andra D-sektioner i Sverige.
-
-## §2.24 Scala
-
-### §2.24.1 Ändamål
-
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
-
-### §2.24.2 Organisation
-
-Scala leds av Körmästare.
-
-Övriga medlemmar utses av Körmästare.
-
-Tillhör Studiesociala organet.
-
-### §2.24.3 Verksamhet
-
-Scala ska:
-
-- regelbundet anordna körrep där nämndmedlemmar får sjunga tillsammans
-
-- bistå annan sektionsverksamhet genom uppträdanden på Vårbalen eller liknande evenemang.
 
 ## §2.25 Sektionslokalsgruppen
 
