@@ -29,12 +29,14 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 3. Valberedningen har ett övergripande ansvar för att rekrytering och inval sker på rätt sätt inom sektionen.
     - Inför varje inval är ansvarig funktionär skyldig att höra av sig till Valberedningen med en plan för sin invalsprocess.
     - Om Valberedningen anser det nödvändigt har de rätt att begära ändringar i planen. Planen måste godkännas av valberedningen innan rekryteringen får påbörjas.
-4. Valberedningen har rätten att när som helst begära information om nämnders och projekts inval.
-    - En sådan begäran kan endast utföras med godkännande av Valberedningens ordförande eller efter majoritetsbeslut inom Valberedningen.
+4. Personlig information som samlas in under rekryteringsprocessen är sekretessbelagd. Valberedningen får begära ut och sedan ta del av denna information. Exempel på personlig information är vilka som sökt till nämnden och vad en individ har svarat på en intervjufråga.
+    - En begäran på personlig information kan endast utföras med godkännande av Valberedningens ordförande eller efter majoritetsbeslut inom Valberedningen.
     - Valberedare som ställt upp i ett inval har inte rätt att rösta om en sådan begäran eller ta del av specifik information om det invalet.
     - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
     - Denna information ska beläggas med sekretess och enbart sittande Valberedning samt revisorer får ta del av den.
-5. I de fall där Valberedningen upptäcker att en rekryteringsprocess frångått sin godkända plan för rekrytering har Valberedningen rätt att ogiltigförklara rekryteringen. I samband med att en rekrytering ogiltigförklaras skall Valberedningen meddela ansvarig rekryterande funktionär samt styrelsen på vilka grunder rekryteringen ogiltigförklaras, samt om möjligt vilka problem som behöver åtgärdas för att rekryteringen skall få återupptas eller startas om.<br><br>Beslut om ogiltigförklaring av rekrytering sker genom sluten votering med enkel majoritet inom Valberedningen.
+5. Nämnder har rätt att, på egen förmodan, dela med sig av opersonlig information från en rekrytering. Exempel på opersonlig information är hur många som sökt till nämnden och vilka frågor nämnden ställt på intervjuerna. Detta får dock endast göras efter att invalet är färdigställt.
+    - Valberedningen kan begära ut denna information enligt samma process och samma restriktioner som gäller i fallet av personlig information.
+6. I de fall där Valberedningen upptäcker att en rekryteringsprocess frångått sin godkända plan för rekrytering har Valberedningen rätt att ogiltigförklara rekryteringen. I samband med att en rekrytering ogiltigförklaras skall Valberedningen meddela ansvarig rekryterande funktionär samt styrelsen på vilka grunder rekryteringen ogiltigförklaras, samt om möjligt vilka problem som behöver åtgärdas för att rekryteringen skall få återupptas eller startas om.<br><br>Beslut om ogiltigförklaring av rekrytering sker genom sluten votering med enkel majoritet inom Valberedningen.
   
 # §4 Rekrytering under mottagningen
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
