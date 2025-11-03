@@ -64,7 +64,6 @@ Bakverket leds av partiledare för Bakverket, benämnd Bakis.
 Bakverket verksamhets består av att
 
 - anordna event där sektionens medlemmar får baka
-- 
 - baka temaenligt fika inför SM
 
 [1]: #1-uppstart
