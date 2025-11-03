@@ -36,7 +36,7 @@ Funktionärer samt styrelse ska sträva efter att ta hänsyn till medlemmarnas a
 
 Vi strävar efter att skapa möjligheter för alla våra medlemmar att förvärva ny kunskap och utveckla nya färdigheter. Personlig utveckling är något vi värdesätter på flera nivåer, alltifrån social utveckling till att få nya meriter som kan gynna våra medlemmar i framtiden. 
 
-Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte sker på bekostnad av medlemmars hälsa eller studier.
+Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte kan förväntas ske på bekostnad av medlemmars hälsa eller studier.
 
 # §3 Likabehandling och Lika villkor
 
