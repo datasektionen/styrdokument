@@ -154,6 +154,12 @@ Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
+### §1.1.28 STUDS-ansvarig
+
+Är ordförande för STUDS.
+
+Väljs i period 4. Har läsår som mandatperiod.
+
 ## §1.2 Övriga funktionärer
 
 ### §1.2.1 Datas Art Director
