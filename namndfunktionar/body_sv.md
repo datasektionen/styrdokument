@@ -390,34 +390,6 @@ Ada ska:
 
 - arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
 
-## §2.2 Baknämnden
-
-### §2.2.1 Ändamål
-
-Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse sektionens medlemmar med bakverk.
-
-### §2.2.2 Organisation
-
-Ordförande för Baknämnden är Bakis.
-
-Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
-
-Tillhör Studiesociala organet.
-
-### §2.2.3 Verksamhet
-
-Baknämnden ska:
-
-- under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar
-
-- samarbeta med andra delar av sektionen för att tillhandahålla fika där fikabehov finns
-
-- dokumentera recept så att kommande årgångar ska kunna ta del av dem
-
-- anordna event där bakningsintresserade sektionsmedlemmar får delta
-
-- sköta inventering av ingredienser och redskap.
-
 ## §2.3 Data Et Medias OrquesterNämnd
 
 ### §2.3.1 Ändamål
