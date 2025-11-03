@@ -572,30 +572,6 @@ dJulkalendern ska:
 
 - anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
 
-## §2.10 dRama
-
-### §2.10.1 Ändamål
-
-Ge möjlighet för sektionens medlemmar att ta del av tillgänglig scenkonst och improv.
-
-### §2.10.2 Organisation
-
-dRama leds av dRamaturgen.
-
-Övriga medlemmar utses av dRamaturgen.
-
-Tillhör Studiesociala organet.
-
-### §2.10.3 Verksamhet
-
-dRama ska:
-
-- anordna veckovisa improvträffar eller workshops som utforskar något koncept relaterat till scenkonst
-
-- förbereda och utföra gyckel och spex på sittningar
-
-- en gång per termin anordna en improvshow för de som vill komma och kolla.
-
 ## §2.11 Groda
 
 ### §2.11.1 Ändamål
