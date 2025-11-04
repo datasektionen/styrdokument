@@ -66,19 +66,19 @@ Blodgruppens verksamhet består av att
 
 - organisera regelbundna besök till blodcentraler och blodbussar.
 
-## §4.3 Scala
+## §4.4 Scala
 
-### §4.3.1 Ändamål
+### §4.4.1 Ändamål
 
 Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
 
-### §4.3.2 Organisation
+### §4.4.2 Organisation
 
 Scala leds av partiledare för Scala, benämnd Körmästare.
 
 Övriga medlemmar utses av Körmästare.
 
-### §4.3.3 Verksamhet
+### §4.4.3 Verksamhet
 
 Scalas verksamhet består av att:
 

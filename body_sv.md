@@ -10,7 +10,7 @@ Datasektionen har även egna dokument. För att reglera vår egen verksamhet har
 
 - [**Stadgar**](./stadgar): Här står det centrala och absolut viktigaste för sektionens verksamhet såsom vilka våra firmatecknare är eller regler om hur sektionsmöten får gå till. Ändringar här i måste godkännas på två på varandra följande sektionsmöten innan de träder i kraft som skydd mot missbruk.
 - [**Reglemente**](./reglemente): Här står saker som fortfarande är viktiga för vår organisation, men som inte är centrala nog att vara i stadgarna. Eller helt enkelt saker som inte behöver ha stadgarnas skydd av en andra läsning vid förändring.
-- [**Styrdokument för Nämnder och Funktionärer**](./namndfunktionar): Här definieras alla våra funktionärer och vad de gör (utöver styrelsen och revisorerna som definieras i stadgarna och reglementet) samt alla våra nämnder. Noterbart är att projekt och projektledare inte finns med här då de startas och stängs separat.
+- [**Verksamhetsregistret**](./verksamhetsreg): Här definieras alla våra funktionärer och vad de gör (utöver styrelsen och revisorerna som definieras i stadgarna och reglementet) samt alla våra nämnder och återkommande projekt. Noterbart är att vanliga projekt och projektledare inte finns med här då de startas och stängs separat.
 - [**Policyer**](./policies)
     - [**Jämlikhetspolicy**](./policies/jamlikhetspolicy): Här står det riktlinjer för hur sektionen jobbar med jämlikhet och inkludering av våra medlemmar. En längre beskrivning står med i toppen av policyn.
     - [**Klimatpolicy**](./policies/klimatpolicy): Här står det riktlinjer över hur sektionen ska jobba för att minska vår klimat- och miljöpåverkan. En längre beskrivning står med i toppen av policyn.
@@ -19,7 +19,7 @@ Datasektionen har även egna dokument. För att reglera vår egen verksamhet har
     - [**Uppförandepolicy**](./policies/uppforandepolicy): Här står förväntningar och skyldigheter angående hur våra medlemmar behandlar varandra under sektionsaktiviteter och dylikt för att skapa en trygg miljö för alla. En längre beskrivning står med i toppen av policyn.
 - [**PM (Promemoria)**](./pm)
     - [**PM för alkohol**](./pm/pm_alkohol): Här regleras hur vi arbetar med alkoholservering.
-    - [**PM för dFunk**](./pm/pm_dfunk): Här regleras skyldigheter och belöningar för våra funktionärer. För en lista över dem, se istället [**Styrdokument för Nämnder och Funktionärer**](./namndfunktionar).
+    - [**PM för dFunk**](./pm/pm_dfunk): Här regleras skyldigheter och belöningar för våra funktionärer. För en lista över dem, se istället [**Verksamhetsregistret**](./verksamhetsreg).
     - [**PM för ekonomi**](./pm/pm_ekonomi): Här regleras hur vår ekonomi sköts. Det fungerar också som en snabb utbildning i hur olika verksamheter på sektionen ska sköta och redovisa sin ekonomi.
     - [**PM för informationshantering**](./pm/pm_informationshantering): Här regleras hur vi hanterar medlemmars uppgifter i syfte att organisera evenemang och annan verksamhet.
     - [**PM för informationsspridning**](./pm/pm_informationsspridning): Här regleras hur informationsspridning och marknadsföring ska ske för bland annat våra evenemang.

@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens Styrdokument för Nämnder och Funktionärer -->
+<!-- Konglig Datasektionens Verksamhetsregister -->
 
 # §1 Funktionärer
 
@@ -10,83 +10,83 @@
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.3 Chefredaqtör
+### §1.1.2 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.1.4 D-Dagenansvariga
+### §1.1.3 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
-### §1.1.5 Desctop
+### §1.1.4 Desctop
 
 Är ordförande för Datasektionens E-Sports Community.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.6 D-fest
+### §1.1.5 D-fest
 
 Är ordförande för D-festeriet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.1.7 Dives Ordförande
+### §1.1.6 Dives Ordförande
 
 Är ordförande för Dive.
 
 Väljs i period 4. Har läsår som mandatperiod.
 
-### 1.1.9 Grodförande
+### §1.1.7 Grodförande
 
 Är ordförande för Groda.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.1.10 Internationell studentkoordinator
+### §1.1.8 Internationell studentkoordinator
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
 Väljs i Period 2. Har kalenderår som mandatperiod
 
-### §1.1.11 Jämlikhetsnämndens ordförande
+### §1.1.9 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.12 Klubbmästare
+### §1.1.10 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.13 Kommunikatör
+### §1.1.11 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.14 Konglig Lokalchef
+### §1.1.12 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.15 Konglig Öfverdrif
+### §1.1.13 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.17 Medias Klubbmästare
+### §1.1.14 Medias Klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
-### §1.1.18 Mulle/Mullerina Schmeck
+### §1.1.15 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
 
@@ -94,67 +94,67 @@ Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framfö
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.1.19 Näringslivsansvarig
+### §1.1.16 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.20 Prylmånglaren
+### §1.1.17 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.21 Qulturattaché
+### §1.1.18 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.22 Sektionshistoriker
+### §1.1.19 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
 Väljs i Period 4. Har läsår som mandatperiod.
 
-### §1.1.23 Sektionsidrottsledare
+### §1.1.20 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.1.24 Storasyskon
+### §1.1.21 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
 Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.25 Studienämndens ordförande
+### §1.1.22 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
-### §1.1.26 Systemansvarig
+### §1.1.23 Systemansvarig
 
 Är ordförande för Systemgruppen.
 
 Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-### §1.1.27 Tomtemor/-far
+### §1.1.24 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
 Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-### §1.1.28 ÄrkeDEMON
+### §1.1.25 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
 Väljs i Period 2. Har kalenderår som mandatperiod.
 
-### §1.1.28 STUDS-ansvarig
+### §1.1.26 STUDS-ansvarig
 
 Är ordförande för STUDS.
 
@@ -384,13 +384,13 @@ Ada ska:
 
 - arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
 
-## §2.3 Data Et Medias OrquesterNämnd
+## §2.2 Data Et Medias OrquesterNämnd
 
-### §2.3.1 Ändamål
+### §2.2.1 Ändamål
 
 Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
 
-### §2.3.2 Organisation
+### §2.2.2 Organisation
 
 DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
 
@@ -398,7 +398,7 @@ DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen f
 
 Tillhör Studiesociala organet.
 
-### §2.3.3 Verksamhet
+### §2.2.3 Verksamhet
 
 Data Et Medias OrquesterNämnd (DEMON) ska:
 
@@ -422,13 +422,13 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 
 - samordna gemensamma besök på konserter/festivaler/spelningar.
 
-## §2.4 Datasektionens E-Sports Community
+## §2.3 Datasektionens E-Sports Community
 
-### §2.4.1 Ändamål
+### §2.3.1 Ändamål
 
 Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens datorspelsoch e-sportstörst.
 
-### §2.4.2 Organisation
+### §2.3.2 Organisation
 
 Datasektionens E-Sports Community leds av DESCtop.
 
@@ -436,7 +436,7 @@ Datasektionens E-Sports Community leds av DESCtop.
 
 Tillhör Studiesociala organet.
 
-### §2.4.3 Verksamhet
+### §2.3.3 Verksamhet
 
 Datasektionens E-Sports Community ska:
 
@@ -446,19 +446,19 @@ Datasektionens E-Sports Community ska:
 
 - samarbeta med Qulturnämnden för överlappande verksamhet
 
-## §2.5 Datasladden
+## §2.4 Datasladden
 
-### §2.5.1 Ändamål
+### §2.4.1 Ändamål
 
 Datasladden har till uppgift att ansvara över sektionsbilen.
 
-### §2.5.2 Organisation
+### §2.4.2 Organisation
 
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
 Tillhör Förvaltningsorganet.
 
-### §2.5.3 Verksamhet
+### §2.4.3 Verksamhet
 
 Datasladden ska:
 
@@ -470,19 +470,19 @@ Datasladden ska:
 
 - arbeta för att körjournalen används av alla som brukar sektionsbilen.
 
-## §2.6 D-Dagen
+## §2.5 D-Dagen
 
-### §2.6.1 Ändamål
+### §2.5.1 Ändamål
 
 D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
 
-### §2.6.2 Organisation
+### §2.5.2 Organisation
 
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
 
 Tillhör Näringslivsorganet.
 
-### §2.6.3 Verksamhet
+### §2.5.3 Verksamhet
 
 D-Dagen ska:
 
@@ -494,13 +494,13 @@ D-Dagen ska:
 
 - se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-## §2.7 D-festeriet
+## §2.6 D-festeriet
 
-### §2.7.1 Ändamål
+### §2.6.1 Ändamål
 
 D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar känner med varandra, samt andra studenter. Nämnden finns även som en hjälpresurs för att avlasta nämnder under gasqueverksamhet.
 
-### §2.7.2 Organisation
+### §2.6.2 Organisation
 
 D-festeriet leds av D-Fest.
 
@@ -508,7 +508,7 @@ D-festeriet leds av D-Fest.
 
 Tillhör Eventorganet.
 
-### §2.7.3 Verksamhet
+### §2.6.3 Verksamhet
 
 D-festeriet ska:
 
@@ -520,13 +520,13 @@ D-festeriet ska:
 
 - hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
-## §2.8 Dive
+## §2.7 Dive
 
-### §2.8.1 Ändamål
+### §2.7.1 Ändamål
 
 Dive har som syfte att på lång sikt främja mångfald och jämlikhet på sektionen och datatekniksprogrammet. Detta ska ske genom att informera och marknadsföra Datasektionen och datateknikprogrammet gentemot gymnasiestudenter och andra grupper som kan ha intresse för programmet.
 
-### §2.8.2 Organisation
+### §2.7.2 Organisation
 
 Dive leds av Dives ordförande.
 
@@ -534,7 +534,7 @@ Dive leds av Dives ordförande.
 
 Tillhör Påverkansorganet.
 
-### §2.8.3 Verksamhet
+### §2.7.3 Verksamhet
 
 Dive ska:
 
@@ -550,13 +550,13 @@ Dive ska:
 
 - bygga vidare på och uppehålla Datasektionens profil ut mot framtida universitetsstudenter genom sociala medier och en hemsida anpassad för detta ändamål.
 
-## §2.9 dJulkalendern
+## §2.8 dJulkalendern
 
-### §2.9.1 Ändamål
+### §2.8.1 Ändamål
 
 dJulkalenderns ändamål är att främja intresse för etisk hackning, problemlösning och CTF-tävlingar inom Konglig Datasektionen.
 
-### §2.9.2 Organisation
+### §2.8.2 Organisation
 
 dJulkalendern leds av Tomtemor/-far.
 
@@ -564,7 +564,7 @@ dJulkalendern leds av Tomtemor/-far.
 
 Tillhör Informationsorganet.
 
-### §2.9.3 Verksamhet
+### §2.8.3 Verksamhet
 
 dJulkalendern ska:
 
@@ -572,13 +572,13 @@ dJulkalendern ska:
 
 - anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
 
-## §2.11 Groda
+## §2.9 Groda
 
-### §2.11.1 Ändamål
+### §2.9.1 Ändamål
 
 Grodas syfte att bistå sektionen och dess medlemmar med arbetet kring ekologisk hållbarhet, samt att öka engagemang och medvetenhet för klimatet bland sektionsmedlemmarna.
 
-### §2.11.2 Organisation
+### §2.9.2 Organisation
 
 Groda leds av Grodförande.
 
@@ -586,7 +586,7 @@ Groda leds av Grodförande.
 
 Tillhör Påverkansorganet.
 
-### §2.11.3 Verksamhet
+### §2.9.3 Verksamhet
 
 Groda ska:
 
@@ -598,13 +598,13 @@ Groda ska:
 
 - göra det lättare att följa Klimatpolicyn.
 
-## §2.12 GUDAR
+## §2.10 GUDAR
 
-### §2.12.1 Ändamål
+### §2.10.1 Ändamål
 
 Historiegruppen, GUDAR, har till uppgift att se till att sektionens ärorika historia inte faller i glömska.
 
-### §2.12.2 Organisation
+### §2.10.2 Organisation
 
 GUDAR leds av Sektionshistoriker.
 
@@ -612,7 +612,7 @@ GUDAR leds av Sektionshistoriker.
 
 Tillhör Informationsorganet.
 
-### §2.12.3 Verksamhet
+### §2.10.3 Verksamhet
 
 GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
@@ -628,13 +628,13 @@ GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
 - på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
-## §2.13 Idrottsnämnden
+## §2.11 Idrottsnämnden
 
-### §2.13.1 Ändamål
+### §2.11.1 Ändamål
 
 Idrottsnämnden ska verka för att sektionsmedlemmarna får tillfälle att idrotta tillsammans.
 
-### §2.13.2 Organisation
+### §2.11.2 Organisation
 
 Idrottsnämnden leds av Sektionsidrottsledaren.
 
@@ -642,7 +642,7 @@ Idrottsnämnden leds av Sektionsidrottsledaren.
 
 Tillhör Studiesociala organet.
 
-### §2.13.3 Verksamhet
+### §2.11.3 Verksamhet
 
 Idrottsnämnden ska:
 
@@ -650,13 +650,13 @@ Idrottsnämnden ska:
 
 - sammanställa information för och ansöka om THS friskvårdsbidrag
 
-## §2.14 Internationella nämnden
+## §2.12 Internationella nämnden
 
-### §2.14.1 Ändamål
+### §2.12.1 Ändamål
 
 Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
-### §2.14.2 Organisation
+### §2.12.2 Organisation
 
 Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
@@ -664,7 +664,7 @@ Internationella nämnden leds tillsammans av Internationell studentkoordinator o
 
 Tillhör Eventorganet.
 
-### §2.14.3 Verksamhet
+### §2.12.3 Verksamhet
 
 Internationella nämnden ska:
 
@@ -684,13 +684,13 @@ Internationella nämnden ska:
 
 - verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-## §2.15 Jämlikhetsnämnden
+## §2.13 Jämlikhetsnämnden
 
-### §2.15.1 Ändamål
+### §2.13.1 Ändamål
 
 Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arbeta för att upplysa, engagera och intressera sektionsmedlemmar i områden som berör jämlikhet, mångfald och likabehandling.
 
-### §2.15.2 Organisation
+### §2.13.2 Organisation
 
 Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska också ingå i nämnden.
 
@@ -698,7 +698,7 @@ Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studi
 
 Tillhör Påverkansorganet.
 
-### §2.15.3 Verksamhet
+### §2.13.3 Verksamhet
 
 Jämlikhetsnämnden ska:
 
@@ -714,13 +714,13 @@ Jämlikhetsnämnden ska:
 
 - arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
 
-## §2.16 Klubbmästeriet
+## §2.14 Klubbmästeriet
 
-### §2.16.1 Ändamål
+### §2.14.1 Ändamål
 
 Klubbmästeriet, DKM, anordnar fester och andra sociala arrangemang för sektionens medlemmar och i vissa fall även deras eventuella vänner.
 
-### §2.16.2 Organisation
+### §2.14.2 Organisation
 
 DKM leds av Klubbmästare.
 
@@ -728,7 +728,7 @@ DKM leds av Klubbmästare.
 
 Tillhör Eventorganet.
 
-### §2.16.3 Verksamhet
+### §2.14.3 Verksamhet
 
 Datas Klubbmästeri (DKM) ska:
 
@@ -740,19 +740,19 @@ Datas Klubbmästeri (DKM) ska:
 
 - sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
 
-## §2.17 Kommunikationsgruppen
+## §2.15 Kommunikationsgruppen
 
-### §2.17.1 Ändamål
+### §2.15.1 Ändamål
 
 Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt. Kommunikationsgruppen ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
-### §2.17.2 Organisation
+### §2.15.2 Organisation
 
 Kommunikationsgruppen leds av Kommunikatör. Övriga medlemmar utses av Kommunikatör.
 
 Tillhör Informationsorganet.
 
-### §2.17.3 Verksamhet
+### §2.15.3 Verksamhet
 
 Kommunikationsgruppen ska:
 
@@ -760,7 +760,7 @@ Kommunikationsgruppen ska:
 
 - Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
 
-## §2.18 Medias Klubbmästeri
+## §2.16 Medias Klubbmästeri
 
 Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
@@ -768,13 +768,13 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
 Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
 
-## §2.19 Mottagningen
+## §2.17 Mottagningen
 
-### §2.19.1 Ändamål
+### §2.17.1 Ändamål
 
 Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
 
-### §2.19.2 Organisation
+### §2.17.2 Organisation
 
 Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
 
@@ -786,7 +786,7 @@ Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
 Tillhör Mottagningsorganet.
 
-### §2.19.3 Verksamhet
+### §2.17.3 Verksamhet
 
 Mottagningen ska:
 
@@ -804,7 +804,7 @@ Mottagningen ska:
 
 - involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
-### §2.19.4 Ordförandes roll
+### §2.17.4 Ordförandes roll
 
 Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
@@ -814,13 +814,13 @@ I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta
 
 Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
-## §2.20 Näringslivsgruppen
+## §2.18 Näringslivsgruppen
 
-### §2.20.1 Ändamål
+### §2.18.1 Ändamål
 
 Näringslivsgruppen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen.
 
-### §2.20.2 Organisation
+### §2.18.2 Organisation
 
 Näringslivsgruppen leds av Näringslivsansvarig.
 
@@ -828,7 +828,7 @@ Medlemmar utses av Näringslivsansvarig.
 
 Tillhör Näringslivsorganet.
 
-### §2.20.3 Verksamhet
+### §2.18.3 Verksamhet
 
 Näringslivsgruppen ska:
 
@@ -842,13 +842,13 @@ Näringslivsgruppen ska:
 
 - se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
-## §2.21 Prylmångleriet
+## §2.19 Prylmångleriet
 
-### §2.21.1 Ändamål
+### §2.19.1 Ändamål
 
 Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar, till exempel märken, spegater, sångböcker och merch.
 
-### §2.21.2 Organisation
+### §2.19.2 Organisation
 
 Prylmångleriet leds av Prylmånglaren.
 
@@ -856,7 +856,7 @@ Prylmångleriet leds av Prylmånglaren.
 
 Tillhör Studiesociala organet.
 
-### §2.21.3 Verksamhet
+### §2.19.3 Verksamhet
 
 Prylmångleriet ska:
 
@@ -874,13 +874,13 @@ Prylmångleriet ska:
 
 - hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
 
-## §2.22 Qulturnämnden
+## §2.20 Qulturnämnden
 
-### §2.22.1 Ändamål
+### §2.20.1 Ändamål
 
 Qulturnämnden, QN, har som syfte att anordna sociala evenemang med fokus på kultur för intresserade medlemmar ifrån Datasektionen och Sektionen för Medieteknik.
 
-### §2.22.2 Organisation
+### §2.20.2 Organisation
 
 Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funktionär från Sektionen för Medieteknik.
 
@@ -888,7 +888,7 @@ Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funkt
 
 Tillhör Studiesociala organet.
 
-### §2.22.3 Verksmahet
+### §2.20.3 Verksmahet
 
 Qulturnämnden ska:
 
@@ -900,19 +900,19 @@ Qulturnämnden ska:
 
 - samarbeta med DESC respektive TM för överlappande verksamhet.
 
-## §2.23 Redaqtionen
+## §2.21 Redaqtionen
 
-### §2.23.1 Ändamål
+### §2.21.1 Ändamål
 
 Redaqtionen ansvarar för att ge ut sektionstidningen dbuggen.
 
-### §2.23.2 Organisation
+### §2.21.2 Organisation
 
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
 
 Tillhör Informationsorganet.
 
-### §2.23.3 Verksamhet
+### §2.21.3 Verksamhet
 
 Redaqtionen ska:
 - ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
@@ -921,13 +921,13 @@ Redaqtionen ska:
 
 - dela med sig av dbuggen till andra D-sektioner i Sverige.
 
-## §2.25 Sektionslokalsgruppen
+## §2.22 Sektionslokalsgruppen
 
-### §2.25.1 Ändamål
+### §2.22.1 Ändamål
 
 Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslokalen.
 
-### §2.25.2 Organisation
+### §2.22.2 Organisation
 
 Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
 
@@ -939,7 +939,7 @@ I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för stud
 
 Tillhör Förvaltningsorganet.
 
-### §2.25.3 Verksamhet
+### §2.22.3 Verksamhet
 
 Sektionslokalsgruppen ska:
 
@@ -955,13 +955,13 @@ Sektionslokalsgruppen ska:
 
 - sköta utveckling av sektionslokalen.
 
-## §2.26 Studienämnden
+## §2.23 Studienämnden
 
-### §2.26.1 Ändamål
+### §2.23.1 Ändamål
 
 Studienämndens syfte är att bevaka och förbättra utbildningskvaliteten och studiemiljön för sektionens medlemmar på kort såväl som lång sikt.
 
-### §2.26.2 Organisation
+### §2.23.2 Organisation
 
 Studienämnden leds av Studienämndens ordförande.
 
@@ -985,13 +985,13 @@ I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens 
 
 Tillhör Påverkansorganet.
 
-#### §2.26.2.1 Årskursrepresentant
+#### §2.23.2.1 Årskursrepresentant
 
 Årskursrepresentanter väljs av Studienämndens ordförande varje läsår. Årskursrepresentanterna är årskursernas representanter och kontakter i Studienämnden. Årskursrepresentanterna ansvarar för att det finns Kursansvarig student för kurserna årskursen läser och ska samordna och stötta dem i sitt arbete.
 
 Årskursrepresentanterna ska dokumentera synpunkter och kritik för uppföljning på länkmöten och framtida kursomgångar samt bilda sig en uppfattning om hur kursen sett ut tidigare och uppfölja om eventuell tidigare kritik på kursen åtgärdats.
 
-#### §2.26.2.2 Masterrepresentant
+#### §2.23.2.2 Masterrepresentant
 
 Masterrepresentanter väljs av Studienämndens ordförande för varje årsgång av masterprogrammet.
 
@@ -999,13 +999,13 @@ Masterrepresentanterna är masterprogrammets representanter och kontakter för d
 
 Masterrepresentanterna ska dokumentera synpunkter och kritik för uppföljning på Masterlänkmöten och framtida kursomgångar samt bilda sig en uppfattning om hur kursen sett ut tidigare och uppfölja om eventuell tidigare kritik på kursen åtgärdats.
 
-#### §2.26.2.3 Kursnämndsrepresentant
+#### §2.23.2.3 Kursnämndsrepresentant
 
 På varje kurs som ingår i sektionens utbildning ska det finnas en eller flera kursnämndsrepresentanter. En kursnämndsrepresentant är en student som går kursen och väljs för en kursomgång i samband med kursstart av Kursansvarig. Om inga kursnämndrepresentanter tillsätts är det Årskursrepresentantens alternativt Masterrepresentantens ansvar att se till att kursnämndsrepresentanter blir tillsatta.
 
 Kursnämndsrepresentanten ska fungera som kontakten mellan Årskursrepresentanter, Kursansvarig och studenterna som läser kursen och därigenom framföra synpunkter och lösa problem som kan dyka upp under kursens gång.
 
-### §2.26.3 Verksamhet
+### §2.23.3 Verksamhet
 
 Studienämnden ska hålla möte minst en gång per månad under terminstid. Mötena ska vara öppna för alla THS-medlemmar. Den huvudsakliga verksamheten ska vara att
 
@@ -1021,13 +1021,13 @@ Studienämnden ska hålla möte minst en gång per månad under terminstid. Möt
 
 Studienämndens dokument ska i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-## §2.27 Systemgruppen
+## §2.24 Systemgruppen
 
-### §2.27.1 Ändamål
+### §2.24.1 Ändamål
 
 Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
-### §2.27.2 Organisation
+### §2.24.2 Organisation
 
 Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
 
@@ -1035,7 +1035,7 @@ Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
 
 Tillhör Informationsorganet.
 
-### §2.27.3 Verksamhet
+### §2.24.3 Verksamhet
 
 Systemgruppen ska:
 
@@ -1045,22 +1045,218 @@ Systemgruppen ska:
 
 - engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
 
-## §2.27 STUDS
+## §2.25 STUDS
 
-### §2.27.1 Ändamål
+### §2.25.1 Ändamål
 
 Studs är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. Studs, din språngbräda in i arbetslivet.
 
-### §2.27.2 Organisation
+### §2.25.2 Organisation
 
 Ordförande för STUDS är STUDS-ansvarig.
 
 Övriga medlemmar utses av STUDS-ansvarig.
 
-### §2.27.3 Verksamhet
+### §2.25.3 Verksamhet
 
 STUDS ska:
 
 - anordna företagsevent, huvudsakligen för master studenter, med intressanta företag i industrin
 - informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
 - se till att sektionen uppfyller avtal framförhandlade av STUDS.
+
+# §3 Återkommande projekt
+
+## §3.1 METAspexet
+
+### §3.1.1 Ändamål
+
+METAspexet är ett återkommande projekt som har delad verksamhet med motsvarande nämnd på Sektionen för Medieteknik.
+
+METAspexet skall verka för att ge sektionsmedlemmar av Konglig Datasektionen och Sektionen för Medieteknik chans att utveckla flertalet färdigheter relaterad till teaterproduktion samt för att förstärka relationen mellan Konglig Datasektionen och Sektionen för Medieteknik.
+
+### §3.1.2 Organisation
+
+METAspexet leds av projektledare, benämnd Direqteur, för Konglig Datasektionen samt motsvarande nämndordförande för Sektionen för Medieteknik. Dessa projektledare och nämndordförande benämns METAspexets direqteurer. 
+
+METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projektgrupp.
+
+### §3.1.3 Verksamhet
+
+- Att sätta upp spexföreställningar under nästkommande kalenderår.
+
+- Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de kän-
+ner att de bidrar till ett större projekt.
+
+- Att ge medlemmar möjlighet att lära sig nya saker tillsammans och av varandra.
+
+- Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som re-
+lationerna mellan sektionernas medlemmar.
+
+### §3.1.4 Period
+
+Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess
+föreställningar har skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
+
+## §3.2 dÅre
+
+### §3.2.1 Ändamål
+
+dÅre är ett återkommande projekt som syftar att främja idrottsengagemanget inom sektionen samt främja gemenskap mellan studenter från olika årgångar genom att organisera en skidsemester.
+
+### §3.2.2 Organisation
+
+dÅre leds av projektledare.
+
+Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgrupp.
+
+### §3.2.3 Verksamhet
+
+- Att organisera en skidsemester för Konglig Datasektionens medlemmar.
+
+- Att uppmuntra medlemmar oberoende av tidigare erfarenhet att delta i alpint idrottsengagemanget.
+
+### §3.2.4 Period
+
+Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
+
+## §3.3 Vårbalen
+
+### §3.3.1 Ändamål
+
+Vårbalen är ett återkommande projekt med syfte att anordna en finsittning under våren.
+
+### §3.3.2 Organisation
+
+Vårbalen leds av projektledare, benämnd Vårbalsgeneral.
+
+Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
+
+### §3.3.3 Verksamhet
+
+- Att anordna en finsittning med tillhörande efterkör under våren.
+
+- Att bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
+
+- Att bjuda in Ordförande Emeriti till Vårbalen.
+
+### §3.3.4 Period
+
+Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade sittning skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Vårbalen <år>, där <år> är det år Vårbalens sittning planeras hållas.
+
+## §3.4 Project Pride
+
+### §3.4.1 Ändamål
+
+Project Pride är ett återkommande projekt som ämnar organisera deltagande i Stockholm Pride Parade, samt planera event under våren. Project Pride verkar för att uppmärksamma och främja HBTQIA+.
+
+### §3.4.2 Organisation
+
+Project Pride leds av projektledare.
+
+Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgruppen för Project Pride.
+
+### §3.4.3 Verksamhet
+
+- Att arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
+
+- Att anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
+
+- Att möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
+
+- Att se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
+
+### §3.4.4 Period
+
+Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet framtill
+att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
+
+## §3.5 Mottagningen
+
+### §3.5.1 Ändamål
+
+Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
+
+### §3.5.2 Organisation
+
+Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
+
+Mottagningen består av fem huvudsakliga grenar: Det Kongliga Dadderiet, Det Kongliga Drifveriet, Det Kongliga Doqumenteriet, Det Kongliga Quisineriet och Det Kongliga Ekonomeriet.
+
+Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är en del av Titel och ansvariga för att sammankalla och leda Titels arbete. Titel arbetar både strategiskt och operativt. Under mottagningens gång fungerar Titel som gruppchefer för respektive gren.
+
+Mottagningens sammansättning beslutas gemensamt av hela Titel.
+
+Tillhör Mottagningsorganet.
+
+### §3.5.3 Verksamhet
+
+Mottagningen ska:
+
+- planera och anordna aktiviteter som främjar Mottagningens ändamål
+
+- ansvara för nØllans eventuella upphöjelse till Ettan i samband med nØllegasquen
+
+- i samråd med D-rektoratet välja årskursnamn som utfärdas i samband med upphöjelsen
+
+- bistå Ettan i planering och genomförande av Mottagningstack och Ettans fest
+
+- introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
+
+- introducera de nyantagna studenterna till sektionens JML-arbete
+
+- involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
+
+### §3.5.4 Ordförandes roll
+
+Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
+
+Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
+
+I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
+
+Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
+
+### §3.5.5 Period
+
+Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet framtill att Mottagningen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
+
+## §3.6 D-Dagen
+
+### §3.6.1 Ändamål
+
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+
+### §3.6.2 Organisation
+
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
+
+Tillhör Näringslivsorganet.
+
+### §3.6.3 Verksamhet
+
+D-Dagen ska:
+
+- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+
+- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+
+- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+
+- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+
+### §3.6.4 D-Dagen
+
+Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att D-Dagen skett nästkommande kalenderår.
+
+Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
