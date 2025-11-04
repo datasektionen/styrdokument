@@ -41,9 +41,9 @@ En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut �
 
 ## §2.3 Övriga styrdokument
 
-### §2.3.1 Styrdokument för Nämnder och Funktionärer
+### §2.3.1 Verksamhetsregistret
 
-Styrdokument för Nämnder och Funktionärer är ett dokument som definierar sektionens nämnder och funktionärer samt deras verksamhet.
+Verksamhetsregistret är ett dokument som definierar sektionens nämnder, återkommande projekt och funktionärer samt deras verksamhet.
 
 ### §2.3.2 Verksamhetsplan
 Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
