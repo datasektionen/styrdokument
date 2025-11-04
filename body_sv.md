@@ -10,7 +10,7 @@ Datasektionen har även egna dokument. För att reglera vår egen verksamhet har
 
 - [**Stadgar**](./stadgar): Här står det centrala och absolut viktigaste för sektionens verksamhet såsom vilka våra firmatecknare är eller regler om hur sektionsmöten får gå till. Ändringar här i måste godkännas på två på varandra följande sektionsmöten innan de träder i kraft som skydd mot missbruk.
 - [**Reglemente**](./reglemente): Här står saker som fortfarande är viktiga för vår organisation, men som inte är centrala nog att vara i stadgarna. Eller helt enkelt saker som inte behöver ha stadgarnas skydd av en andra läsning vid förändring.
-- [**Styrdokument för Nämnder och Funktionärer**](./namndfunktionar): Här definieras alla våra funktionärer och vad de gör (utöver styrelsen och revisorerna som definieras i stadgarna och reglementet) samt alla våra nämnder. Noterbart är att projekt och projektledare inte finns med här då de startas och stängs separat.
+- [**Verksamhetsregistret**](./verksamhetsreg): Här definieras alla våra funktionärer och vad de gör (utöver styrelsen och revisorerna som definieras i stadgarna och reglementet) samt alla våra nämnder och återkommande projekt. Noterbart är att vanliga projekt och projektledare inte finns med här då de startas och stängs separat.
 - [**Policyer**](./policies)
     - [**Jämlikhetspolicy**](./policies/jamlikhetspolicy): Här står det riktlinjer för hur sektionen jobbar med jämlikhet och inkludering av våra medlemmar. En längre beskrivning står med i toppen av policyn.
     - [**Klimatpolicy**](./policies/klimatpolicy): Här står det riktlinjer över hur sektionen ska jobba för att minska vår klimat- och miljöpåverkan. En längre beskrivning står med i toppen av policyn.

@@ -1,4 +1,4 @@
-<!-- Konglig Datasektionens Styrdokument för Nämnder och Funktionärer -->
+<!-- Konglig Datasektionens Verksamhetsregister -->
 
 # §1 Funktionärer
 
