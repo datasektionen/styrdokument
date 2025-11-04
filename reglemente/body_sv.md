@@ -506,7 +506,7 @@ Varje nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars
 
 Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
-Sektionens nämnder definieras vidare i Styrdokument för Nämnder och Funktionärer.
+Sektionens nämnder definieras vidare i Verksamhetsregistret.
 
 # §6 Projekt
 
