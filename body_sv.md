@@ -19,7 +19,7 @@ Datasektionen har även egna dokument. För att reglera vår egen verksamhet har
     - [**Uppförandepolicy**](./policies/uppforandepolicy): Här står förväntningar och skyldigheter angående hur våra medlemmar behandlar varandra under sektionsaktiviteter och dylikt för att skapa en trygg miljö för alla. En längre beskrivning står med i toppen av policyn.
 - [**PM (Promemoria)**](./pm)
     - [**PM för alkohol**](./pm/pm_alkohol): Här regleras hur vi arbetar med alkoholservering.
-    - [**PM för dFunk**](./pm/pm_dfunk): Här regleras skyldigheter och belöningar för våra funktionärer. För en lista över dem, se istället [**Styrdokument för Nämnder och Funktionärer**](./namndfunktionar).
+    - [**PM för dFunk**](./pm/pm_dfunk): Här regleras skyldigheter och belöningar för våra funktionärer. För en lista över dem, se istället [**Verksamhetsregistret**](./verksamhetsreg).
     - [**PM för ekonomi**](./pm/pm_ekonomi): Här regleras hur vår ekonomi sköts. Det fungerar också som en snabb utbildning i hur olika verksamheter på sektionen ska sköta och redovisa sin ekonomi.
     - [**PM för informationshantering**](./pm/pm_informationshantering): Här regleras hur vi hanterar medlemmars uppgifter i syfte att organisera evenemang och annan verksamhet.
     - [**PM för informationsspridning**](./pm/pm_informationsspridning): Här regleras hur informationsspridning och marknadsföring ska ske för bland annat våra evenemang.

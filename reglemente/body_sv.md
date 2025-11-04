@@ -58,7 +58,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Funktionärer
 
-Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. Sektionens funktionärer definieras vidare i Styrdokument för Nämnder och Funktionärer.
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. Sektionens funktionärer definieras vidare i Verksamhetsregistret.
 
 ## §3.1 Skyldigheter
 
@@ -526,7 +526,7 @@ Vald projektledare åläggs att inkomma med motion innehållande budget samt ver
 
 Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
 
-Sektionens återkommande projekt definieras vidare i Styrdokument för Nämnder och Funktionärer.
+Sektionens återkommande projekt definieras vidare i Verksamhetsregistret.
 
 ## §6.3 Avslutning
 
