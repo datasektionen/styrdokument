@@ -836,7 +836,7 @@ Näringslivsgruppen ska:
 
 - göra reklam för sektionen och datateknikprogrammet gentemot näringslivet, att visa att sektionen finns och upprätthålla en god bild av sektionen utåt
 
-- tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför Studs och D-Dagens verksamhet
+- tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför STUDS och D-Dagens verksamhet
 
 - hålla och ständigt förbättra kontakten med näringslivet
 
@@ -1049,7 +1049,7 @@ Systemgruppen ska:
 
 ### §2.25.1 Ändamål
 
-Studs är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. Studs, din språngbräda in i arbetslivet.
+STUDS är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. STUDS, din språngbräda in i arbetslivet.
 
 ### §2.25.2 Organisation
 
