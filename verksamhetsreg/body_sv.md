@@ -8,25 +8,25 @@
 
 Är ordförande för Ada.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.2 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.3 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
 ### §1.1.4 Desctop
 
 Är ordförande för Datasektionens E-Sports Community.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.5 D-fest
 
@@ -50,37 +50,37 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
-Väljs i Period 2. Har kalenderår som mandatperiod
+Väljs i period 2. Har kalenderår som mandatperiod
 
 ### §1.1.9 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.10 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.11 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.12 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.13 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §1.1.14 Medias Klubbmästare
 
@@ -92,67 +92,67 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.16 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.17 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.18 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.19 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.20 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.21 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §1.1.22 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §1.1.23 Systemansvarig
 
 Är ordförande för Systemgruppen.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §1.1.24 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
-Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+Väljs på SM i period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 ### §1.1.25 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.26 STUDS-ansvarig
 
@@ -182,7 +182,7 @@ Datas Art Director ska:
 
 #### §1.2.1.3 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.2.2 Fanbärare
 
@@ -208,7 +208,7 @@ Fanbärare ska:
 
 #### §1.2.2.4 Mandatperiod
 
-Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
+Fanbärare och Vice fanbärare Väljs i period 2 och har kalenderår som mandatperiod.
 
 ### §1.2.3 Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
@@ -250,7 +250,7 @@ Jämlikhets-, mångfalds- och likabehandlingsansvarig ska
 
 #### §1.2.3.4 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.2.4 Kårfullmäktigeledamöter
 
@@ -268,7 +268,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §1.2.4.4 Mandatperiod
 
-Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen Väljs i period 3 och har läsår som mandatperiod.
 
 ### §1.2.5 Ljud- och ljusansvarig
 
@@ -290,7 +290,7 @@ Ljud- och ljusansvarig ska
 
 #### §1.2.5.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.2.6 Programansvarig student
 
@@ -320,7 +320,7 @@ Programansvarig student ska
 
 #### §1.2.6.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.2.7 Studiemiljöansvarig
 
@@ -356,7 +356,7 @@ Studiemiljöansvarig ska
 
 #### §1.2.7.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 # §2 Nämnder
 
