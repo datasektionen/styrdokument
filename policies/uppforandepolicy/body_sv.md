@@ -179,7 +179,7 @@ Förtroendevalda ansvarar för att informera övriga eventarrangörer inom sin n
 
 Delgivande av information till förtroendevalda sker med förtroendet att det sköts med aktsamhet och delges utanför förtroendevalda endast vid behov.
 
-Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens Ordförande om hela ärendet, exklusive identifierande information om målsägande, men inklusive anmäld händelse och beslut som tagits av Trygghetsrådet ifall det anses lämpligt med avseende på rekrytering eller kandidatur. Valberedningens Ordförande informerar i sin tur relevanta Valberedare om Trygghetsrådets beslut endast ifall det anses behövas.
+Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens ordförande om hela ärendet, exklusive identifierande information om målsägande, men inklusive anmäld händelse och beslut som tagits av Trygghetsrådet ifall det anses lämpligt med avseende på rekrytering eller kandidatur. Valberedningens ordförande informerar i sin tur relevanta Valberedare om Trygghetsrådets beslut endast ifall det anses behövas.
 
 ## §4.5 Överklagan
 
