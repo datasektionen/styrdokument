@@ -360,7 +360,7 @@ Talmanspresidiet skall säkerställa att dokument till och från SM och VM ansl�
 
 ### §3.5.2 Organisation
 
-Talmanspresidiet leds av talman. Övriga medlemmar är Vice talman och Sekreterare.
+Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
 
 #### §3.5.2.1 Talman
 
