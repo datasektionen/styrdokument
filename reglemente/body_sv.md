@@ -100,7 +100,7 @@ Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknar
 
 - ha en god överblick av sektionens ekonomi.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
@@ -120,7 +120,7 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
@@ -137,7 +137,7 @@ Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområ
 - efter ett SM, VM eller DM publicera ett beslutsprotokoll inom 48 timmar från
 mötets avslutande.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.4 Kassör
 
@@ -161,7 +161,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Vice kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
@@ -177,7 +177,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
@@ -193,7 +193,7 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
   
 - upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.7 Ledamot för studiesociala frågor
 
@@ -207,7 +207,7 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 - verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.8 Ledamot för utbildningsfrågor
 
@@ -221,7 +221,7 @@ Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS o
 
 - från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.9 Ledamot för studiemiljö och likabehandling
 
@@ -235,7 +235,7 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 - från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ## §3.4 Valberedningen
 
@@ -249,11 +249,11 @@ Valberedningen leds av Valberedningens ordförande. Valberedningen består av Va
 
 #### §3.4.2.1 Valberedningens ordförande
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 #### §3.4.2.2 Valberedningensledamöter
 
-Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
+Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
 
 ### §3.4.3 Verksamhet
 
@@ -366,13 +366,13 @@ Talmanspresidiet leds av talman. Övriga medlemmar är Vice talman och Sekretera
 
 Är ordförande för Talmanspresidiet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.5.2.2 Vice talman
 
 Bistår Talman i dess arbete.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.5.3 Verksamhet
 
@@ -416,7 +416,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 ### §3.6.4 Mandatperiod
 
-Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ## §3.7 Ledningsgruppen
 
