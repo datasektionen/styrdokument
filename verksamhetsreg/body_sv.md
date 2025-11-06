@@ -706,7 +706,7 @@ Jämlikhetsnämnden ska:
 
 - arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
 
-- samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
+- samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för studiemiljö och likabehandling med syfte att förbättra JML på sektionen
 
 - skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
 
