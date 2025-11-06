@@ -210,7 +210,7 @@ Fanbärare ska:
 
 Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
 
-### §1.2.3 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §1.2.3 Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
 #### §1.2.3.1 Ändamål
 
@@ -218,13 +218,13 @@ Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatp
 
 #### §1.2.3.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, mångfalds- och likabehandlingsansvarig.
 
 Tillhör Påverkansorganet.
 
 #### §1.2.3.3 Verksamhet
 
-Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
+Jämlikhets-, mångfalds- och likabehandlingsansvarig ska
 
 - ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
 
@@ -692,7 +692,7 @@ Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arb
 
 ### §2.13.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska också ingå i nämnden.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, mångfalds- och likabehandlingsansvarig ska också ingå i nämnden.
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
@@ -706,7 +706,7 @@ Jämlikhetsnämnden ska:
 
 - arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
 
-- samarbeta med Jämlikhets-, Mångfalds- och Likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
+- samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
 
 - skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
 
