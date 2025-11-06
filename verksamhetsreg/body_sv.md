@@ -82,7 +82,7 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.14 Medias Klubbmästare
+### §1.1.14 Medias klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
@@ -730,7 +730,7 @@ Tillhör Eventorganet.
 
 ### §2.14.3 Verksamhet
 
-Datas Klubbmästeri (DKM) ska:
+Datas klubbmästeri (DKM) ska:
 
 - arrangera fester, jippon, pubar och andra sociala arrangemang
 
@@ -760,9 +760,9 @@ Kommunikationsgruppen ska:
 
 - Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
 
-## §2.16 Medias Klubbmästeri
+## §2.16 Medias klubbmästeri
 
-Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
+Medias klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
