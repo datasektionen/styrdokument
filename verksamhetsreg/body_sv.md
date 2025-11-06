@@ -22,7 +22,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
-### §1.1.4 Desctop
+### §1.1.4 DESCtop
 
 Är ordförande för Datasektionens E-Sports Community.
 
