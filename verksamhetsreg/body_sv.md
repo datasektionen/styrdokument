@@ -34,7 +34,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.1.6 Dives Ordförande
+### §1.1.6 Dives ordförande
 
 Är ordförande för Dive.
 
