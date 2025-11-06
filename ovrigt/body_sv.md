@@ -17,4 +17,4 @@ Gällande budget för Datasektionen hittas på [budgetsidan](https://budget.data
 
 # THS styrdokument
 
-Konglig Datasektionen är en underorganisation till THS (Tekniska Högskolans Studentkår). Utöver Sektionens egna styrdokument så behöver vi därför även förhålla oss till deras styrdokument, som går att finna [här](https://thskth.se/sv/om-ths/ths-dokument).
+Konglig Datasektionen är en underorganisation till THS (Tekniska Högskolans Studentkår). Utöver sektionens egna styrdokument så behöver vi därför även förhålla oss till deras styrdokument, som går att finna [här](https://thskth.se/sv/om-ths/ths-dokument).
