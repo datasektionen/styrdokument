@@ -275,7 +275,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Klubbmästare
 * Studienämndens ordförande
 * Studiemiljöansvarig
-* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+* Jämlikhets-, mångfalds- och likabehandlingsansvarig
 * Konglig Lokalchef
 * Systemansvarig.
 * Talman
@@ -452,7 +452,7 @@ De funktionärer som ingår i Ledningsgruppen är:
 
 -   Studiemiljöansvarig
 
--   Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+-   Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
 -   Internationell studentkoordinator
 
