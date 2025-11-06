@@ -37,7 +37,7 @@ Sektionen har ett antal policydokument. Dessa är:
 * Samarbetspolicy.
 
 ## §2.2 Promemoria
-En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut äger rätt att ändra. Styrelsen ska informera Sektionen om ändringar på nästa sektionsmöte.
+En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut äger rätt att ändra. Styrelsen ska informera sektionen om ändringar på nästa sektionsmöte.
 
 ## §2.3 Övriga styrdokument
 
