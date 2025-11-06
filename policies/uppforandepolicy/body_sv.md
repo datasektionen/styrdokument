@@ -51,7 +51,7 @@ Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades
 
 ## §3.1 Medlemmar
 
-Trygghetsrådet består av Skyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA), samt Ledamot för Studiemiljö och Likabehandling (D-SOL) i styrelsen.
+Trygghetsrådet består av kyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA), samt Ledamot för Studiemiljö och Likabehandling (D-SOL) i styrelsen.
 
 Om Trygghetsrådet vänder sig till andra instanser på KTH eller THS för rådgivning om en inkommen anmälan ska alla inblandade hållas anonyma inför dessa.  Det bör observeras att detta gäller Trygghetsrådet som helhet endast efter det att inkommen anmälan till SSO tagits vidare till Trygghetsrådet.
 
