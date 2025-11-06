@@ -502,9 +502,9 @@ D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar 
 
 ### §2.6.2 Organisation
 
-D-festeriet leds av D-Fest.
+D-festeriet leds av D-fest.
 
-Övriga medlemmar utses av D-Fest.
+Övriga medlemmar utses av D-fest.
 
 Tillhör Eventorganet.
 
