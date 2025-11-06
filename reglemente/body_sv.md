@@ -37,7 +37,7 @@ Sektionen har ett antal policydokument. Dessa är:
 * Samarbetspolicy.
 
 ## §2.2 Promemoria
-En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut äger rätt att ändra. Styrelsen ska informera Sektionen om ändringar på nästa sektionsmöte.
+En promemoria, ett PM, är ett styrdokument som styrelsen efter styrelsebeslut äger rätt att ändra. Styrelsen ska informera sektionen om ändringar på nästa sektionsmöte.
 
 ## §2.3 Övriga styrdokument
 
@@ -100,7 +100,7 @@ Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknar
 
 - ha en god överblick av sektionens ekonomi.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Vice ordförande
 
@@ -120,7 +120,7 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 - verka för goda överlämningsrutiner i sektionens verksamhet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.3 Sekreterare
 
@@ -137,7 +137,7 @@ Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområ
 - efter ett SM, VM eller DM publicera ett beslutsprotokoll inom 48 timmar från
 mötets avslutande.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.4 Kassör
 
@@ -161,7 +161,7 @@ Väljs på SM i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Vice kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.5 Vice kassör
 
@@ -177,7 +177,7 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 
 - ha ett nära samarbete med Kassör.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.6 Ledamot för näringsliv och kommunikation
 
@@ -193,7 +193,7 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
   
 - upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.7 Ledamot för studiesociala frågor
 
@@ -207,7 +207,7 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 - verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.8 Ledamot för utbildningsfrågor
 
@@ -221,7 +221,7 @@ Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS o
 
 - från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.9 Ledamot för studiemiljö och likabehandling
 
@@ -235,13 +235,13 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 - från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
-Väljs på SM i Period 2. Har kalenderår som mandatperiod.
+Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 ## §3.4 Valberedningen
 
 ### §3.4.1 Ändamål
 
-Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
+Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
 
 ### §3.4.2 Organisation
 
@@ -249,15 +249,15 @@ Valberedningen leds av Valberedningens ordförande. Valberedningen består av Va
 
 #### §3.4.2.1 Valberedningens ordförande
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 #### §3.4.2.2 Valberedningensledamöter
 
-Tre ledamöter väljs i Period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
+Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
 
 ### §3.4.3 Verksamhet
 
-Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska Valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
+Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
 Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
 
@@ -275,36 +275,34 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Klubbmästare
 * Studienämndens ordförande
 * Studiemiljöansvarig
-* Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+* Jämlikhets-, mångfalds- och likabehandlingsansvarig
 * Konglig Lokalchef
-* Systemansvarig.
+* Systemansvarig
 * Talman
 
-hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under
-intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om
-kandidatens kandidatur.
+hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
 När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
-I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär.
+I de fall där kandidaten inte intervjuas ska valberedningen tillhandahålla ett frågeformulär.
 
-I fall av en gemensam kandidatur till en funktionärspost ansvarar Valberedningen för att i intervjuerna uppmana kandidaterna att motivera sin samkandidatur, eller skicka ut ett kompletterande frågeformulär om funktionärsposten inte är en intervjupost.
+I fall av en gemensam kandidatur till en funktionärspost ansvarar valberedningen för att i intervjuerna uppmana kandidaterna att motivera sin samkandidatur, eller skicka ut ett kompletterande frågeformulär om funktionärsposten inte är en intervjupost.
 
 ### §3.4.5 Lämplighetsbedömning
 
-I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
+I de fall där en kandidat intervjuats ska valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med valberedningens utlåtande om kandidaten.
 
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
 
 Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
 
 ### §3.4.6 Sekretess
 
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
 ### §3.4.7 Urnval
 
-Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
+Vid urnval ska valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av Systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
 
 Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
 
@@ -316,7 +314,7 @@ Kandidater som ställer upp i urnval får inte vara inblandade i administratione
 
 ### §3.4.8 Valhandlingar
 
-Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
+Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
 
 #### §3.4.8.1 Innehåll
 
@@ -326,13 +324,13 @@ Valhandlingarna ska innehålla
 
 - information om valprocessen under SM eller VM
 
-- vilka av Valberedningens ledamöter som varit med och anordnat valet
+- vilka av valberedningens ledamöter som varit med och anordnat valet
 
 - en sammanställning av de poster som väljs
 
 - en lista över samtliga kandidater
 
-- samtliga utlåtanden från de intervjuer Valberedningen har hållit
+- samtliga utlåtanden från de intervjuer valberedningen har hållit
 
 - samtliga svar från de frågeformulär som kandidaterna har fått svara på
 
@@ -350,7 +348,7 @@ Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM 
 
 #### §3.4.8.4 Sekretessbeläggning
 
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
 
 ## §3.5 Talmanspresidiet
 
@@ -362,19 +360,19 @@ Talmanspresidiet skall säkerställa att dokument till och från SM och VM ansl�
 
 ### §3.5.2 Organisation
 
-Talmanspresidiet leds av talman. Övriga medlemmar är Vice talman och Sekreterare.
+Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
 
 #### §3.5.2.1 Talman
 
 Är ordförande för Talmanspresidiet.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.5.2.2 Vice talman
 
 Bistår Talman i dess arbete.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.5.3 Verksamhet
 
@@ -418,7 +416,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 ### §3.6.4 Mandatperiod
 
-Revisorerna väljs på SM i Period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
 ## §3.7 Ledningsgruppen
 
@@ -452,7 +450,7 @@ De funktionärer som ingår i Ledningsgruppen är:
 
 -   Studiemiljöansvarig
 
--   Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+-   Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
 -   Internationell studentkoordinator
 

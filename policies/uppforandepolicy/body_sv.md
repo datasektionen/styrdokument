@@ -12,7 +12,7 @@ Vid lagbrott rekommenderar Trygghetsrådet målsägande att göra polisanmälan,
 
 # §1 Regler
 
-Som sektionsmedlem ska man sträva efter att följa Sektionens [Jämlikhetspolicy](../policies/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
+Som sektionsmedlem ska man sträva efter att följa sektionens [Jämlikhetspolicy](../policies/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
 Exempel på brott mot dessa riktlinjer är:
 
 - överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm
@@ -35,15 +35,15 @@ Brott mot dessa kan medföra en tillsägelse, varning eller i värsta fall avst�
 
 Policyn berör händelser som sker:
 
-- inför, på eller strax efter ett av Sektionen arrangerat event
+- inför, på eller strax efter ett av sektionen arrangerat event
 
 - i eller invid sektionslokalen
 
 - i eller invid sektionsbilen
 
-- i Sektionens officiella eller inofficiella informationskanaler
+- i sektionens officiella eller inofficiella informationskanaler
 
-- inom Sektionens verksamhet.
+- inom sektionens verksamhet.
 
 Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades igenom och anmälan av sådana händelser kan inte leda till en varning eller avstängning med denna policy som grund, utan till en diskussion med målet att förbättra situationen för de inblandade. 
 
@@ -51,7 +51,7 @@ Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades
 
 ## §3.1 Medlemmar
 
-Trygghetsrådet består av Skyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA), samt Ledamot för Studiemiljö och Likabehandling (D-SOL) i styrelsen.
+Trygghetsrådet består av skyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, mångfalds- och likabehandlingsansvarig (JMLA), samt Ledamot för studiemiljö och likabehandling (D-SOL) i styrelsen.
 
 Om Trygghetsrådet vänder sig till andra instanser på KTH eller THS för rådgivning om en inkommen anmälan ska alla inblandade hållas anonyma inför dessa.  Det bör observeras att detta gäller Trygghetsrådet som helhet endast efter det att inkommen anmälan till SSO tagits vidare till Trygghetsrådet.
 
@@ -81,7 +81,7 @@ Trygghetsrådet ska:
 
 ## §3.4 Anonymitet
 
-Anmälan till Trygghetsrådet sker alltid via Skyddsombuden, dvs SMA och JMLA. Dessa funktionärer har juridisk tystnadsplikt men med målsägandens samtycke kan ärendet anmälas till Trygghetsrådet. Trygghetsrådet som helhet har ingen juridisk tystnadsplikt men agerar med respekt till målsäganden i sin hantering av ärendet. Ärenden som inte tas vidare till Trygghetsrådet kan inte leda till konsekvenser enligt denna policy.
+Anmälan till Trygghetsrådet sker alltid via skyddsombuden, dvs SMA och JMLA. Dessa funktionärer har juridisk tystnadsplikt men med målsägandens samtycke kan ärendet anmälas till Trygghetsrådet. Trygghetsrådet som helhet har ingen juridisk tystnadsplikt men agerar med respekt till målsäganden i sin hantering av ärendet. Ärenden som inte tas vidare till Trygghetsrådet kan inte leda till konsekvenser enligt denna policy.
 
 ## §3.5 Dokumentation
 
@@ -89,29 +89,29 @@ Trygghetsrådet ansvarar för att dokumentera alla incidenter som tas upp i råd
 
 ## §3.6 Vid utredning av medlem i Trygghetsrådet
 
-I det fall att den anmälda är en medlem av Trygghetsrådet ska denne entledigas från ärendet och ersättas av Ordförande för Sektionen vid behandlingen av den aktuella anmälan. Skulle hela Trygghetsrådet misstroendeförklaras tar Sektionens styrelse över arbetet tills dess att nya förtroendevalda tillträtt.
+I det fall att den anmälda är en medlem av Trygghetsrådet ska denne entledigas från ärendet och ersättas av Ordförande för sektionen vid behandlingen av den aktuella anmälan. Skulle hela Trygghetsrådet misstroendeförklaras tar sektionens styrelse över arbetet tills dess att nya förtroendevalda tillträtt.
 
-För att lättast upprätta en anmälan mot någon i Trygghetsrådet kontaktar man Styrelsen ([drek@datasektionen.se](mailto:drek@datasektionen.se)) ifall anmälan gäller något av Skyddsombuden. För att anmäla Styrelseledamot med i Trygghetsrådet kontaktar man Skyddsombuden ([sso@datasektionen.se](mailto:sso@datasektionen.se)).
+För att lättast upprätta en anmälan mot någon i Trygghetsrådet kontaktar man styrelsen ([drek@datasektionen.se](mailto:drek@datasektionen.se)) ifall anmälan gäller något av skyddsombuden. För att anmäla styrelseledamot med i Trygghetsrådet kontaktar man skyddsombuden ([sso@datasektionen.se](mailto:sso@datasektionen.se)).
 
 ## §3.7 Vakanta poster i Trygghetsrådet
 
-Om det finns en eller två vakanta poster i Trygghetsrådet ska samma antal Styrelseledamoter tillförordnas av Styrelsen. Detta beslutas bakom lyckta dörrar.
+Om det finns en eller två vakanta poster i Trygghetsrådet ska samma antal styrelseledamoter tillförordnas av styrelsen. Detta beslutas bakom lyckta dörrar.
 
-Om båda Skyddsombuden i Trygghetsrådet, dvs JMLA och SMA, är vakanta, eller behöver entledigas från Trygghetsrådet i ett enskilt ärende, ska även Studiemiljöansvarig på THS ingå i Trygghetsrådet.
+Om båda skyddsombuden i Trygghetsrådet, dvs JMLA och SMA, är vakanta, eller behöver entledigas från Trygghetsrådet i ett enskilt ärende, ska även Studiemiljöansvarig på THS ingå i Trygghetsrådet.
 
-Om samtliga poster i Trygghetsrådet är vakanta agerar hela Styrelsen Trygghetsråd, tillsammans med THS SMA, tills dess att posterna är tillsatta genom val på SM.
+Om samtliga poster i Trygghetsrådet är vakanta agerar hela styrelsen Trygghetsråd, tillsammans med THS SMA, tills dess att posterna är tillsatta genom val på SM.
 
-Om en medlem i Trygghetsrådet blir avstängd blir denne automatiskt entledigad från Trygghetsrådet och ska uppmanas att entlediga sig själv från sin funktionärspost. Den vakanta posten i Trygghetsrådet tillförordnas därefter av Styrelsen. Detta beslutas bakom lyckta dörrar.
+Om en medlem i Trygghetsrådet blir avstängd blir denne automatiskt entledigad från Trygghetsrådet och ska uppmanas att entlediga sig själv från sin funktionärspost. Den vakanta posten i Trygghetsrådet tillförordnas därefter av styrelsen. Detta beslutas bakom lyckta dörrar.
 
 # §4 Beslutstagande och Utredning
 
 ## §4.1 Anmälan
 
-Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom följande:
+Anmälan av händelse eller allmän kontakt till skyddsombud kan göras genom följande:
 
 - Kontaktformuläret på [jml.datasektionen.se](http://jml.datasektionen.se). Här finns möjlighet att göra anmälan anonymt, men en anonym anmälan kan inte tas vidare till Trygghetsrådet
 
-- Mail till båda Skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
+- Mail till båda skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 - Mail till JMLA via [jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
@@ -119,7 +119,7 @@ Anmälan av händelse eller allmän kontakt till Skyddsombud kan göras genom f�
 
 - På valfritt annat sätt (META-slack, Discord, med andra kontaktuppgifter eller i person)
 
-Med målsägandens samtycke, och efter diskussion om tystnadsplikt, kan Skyddsombuden ta ärendet vidare till Trygghetsrådet. Målsägande kan när som helst välja att avsluta utredningen.
+Med målsägandens samtycke, och efter diskussion om tystnadsplikt, kan skyddsombuden ta ärendet vidare till Trygghetsrådet. Målsägande kan när som helst välja att avsluta utredningen.
 
 Anmälan av person inom Trygghetsrådet görs enligt §[3.6] Vid utredning av medlem i Trygghetsrådet.
 
@@ -137,7 +137,7 @@ Den anklagade individen blir informerad om att dennes beteende inte är acceptab
 
 En varning är en grövre tillsägelse. Individen blir informerad om att ifall dennes beteende upprepar sig kommer det att leda till en avstängning. En varning är aktiv i 1 år från att den utfärdats. Om ytterligare en varning utfärdas medan den första varningen är aktiv leder detta till en avstängning av första graden.
 
-En varning bör komma före en avstängning. Vid särskilt grova fall såsom lagbrott är det möjligt för Trygghetsrådet att välja att utföra en avstängning av första graden utan tidigare varning. Detta beslut måste vara enhälligt inom Trygghetsrådet och kräver godkännande från Styrelsen.
+En varning bör komma före en avstängning. Vid särskilt grova fall såsom lagbrott är det möjligt för Trygghetsrådet att välja att utföra en avstängning av första graden utan tidigare varning. Detta beslut måste vara enhälligt inom Trygghetsrådet och kräver godkännande från styrelsen.
 
 ### §4.2.3 Avstängning av första graden
 
@@ -171,21 +171,21 @@ Vid tidpunkten då avstängningen upphör att verka utfärdas en varning. Vid up
 
 ## §4.4 Uppföljning
 
-Trygghetsrådet informerar målsägande oberoende av utfall och den anmälda då utfallet är tillsägelse, varning eller avstängning. Vid avstängningar informeras även Sektionens revisorer och Sektionens Styrelse, som i sin tur informerar förtroendevalda. 
+Trygghetsrådet informerar målsägande oberoende av utfall och den anmälda då utfallet är tillsägelse, varning eller avstängning. Vid avstängningar informeras även sektionens revisorer och sektionens styrelse, som i sin tur informerar förtroendevalda. 
 
-Sektionens Styrelse och revisorer får information om hela ärendet, inklusive namn, anmäld händelse och beslut som tagits av Trygghetsrådet. Styrelsen informerar förtroendevalda om avstängningen, inklusive namn och datum för avstängningen. Förtroendevalda informeras inte om händelse, anmälan eller utredning.
+Sektionens styrelse och revisorer får information om hela ärendet, inklusive namn, anmäld händelse och beslut som tagits av Trygghetsrådet. Styrelsen informerar förtroendevalda om avstängningen, inklusive namn och datum för avstängningen. Förtroendevalda informeras inte om händelse, anmälan eller utredning.
 
-Förtroendevalda ansvarar för att informera övriga eventarrangörer inom sin nämnd vid behov, då dessa bär ansvar för att den avstängde avvisas från event som infaller under perioden då personen är avstängd. Vid avvisning kan man alltid ta hjälp av KTH:s väktare. Man kan även vända sig till Trygghetsrådet för stöttning i hur man ska hantera en avstängning samt vilka som bör delges informationen. I det fall att den anmälda är en nämndordförande informerar Ordförande för Sektionen nämndens eventansvariga om detta.
+Förtroendevalda ansvarar för att informera övriga eventarrangörer inom sin nämnd vid behov, då dessa bär ansvar för att den avstängde avvisas från event som infaller under perioden då personen är avstängd. Vid avvisning kan man alltid ta hjälp av KTH:s väktare. Man kan även vända sig till Trygghetsrådet för stöttning i hur man ska hantera en avstängning samt vilka som bör delges informationen. I det fall att den anmälda är en nämndordförande informerar Ordförande för sektionen nämndens eventansvariga om detta.
 
 Delgivande av information till förtroendevalda sker med förtroendet att det sköts med aktsamhet och delges utanför förtroendevalda endast vid behov.
 
-Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens Ordförande om hela ärendet, exklusive identifierande information om målsägande, men inklusive anmäld händelse och beslut som tagits av Trygghetsrådet ifall det anses lämpligt med avseende på rekrytering eller kandidatur. Valberedningens Ordförande informerar i sin tur relevanta Valberedare om Trygghetsrådets beslut endast ifall det anses behövas.
+Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens ordförande om hela ärendet, exklusive identifierande information om målsägande, men inklusive anmäld händelse och beslut som tagits av Trygghetsrådet ifall det anses lämpligt med avseende på rekrytering eller kandidatur. Valberedningens ordförande informerar i sin tur relevanta Valberedare om Trygghetsrådets beslut endast ifall det anses behövas.
 
 ## §4.5 Överklagan
 
-Överklagan görs till Styrelsen. Styrelsen ges 14 dagar att svara på en överklagan, annars hävs beslutet. Trygghetsrådet ska då motivera sitt beslut och redogöra för vad det grundas i. Den överklagande får också motivera varför denne anser att beslutet är felaktigt.
+Överklagan görs till styrelsen. Styrelsen ges 14 dagar att svara på en överklagan, annars hävs beslutet. Trygghetsrådet ska då motivera sitt beslut och redogöra för vad det grundas i. Den överklagande får också motivera varför denne anser att beslutet är felaktigt.
 
-Vill man överklaga Styrelsens beslut görs detta till THS Studiemiljöansvarig.
+Vill man överklaga styrelsens beslut görs detta till THS Studiemiljöansvarig.
 
 [4.6]: #4-6-vid-utredning-av-medlem-i-trygghetsrådet
 [4.7]: #4-7-vakanta-poster-i-trygghetsrådet
