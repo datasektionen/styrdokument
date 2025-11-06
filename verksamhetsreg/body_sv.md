@@ -86,11 +86,11 @@ Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
-### §1.1.15 Mulle/Mullerina Schmeck
+### §1.1.15 Mulle/Mullerina schmeck
 
 Är ordförande för Datasladden.
 
-Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+Mulle/Mullerina schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
@@ -454,7 +454,7 @@ Datasladden har till uppgift att ansvara över sektionsbilen.
 
 ### §2.4.2 Organisation
 
-Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+Datasladden leds av Mulle/Mullerina schmeck. Övriga medlemmar utses av Mulle/Mullerina schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
 Tillhör Förvaltningsorganet.
 
