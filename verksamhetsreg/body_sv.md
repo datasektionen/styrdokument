@@ -1095,7 +1095,7 @@ lationerna mellan sektionernas medlemmar.
 
 ### §3.1.4 Period
 
-Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess
+Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att alla dess
 föreställningar har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
@@ -1120,7 +1120,7 @@ Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgru
 
 ### §3.2.4 Period
 
-Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att dess planerade skidresa skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
 
@@ -1146,7 +1146,7 @@ Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
 
 ### §3.3.4 Period
 
-Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade sittning skett nästkommande kalenderår.
+Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att dess planerade sittning skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Vårbalen <år>, där <år> är det år Vårbalens sittning planeras hållas.
 
@@ -1174,7 +1174,7 @@ Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgr
 
 ### §3.4.4 Period
 
-Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet framtill
+Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet fram till
 att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
@@ -1227,7 +1227,7 @@ Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som 
 
 ### §3.5.5 Period
 
-Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet framtill att Mottagningen skett nästkommande kalenderår.
+Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
@@ -1257,6 +1257,6 @@ D-Dagen ska:
 
 ### §3.6.4 D-Dagen
 
-Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att D-Dagen skett nästkommande kalenderår.
+Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att D-Dagen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
