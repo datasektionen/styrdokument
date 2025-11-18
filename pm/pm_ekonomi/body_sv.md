@@ -135,6 +135,10 @@ arbetstillfället.
 
 Med personalvård avses enklare förtäring av mindre värde som ej ersätter måltid. Personalvårdsbudget får ej bekosta alkohol
 
+#### §7.2.2.4 Mat intern grupp
+
+Mat till en interngrupp får endast köpas som del av teambuilding eller i samband med utbildning.
+
 ## §7.3 Bokföringskonton för teambuilding, personalvård och fika
 
 Fika till intern grupp ska bokföras på bokföringskontot 7691
