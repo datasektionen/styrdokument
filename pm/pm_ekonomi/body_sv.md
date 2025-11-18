@@ -181,8 +181,6 @@ Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en
 
 # §9 Subventionering av profilkläder
 
-Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
-
 Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
 
 Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
