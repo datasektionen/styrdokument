@@ -61,13 +61,13 @@ Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
 ## §6.1 Inköp via faktura
 
-Inköp på faktura betyder för det mesta att man nyttjar ett av sektionens kreditavtal. Detta får göras av sektionens funktionärer, både direkt (att funktionären nyttjar kreditavtalet) eller indirekt (att annan person nyttjar kreditavtalet på order av funktionär). Det är funktionärens ansvar att se till att det finns utrymme i budget för kostnaderna. Det går i regel bra att nyttja kreditavtal skrivna av andra organ inom sektionen än det man handlar för, men personen som gör inköpet ansvarar själv för att vara informerad om kreditavtalets gränser.
+Köp via faktura får göras av sektionens funktionärer eller med godkännande av firmatecknare.
 
-Stora inköp på över ett prisbasbelopp som kan komma att påverka sektionens ekonomi i stort ska meddelas Kassör så fort det blir känt.
+Alla fakturor i sektionens namn ska laddas upp på Cashflow, skickas till sektionens gällande fakturaadress, eller skickas till sektionen genom en av Kassör angiven metod. 
 
-Alla fakturor i sektionens namn skickas till sektionens gällande fakturaadress, eller av Kassör angiven metod.
+Vid inköp via faktura ansvarar personen som genomför köpet att det är giltigt och ryms inom budgeten. Denne ansvarar även för att fakturan skickas till betalningsansvarig i tid.
 
-Endast firmatecknare har rätt att ingå avtal för sektionen. Köp via faktura räknas som att ingå avtal. Därmed behövs antingen en fullmakt att ingå avtal, ett existernade kreditavtal eller att fakturan ställs ut till en medlem. 
+Om ett ej giltigt köp genomförs genom att fakturera sektionen, är den som genomförde köpet betalningsskyldig för fakturans belopp.
 
 ## §6.2 Försäljning via faktura
 
