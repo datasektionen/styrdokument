@@ -16,10 +16,6 @@ Följande nämnder är bokföringspliktiga:
 - Näringslivsgruppen
 - Medias Klubbmästeri.
 
-## §2.2 Alkohol
-
-Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
-
 ## §2.3 Bokföringsplikt för projekt
 
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
@@ -28,6 +24,10 @@ Följande återkommande projekt är bokföringspliktiga:
 - METAspexet
 - Mottagningen
 - D-Dagen.
+
+## §2.2 Alkohol
+
+Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
 
 # §3 Skulder till engagerade
 
