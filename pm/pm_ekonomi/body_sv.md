@@ -141,10 +141,17 @@ Mat till en interngrupp får endast köpas som del av teambuilding eller i samba
 
 ## §7.3 Bokföringskonton för teambuilding, personalvård och fika
 
-Fika till intern grupp ska bokföras på bokföringskontot 7691
-Fika till event ska bokföras på bokföringskontot 4045
-Personalvård ska bokföras på bokföringskontot 7691
-Teambuilding ska bokföras på bokföringskontot 7631
+Fika till event ska bokföras på bokföringskontot 4045.
+
+Teambuilding ska bokföras på bokföringskontot 7631.
+
+Fika till intern grupp ska bokföras på bokföringskontot 7691.
+
+Personalvård ska bokföras på bokföringskontot 7691.
+
+Mat till intern grupp ska bokföras på bokföringskontot 7692.
+
+Alkohol till teambuilding ska bokföras på bokföringskontot 7693.
 
 # §8 Fonder
 
