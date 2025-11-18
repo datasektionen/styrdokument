@@ -61,7 +61,7 @@ Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
 ## §6.1 Inköp via faktura
 
-Köp via faktura får göras av sektionens funktionärer eller med godkännande av firmatecknare.
+Köp via faktura får göras med godkännande av firmatecknare.
 
 Alla fakturor i sektionens namn ska laddas upp på Cashflow, skickas till sektionens gällande fakturaadress, eller skickas till sektionen genom en av Kassör angiven metod. 
 
