@@ -36,7 +36,7 @@ Vid sittningar som nyttjar sektionens alkoholtillstånd ansvarar serveringsansva
 
 # §9 Arrangemang utanför det permanenta serveringstillståndet
 
-Vid arrangemang utanför sektionens permanenta serveringstillstånd ska nödvändiga tillstånd skaffas. Om tillfälligt alkoholtillstånd ej erhållits ska alkoholservering likväl endast ske i enlighet med alkohollagen. Detta innebär exempelvis att alkoholförsäljning med vinstintresse på Osqvik endast får ske om tillstånd erhållits. All alkohol som serveras utanför sektionens alkoholtillstånd måste köpas från Systembolaget och får inte tas från sektionens alkohollager.
+Vid arrangemang utanför sektionens permanenta serveringstillstånd ska nödvändiga tillstånd skaffas. Om tillfälligt alkoholtillstånd ej erhållits ska alkoholservering likväl endast ske i enlighet med alkohollagen. Detta innebär exempelvis att alkoholförsäljning på Osqvik endast får ske om tillstånd erhållits. All alkohol som serveras utanför sektionens alkoholtillstånd måste köpas från Systembolaget och får inte tas från sektionens alkohollager.
 
 # §10 Alkohol bakom bardisk
 
