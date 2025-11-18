@@ -14,10 +14,6 @@ Denna policy omfattar samtliga aktiviteter som genomförs i sektionens regi elle
 
 För att få öppna baren krävs godkännande av Ordförande eller Klubbmästare. Vid alkoholevent på KTH kräver KTH att det görs en festanmälan. Denna festanmälan ska även skickas till Ordförande. När baren öppnas måste det finnas en serveringsansvarig som har genomfört STAD-utbildningen. Denna person måste även vara registrerad hos Tillståndsenheten som serveringsansvarig hos Datasektionen. Det ska också finns en person som är festansvarig som har genomgått KTH:s FEST-utbildning.
 
-# §4 Alkohol under skoltid
-
-08:00–17:00 varje helgfri vardag är att betrakta som skoltid, och under denna tid får alkohol ej förtäras i sektionslokalen om det ej är som del i ett arrangemang för vilken lokalen är bokad.
-
 # §5 Alkohol utanför sektionslokalen
 
 Det är inte tillåtet att medföra sektionens alkohol ut från serveringsytan, även om baren är stängd, i annat ändamål än att flytta alkoholen till ett av sektionen genomfört arrangemang eller för att lämna tillbaka alkoholen till återförsäljare.
