@@ -197,7 +197,7 @@ Firmatecknare äger även rätten att dra in personers accesser, det ska däreft
 
 # §11 Attest
 
-Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 
