@@ -75,7 +75,7 @@ Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Näm
 
 # §7 Budget
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med styrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras och godkänna denna innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med styrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
 
 ## §7.1 Skyldighet
 
