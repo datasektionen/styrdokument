@@ -31,9 +31,11 @@ Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spende
 
 # §3 Skulder till engagerade
 
-Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
+Utlägg för inköp åt sektionen ska senast registreras 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att utlägget är giltigt.
 
-Kvitton som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
+Ett utlägg är inte giltigt om det överskrider budgeten, strider mot något av sektionens styrdokument eller inte innehåller ett komplett kvitto.
+
+Utlägg som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
 
 # §4 Lager
 
