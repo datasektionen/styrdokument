@@ -9,18 +9,12 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
 
 ## §2.1 Bokföringspliktiga nämnder
-### §2.1.1 Sektionslokalsgruppen
-Sektionslokalsgruppen är bokföringspliktigt.
-### §2.1.2 DKM
-DKM är bokföringspliktigt.
-### §2.1.3 Mottagningen 
-Mottagningen är bokföringspliktig.
-### §2.1.4 Näringslivsgruppen 
-Näringslivsgruppen är bokföringspliktig.
-### §2.1.5 D-Dagen
-D-Dagen är bokföringspliktigt.
-### §2.1.6 Medias Klubbmästeri
-Medias Klubbmästeri är bokföringspliktigt. 
+
+Följande nämnder är bokföringspliktiga:
+- Sektionslokalgruppen
+- DKM
+- Näringslivsgruppen
+- Medias Klubbmästeri.
 
 ## §2.2 Alkohol
 
