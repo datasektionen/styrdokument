@@ -24,11 +24,37 @@ Information i inofficiella kanaler ska överensstämma med den som finns i de of
 
 Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av sammanfattas på engelska vid efterfrågan av en medlem. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
 
-# §5 Anmälningar till arrangemang
+# 5 Anmälningar till arrangemang
 
-Arrangemang anordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera platser till personer som har hedersplats på arrangemanget. Vilka personer som ska ha en sådan hedersplats bestäms i samråd med styrelsen innan anmälan till arrangemanget öppnar för övriga medlemmar. Om platsreservation sker måste det faktumet framgå vid anmälan till arrangemanget.
+## 5.1 Tillgänglighet
 
-Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras i sektionens officiella kanaler minst 3 dagar innan evenemangsdatumet. Vidare ska alla sektionsmedlemmar (utöver de med reserverade platser) som anmäler sig inom 3 dagar från att evenemanget annonserats, eller inom 5 minuter från anmälan öppnat ha samma chans att få en plats till evenemanget. Detta betyder att platstilldelning via till exempel först till kvarn endast får tillämpas först 3 dagar efter att evenemanget har annonserats och inte kan gälla de som anmält sig inom 5 minuter från att anmälan öppnats.
+Arrangemang som riktas till sektionens medlemmar ska säkerställa att alla som rimligen kan antas vara intresserade har god möjlighet att känna till anmälan innan platserna tar slut.
+
+Anmälan ska öppnas samtidigt för samtliga sektionsmedlemmar.
+
+Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras minst 3 dagar innan evenemangsdatumet.
+
+Arrangemang får inte kräva inloggning i någon extern tjänst för tillgång till anmälan eller information om arrangemanget. Inloggning med KTH-konto eller i sektionens egna system är dock tillåtet.
+
+## 5.2 Rättvis tilldelning av biljetter
+
+Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemanget.
+- Om tiden mellan annonsering och anmälans öppnande är 3 dagar eller mer, ska alla som anmäler sig inom de första 5 minuterna efter biljettsläpp ha lika chans att få en plats.
+- Om tiden mellan annonsering och anmälans öppnande är mindre än 3 dagar, ska alla som anmäler sig inom 3 dagar från annonseringen ha lika chans att få en plats.
+
+Platstilldelning baserad på exempelvis först till kvarn får endast tillämpas för anmälningar som görs efter den aktuella tidsramen (dvs. efter de första 5 minuterna eller efter 3 dagar, beroende på vilket som gäller).
+
+## 5.3 Reservplatser
+
+De som anmält sig inom den tidsram som ger lika chans till plats ska hamna först i eventuell reservlista till arrangemanget. De som anmält sig efter den tidsramen bör tilldelas plats i reservlistan via först till kvarn.
+
+## 5.4 Reserverade platser
+
+Det är tillåtet att reservera platser för personer på arrangemanget, till exempel hedersgäster, representanter, alumner, tävlingsvinnare, tidigare arrangörer som inte haft möjlighet att delta på arrangemanget eller personer med särskild roll under arrangemanget.
+
+Vilka personer som ska tilldelas en reserverad plats beslutas i samråd med styrelsen innan anmälan till arrangemanget öppnar för övriga medlemmar.
+
+Om platsreservation sker ska detta framgå tydligt vid anmälan till arrangemanget.
 
 # §6 Känsliga uppgifter
 
