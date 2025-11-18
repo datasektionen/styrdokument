@@ -82,7 +82,7 @@ Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt plan
 Projektledarmedaljen består av ett gyllene delta med ett gul-cerise-gult band med vita skiljelinjer mellan.
 
 #### §2.3.2.3 Urval
-För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
+För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillfört något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
 
 #### §2.3.2.4 Utdelning
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
