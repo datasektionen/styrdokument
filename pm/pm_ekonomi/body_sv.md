@@ -187,14 +187,13 @@ Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då a
 
 # §10 Accesser
 
-Firmatecknare och Vice kassör har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
-Revisorer har tillgång till att se sektionens samtliga tillgångar och transaktioner på banken.
+Firmatecknare och Vice kassör har läs- och hanteringsaccess i banken. Revisorer har läsaccess i banken och i bokföringssystemet.
 
-Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller projekt. DM kan besluta om tillgångar till att hantera sektionens tillgångar. FIrmatecknare utfärdar accesser till att se tillgångar och transaktioner till nämndordförande, projektledare och bokföringsansvariga. 
+Kassör har bokförings- och faktureringsaccess i bokföringssystemet. Vice kassör har bokföringsaccess i bokföringssystemet.
 
-Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt till att se tillgångar och transaktioner på nämndens/projektets bankkonto.
+Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller projekt. DM kan besluta om att tilldela eller dra in personers accesser.
 
-Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att ge andra personer tillgång till att se och/eller hantera sektionens tillgångar. Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
+Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
 # §11 Attest
 
