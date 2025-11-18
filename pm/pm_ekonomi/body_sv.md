@@ -24,6 +24,11 @@ Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spende
 
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
+Följande återkommande projekt är bokföringspliktiga:
+- METAspexet
+- Mottagningen
+- D-Dagen.
+
 # §3 Skulder till engagerade
 
 Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
