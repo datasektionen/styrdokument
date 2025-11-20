@@ -1120,7 +1120,7 @@ Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgru
 
 ### §3.2.4 Period
 
-Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+Nya dÅre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
 
