@@ -915,6 +915,7 @@ Tillhör Informationsorganet.
 ### §2.21.3 Verksamhet
 
 Redaqtionen ska:
+
 - ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
 
 - ge ut en nØlledbuggen till nØllan under Mottagningen
@@ -1085,18 +1086,15 @@ METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projek
 
 - Att sätta upp spexföreställningar under nästkommande kalenderår.
 
-- Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de kän-
-ner att de bidrar till ett större projekt.
+- Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de känner att de bidrar till ett större projekt.
 
 - Att ge medlemmar möjlighet att lära sig nya saker tillsammans och av varandra.
 
-- Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som re-
-lationerna mellan sektionernas medlemmar.
+- Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som relationerna mellan sektionernas medlemmar.
 
 ### §3.1.4 Period
 
-Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess
-föreställningar har skett nästkommande kalenderår.
+Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess föreställningar har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
 
