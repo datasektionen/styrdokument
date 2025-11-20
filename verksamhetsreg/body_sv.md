@@ -8,25 +8,25 @@
 
 Är ordförande för Ada.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.2 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.3 D-Dagenansvariga
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:a december nästkommande år.
 
-### §1.1.4 Desctop
+### §1.1.4 DESCtop
 
 Är ordförande för Datasektionens E-Sports Community.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.5 D-fest
 
@@ -34,7 +34,7 @@ Väljs i Period 4. Har läsår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.1.6 Dives Ordförande
+### §1.1.6 Dives ordförande
 
 Är ordförande för Dive.
 
@@ -50,39 +50,39 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
-Väljs i Period 2. Har kalenderår som mandatperiod
+Väljs i period 2. Har kalenderår som mandatperiod
 
 ### §1.1.9 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.10 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.11 Kommunikatör
 
 Är ordförande för Kommunikationsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.12 Konglig Lokalchef
 
 Är ordförande för Sektionslokalsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.13 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
-### §1.1.14 Medias Klubbmästare
+### §1.1.14 Medias klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
 
@@ -92,67 +92,67 @@ Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december
 
 Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.16 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.17 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.18 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.19 Sektionshistoriker
 
 Är ordförande för GUDAR.
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.20 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.21 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs på SM i Period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
+Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §1.1.22 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
 
 ### §1.1.23 Systemansvarig
 
 Är ordförande för Systemgruppen.
 
-Väljs i Period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §1.1.24 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
-Väljs på SM i Period 3. Har mandatperiod från 1:a april till 31:a mars.
+Väljs på SM i period 3. Har mandatperiod från 1:a april till 31:a mars.
 
 ### §1.1.25 ÄrkeDEMON
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.1.26 STUDS-ansvarig
 
@@ -182,7 +182,7 @@ Datas Art Director ska:
 
 #### §1.2.1.3 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.2.2 Fanbärare
 
@@ -208,9 +208,9 @@ Fanbärare ska:
 
 #### §1.2.2.4 Mandatperiod
 
-Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatperiod.
+Fanbärare och Vice fanbärare Väljs i period 2 och har kalenderår som mandatperiod.
 
-### §1.2.3 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+### §1.2.3 Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
 #### §1.2.3.1 Ändamål
 
@@ -218,13 +218,13 @@ Fanbärare och Vice fanbärare Väljs i Period 2 och har kalenderår som mandatp
 
 #### §1.2.3.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, Mångfalds- och Likabehandlingsansvarig.
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Jämlikhets-, mångfalds- och likabehandlingsansvarig.
 
 Tillhör Påverkansorganet.
 
 #### §1.2.3.3 Verksamhet
 
-Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
+Jämlikhets-, mångfalds- och likabehandlingsansvarig ska
 
 - ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
 
@@ -250,7 +250,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska
 
 #### §1.2.3.4 Mandatperiod
 
-Väljs i Period 4. Har läsår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.2.4 Kårfullmäktigeledamöter
 
@@ -268,7 +268,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §1.2.4.4 Mandatperiod
 
-Alla mandat tilldelade sektionen Väljs i Period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen Väljs i period 3 och har läsår som mandatperiod.
 
 ### §1.2.5 Ljud- och ljusansvarig
 
@@ -290,7 +290,7 @@ Ljud- och ljusansvarig ska
 
 #### §1.2.5.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.2.6 Programansvarig student
 
@@ -320,7 +320,7 @@ Programansvarig student ska
 
 #### §1.2.6.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §1.2.7 Studiemiljöansvarig
 
@@ -356,7 +356,7 @@ Studiemiljöansvarig ska
 
 #### §1.2.7.4 Mandatperiod
 
-Väljs i Period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 # §2 Nämnder
 
@@ -502,9 +502,9 @@ D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar 
 
 ### §2.6.2 Organisation
 
-D-festeriet leds av D-Fest.
+D-festeriet leds av D-fest.
 
-Övriga medlemmar utses av D-Fest.
+Övriga medlemmar utses av D-fest.
 
 Tillhör Eventorganet.
 
@@ -692,7 +692,7 @@ Jämlikhetsnämnden ska värna om jämlikhet och mångfald på sektionen och arb
 
 ### §2.13.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, Mångfalds- och Likabehandlingsansvarig ska också ingå i nämnden.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling, samt Jämlikhets-, mångfalds- och likabehandlingsansvarig ska också ingå i nämnden.
 
 Övriga medlemmar utses av Jämlikhetsnämndens ordförande.
 
@@ -706,7 +706,7 @@ Jämlikhetsnämnden ska:
 
 - arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
 
-- samarbeta med Jämlikhets-, Mångfalds- och Likabehandlingsansvarig och Ledamot för Studiemiljö och Likabehandling med syfte att förbättra JML på sektionen
+- samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för studiemiljö och likabehandling med syfte att förbättra JML på sektionen
 
 - skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
 
@@ -730,7 +730,7 @@ Tillhör Eventorganet.
 
 ### §2.14.3 Verksamhet
 
-Datas Klubbmästeri (DKM) ska:
+Datas klubbmästeri (DKM) ska:
 
 - arrangera fester, jippon, pubar och andra sociala arrangemang
 
@@ -760,9 +760,9 @@ Kommunikationsgruppen ska:
 
 - Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
 
-## §2.16 Medias Klubbmästeri
+## §2.16 Medias klubbmästeri
 
-Medias Klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
+Medias klubbmästeri, MKM, dess medlemmar utses av D-rektoratet.
 
 MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
@@ -836,7 +836,7 @@ Näringslivsgruppen ska:
 
 - göra reklam för sektionen och datateknikprogrammet gentemot näringslivet, att visa att sektionen finns och upprätthålla en god bild av sektionen utåt
 
-- tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför Studs och D-Dagens verksamhet
+- tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför STUDS och D-Dagens verksamhet
 
 - hålla och ständigt förbättra kontakten med näringslivet
 
@@ -1049,7 +1049,7 @@ Systemgruppen ska:
 
 ### §2.25.1 Ändamål
 
-Studs är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. Studs, din språngbräda in i arbetslivet.
+STUDS är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. STUDS, din språngbräda in i arbetslivet.
 
 ### §2.25.2 Organisation
 
@@ -1095,7 +1095,7 @@ lationerna mellan sektionernas medlemmar.
 
 ### §3.1.4 Period
 
-Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess
+Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att alla dess
 föreställningar har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
@@ -1120,7 +1120,7 @@ Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgru
 
 ### §3.2.4 Period
 
-Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+Nya dåre-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att dess planerade skidresa skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
 
@@ -1146,7 +1146,7 @@ Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
 
 ### §3.3.4 Period
 
-Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade sittning skett nästkommande kalenderår.
+Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att dess planerade sittning skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Vårbalen <år>, där <år> är det år Vårbalens sittning planeras hållas.
 
@@ -1174,7 +1174,7 @@ Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgr
 
 ### §3.4.4 Period
 
-Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet framtill
+Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet fram till
 att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
@@ -1227,7 +1227,7 @@ Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som 
 
 ### §3.5.5 Period
 
-Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet framtill att Mottagningen skett nästkommande kalenderår.
+Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
@@ -1257,6 +1257,6 @@ D-Dagen ska:
 
 ### §3.6.4 D-Dagen
 
-Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att D-Dagen skett nästkommande kalenderår.
+Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att D-Dagen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
