@@ -6,41 +6,42 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 
 # §2 Bokföringsplikt
 
-Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av Kassör.
+Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
 
 ## §2.1 Bokföringspliktiga nämnder
-### §2.1.1 Sektionslokalsgruppen
-Sektionslokalsgruppen är bokföringspliktigt.
-### §2.1.2 DKM
-DKM är bokföringspliktigt.
-### §2.1.3 Mottagningen 
-Mottagningen är bokföringspliktig.
-### §2.1.4 Näringslivsgruppen 
-Näringslivsgruppen är bokföringspliktig.
-### §2.1.5 D-Dagen
-D-Dagen är bokföringspliktigt.
-### §2.1.6 Medias Klubbmästeri
-Medias Klubbmästeri är bokföringspliktigt. 
 
-## §2.2 Alkohol
+Följande nämnder är bokföringspliktiga:
+- Sektionslokalgruppen
+- DKM
+- Näringslivsgruppen
+- Medias Klubbmästeri.
 
-Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
-
-## §2.3 Bokföringsplikt för projekt
+## §2.2 Bokföringsplikt för projekt
 
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
+Följande återkommande projekt är bokföringspliktiga:
+- METAspexet
+- Mottagningen
+- D-Dagen.
+
+## §2.3 Alkohol
+
+Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
+
 # §3 Skulder till engagerade
 
-Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
+Utlägg för inköp åt sektionen ska senast registreras 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att utlägget är giltigt.
 
-Kvitton som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
+Ett utlägg är inte giltigt om det överskrider budgeten, strider mot något av sektionens styrdokument eller inte innehåller ett komplett kvitto.
+
+Utlägg som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
 
 # §4 Lager
 
 ## §4.1 Förvaltning av dryckeslager
 
-DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager från DKM. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
+DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
 Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
@@ -60,13 +61,13 @@ Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
 ## §6.1 Inköp via faktura
 
-Inköp på faktura betyder för det mesta att man nyttjar ett av sektionens kreditavtal. Detta får göras av sektionens funktionärer, både direkt (att funktionären nyttjar kreditavtalet) eller indirekt (att annan person nyttjar kreditavtalet på order av funktionär). Det är funktionärens ansvar att se till att det finns utrymme i budget för kostnaderna. Det går i regel bra att nyttja kreditavtal skrivna av andra organ inom sektionen än det man handlar för, men personen som gör inköpet ansvarar själv för att vara informerad om kreditavtalets gränser.
+Köp via faktura får göras med godkännande av firmatecknare.
 
-Stora inköp på över ett prisbasbelopp som kan komma att påverka sektionens ekonomi i stort ska meddelas Kassör så fort det blir känt.
+Alla fakturor i sektionens namn ska laddas upp på Cashflow, skickas till sektionens gällande fakturaadress, eller skickas till sektionen genom en av Kassör angiven metod. 
 
-Alla fakturor i sektionens namn skickas till sektionens gällande fakturaadress, eller av Kassör angiven metod.
+Vid inköp via faktura ansvarar personen som genomför köpet att det är giltigt och ryms inom budgeten. Denne ansvarar även för att fakturan skickas till betalningsansvarig i tid.
 
-Endast firmatecknare har rätt att ingå avtal för sektionen. Köp via faktura räknas som att ingå avtal. Därmed behövs antingen en fullmakt att ingå avtal, ett existernade kreditavtal eller att fakturan ställs ut till en medlem. 
+Om ett ej giltigt köp genomförs genom att fakturera sektionen, är den som genomförde köpet betalningsskyldig för fakturans belopp.
 
 ## §6.2 Försäljning via faktura
 
@@ -74,7 +75,7 @@ Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Näm
 
 # §7 Budget
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med styrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras och godkänna denna innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med styrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
 
 ## §7.1 Skyldighet
 
@@ -134,12 +135,23 @@ arbetstillfället.
 
 Med personalvård avses enklare förtäring av mindre värde som ej ersätter måltid. Personalvårdsbudget får ej bekosta alkohol
 
+#### §7.2.2.4 Mat intern grupp
+
+Mat till en interngrupp får endast köpas som del av teambuilding eller i samband med utbildning.
+
 ## §7.3 Bokföringskonton för teambuilding, personalvård och fika
 
-Fika till intern grupp ska bokföras på bokföringskontot 7691
-Fika till event ska bokföras på bokföringskontot 4045
-Personalvård ska bokföras på bokföringskontot 7691
-Teambuilding ska bokföras på bokföringskontot 7631
+Fika till event ska bokföras på bokföringskontot 4045.
+
+Teambuilding ska bokföras på bokföringskontot 7631.
+
+Fika till intern grupp ska bokföras på bokföringskontot 7691.
+
+Personalvård ska bokföras på bokföringskontot 7691.
+
+Mat till intern grupp ska bokföras på bokföringskontot 7692.
+
+Alkohol till teambuilding ska bokföras på bokföringskontot 7693.
 
 # §8 Fonder
 
@@ -169,26 +181,23 @@ Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en
 
 # §9 Subventionering av profilkläder
 
-Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform avgörs av styrelsen och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
-
 Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
 
 Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
 
 # §10 Accesser
 
-Firmatecknare och Vice kassör har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
-Revisorer har tillgång till att se sektionens samtliga tillgångar och transaktioner på banken.
+Firmatecknare och Vice kassör har läs- och hanteringsaccess i banken. Revisorer har läsaccess i banken och i bokföringssystemet.
 
-Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller projekt. DM kan besluta om tillgångar till att hantera sektionens tillgångar. FIrmatecknare utfärdar accesser till att se tillgångar och transaktioner till nämndordförande, projektledare och bokföringsansvariga. 
+Kassör har bokförings- och faktureringsaccess i bokföringssystemet. Vice kassör har bokföringsaccess i bokföringssystemet.
 
-Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt till att se tillgångar och transaktioner på nämndens/projektets bankkonto.
+Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller projekt. DM kan besluta om att tilldela eller dra in personers accesser.
 
-Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att ge andra personer tillgång till att se och/eller hantera sektionens tillgångar. Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
+Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
 # §11 Attest
 
-Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. De som äger rätten att attestera/avslå en utgift för organ är i stigande ordning Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 

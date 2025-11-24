@@ -28,7 +28,7 @@ D-rektoratet tar beslut om vilken kandidat som nomineras och rapporterar beslute
 Stipendiet regleras i enlighet med THS PM för Utmärkelser.
 
 ### §1.3.2 Nominering
-Nominering kan ske på två sätt, antingen från en enskild sektionsmedlem direkt till THS eller via sektionens officiella nominering. Nominering från en enskild sektionsmedlem sker i enlighet med THS PM för Utmärkelser. Nomineringsmöjligheten ska marknadsföras i sektionens informationskanaler i enlighet med PM för informationsspridning av antingen Jämlikhetsnämndens Ordförande eller D-rektoratet. Via denna nominering kan medlem av THS nomineras. Nominering via sektionens officiella nominering sker på vårterminen. D-rektoratet beslutar om nomineringstid för sektionsmedlemmar, men nomineringstiden ska vara minst två veckor lång. Nominering sker till D-rektoratet. Via denna nominering kan sektionsmedlem nomineras.
+Nominering kan ske på två sätt, antingen från en enskild sektionsmedlem direkt till THS eller via sektionens officiella nominering. Nominering från en enskild sektionsmedlem sker i enlighet med THS PM för Utmärkelser. Nomineringsmöjligheten ska marknadsföras i sektionens informationskanaler i enlighet med PM för informationsspridning av D-rektoratet. Via denna nominering kan medlem av THS nomineras. Nominering via sektionens officiella nominering sker på vårterminen. D-rektoratet beslutar om nomineringstid för sektionsmedlemmar, men nomineringstiden ska vara minst två veckor lång. Nominering sker till D-rektoratet. Via denna nominering kan sektionsmedlem nomineras.
 
 ### §1.3.3 Beslut
 D-rektoratet tar beslut om vilken kandidat som nomineras genom sektionens officiella nominering och rapporterar beslutet till THS, samt på nästkommande SM.
