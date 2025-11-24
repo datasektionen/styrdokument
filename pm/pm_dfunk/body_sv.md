@@ -52,11 +52,11 @@ D-rektoratet är skyldiga att göra för att visa sin uppskattning.
 
 ## §2.1 Skiftes
 
-Två gånger per år, en gång på hösten och en gång på våren, ska D-fest å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-fest med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-fest.
+Två gånger per år, en gång på hösten och en gång på våren, ska D-festeriet å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-festeriet med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-festeriet.
 
 ## §2.2 Teambuilding
 
-Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
+Flera gånger per år ska D-festeriet å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
 
 ## §2.3 Medaljer
 
