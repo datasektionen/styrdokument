@@ -44,6 +44,7 @@ Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats t
 
 Platstilldelning baserad på exempelvis först till kvarn får endast tillämpas för anmälningar som görs efter den aktuella tidsramen (dvs. efter de första 5 minuterna eller efter 3 dagar, beroende på vilket som gäller).
 
+Undantag från förbudet av först till kvarn kan göras om arrangemanganordnare bedömer att ingen som anmält sig inom tidsramen kommer bli utan biljett. Om minst en person inte får biljett trots att denne anmält sig inom tidsramen skall tilldelningen av biljetter göras om via lottning för de som anmält sig inom tidsramen.
 ## 5.3 Reservplatser
 
 De som anmält sig inom den tidsram som ger lika chans till plats ska hamna först i eventuell reservlista till arrangemanget. De som anmält sig efter den tidsramen bör tilldelas plats i reservlistan via först till kvarn.
