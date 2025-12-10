@@ -38,7 +38,7 @@ Arrangemang får inte kräva inloggning i någon extern tjänst för tillgång t
 
 ## 5.2 Rättvis tilldelning av biljetter
 
-Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemanget.
+Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemang som är riktade till sektionens medlemmar i stort.
 - Om tiden mellan annonsering och anmälans öppnande är 3 dagar eller mer, ska alla som anmäler sig inom de första 5 minuterna efter biljettsläpp ha lika chans att få en plats.
 - Om tiden mellan annonsering och anmälans öppnande är mindre än 3 dagar, ska alla som anmäler sig inom 3 dagar från annonseringen ha lika chans att få en plats.
 
