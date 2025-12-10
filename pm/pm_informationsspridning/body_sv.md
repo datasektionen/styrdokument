@@ -32,7 +32,7 @@ Arrangemang som riktas till sektionens medlemmar ska säkerställa att alla som 
 
 Anmälan ska öppnas samtidigt för samtliga sektionsmedlemmar.
 
-Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras minst 3 dagar innan evenemangsdatumet.
+Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras minst 3 dagar innan arrangemangsdatumet.
 
 Arrangemang får inte kräva inloggning i någon extern tjänst för tillgång till anmälan eller information om arrangemanget. Inloggning med KTH-konto eller i sektionens egna system är dock tillåtet.
 
