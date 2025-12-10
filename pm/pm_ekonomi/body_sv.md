@@ -185,7 +185,10 @@ Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som
 
 Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
 
-# §10 Accesser
+# $10 Delade licenser
+Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen.
+
+# §11 Accesser
 
 Firmatecknare och Vice kassör har läs- och hanteringsaccess i banken. Revisorer har läsaccess i banken och i bokföringssystemet.
 
@@ -195,7 +198,7 @@ Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller pro
 
 Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
-# §11 Attest
+# §12 Attest
 
 Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
@@ -205,17 +208,17 @@ Ifall det inte finns någon person som får attestera ett utlägg ska Ordförand
 
 Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflow.
 
-# §12 Avtal
+# §13 Avtal
 
 Avtal kan enligt svensk lag endast undertecknas av firmatecknare eller innehavare av fullmakt. Den som önskar skriva på ett avtal i sektionens namn ska så snabbt som möjligt kontakta firmatecknare för att utreda möjligheten till att göra det. Avtal eller utfärdande av fullmakt beslutas om att skrivas under antingen genom DM, med stöd i styrdokument eller med standardavtal. Avtal kan i undantagsfall skrivas under retroaktivt. Den som med fullmakt skriver under ett avtal i sektionens namn ansvarar för att original omgående kommer firmatecknare tillhanda. Firmatecknare ansvarar för att förvara sektionens alla gällande avtal ordnat och samlat.
 
-# §13 Investeringsregler
+# §14 Investeringsregler
 
-## §13.1 Beslut av köp
+## §14.1 Beslut av köp
 
 Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebeslut.
 
-## §13.2 Risk
+## §14.2 Risk
 
 För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
 
