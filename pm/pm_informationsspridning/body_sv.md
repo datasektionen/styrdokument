@@ -32,19 +32,21 @@ Arrangemang som riktas till sektionens medlemmar ska säkerställa att alla som 
 
 Anmälan ska öppnas samtidigt för samtliga sektionsmedlemmar.
 
-Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras minst 3 dagar innan evenemangsdatumet.
+Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras minst 3 dagar innan arrangemangsdatumet.
 
 Arrangemang får inte kräva inloggning i någon extern tjänst för tillgång till anmälan eller information om arrangemanget. Inloggning med KTH-konto eller i sektionens egna system är dock tillåtet.
 
 ## §5.2 Rättvis tilldelning av biljetter
 
-Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemanget.
+Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemang som är riktade till sektionens medlemmar i stort.
 - Om tiden mellan annonsering och anmälans öppnande är 3 dagar eller mer, ska alla som anmäler sig inom de första 5 minuterna efter biljettsläpp ha lika chans att få en plats.
 - Om tiden mellan annonsering och anmälans öppnande är mindre än 3 dagar, ska alla som anmäler sig inom 3 dagar från annonseringen ha lika chans att få en plats.
 
 Platstilldelning baserad på exempelvis först till kvarn får endast tillämpas för anmälningar som görs efter den aktuella tidsramen (dvs. efter de första 5 minuterna eller efter 3 dagar, beroende på vilket som gäller).
 
-## §5.3 Reservplatser
+Undantag från förbudet av först till kvarn kan göras om arrangemanganordnare bedömer att ingen som anmält sig inom tidsramen kommer bli utan biljett. Om minst en person inte får biljett trots att denne anmält sig inom tidsramen skall tilldelningen av biljetter göras om via lottning för de som anmält sig inom tidsramen.
+
+## 5.3 Reservplatser
 
 De som anmält sig inom den tidsram som ger lika chans till plats ska hamna först i eventuell reservlista till arrangemanget. De som anmält sig efter den tidsramen bör tilldelas plats i reservlistan via först till kvarn.
 
