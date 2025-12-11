@@ -24,9 +24,9 @@ Information i inofficiella kanaler ska överensstämma med den som finns i de of
 
 Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av sammanfattas på engelska vid efterfrågan av en medlem. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
 
-# 5 Anmälningar till arrangemang
+# §5 Anmälningar till arrangemang
 
-## 5.1 Tillgänglighet
+## §5.1 Tillgänglighet
 
 Arrangemang som riktas till sektionens medlemmar ska säkerställa att alla som rimligen kan antas vara intresserade har god möjlighet att känna till anmälan innan platserna tar slut.
 
@@ -36,7 +36,7 @@ Arrangemang som är riktade till sektionens medlemmar i stort skall annonseras m
 
 Arrangemang får inte kräva inloggning i någon extern tjänst för tillgång till anmälan eller information om arrangemanget. Inloggning med KTH-konto eller i sektionens egna system är dock tillåtet.
 
-## 5.2 Rättvis tilldelning av biljetter
+## §5.2 Rättvis tilldelning av biljetter
 
 Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats till arrangemang som är riktade till sektionens medlemmar i stort.
 - Om tiden mellan annonsering och anmälans öppnande är 3 dagar eller mer, ska alla som anmäler sig inom de första 5 minuterna efter biljettsläpp ha lika chans att få en plats.
@@ -45,11 +45,12 @@ Alla som anmäler sig inom angiven tidsram ska ha samma chans att få en plats t
 Platstilldelning baserad på exempelvis först till kvarn får endast tillämpas för anmälningar som görs efter den aktuella tidsramen (dvs. efter de första 5 minuterna eller efter 3 dagar, beroende på vilket som gäller).
 
 Undantag från förbudet av först till kvarn kan göras om arrangemanganordnare bedömer att ingen som anmält sig inom tidsramen kommer bli utan biljett. Om minst en person inte får biljett trots att denne anmält sig inom tidsramen skall tilldelningen av biljetter göras om via lottning för de som anmält sig inom tidsramen.
+
 ## 5.3 Reservplatser
 
 De som anmält sig inom den tidsram som ger lika chans till plats ska hamna först i eventuell reservlista till arrangemanget. De som anmält sig efter den tidsramen bör tilldelas plats i reservlistan via först till kvarn.
 
-## 5.4 Reserverade platser
+## §5.4 Reserverade platser
 
 Det är tillåtet att reservera platser för personer på arrangemanget, till exempel hedersgäster, representanter, alumner, tävlingsvinnare, tidigare arrangörer som inte haft möjlighet att delta på arrangemanget eller personer med särskild roll under arrangemanget.
 
