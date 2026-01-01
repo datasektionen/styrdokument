@@ -246,7 +246,7 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i ka
 
 Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
 
-Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+Hedersmedlemmar, alumnimedlemmar, ledamöter i THS styrelse, THS revisorer, medlemmar i THS kårledning och medlemmar i Sektionen för Medieteknik har närvaro- och yttranderätt. Dessutom kan VM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
 ## §4.2 Kallelse
 
