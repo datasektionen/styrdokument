@@ -347,7 +347,7 @@ Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Ko
 
 ### §6.2.2 Beslut
 
-DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[6.2.1] Vid lika röstetal har mötesordförande utslagsröst.
+DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[6.2.1] Vid lika röstetal har mötesordförande utslagsröst. Ledamöter äger inte rätt att rösta genom ombud, utan endast genom närvaro på DM.
 
 ### §6.2.3 Protokoll
 
