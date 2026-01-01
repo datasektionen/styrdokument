@@ -296,7 +296,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §1.2.6.1 Ändamål
 
-Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
+Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan och skall verka för att studentrepresentanter involveras när beslut om programmets utformning fattas, samt följa upp tidigare utbildningspåverkansarbete.
 
 #### §1.2.6.2 Organisation
 
