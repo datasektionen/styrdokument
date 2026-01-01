@@ -284,6 +284,34 @@ Ljud- och ljusansvarig ska
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
+### §1.2.6 Mulle/Mullerin Schmeck
+
+#### §1.2.6.1 Ändamål
+
+Mulle/Mullerina Schmeck har till uppgift att underhålla sektionens fordon samt administrera över bokningar av dessa.
+
+#### §1.2.6.2 Organisation
+
+Tillhör Förvaltningsorganet.
+
+Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra sektionens fordon.
+
+#### §1.2.6.3 Verksamhet
+
+Mulle/Mullerina Schmeck ska
+
+- administrera bokningar av sektionens fordon
+
+- sköta reparation, underhåll och utveckling av sektionens fordon
+
+- utforma samt upprätthålla regler för sektionens fordon
+
+- arbeta för att en körjournal används.
+
+#### §1.2.6.4 Mandatperiod
+
+Väljs i Period 2. Har kalenderår som mandatperiod.
+
 ### §1.2.6 Programansvarig student
 
 #### §1.2.6.1 Ändamål
