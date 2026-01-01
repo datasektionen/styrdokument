@@ -134,7 +134,7 @@ Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för Studienämnden.
 
-Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar, tidigare SNO skall då agera som vice ordförande för Studienämnden, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
 
 ### §1.1.23 Systemansvarig
 
