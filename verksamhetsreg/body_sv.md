@@ -316,7 +316,9 @@ Programansvarig student ska
 
 - ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
 
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna
+
+- följa upp tidigare års utbildningspåverkansarbete.
 
 #### §1.2.6.4 Mandatperiod
 
