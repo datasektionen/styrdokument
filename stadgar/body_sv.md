@@ -162,7 +162,7 @@ Sektionsmötet, SM, är sektionens högsta beslutande organ.
 
 ## §3.1 Sammansättning
 
-Medlemmars rättigheter på sektionsmötet definieras under §[2] Medlemskap. Ledamöter i THS styrelse, THS revisorer och medlemmar i THS kårledning har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+Medlemmars rättigheter på sektionsmötet definieras under §[2] Medlemskap. Ledamöter i THS styrelse, THS revisorer, medlemmar i THS kårledning och medlemmar i Sektionen för Medieteknik har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
 ## §3.2 Uppgifter
 
