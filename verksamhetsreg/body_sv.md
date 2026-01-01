@@ -446,30 +446,6 @@ Datasektionens E-Sports Community ska:
 
 - samarbeta med Qulturnämnden för överlappande verksamhet
 
-## §2.4 Datasladden
-
-### §2.4.1 Ändamål
-
-Datasladden har till uppgift att ansvara över sektionsbilen.
-
-### §2.4.2 Organisation
-
-Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
-
-Tillhör Förvaltningsorganet.
-
-### §2.4.3 Verksamhet
-
-Datasladden ska:
-
-- administrera bokningar av sektionsbilen
-
-- sköta reparation, underhåll och utveckling av sektionsbilen
-
-- utforma samt upprätthålla regler för sektionsbilen
-
-- arbeta för att körjournalen används av alla som brukar sektionsbilen.
-
 ## §2.5 D-Dagen
 
 ### §2.5.1 Ändamål
