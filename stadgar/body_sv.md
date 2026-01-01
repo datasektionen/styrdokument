@@ -262,7 +262,7 @@ VM är beslutsmässigt när mötet är behörigt utlyst enligt §[4.2] och minst
 
 ## §4.4 Beslut
 
-Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
+Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod. Sektionsmedlem äger inte rätt att rösta genom ombud, utan endast genom personlig närvaro på VM.
 
 ## §4.5 Protokoll
 
