@@ -266,7 +266,7 @@ Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstet
 
 ## §4.5 Protokoll
 
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
 
 ## §4.6 Sammanträden
 
