@@ -254,7 +254,7 @@ D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[4.7]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[4.7]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §4.3 Beslutsmässighet
 
