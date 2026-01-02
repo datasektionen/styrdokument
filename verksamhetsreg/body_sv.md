@@ -490,7 +490,7 @@ D-Dagen ska:
 
 - se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-## §256 D-festeriet
+## §2.5 D-festeriet
 
 ### §2.5.1 Ändamål
 
