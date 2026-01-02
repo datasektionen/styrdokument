@@ -521,7 +521,7 @@ Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syf
 
 Projektledare för återkommande projekt väljs på samma sätt som övriga projektledare nästkommande SM eller VM efter projektets öppnande.
 
-Vald projektledare åläggs att inkomma med motion innehållande budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
+Vald projektledare åläggs att inkomma med motion innehållande budget för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om budgeten för denna projektomgång.
 
 Återkommande projekt har slutgiltiga mål där projekten planeras bedriva verksamhet framtill att dessa är uppfyllda. Att fortsätta verksamhet efter dessa mål uppfyllts, alternativt upphöra med verksamhet innan dessa mål uppfyllts, är möjligt om skäl för detta finns.
 
