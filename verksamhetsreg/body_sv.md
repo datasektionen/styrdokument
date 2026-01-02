@@ -134,7 +134,7 @@ Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december
 
 Är ordförande för Studienämnden.
 
-Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar.
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar, tidigare SNO skall då agera som vice ordförande för Studienämnden, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
 
 ### §1.1.23 Systemansvarig
 
@@ -296,7 +296,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §1.2.6.1 Ändamål
 
-Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
+Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan och skall verka för att studentrepresentanter involveras när beslut om programmets utformning fattas, samt följa upp tidigare utbildningspåverkansarbete.
 
 #### §1.2.6.2 Organisation
 
@@ -316,7 +316,9 @@ Programansvarig student ska
 
 - ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
 
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna
+
+- följa upp tidigare års utbildningspåverkansarbete.
 
 #### §1.2.6.4 Mandatperiod
 
