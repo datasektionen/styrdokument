@@ -181,9 +181,11 @@ Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en
 
 # §9 Subventionering av profilkläder
 
-Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
+Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i tre grupper: arbetskläder, profilkläder, och merch. Arbetskläder definieras som nödvändiga, opersonliga kläder som bör ärvas i den mån som går. Dessa bekostas helt av sektionen. Profilkläder är kläder som är menade att vara igenkänningsbara för gemene sektionsmedlem. Merch är kläder och lösegendom som är frivilliga och nöjsamma, och dessa ska ej subventioneras.
 
-Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
+Profilkläder får maximalt subventioneras till antingen 50% av inköpspriset eller 200 kr per person, gränsen som nås först är den som begränsar summan. Summan som ska subventioneras med ska budgeteras och kategoriseras som en intern kostnad.
+
+Vid sponsringen dras summan först från delen som subventioneras av sektionen.
 
 # $10 Delade licenser
 Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen.
