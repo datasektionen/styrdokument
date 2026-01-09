@@ -29,9 +29,11 @@ Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de
 
 Varje termin anordnas det en funktionärsutbildning och en JML-workshop. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-workshopen en gång under varje år du är δ-funktionär.
 
-## §1.7 Råd och möten
+## §1.7 D-råd
 
-THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra δ-funktionär och med D-rektoratet.
+D-rektoratets ledamöter anordnar ämnesspecifika råd, benämnda D-råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de D-råd som D-rektoratet beslutar att de ska ingå i.
+
+Om en δ-funktionär inte tillhör något av D-råden så kommer deras kontaktperson i D-rektoratet istället att kalla dem till individuella utvecklingssamtal och det är då δ-funktionärens skyldighet att delta i detta samtal till största möjliga mån.
 
 ## §1.8 Representant för Datasektionen
 
@@ -80,7 +82,7 @@ Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt plan
 Projektledarmedaljen består av ett gyllene delta med ett gul-cerise-gult band med vita skiljelinjer mellan.
 
 #### §2.3.2.3 Urval
-För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
+För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillfört något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
 
 #### §2.3.2.4 Utdelning
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
