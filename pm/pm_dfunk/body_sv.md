@@ -27,13 +27,11 @@ Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de
 
 ## §1.6 Gå på utbildning
 
-Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-utbildningen en gång under varje år du är δ-funktionär.
+Varje termin anordnas det en funktionärsutbildning och en JML-workshop. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-workshopen en gång under varje år du är δ-funktionär.
 
-## §1.7 D-råd
+## §1.7 Råd och möten
 
-D-rektoratets ledamöter anordnar ämnesspecifika råd, benämnda D-råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de D-råd som D-rektoratet beslutar att de ska ingå i. 
-
-Om en δ-funktionär inte tillhör något av D-råden så kommer deras kontaktperson i D-rektoratet istället att kalla dem till individuella utvecklingssamtal och det är då δ-funktionärens skyldighet att delta i detta samtal till största möjliga mån.
+THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra δ-funktionär och med D-rektoratet.
 
 ## §1.8 Representant för Datasektionen
 
@@ -52,11 +50,11 @@ D-rektoratet är skyldiga att göra för att visa sin uppskattning.
 
 ## §2.1 Skiftes
 
-Två gånger per år, en gång på hösten och en gång på våren, ska D-fest å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-fest med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-fest.
+Två gånger per år, en gång på hösten och en gång på våren, ska D-festeriet å D-rektoratets vägnar anordna en skiftesgasque som alla avgående och nyvalda δ-funktionärer kommer att bli bjudna till. D-rektoratet ska assistera D-festeriet med detta arbete och utföra skiftesgasquen på egen hand om det inte finns en D-festeriet.
 
 ## §2.2 Teambuilding
 
-Flera gånger per år ska D-fest å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
+Flera gånger per år ska D-festeriet å D-rektoratet vägnar bjuda alla δ-funktionärer på ett teambuildingtillfälle. Det är starkt rekommenderat att gå på dessa då de är både roliga och givande.
 
 ## §2.3 Medaljer
 
@@ -82,7 +80,7 @@ Projektledarmedaljen utdelas till de sektionsmedlemmar som förtjänstfullt plan
 Projektledarmedaljen består av ett gyllene delta med ett gul-cerise-gult band med vita skiljelinjer mellan.
 
 #### §2.3.2.3 Urval
-För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillför något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
+För bedömning av huruvida en projektledare arbetat förtjänstfullt ansvarar D-rektoratet. Vid denna bedömning bör särskild vikt läggas vid att projektet tillfört något för sektionens medlemmar samt att det ekonomiska resultatet inte med marginal understiger av sektionen godkänd budget.
 
 #### §2.3.2.4 Utdelning
 En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelning sker på Vårbalen eller motsvarande högtidligt tillfälle.
