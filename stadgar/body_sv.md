@@ -254,7 +254,7 @@ D-rektoratet kallar till valmöte, VM. Kallelsen ska anslås enligt stadgarna §
 
 Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar innan VM. Kompletterande handlingar kan skickas ut senast 1 dag innan aviserad mötestid.
 
-Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[4.7]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid där mötet återupptas om ajournering beslutas enligt §[4.7]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §[1.9], samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
 
 ## §4.3 Beslutsmässighet
 
@@ -262,11 +262,11 @@ VM är beslutsmässigt när mötet är behörigt utlyst enligt §[4.2] och minst
 
 ## §4.4 Beslut
 
-Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod.
+Beslut fattas med enkel majoritet såvida inget annat stadgats. Vid lika röstetal har mötesordföranden utslagsröst, förutom vid personval då lotten avgör. Sluten omröstning ska ske om någon röstberättigad deltagare så begär. VM fattar beslut med parlamentarisk voteringsmetod. Sektionsmedlem äger inte rätt att rösta genom ombud, utan endast genom personlig närvaro på VM.
 
 ## §4.5 Protokoll
 
-På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
+På VM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokollet ska anslås enligt stadgarna §[1.9] i justerat skick senast 7 dagar efter mötet.
 
 ## §4.6 Sammanträden
 
@@ -347,7 +347,7 @@ Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Ko
 
 ### §6.2.2 Beslut
 
-DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[6.2.1] Vid lika röstetal har mötesordförande utslagsröst.
+DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[6.2.1] Vid lika röstetal har mötesordförande utslagsröst. Ledamöter äger inte rätt att rösta genom ombud, utan endast genom närvaro på DM.
 
 ### §6.2.3 Protokoll
 
