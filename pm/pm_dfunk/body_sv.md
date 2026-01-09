@@ -29,11 +29,9 @@ Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de
 
 Varje termin anordnas det en funktionärsutbildning och en JML-workshop. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-workshopen en gång under varje år du är δ-funktionär.
 
-## §1.7 D-råd
+## §1.7 Råd och möten
 
-D-rektoratets ledamöter anordnar ämnesspecifika råd, benämnda D-råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de D-råd som D-rektoratet beslutar att de ska ingå i.
-
-Om en δ-funktionär inte tillhör något av D-råden så kommer deras kontaktperson i D-rektoratet istället att kalla dem till individuella utvecklingssamtal och det är då δ-funktionärens skyldighet att delta i detta samtal till största möjliga mån.
+THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra δ-funktionär och med D-rektoratet.
 
 ## §1.8 Representant för Datasektionen
 
