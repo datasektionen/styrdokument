@@ -108,8 +108,6 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 - arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna eller organen
 
-- kalla till och leda möten för Ledningsgruppen
-
 - delegera och följa upp på beslutsuppföljning inom styrelsen
 
 - kunna företräda organisationen tillsammans med Ordförande
