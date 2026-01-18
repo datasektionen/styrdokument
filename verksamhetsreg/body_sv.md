@@ -724,52 +724,6 @@ MKM regleras vidare i Sektionen för Medietekniks styrdokument.
 
 Sektionen för Medieteknik äger rätten att fakturera för personalkostnader i samband med alkoholverksamhet såvida inte faktureringen gör att MKM skulle gå med förlust sett till kalenderåret.
 
-## §2.16 Mottagningen
-
-### §2.16.1 Ändamål
-
-Mottagningen har som syfte att ta hand om och roa de nyantagna till sektionens tillhörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
-
-### §2.16.2 Organisation
-
-Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
-
-Mottagningen består av fem huvudsakliga grenar: Det Kongliga Dadderiet, Det Kongliga Drifveriet, Det Kongliga Doqumenteriet, Det Kongliga Quisineriet och Det Kongliga Ekonomeriet.
-
-Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är en del av Titel och ansvariga för att sammankalla och leda Titels arbete. Titel arbetar både strategiskt och operativt. Under mottagningens gång fungerar Titel som gruppchefer för respektive gren.
-
-Mottagningens sammansättning beslutas gemensamt av hela Titel.
-
-Tillhör Mottagningsorganet.
-
-### §2.16.3 Verksamhet
-
-Mottagningen ska:
-
-- planera och anordna aktiviteter som främjar Mottagningens ändamål
-
-- ansvara för nØllans eventuella upphöjelse till Ettan i samband med nØllegasquen
-
-- i samråd med D-rektoratet välja årskursnamn som utfärdas i samband med upphöjelsen
-
-- bistå Ettan i planering och genomförande av Mottagningstack och Ettans fest
-
-- introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
-
-- introducera de nyantagna studenterna till sektionens JML-arbete
-
-- involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
-
-### §2.16.4 Ordförandes roll
-
-Sektionens ordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla Ordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Ordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
-
-Ordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
-
-I det fall att båda posterna Storasyskon och Konglig Öfverdrif är vakantsatta är sektionens Ordförande ställföreträdande nämndordförande för Mottagningen.
-
-Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
-
 ## §2.17 Näringslivsgruppen
 
 ### §2.17.1 Ändamål
