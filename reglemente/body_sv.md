@@ -419,8 +419,6 @@ Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verks
 
 Ett organ är en samling av funktionärer, nämnder och projekt som har ett delat ansvar för en snarlik verksamhet inom sektionen.
 
-D-rektoratets ledamöter kallar till d-råd för respektive organ för att diskutera frågor som berör det organets verksamhet.
-
 ## §4.1 Organ i sektionen
 
 ### §4.1.1 Mottagningsorganet
