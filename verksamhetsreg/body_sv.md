@@ -70,12 +70,6 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Väljs i period 4. Har läsår som mandatperiod.
 
-### §1.1.13 Konglig Öfverdrif
-
-Är tillsammans med Storasyskon ansvarig för Mottagningen.
-
-Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
-
 ### §1.1.14 Medias klubbmästare
 
 Är ordförande för MKM. Väljs i enlighet med Sektionen för Medietekniks styrdokument.
