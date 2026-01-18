@@ -25,6 +25,10 @@ Sektionens traditioner, vanor, och livsregler lyder:
 * Om Konglig Datasektionen ej delar sektionslokal med en annan sektion så ska deras lokal heta ESCapen och dess adress ska bytas till Osquars Backe 27
 * Konglig Datasektionens pubar och efterkör avslutas med Closing Time
 * Konglig Datasektionens sittningar inleds med Trippeln
+* På Glass-SM bjuds det på glass
+* Mötesordförande ska ha tomteskägg på Glögg-SM
+* Partitioner är klubbar
+* DM-låten ska spelas i samband med DM:s högtidliga öppnande
 
 ## §1.2 D-rektiv
 
