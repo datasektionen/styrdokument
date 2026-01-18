@@ -104,12 +104,6 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.1.20 Storasyskon
-
-Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
-
-Väljs på SM i period 1. Har mandatperiod från 1:a november till 31:a december nästkommande år.
-
 ### §1.1.21 Studienämndens ordförande
 
 Är ordförande för Studienämnden.
