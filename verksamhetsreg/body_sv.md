@@ -1256,3 +1256,37 @@ D-Dagen ska:
 Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att D-Dagen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
+
+# §4 Organ
+
+Ett organ är en samling av funktionärer, nämnder och projekt som har ett delat ansvar för en snarlik verksamhet inom sektionen.
+
+## §4.1 Organ i sektionen
+
+### §4.1.1 Mottagningsorganet
+
+Ansvarar för mottagningen av nya studenter.
+
+### §4.1.2 Informationsorganet
+
+Ansvarar för sektionens kommunikation inåt och utåt.
+
+### §4.1.3 Studiesociala organet
+
+Ansvarar för all öppen studiesocial verksamhet.
+
+### §4.1.4 Eventorganet
+
+Ansvarar för all studiesocial verksamhet i formen av större evenemang.
+
+### §4.1.5 Näringslivsorganet
+
+Ansvarar för att samordna sektionens näringslivsverksamhet.
+
+### §4.1.6 Förvaltningsorganet
+
+Ansvarar för att förvalta och utveckla sektionens faciliteter.
+
+### §4.1.7 Påverkansorganet
+
+Ansvarar för sektionens påverkansarbete inom studiefrågor gentemot THS och KTH.
