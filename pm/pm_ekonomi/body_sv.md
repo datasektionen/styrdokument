@@ -37,6 +37,12 @@ Ett utlägg är inte giltigt om det överskrider budgeten, strider mot något av
 
 Utlägg som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
 
+## §3.1 Kvittostopp
+
+Kassör har rätt att i samband med verksamhetsårets slut utlysa kvittostopp, inför vilket samtliga utlägg skall vara registrerade. Utlägg som inte attesterats eller som saknar nödvändig information kan raderas som tidigast 7 dagar efter utlyst datum för kvittostopp.
+
+Planerad verksamhet skall tas i beaktning vid val av datum för kvittostopp. Det valda datumet får vara som tidigast 14 dagar innan verksamhetsårets slut och skal lysas åtminstone 10 dagar innan.
+
 # §4 Lager
 
 ## §4.1 Förvaltning av dryckeslager
