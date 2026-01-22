@@ -684,8 +684,7 @@ DKM leds av Klubbmästare.
 
 Tillhör Eventorganet.
 
-### §2.13
-2.3 Verksamhet
+### §2.12.3 Verksamhet
 
 Datas klubbmästeri (DKM) ska:
 
