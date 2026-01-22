@@ -1281,7 +1281,7 @@ Jubileumsmarskalk ansvarar för att rekrytera samt leda dJubileets projektgrupp.
 
 ### §3.7.4 Period
 
-Nya dJubileum-projekt öppnas på sektionens födelsedag, den 7:e oktober, varje år y där y + 2 ≡ 1983 (mod 5) och bör bedriva verksamhet fram till dess att verksamheten utförd i koppling till dess firande är färdig.
+Nya dJubileum-projekt öppnas på sektionens födelsedag, den 7:e oktober, varje år y där y + 2 ≡ 1983 (mod 5) och bör bedriva verksamhet fram till dess att allt arbete som är kopplat till firandet har slutförts.
 
 Projekttitel för respektive årgång är dJubileet <år>, där <år> är det år då jubileumet som firas sker.
 
