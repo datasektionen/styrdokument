@@ -1261,6 +1261,30 @@ Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram 
 
 Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
 
+## §3.7 dJubileet
+
+### §3.7.1 Ändamål
+
+dJubileet har som syfte att fira sektionens nästkommande jubileum som sker var femte år efter sektionens födelse år 1983.
+
+### §3.7.2 Organisation
+
+dJubileet leds av projektledare, benämnd Jubileumsmarskalk. 
+
+Jubileumsmarskalk ansvarar för att rekrytera samt leda dJubileets projektgrupp.
+
+### §3.7.3 Verksamhet
+
+* Att anordna coola evenemang i samband med sektionens födelsedag.
+
+* Att bjuda in alumner till ovan nämnda evenemang.
+
+### §3.7.4 Period
+
+Nya dJubileum-projekt öppnas på sektionens födelsedag, den 7:e oktober, varje år y där y + 2 ≡ 1983 (mod 5) och bör bedriva verksamhet fram till dess att verksamheten utförd i koppling till dess firande är färdig.
+
+Projekttitel för respektive årgång är dJubileet <år>, där <år> är det år då jubileumet som firas sker.
+
 # §4 Organ
 
 Ett organ är en samling av funktionärer, nämnder och projekt som har ett delat ansvar för en snarlik verksamhet inom sektionen.
