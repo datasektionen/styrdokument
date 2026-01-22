@@ -187,5 +187,5 @@ Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens ord
 
 Vill man överklaga styrelsens beslut görs detta till THS Studiemiljöansvarig.
 
-[4.6]: #4-6-vid-utredning-av-medlem-i-trygghetsrådet
-[4.7]: #4-7-vakanta-poster-i-trygghetsrådet
+[3.6]: #4-6-vid-utredning-av-medlem-i-trygghetsrådet
+[3.7]: #4-7-vakanta-poster-i-trygghetsrådet
