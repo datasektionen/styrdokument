@@ -279,7 +279,6 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till:
 * Talman
 * Programansvarig student
 * Kommunikatör
-* Programansvarig student
 
 hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
