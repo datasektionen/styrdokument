@@ -416,6 +416,8 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
+# §4 Valprocess
+
 # §4 Nämnder
 
 En nämnd är en officiell grupp med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
