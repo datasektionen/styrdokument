@@ -418,6 +418,10 @@ Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtill
 
 Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
 
+## §4.X Gemensam kandidatur
+
+När flera personer önskar kandidera gemensamt till samma funktionärspost skall detta anmälas till valberedningen innan acceptansstopp för den aktuella posten. Under valberedningsprocessen ska kandidaterna till valberedningen individuellt motivera sitt val att kandidera tillsammans samt redogöra för de fördelar de anser att den gemensamma kandidaturen medför.
+
 # §4 Nämnder
 
 En nämnd är en officiell grupp med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
