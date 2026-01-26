@@ -341,7 +341,7 @@ Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgar
 
 #### §3.4.8.3 Publiceringstid
 
-Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM eller VM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före valet sker.
+Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska Valhandlingarna publiceras senast 1 dag före valtillfället.
 
 #### §3.4.8.4 Sekretessbeläggning
 
