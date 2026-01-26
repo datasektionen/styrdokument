@@ -257,7 +257,77 @@ Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare t
 
 Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
-Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
+Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy. 
+
+## §3.5 Talmanspresidiet
+
+### §3.5.1 Ändamål
+
+Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
+
+Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
+
+### §3.5.2 Organisation
+
+Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
+
+#### §3.5.2.1 Talman
+
+Är ordförande för Talmanspresidiet.
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+#### §3.5.2.2 Vice talman
+
+Bistår Talman i dess arbete.
+
+Väljs i period 2. Har kalenderår som mandatperiod.
+
+### §3.5.3 Verksamhet
+
+Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
+
+Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
+
+## §3.6 Revisorer
+
+### §3.6.1 Ändamål
+
+Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
+
+### §3.6.2 Organisation
+
+Enligt sektionens stadgar finns två av SM utsedda revisorer.
+
+Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
+
+Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
+
+### §3.6.3 Verksamhet
+
+Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
+
+#### §3.6.3.1 Revisionsberättelse
+
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
+
+Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
+
+#### §3.6.3.2 Förvaltningsrevisionsrapport
+
+Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+
+Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
+
+#### §3.6.3.3 Bokföring
+
+Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
+
+### §3.6.4 Mandatperiod
+
+Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
+
+# §4 Valprocess
 
 ### §3.4.4 Utlåtande
 
@@ -346,77 +416,7 @@ Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtill
 
 #### §3.4.8.4 Sekretessbeläggning
 
-valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
-
-## §3.5 Talmanspresidiet
-
-### §3.5.1 Ändamål
-
-Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
-
-Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
-
-### §3.5.2 Organisation
-
-Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
-
-#### §3.5.2.1 Talman
-
-Är ordförande för Talmanspresidiet.
-
-Väljs i period 2. Har kalenderår som mandatperiod.
-
-#### §3.5.2.2 Vice talman
-
-Bistår Talman i dess arbete.
-
-Väljs i period 2. Har kalenderår som mandatperiod.
-
-### §3.5.3 Verksamhet
-
-Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
-
-Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
-
-## §3.6 Revisorer
-
-### §3.6.1 Ändamål
-
-Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
-
-### §3.6.2 Organisation
-
-Enligt sektionens stadgar finns två av SM utsedda revisorer.
-
-Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
-
-Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
-
-### §3.6.3 Verksamhet
-
-Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
-
-#### §3.6.3.1 Revisionsberättelse
-
-Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
-
-Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
-
-#### §3.6.3.2 Förvaltningsrevisionsrapport
-
-Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
-
-Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
-
-#### §3.6.3.3 Bokföring
-
-Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
-
-### §3.6.4 Mandatperiod
-
-Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
-
-# §4 Valprocess
+valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
 
 # §4 Nämnder
 
