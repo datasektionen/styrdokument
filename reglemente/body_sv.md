@@ -412,11 +412,11 @@ Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgar
 
 #### §3.4.8.3 Publiceringstid
 
-Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska Valhandlingarna publiceras senast 1 dag före valtillfället.
+Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska valhandlingarna publiceras senast 1 dag före valtillfället.
 
 #### §3.4.8.4 Sekretessbeläggning
 
-valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
 
 # §4 Nämnder
 
