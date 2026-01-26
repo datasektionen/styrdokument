@@ -345,7 +345,7 @@ Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtill
 
 #### §3.4.8.4 Sekretessbeläggning
 
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
+valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
 
 ## §3.5 Talmanspresidiet
 
