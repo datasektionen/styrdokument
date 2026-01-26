@@ -261,7 +261,7 @@ Valberedningens arbete i samband med rekryteringar och inval definieras i sektio
 
 ### §3.4.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till:
+Valberedningen bör hålla intervjuer med samtliga kandidater som sökt till:
 
 * D-rektoratet
 * Valberedningen
