@@ -257,95 +257,7 @@ Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare t
 
 Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
-Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy.
-
-### §3.4.4 Utlåtande
-
-Det bör hållas intervjuer med samtliga kandidater som sökt till:
-
-* D-rektoratet
-* Valberedningen
-* Revisor
-* Näringslivsansvarig
-* D-Dagenansvarig
-* Storasyskon
-* Konglig Öfverdrif
-* Klubbmästare
-* Studienämndens ordförande
-* Studiemiljöansvarig
-* Jämlikhets-, mångfalds- och likabehandlingsansvarig
-* Konglig Lokalchef
-* Systemansvarig
-* Talman
-* Programansvarig student
-
-hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
-
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
-
-I de fall där kandidaten inte intervjuas ska valberedningen tillhandahålla ett frågeformulär.
-
-### §3.4.5 Lämplighetsbedömning
-
-I de fall där en kandidat intervjuats ska valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med valberedningens utlåtande om kandidaten.
-
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
-
-Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
-
-### §3.4.6 Sekretess
-
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
-
-### §3.4.7 Urnval
-
-Vid urnval ska valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av Systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
-
-Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
-
-Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
-
-Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
-
-Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
-
-### §3.4.8 Valhandlingar
-
-Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
-
-#### §3.4.8.1 Innehåll
-
-Valhandlingarna ska innehålla
-
-- information om hur nomineringsprocessen föregående valet i fråga gick till
-
-- information om valprocessen under SM eller VM
-
-- vilka av valberedningens ledamöter som varit med och anordnat valet
-
-- en sammanställning av de poster som väljs
-
-- en lista över samtliga kandidater
-
-- samtliga utlåtanden från de intervjuer valberedningen har hållit
-
-- samtliga svar från de frågeformulär som kandidaterna har fått svara på
-
-- samtliga lämplighetsbedömningar som utförts.
-
-Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
-
-#### §3.4.8.2 Publiceringsplats
-
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
-
-#### §3.4.8.3 Publiceringstid
-
-Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM eller VM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före valet sker.
-
-#### §3.4.8.4 Sekretessbeläggning
-
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker. 
+Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy. 
 
 ## §3.5 Talmanspresidiet
 
@@ -415,7 +327,102 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
-# §4 Nämnder
+# §4 Valprocess
+
+## §4.1 Utlåtande
+
+Valberedningen bör hålla intervjuer med samtliga kandidater som sökt till:
+
+* D-rektoratet
+* Valberedningen
+* Revisor
+* Näringslivsansvarig
+* D-Dagenansvarig
+* Storasyskon
+* Konglig Öfverdrif
+* Klubbmästare
+* Studienämndens ordförande
+* Studiemiljöansvarig
+* Jämlikhets-, mångfalds- och likabehandlingsansvarig
+* Konglig Lokalchef
+* Systemansvarig
+* Talman
+* Programansvarig student
+* Kommunikatör
+
+hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
+
+I de fall där kandidaten inte intervjuas ska valberedningen tillhandahålla ett frågeformulär.
+
+## §4.2 Lämplighetsbedömning
+
+I de fall där en kandidat intervjuats ska valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med valberedningens utlåtande om kandidaten.
+
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
+
+Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
+
+## §4.3 Sekretess
+
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
+
+## §4.4 Urnval
+
+Vid urnval ska valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av Systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
+
+Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
+
+Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+
+Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
+
+Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
+
+## §4.5 Valhandlingar
+
+Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
+
+### §4.5.1 Innehåll
+
+Valhandlingarna ska innehålla
+
+- information om hur nomineringsprocessen föregående valet i fråga gick till
+
+- information om valprocessen under SM eller VM
+
+- vilka av valberedningens ledamöter som varit med och anordnat valet
+
+- en sammanställning av de poster som väljs
+
+- en lista över samtliga kandidater
+
+- samtliga utlåtanden från de intervjuer valberedningen har hållit
+
+- samtliga svar från de frågeformulär som kandidaterna har fått svara på
+
+- samtliga lämplighetsbedömningar som utförts.
+
+Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
+
+### §4.5.2 Publiceringsplats
+
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
+
+### §4.5.3 Publiceringstid
+
+Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska valhandlingarna publiceras senast 1 dag före valtillfället.
+
+### §4.5.4 Sekretessbeläggning
+
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
+
+## §4.6 Gemensam kandidatur
+
+När flera personer önskar kandidera gemensamt till samma funktionärspost skall detta anmälas till valberedningen innan acceptansstopp för den aktuella posten. Under valberedningsprocessen ska kandidaterna till valberedningen individuellt motivera sitt val att kandidera tillsammans samt redogöra för de fördelar de anser att den gemensamma kandidaturen medför.
+
+# §5 Nämnder
 
 En nämnd är en officiell grupp med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
 
@@ -427,15 +434,15 @@ Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämn
 
 Sektionens nämnder definieras vidare i Verksamhetsregistret.
 
-# §5 Projekt
+# §6 Projekt
 
 Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamål. Projekt driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut.
 
-## §5.1 Uppstart
+## §6.1 Uppstart
 
 Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer på nästkommande SM.
 
-## §5.2 Återkommande projekt
+## §6.2 Återkommande projekt
 
 Återkommande projekt är projekt som öppnas årligen under bestämt datum.
 
@@ -447,77 +454,77 @@ Vald projektledare åläggs att inkomma med motion innehållande budget för pro
 
 Sektionens återkommande projekt definieras vidare i Verksamhetsregistret.
 
-## §5.3 Avslutning
+## §6.3 Avslutning
 
 Efter att projektets verksamhet är genomförd ska projektledare snarast möjligt överlämna avslutad bokföring och verksamhetsberättelse till D-rektoratet. På nästkommande DM ska frågan om formellt avslutande av projektet tas upp. DM äger rätt att besluta om avslutande av projekt även om projektledare inte överlämnar bokföring och verksamhetsberättelse inom skälig tid.
 
-## §5.4 Projektledare
+## §6.4 Projektledare
 
 För varje projekt ska det finnas en eller flera personer som är projektledare. Endast sektionsmedlem som tillsatts av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som projektledare. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
 
-### §5.4.1 Skyldigheter
+### §6.4.1 Skyldigheter
 
 Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av projektmedlemmar om inte annat beslutas av SM. Projektledare är skyldig att på anmodan från D-rektoratet eller SM fullständigt redovisa projektets verksamhet och ekonomi för densamme.
 
-### §5.4.2 Rättigheter
+### §6.4.2 Rättigheter
 
 Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
 
-## §5.5 Delade projekt
+## §6.5 Delade projekt
 
 Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
-# §6 Partitioner
+# §7 Partitioner
 
 En partition är en sammanslutning inom sektionen som bedriver verksamhet utifrån ett gemensamt intresseområde. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
 
 Sektionens partitioner defineras i PM för partitioner.
 
-## §6.1 Partiledare
+## §7.1 Partiledare
 
 För varje aktiv partition ska det finnas en partiledare. Partiledare utses av D-rektoratet på DM.
 
-## §6.2 Ekonomi
+## §7.2 Ekonomi
 
 DM tilldelar en partition medel ur sektionens partitionfond upp till 2000 kronor per verksamhetsår med ett maxtak av 5000 kr vid skälig motivering. För större anslag krävs SM-beslut.
 
-# §7 Delad verksamhet
+# §8 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
 
 För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten ska fungera. Detta dokument ska specificera hur eventuella konflikter i styrdokument ska hanteras, hur rekrytering ska gå till och hur ekonomin ska hanteras.
 
-# §8 Ordinarie SM
+# §9 Ordinarie SM
 
-## §8.1 Förteckning
+## §9.1 Förteckning
 
-### §8.1.1 Budget-SM
+### §9.1.1 Budget-SM
 
 Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
-### §8.1.2 Glögg-SM
+### §9.1.2 Glögg-SM
 
 Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
-### §8.1.3 Revisions-SM
+### §9.1.3 Revisions-SM
 
 Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
-### §8.1.4 Glass-SM
+### §9.1.4 Glass-SM
 
 Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Glass-SM.
 
-## §8.2 Övrig verksamhet
+## §9.2 Övrig verksamhet
 
 Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter på samma tid som sektionsmöte ska hållas, förutsatt att tiden för sektionsmötet var utannonserat innan aktiviteten planerades.
 
-# §9 Ordnar
+# §10 Ordnar
 
 Sektionen har fem ordnar benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Ordförande Emeritus” och “Kassör Emeritus”.
 
-## §9.1 Ordförande Emeritus
+## §10.1 Ordförande Emeritus
 
 Ordförande Emeritus tilldelas de Ordförande som förtjänstfullt arbetat under en hel mandatperiod.
 
@@ -529,86 +536,86 @@ Vidare gäller att Ordförande Emeriti
 
 - erhåller årlig speciell inbjudan till Vårbalen.
 
-## §9.2 Klubbmästare Emeritus
+## §10.2 Klubbmästare Emeritus
 
 Klubbmästare Emeritus tilldelas de Klubbmästare som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §9.3 Konglig Öfverdrif Emeritus
+## §10.3 Konglig Öfverdrif Emeritus
 
 Konglig Öfverdrif Emeritus tilldelas de Konglig Öfverdrif som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §9.4 Storasyskon Emeritus
+## §10.4 Storasyskon Emeritus
 
 Storasyskon Emeritus tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
-## §9.5 Kassör Emeritus
+## §10.5 Kassör Emeritus
 
 Kassör Emeritus tilldelas de Kassörer som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-# §10 Förtjänsttecken
+# §11 Förtjänsttecken
 
-## §10.1 Hedersdeltat
+## §11.1 Hedersdeltat
 S
 ektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
-### §10.1.1 Syfte
+### §11.1.1 Syfte
 
 Hedersdeltat utdelas till de sektionsmedlemmar som synnerligen förtjänstfullt verkat ideellt för sektionen.
 
-### §10.1.2 Förslagslämning
+### §11.1.2 Förslagslämning
 
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersdeltat, med motivering, till D-rektoratet.
 
-### §10.1.3 Utdelning
+### §11.1.3 Utdelning
 
 D-rektoratet utnämner mottagare av Hedersdeltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## §10.2 Stora deltat
+## §11.2 Stora deltat
 
 Stora deltat utgörs av en nål eller motsvarande med ett litet delta på ett ekblad inramat av ett stort delta.
 
-### §10.2.1 Syfte
+### §11.2.1 Syfte
 
 Stora deltat utdelas till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen.
 
-### §10.2.2 Förslagslämning
+### §11.2.2 Förslagslämning
 
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Stora deltat, med motivering, till D-rektoratet.
 
-### §10.2.3 Utdelning
+### §11.2.3 Utdelning
 
 D-rektoratet utnämner mottagare av Stora deltat, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-## §10.3 Hedersugglan
+## §11.3 Hedersugglan
 
 Hedersugglan utgörs av en nål eller motsvarande med ett cerise delta inramat av en guldig Hornuggla.
 
-### §10.3.1 Syfte
+### §11.3.1 Syfte
 
 Hedersugglan utdelas varje år till de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTHs studiebevakning.
 
-### §10.3.2 Förslagslämning
+### §11.3.2 Förslagslämning
 
 Sektionsmedlem kan när som helst inlämna förslag på mottagare av Hedersugglan, med motivering, till Studienämndens ordförande.
 
-### §10.3.3 Utdelning
+### §11.3.3 Utdelning
 
 D-rektoratet utnämner mottagare av Hedersugglan utifrån de nominationer och motiveringar som Studienämndens ordförande sammanställt, vilka presenteras vid Revisions-SM. Utdelning av förtjänsttecknen sker på Vårbalen eller motsvarande högtidligt tillfälle samma år.
 
-# §11 Övrigt
+# §12 Övrigt
 
-## §11.1 Visdomsord
+## §12.1 Visdomsord
 
 Det var bättre förr.
 
-### §11.1.1 Mer visdomsord
+### §12.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
