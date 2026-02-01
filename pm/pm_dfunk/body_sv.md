@@ -12,9 +12,9 @@ Varje δ-funktionär får en personlig datasektionenmailadress som är kopplat t
 
 Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna svara på frågor och hjälpa sin efterträdare på posten. Varje δ-funktionär uppmanas att be sin företrädare om hjälp ifall de är osäkra på hur en del av deras verksamhet ska utföras. Det är även rekommenderat att varje δ-funktionär anordnar ett överlämningstillfälle där detta kan ske.
 
-## §1.3 Testamente och Guide
+## §1.3 Guide
 
-δ-funktionärer är skyldiga att skriva ett dokument som förklarar hur deras tid på posten har gått, ett så kallat testamente, och ett dokument som förklarar allt som är relevant för att kunna göra arbetet som posten innebär, en så kallad guide. δ-funktionärer är sedan skyldiga att lämna över dessa dokument till D-rektoratet samt sina efterträdare när deras mandatperiod tar slut.
+Till varje funktionärspost, förutom projektledare för icke-återkommande projekt, hör ett dokument som förklarar allt som är relevant för att kunna göra arbetet som posten innebär, en så kallad guide. De funktionärer som har en guide ansvarar för att innehållet i den är aktuellt. Om det saknas en guide för en sådan post ska istället en ny skrivas från grunden.
 
 ## §1.4 Rapporter
 
