@@ -32,7 +32,7 @@ Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt
 
 ## §1.7 Utbildningar
 
-Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Stryelsen har rätt att ge funktionärer dispens från att delta på en JML-workshop.
+Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Styrelsen har rätt att låta funktionärer tillgodoräkna likvärdiga utbildningsmoment.
 
 ## §1.8 Råd och möten
 
