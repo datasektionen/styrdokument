@@ -66,55 +66,55 @@ Blodgruppens verksamhet består av att
 
 - organisera regelbundna besök till blodcentraler och blodbussar.
 
-## §4.5 Tech-i-taka
+## §4.4 Tech-i-taka
 
-### §4.5.1 Ändamål
+### §4.4.1 Ändamål
 
 Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
 
-### §4.5.2 Organisation
+### §4.4.2 Organisation
 
 Tech-i-taka leds av partiledare för Tech-i-taka, benämnd Geten.
 
 Huvudtruppen utses av Geten, övriga ska få möjlighet att delta på träningar.
 
-### §4.5.3 Verksamhet
+### §4.4.3 Verksamhet
 
 Tech-i-takas verksamhet består av att
 
 - arrangera fotbollsträningar
 - delta på korpenmatcher både inom och utanför KTH.
 
-## §4.6 METAcraft
+## §4.5 METAcraft
 
-### §4.6.1 Ändamål
+### §4.5.1 Ändamål
 
 METAcrafts syfte är att driva och underhålla sektionens Minecraftserver.
 
-### §4.6.2 Organisation
+### §4.5.2 Organisation
 
 METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
 
 Övriga medlemmar utses av Herobrine.
 
-### §4.6.3 Verksamhet
+### §4.5.3 Verksamhet
 
 METAcrafts verksamhets består av att
 
 - driva sektionens Minecraftserver METAcraft
 - anordna event och turneringar inom Minecraft
 
-## §4.7 Bakverket
+## §4.6 Bakverket
 
-### §4.7.1 Ändamål
+### §4.6.1 Ändamål
 
 Bakverket syfte är att främja och samla intresset för bakning inom sektionen.
 
-### §4.7.2 Organisation
+### §4.6.2 Organisation
 
 Bakverket leds av partiledare för Bakverket, benämnd Bakis.
 
-### §4.7.3 Verksamhet
+### §4.6.3 Verksamhet
 
 Bakverket verksamhets består av att
 
