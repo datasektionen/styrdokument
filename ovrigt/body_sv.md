@@ -14,6 +14,9 @@ Konglig Datasektionen har en versamhetsplan som bestämmer vilken riktning den s
 
 Gällande budget för Datasektionen hittas på [budgetsidan](https://budget.datasektionen.se)
 
+## Inaktiva partitioner
+
+Partitioner som slutar vara aktiva förs in i en förteckning över inaktiva partitioner. Den hittas [här](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing).
 
 # THS styrdokument
 
