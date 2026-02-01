@@ -16,6 +16,10 @@ Det är en δ-funktionärs skyldighet att finnas tillgänglig för att kunna sva
 
 Till varje funktionärspost, förutom projektledare för icke-återkommande projekt, hör ett dokument som förklarar allt som är relevant för att kunna göra arbetet som posten innebär, en så kallad guide. De funktionärer som har en guide ansvarar för att innehållet i den är aktuellt. Om det saknas en guide för en sådan post ska istället en ny skrivas från grunden.
 
+## §1.4 Testamente
+
+Samtliga funktionärer, förutom projektledare för icke-återkommande projekt, är skyldiga att skriva ett dokument som reflekterar över deras tid på posten, ett så kallat testamente. De ska sedan lämna över testamentet till D-rektoratet när deras mandatperiod tar slut.
+
 ## §1.4 Rapporter
 
 Inför varje ordinarie Sektionsmöte förväntas varje δ-funktionär lämna in en skriftlig rapport till D-rektoratet. Rapporten ska behandla hur δ-funktionären, samt den eventuella nämnden som δ-funktionären är ordförande för har fört sin verksamhet, sedan det senaste ordinarie Sektionsmötet. D-rektoratet har som plikt att inför varje SM berätta för funktionärerna hur de vill få rapporten inlämnad.
