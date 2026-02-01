@@ -20,29 +20,29 @@ Till varje funktionärspost, förutom projektledare för icke-återkommande proj
 
 Samtliga funktionärer, förutom projektledare för icke-återkommande projekt, är skyldiga att skriva ett dokument som reflekterar över deras tid på posten, ett så kallat testamente. De ska sedan lämna över testamentet till D-rektoratet när deras mandatperiod tar slut.
 
-## §1.4 Rapporter
+## §1.5 Rapporter
 
 Inför varje ordinarie Sektionsmöte förväntas varje funktionär lämna in en skriftlig rapport till D-rektoratet. Rapporten ska behandla hur funktionären, samt den eventuella nämnden som funktionären är ordförande för har fört sin verksamhet, sedan det senaste ordinarie Sektionsmötet. D-rektoratet har som plikt att inför varje SM berätta för funktionärerna hur de vill få rapporten inlämnad.
 
 Om en funktionär inte lämnat in en rapport inför Sektionsmötet så kan de istället föra rapporten under mötet.
 
-## §1.5 Verksamhetsberättelse
+## §1.6 Verksamhetsberättelse
 
 Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som redogör för den verksamhet deras nämnd har drivit det senaste halvåret. I samband med att ett projekt avslutas är ansvarig projektledare skyldig att lämna in ett dokument som redogör för den verksamhet som projektet har drivit sedan dess uppstart.
 
-## §1.6 Utbildningar
+## §1.7 Utbildningar
 
 Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Stryelsen har rätt att ge funktionärer dispens från att delta på en JML-workshop.
 
-## §1.7 Råd och möten
+## §1.8 Råd och möten
 
 THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra funktionär och med D-rektoratet.
 
-## §1.8 Representant
+## §1.9 Representant
 
 Funktionärer är representanter för sektionen. Allt som skrivs via funktionärsmail samt sektionens övriga officiella och inofficiella informationskanaler kan tolkas som att det kommer från sektionen. Även i person representerar funktionärer sektionen. Det som görs och sägs utanför sektionsrelaterade åtaganden kan fortfarande anses komma från sektionen. Det är varje funktionärs skyldighet att representera sektionen väl.
 
-## §1.9 Verksamhetsmål
+## §1.10 Verksamhetsmål
 
 Det är en funktionärs skyldighet att planera och efter bästa förmåga genomföra arbete för att uppfylla de mål i verksamhetsplanen som berör funktionären samt anordna den verksamhet som förväntas av deras post och eventuell nämnd.
 
