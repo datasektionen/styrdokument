@@ -30,9 +30,9 @@ Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de
 
 Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som redogör för den verksamhet deras nämnd har drivit det senaste halvåret. I samband med att ett projekt avslutas är ansvarig projektledare skyldig att lämna in ett dokument som redogör för den verksamhet som projektet har drivit sedan dess uppstart.
 
-## §1.6 Gå på utbildning
+## §1.6 Utbildningar
 
-Varje termin anordnas det en funktionärsutbildning och en JML-workshop. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-workshopen en gång under varje år du är δ-funktionär.
+Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Stryelsen har rätt att ge funktionärer dispens från att delta på en JML-workshop.
 
 ## §1.7 Råd och möten
 
