@@ -27,7 +27,8 @@ Inför varje ordinarie Sektionsmöte förväntas varje δ-funktionär lämna in 
 Om en δ-funktionär inte lämnat in en rapport inför Sektionsmötet så kan de istället föra rapporten under mötet.
 
 ## §1.5 Verksamhetsberättelse
-δ-funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som berättar om den verksamhet som deras nämnd har drivit det senaste halvåret.
+
+Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som redogör för den verksamhet deras nämnd har drivit det senaste halvåret. I samband med att ett projekt avslutas är ansvarig projektledare skyldig att lämna in ett dokument som redogör för den verksamhet som projektet har drivit sedan dess uppstart.
 
 ## §1.6 Gå på utbildning
 
