@@ -38,11 +38,9 @@ Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funkt
 
 THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en δ-funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra δ-funktionär och med D-rektoratet.
 
-## §1.8 Representant för Datasektionen
+## §1.8 Representant
 
-Som δ-funktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du Datasektionen och det du gör och säger kan anses komma från Datasektionen.
-
-Det är din skyldighet som δ-funktionär och representant för Datasektionen att representera sektionen väl.
+Funktionärer är representanter för sektionen. Allt som skrivs via funktionärsmail samt sektionens övriga officiella och inofficiella informationskanaler kan tolkas som att det kommer från sektionen. Även i person representerar funktionärer sektionen. Det som görs och sägs utanför sektionsrelaterade åtaganden kan fortfarande anses komma från sektionen. Det är varje funktionärs skyldighet att representera sektionen väl.
 
 ## §1.9 Verksamhetsmål
 
