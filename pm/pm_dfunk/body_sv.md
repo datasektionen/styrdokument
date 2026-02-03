@@ -2,8 +2,6 @@
 
 # §1 Skyldigheter
 
-För de som antar ett förtroendeuppdrag som funktionär är det inte endast dans och lek på röda rosor. Som funktionär har man ett ansvarsområde och det finns ett antal skyldigheter som alla funktionärer delar. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är.
-
 ## §1.1 Mail
 
 Varje funktionär får en personlig datasektionenmailadress som är kopplat till dennes mandat. Det är en funktionärs ansvar att bevaka sin funktionärsmail och hantera det som kommer in åtminstone var tredje dag.
