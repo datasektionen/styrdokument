@@ -12,9 +12,7 @@ Om en partiledare inte lämnat in en rapport inför sektionsmötet kan de istäl
 
 # §3 Stängning
 
-En partition klassas som inaktiv om den saknar partiledare, eller vid två på varandra följande SM rapporterar utebliven verksamhet, eller underlåter att rapportera vid två på varandra följande SM.
-
-D-rektoratet kan då på DM stänga partitionen. Stängda partitioner förs in i en offentlig förteckning över inaktiva partitioner. En inaktiv partition kan åter uppstartas genom samma process som beskrivs i §[1].
+Om en partition saknar partiledare, vid två på varandra följande SM rapporterar utebliven verksamhet, eller underlåter att rapportera vid två på varandra följande SM kan D-rektoratet stänga partitionen. Den klassas då som inaktiv och förs in i en offentlig förteckning över inaktiva partitioner. En inaktiv partition kan åter uppstartas genom samma process som beskrivs i §[1].
 
 # §4 Aktiva partitioner
 
