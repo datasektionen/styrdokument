@@ -1,6 +1,6 @@
 <!-- Konglig Datasektionens PM för informationsspridning -->
 
-# §1 Om det här dokumentet
+# Syfte
 
 Detta dokument är sektionens informationsspridningspolicy och innehåller riktlinjer för hur informationsspridning inom sektionen ska ske. Ordet informatör nedan betyder Datasektionen, dess nämnder och/eller dess funktionärer.
 
