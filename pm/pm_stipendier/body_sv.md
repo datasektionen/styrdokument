@@ -1,3 +1,7 @@
+# Syfte
+
+Sektionen har rätt att till ett antal stipendier nominera kandidater. Detta dokument beskriver hur för varje stipendie sektionens process för nominering ser ut.
+
 # §1 Stipendier
 
 ## §1.1 THS Kamratstipendium
