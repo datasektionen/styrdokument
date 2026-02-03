@@ -1,6 +1,6 @@
 <!-- Konglig Datasektionens PM för Alkohol -->
 
-# §1 Relation till andra föreskrifter
+# Syfte
 
 THS har en alkohol- och drogpolicy som fastställs av Kårfullmäktige och gäller inom hela THS organisation, Datasektionen inkluderad. Detta dokument ska ses som ett tillägg till THS alkohol- och drogpolicy.
 
