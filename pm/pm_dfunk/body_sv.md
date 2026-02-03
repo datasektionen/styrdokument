@@ -1,5 +1,9 @@
 <!-- Konglig Datasektionens PM för dFunk -->
 
+# Syfte
+
+Detta dokument beskriver vad som allmänt gäller för sektionens förtroendevalda funktionärer. Varje funktionärspost regleras individuellt i Verksamhetsregistret.
+
 # §1 Skyldigheter
 
 ## §1.1 Mail
