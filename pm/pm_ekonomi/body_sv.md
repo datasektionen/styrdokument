@@ -1,6 +1,6 @@
 <!-- Konglig Datasektionens PM för Ekonomi -->
 
-# §1 Bakgrund
+# Syfte
 
 Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen gällande regler för hur ekonomin sköts. Dokumentet ska även fungera som en snabb utbildning i hur funktionärer och nämnder ska sköta sin ekonomi och ekonomiska redovisning.
 
