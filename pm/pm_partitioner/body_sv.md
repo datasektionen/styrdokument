@@ -6,7 +6,9 @@ Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partit
 
 # §2 Löpande verksamhet
 
-Aktiva partitioner bedrivs utan tidsgräns. Partiledaren ska inför varje ordinarie SM rapportera verksamhetens status genom det formulär som tillhandahålls av styrelsen.
+Aktiva partitioner bedrivs utan tidsgräns. Inför varje ordinarie sektionsmöte förväntas varje partiledare lämna in en skriftlig rapport till D-rektoratet. Rapporten ska behandla hur partitionen har fört sin verksamhet sedan det senaste ordinarie sektionsmötet. D-rektoratet har som plikt att inför varje sektionsmöte berätta för partiledarna hur de vill få rapporten inlämnad.
+
+Om en partiledare inte lämnat in en rapport inför sektionsmötet kan de istället föra rapporten under mötet.
 
 # §3 Stängning
 
