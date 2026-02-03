@@ -2,7 +2,7 @@
 
 # §1 Uppstart
 
-Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partition ska innehålla partitionens namn, syfte och kort verksamhetsbeskrivning samt tydligt intresse.
+Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partition ska innehålla partitionens namn, ändamål och en kort verksamhetsbeskrivning. Det ska även finnas ett tydligt intresse på sektionen för partitionens verksamhet.
 
 # §2 Löpande verksamhet
 
