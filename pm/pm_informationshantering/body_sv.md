@@ -18,6 +18,8 @@ Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@
 
 # §2 Bakgrund
 
+Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@datasektionen.se](mailto:drek@datasektionen.se).
+
 ## §2.1 Laglig grund
 
 Genom bestämmelser i högskolelagen och studentkårsförordningen är det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
