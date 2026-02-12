@@ -192,7 +192,7 @@ Fanbärare och Vice fanbärare Väljs i period 2 och har kalenderår som mandatp
 
 #### §1.2.3.1 Ändamål
 
-Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska prooch reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
+Är studerandeskyddsombud, med fokus på psykisk studiemiljö, för sektionen. Ska pro- och reaktivt arbeta med att värna om och förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
 #### §1.2.3.2 Organisation
 
