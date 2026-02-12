@@ -121,17 +121,17 @@ Bakverket verksamhets består av att
 - anordna event där sektionens medlemmar får baka
 - baka temaenligt fika inför SM
 
-## §4.8 dRådet
+## §4.7 dRådet
 
-### §4.8.1 Ändamål
+### §4.7.1 Ändamål
 
 dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmedlemmar kan diskutera sektionsrelaterade frågor, framföra förbättringsförslag och utbyta idéer kring sektionens verksamhet.
 
-### §4.8.2 Organisation
+### §4.7.2 Organisation
 
 dRådet leds av partiledare för dRådet, benämnd dRådgivaren.
 
-### §4.8.2 Verksamhet
+### §4.7.2 Verksamhet
 
 dRådets verksamhet består av att
 
