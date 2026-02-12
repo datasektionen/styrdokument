@@ -131,4 +131,13 @@ dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmed
 
 dRådet leds av partiledare för dRådet, benämnd dRådgivaren.
 
+### §4.8.2 Verksamhet
+
+dRådets verksamhet består av att
+
+- anordna återkommande diskussioner för sektionsmedlemmar
+- samla in och sammanställa förslag och synpunkter från sektionsmedlemmar
+- vid behov bidra med underlag eller återkoppling till styrelsen och/eller SM
+- främja transparens, delaktighet och engagemang i sektionens utveckling
+
 [1]: #1-uppstart
