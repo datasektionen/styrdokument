@@ -121,4 +121,6 @@ Bakverket verksamhets består av att
 - anordna event där sektionens medlemmar får baka
 - baka temaenligt fika inför SM
 
+## §4.8 dRådet
+
 [1]: #1-uppstart
