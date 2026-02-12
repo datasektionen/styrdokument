@@ -123,4 +123,8 @@ Bakverket verksamhets består av att
 
 ## §4.8 dRådet
 
+### §4.8.1 Ändamål
+
+dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmedlemmar kan diskutera sektionsrelaterade frågor, framföra förbättringsförslag och utbyta idéer kring sektionens verksamhet.
+
 [1]: #1-uppstart
