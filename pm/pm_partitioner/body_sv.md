@@ -127,4 +127,8 @@ Bakverket verksamhets består av att
 
 dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmedlemmar kan diskutera sektionsrelaterade frågor, framföra förbättringsförslag och utbyta idéer kring sektionens verksamhet.
 
+### §4.8.2 Organisation
+
+dRådet leds av partiledare för dRådet, benämnd dRådgivaren.
+
 [1]: #1-uppstart
