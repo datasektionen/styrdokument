@@ -2,7 +2,7 @@
 
 # Syfte
 
-Denna policy är en utökning av [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ). I den händelse att Datasektionens Klimatpolicy strider mot THS Policy för klimat och miljö gäller THS Policy i första hand.
+Denna policy är en utökning av [THS Policy för Klimat och Miljö](https://dsekt.se/thsklimatpolicy). I den händelse att Datasektionens Klimatpolicy strider mot THS Policy för klimat och miljö gäller THS Policy i första hand.
 
 Syftet med sektionens utökade klimatpolicy är att etablera ett tydligt ramverk för funktionärer och sektionsaktiva i syfte att minimera Datasektionens klimat- och miljöpåverkan. Vidare ska klimatpolicyn underlätta för sektionens medlemmar att agera mer hållbart och klimatsmart.
 
