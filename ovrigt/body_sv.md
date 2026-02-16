@@ -8,7 +8,7 @@ Konglig Datasektionen har tillsammans med Sektionen för Mediateknik ett samboen
 
 ## Verksamhetsplan
 
-Konglig Datasektionen har en versamhetsplan som bestämmer vilken riktning den ska röra sig. Den nuvarande samt tidgare verksamhetsplaner hittas [här](https://drive.google.com/drive/u/2/folders/1_jh9vlbgtt-QykFIQPUAxuy0xHCrKkRj)
+Konglig Datasektionen har en versamhetsplan som bestämmer vilken riktning den ska röra sig. Den nuvarande samt tidgare verksamhetsplaner hittas [här](https://dsekt.se/vp)
 
 ## Budget
 
@@ -16,8 +16,8 @@ Gällande budget för Datasektionen hittas på [budgetsidan](https://budget.data
 
 ## Inaktiva partitioner
 
-Partitioner som slutar vara aktiva förs in i en förteckning över inaktiva partitioner. Den hittas [här](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing).
+Partitioner som slutar vara aktiva förs in i en förteckning över inaktiva partitioner. Den hittas [här](https://dsekt.se/inaktivapartitioner).
 
 # THS styrdokument
 
-Konglig Datasektionen är en underorganisation till THS (Tekniska Högskolans Studentkår). Utöver sektionens egna styrdokument så behöver vi därför även förhålla oss till deras styrdokument, som går att finna [här](https://thskth.se/sv/om-ths/ths-dokument).
+Konglig Datasektionen är en underorganisation till THS (Tekniska Högskolans Studentkår). Utöver sektionens egna styrdokument så behöver vi därför även förhålla oss till deras styrdokument, som går att finna [här](https://dsekt.se/thsstyrdokument).

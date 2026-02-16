@@ -2,17 +2,17 @@
 
 # §1 Uppstart
 
-Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partition ska innehålla partitionens namn, syfte och kort verksamhetsbeskrivning samt tydligt intresse.
+Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partition ska innehålla partitionens namn, ändamål och en kort verksamhetsbeskrivning. Det ska även finnas ett tydligt intresse på sektionen för partitionens verksamhet.
 
 # §2 Löpande verksamhet
 
-Aktiva partitioner bedrivs utan tidsgräns. Partiledaren ska inför varje ordinarie SM rapportera verksamhetens status genom det formulär som tillhandahålls av styrelsen.
+Aktiva partitioner bedrivs utan tidsgräns. Inför varje ordinarie sektionsmöte förväntas varje partiledare lämna in en skriftlig rapport till D-rektoratet. Rapporten ska behandla hur partitionen har fört sin verksamhet sedan det senaste ordinarie sektionsmötet. D-rektoratet har som plikt att inför varje sektionsmöte berätta för partiledarna hur de vill få rapporten inlämnad.
+
+Om en partiledare inte lämnat in en rapport inför sektionsmötet kan de istället föra rapporten under mötet.
 
 # §3 Stängning
 
-En partition klassas som inaktiv om den saknar partiledare, eller vid två på varandra följande SM rapporterar utebliven verksamhet, eller underlåter att rapportera vid två på varandra följande SM.
-
-D-rektoratet kan då på DM stänga partitionen. Stängda partitioner förs in i en offentlig förteckning över inaktiva partitioner. En inaktiv partition kan åter uppstartas genom samma process som beskrivs i §[1].
+Om en partition saknar partiledare, rapporterar utebliven verksamhet eller underlåter att rapportera vid två på varandra följande SM kan D-rektoratet stänga partitionen. Den klassas då som inaktiv och förs in i en offentlig [förteckning över inaktiva partitioner](https://dsekt.se/inaktivapartitioner). En inaktiv partition kan åter uppstartas genom samma process som beskrivs i §[1].
 
 # §4 Aktiva partitioner
 
