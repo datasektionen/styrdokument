@@ -1,5 +1,8 @@
 <!-- Konglig Datasektionens PM för partitioner -->
 
+# Syfte
+Detta dokument definierar sektionens aktiva partitioner och beskriver vad som gäller för partitioner som slutar vara aktiva.
+
 # §1 Uppstart
 
 Nya partitioner startas genom DM-beslut. Förslaget för att starta en ny partition ska innehålla partitionens namn, ändamål och en kort verksamhetsbeskrivning. Det ska även finnas ett tydligt intresse på sektionen för partitionens verksamhet.

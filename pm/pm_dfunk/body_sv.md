@@ -1,8 +1,10 @@
 <!-- Konglig Datasektionens PM för dFunk -->
 
-# §1 Skyldigheter
+# Syfte
 
-För de som antar ett förtroendeuppdrag som funktionär är det inte endast dans och lek på röda rosor. Som funktionär har man ett ansvarsområde och det finns ett antal skyldigheter som alla funktionärer delar. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är.
+Detta dokument beskriver vad som allmänt gäller för sektionens förtroendevalda funktionärer. Varje funktionärspost regleras individuellt i Verksamhetsregistret.
+
+# §1 Skyldigheter
 
 ## §1.1 Mail
 

@@ -1,14 +1,14 @@
 <!-- Konglig Datasektionens PM för Ekonomi -->
 
-# §1 Bakgrund
+# Syfte
 
 Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen gällande regler för hur ekonomin sköts. Dokumentet ska även fungera som en snabb utbildning i hur funktionärer och nämnder ska sköta sin ekonomi och ekonomiska redovisning.
 
-# §2 Bokföringsplikt
+# §1 Bokföringsplikt
 
 Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
 
-## §2.1 Bokföringspliktiga nämnder
+## §1.1 Bokföringspliktiga nämnder
 
 Följande nämnder är bokföringspliktiga:
 - Sektionslokalgruppen
@@ -16,7 +16,7 @@ Följande nämnder är bokföringspliktiga:
 - Näringslivsgruppen
 - Medias Klubbmästeri.
 
-## §2.2 Bokföringsplikt för projekt
+## §1.2 Bokföringsplikt för projekt
 
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
@@ -25,11 +25,11 @@ Följande återkommande projekt är bokföringspliktiga:
 - Mottagningen
 - D-Dagen.
 
-## §2.3 Alkohol
+## §1.3 Alkohol
 
 Inköp av alkohol ska alltid bokföras så det är tydligt hur mycket som spenderats på alkohol. Alkohol ska därför aldrig bokföras på konton som kan användas för andra saker, t.ex. 7631 Teambuilding. 
 
-# §3 Skulder till engagerade
+# §2 Skulder till engagerade
 
 Utlägg för inköp åt sektionen ska senast registreras 30 dagar efter att inköpet gjordes för att skulden ska betalas tillbaka, därefter kan de nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att utlägget är giltigt.
 
@@ -37,35 +37,35 @@ Ett utlägg är inte giltigt om det överskrider budgeten, strider mot något av
 
 Utlägg som inte attesterats eller saknar nödvändig information och inte utbetalats 90 dagar efter att inköpet gjordes får raderas av firmatecknare. Kvittots ägare ska ges möjlighet att rätta eventuella misstag och raderande ska motiveras.
 
-## §3.1 Kvittostopp
+## §2.1 Kvittostopp
 
 Kassör har rätt att i samband med verksamhetsårets slut utlysa kvittostopp, inför vilket samtliga utlägg skall vara registrerade. Utlägg som inte attesterats eller som saknar nödvändig information kan raderas som tidigast 7 dagar efter utlyst datum för kvittostopp.
 
 Planerad verksamhet skall tas i beaktning vid val av datum för kvittostopp. Det valda datumet får vara som tidigast 14 dagar innan verksamhetsårets slut och skal lysas åtminstone 10 dagar innan.
 
-# §4 Lager
+# §3 Lager
 
-## §4.1 Förvaltning av dryckeslager
+## §3.1 Förvaltning av dryckeslager
 
 DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
 Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
-## §4.2 Dryckeslager vid festtillfällen
+## §3.2 Dryckeslager vid festtillfällen
 
 När en nämnd eller ett projekt har fest och använder sektionens dryckeslager som sittningsdryck ska det bokföras av bokföringsansvariga för nämnden eller projektet som festen ligger under. Nämnden/projektet ska både belastas för inköp av drycken från lagret samt tilldelas biljettförsäljningen för evenemanget. Kostnaden för inköpet får beräknas enligt av Kassör tillhandahållna schablonbelopp. Serveringsansvarig för festtillfället är ansvarig för att betalning och dagsavslut görs efter sektionens standarder. Serveringsansvarig ska i skälig tid innan festtillfället kontakta den nämnd som förvaltar dryckeslagren och informera sig om gällande bestämmelser för sektionen.
 
-## §4.3 Andra lager
+## §3.3 Andra lager
 
 Andra lager av betydande värde (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma Kassör till handa så snart som möjligt efter att den skett.
 
-# §5 Kvitton
+# §4 Kvitton
 
 Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
-# §6 Fakturor
+# §5 Fakturor
 
-## §6.1 Inköp via faktura
+## §5.1 Inköp via faktura
 
 Köp via faktura får göras med godkännande av firmatecknare.
 
@@ -75,23 +75,23 @@ Vid inköp via faktura ansvarar personen som genomför köpet att det är giltig
 
 Om ett ej giltigt köp genomförs genom att fakturera sektionen, är den som genomförde köpet betalningsskyldig för fakturans belopp.
 
-## §6.2 Försäljning via faktura
+## §5.2 Försäljning via faktura
 
 Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Nämnder ansvarar själva för att kontinuerligt kontrollera att utskickade fakturor betalas i tid. En kopia av fakturan ska omgående skickas till bokföringsansvarig.
 
-# §7 Budget
+# §6 Budget
 
 Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras och godkänna denna innan överträdelsen har skett. Inför varje kommande verksamhetsår ska styrelsen i samråd med berörda funktionärer lägga en detaljbudget för sektionen till Budget-SM. Funktionärer som har en detaljbudget kan i samråd med styrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
 
-## §7.1 Skyldighet
+## §6.1 Skyldighet
 
 Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Ett sådant nekande bör kunna motiveras med hänsyn till relevanta regler, och man har rätt till en sådan motivering om den efterfrågas. Beslutet kan överklagas enligt nämnda ordning i §[A].
 
-## §7.2 Fördelning och användning av teambuilding-, personalvård- och fikabudget
+## §6.2 Fördelning och användning av teambuilding-, personalvård- och fikabudget
 
 Styrelsen ska arbeta för att fika till interna grupper, fika till event, teambuilding och personalvård ska fördelas på ett rimligt och rättvist sätt. Budget för fika till interna grupper, fika till event, teambuilding och personalvård beslutas av SM med styrelsens underlag som grund.
 
-### §7.2.1 Teambuildingbudget
+### §6.2.1 Teambuildingbudget
 
 Teambuldingbudget ska gå till inköp inför eller under interna gruppers teambuildingaktiviteter. Inköpen ska ha en klar koppling till teambuildingen.
 
@@ -103,13 +103,13 @@ Minst 2 personer måste förväntas närvara för att man ska kunna spendera tea
 
 Det ska dokumenteras vad som gjordes under ett TB-tillfälle, vilka som var där samt hur mycket pengar som spenderades.
 
-### §7.2.2 Fikabudget
+### §6.2.2 Fikabudget
 
 Fikabudget ska gå till inköp av fika på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda fika på alla möten eller aktiviteter, men i de fall då fika erbjuds ska den vara tillgänglig för samtliga deltagare på mötet eller aktiviteten. Minst två personer ska förväntas närvara på ett möte eller en aktivitet för att fikabudget ska spenderas.
 
 Med fika avses enklare förtäring av mindre värde som inte ersätter måltid. Fikabudget får ej bekosta alkohol.
 
-#### §7.2.2.1 Fika till intern grupp
+#### §6.2.2.1 Fika till intern grupp
 
 Fika till intern grupp ska i första hand spenderas under de möten eller tillfällen som nämnder eller projekt har för att planera sin verksamhet, eller till dess arbetsmöten.
 
@@ -119,7 +119,7 @@ Ett tillfälle med fika för en intern grupp ska annonseras i förväg så att h
 
 Det ska dokumenteras vad som gjordes under tillfället, vilka som var där samt hur mycket pengar som spenderades.
 
-#### §7.2.2.2 Fika till event
+#### §6.2.2.2 Fika till event
 
 Fika till event ska vara tydligt kopplat till ett tillfälle och ett event riktat utåt mot hela sektionen.
 
@@ -129,7 +129,7 @@ Budgeten för eventfika ska i största möjliga mån fördelas jämnt mellan del
 
 För att spendera budgeten för eventfika måste det närvara andra personer än nämndmedlemmar eller medlemmar i projektgruppen. Med undantag för öppna nämnder där medlemmar är samtliga intresserade sektionsmedlemmar.
 
-#### §7.2.2.3 Personalvård
+#### §6.2.2.3 Personalvård
 
 Personalvård ska vara tydligt kopplat till ett tillfälle och ett arbetspass.
 
@@ -141,11 +141,11 @@ arbetstillfället.
 
 Med personalvård avses enklare förtäring av mindre värde som ej ersätter måltid. Personalvårdsbudget får ej bekosta alkohol
 
-#### §7.2.2.4 Mat intern grupp
+#### §6.2.2.4 Mat intern grupp
 
 Mat till en interngrupp får endast köpas som del av teambuilding eller i samband med utbildning.
 
-## §7.3 Bokföringskonton för teambuilding, personalvård och fika
+## §6.3 Bokföringskonton för teambuilding, personalvård och fika
 
 Fika till event ska bokföras på bokföringskontot 4045.
 
@@ -159,11 +159,11 @@ Mat till intern grupp ska bokföras på bokföringskontot 7692.
 
 Alkohol till teambuilding ska bokföras på bokföringskontot 7693.
 
-# §8 Fonder
+# §7 Fonder
 
 Datasektionen har utöver de fonder som regleras i stadgarna två andra fonder, lokalfonden och jubileumsfonden. Hur fonderna får användas regleras nedan, övrigt nyttjande av fondernas medel får beslutas av SM.
 
-## §8.1 Lokalfonden
+## §7.1 Lokalfonden
 
 Lokalfondens medel är avsedda för att köpa in större inventarier till lokalen och att se till att sektionen har en buffert utifall att vi plötsligt skulle behöva flytta.
 
@@ -171,21 +171,21 @@ Ianspråktagande av lokalfondens medel beslutas av D-rektoratet på DM. Fondens 
 
 Lokalfonden bör vara av sådan storlek att sektionen kan bekosta en lokalflytt med fondens medel.
 
-## §8.2 Jubileumsfonden
+## §7.2 Jubileumsfonden
 
 Jubileumsfondens syfte är undvika att ett enskilt års budget belastas onödigt hårt de år då Datasektionen firar ett jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke.
 
 Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 10 prisbasbelopp när ett jubileum infaller.
 
-## §8.3 50-år jubileumsfonden
+## §7.3 50-år jubileumsfonden
 
 50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §[8.2] Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
-## §8.4 Källarfonden
+## §7.4 Källarfonden
 
 Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 4 prisbasbelopp till denna fond varje verksamhetsår.
 
-# §9 Subventionering av profilkläder
+# §8 Subventionering av profilkläder
 
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i tre grupper: arbetskläder, profilkläder, och merch. Arbetskläder definieras som nödvändiga, opersonliga kläder som bör ärvas i den mån som går. Dessa bekostas helt av sektionen. Profilkläder är kläder som är menade att vara igenkänningsbara för gemene sektionsmedlem. Merch är kläder och lösegendom som är frivilliga och nöjsamma, och dessa ska ej subventioneras.
 
@@ -193,10 +193,10 @@ Profilkläder får maximalt subventioneras till antingen 50% av inköpspriset el
 
 Vid sponsringen dras summan först från delen som subventioneras av sektionen.
 
-# $10 Delade licenser
+# $9 Delade licenser
 Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen.
 
-# §11 Accesser
+# §10 Accesser
 
 Firmatecknare och Vice kassör har läs- och hanteringsaccess i banken. Revisorer har läsaccess i banken och i bokföringssystemet.
 
@@ -206,7 +206,7 @@ Nämndordförande och projektledare ska ha attesträtt för sin nämnd eller pro
 
 Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
-# §12 Attest
+# §11 Attest
 
 Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift för nämnder eller projekt är i stigande ordning nämndordförande/projektledare, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Beslut kan överklagas enligt ordningen i §[A]. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
@@ -216,17 +216,17 @@ Ifall det inte finns någon person som får attestera ett utlägg ska Ordförand
 
 Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflow.
 
-# §13 Avtal
+# §12 Avtal
 
 Avtal kan enligt svensk lag endast undertecknas av firmatecknare eller innehavare av fullmakt. Den som önskar skriva på ett avtal i sektionens namn ska så snabbt som möjligt kontakta firmatecknare för att utreda möjligheten till att göra det. Avtal eller utfärdande av fullmakt beslutas om att skrivas under antingen genom DM, med stöd i styrdokument eller med standardavtal. Avtal kan i undantagsfall skrivas under retroaktivt. Den som med fullmakt skriver under ett avtal i sektionens namn ansvarar för att original omgående kommer firmatecknare tillhanda. Firmatecknare ansvarar för att förvara sektionens alla gällande avtal ordnat och samlat.
 
-# §14 Investeringsregler
+# §13 Investeringsregler
 
-## §14.1 Beslut av köp
+## §13.1 Beslut av köp
 
 Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebeslut.
 
-## §14.2 Risk
+## §13.2 Risk
 
 För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
 
