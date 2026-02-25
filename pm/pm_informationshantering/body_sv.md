@@ -1,20 +1,8 @@
 <!-- Konglig Datasektionens PM för informationshantering -->
 
-# §1 Formalia
-
-Detta dokument beskriver hur sektionen hanterar och använder medlemmars uppgifter för att kunna organisera sektionens verksamhet.
-
-## §1.1 Syfte
+# Syfte
 
 Syftet med detta dokument är att sätta tydliga rutiner för hur sektionen arbetar med personliga uppgifter. Både genom att säkerställa hur sektionen hanterar medlemmars personuppgifter och i vilka ändamål de får användas.
-
-## §1.2 Omfattning
-
-Dessa rutiner gäller för sektionen och samtliga som engagerar sig inom dess verksamhet.
-
-## §1.3 Ansvar
-
-Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
 # §2 Bakgrund
 
