@@ -65,3 +65,9 @@ Personliga uppgifter och handlingar som kan anses känsliga för enskilda indivi
 # §6 Närvaro i informationskanaler
 
 Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, sektionens uppförandepolicy och sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
+
+# §7 Användning av generativ AI
+
+Informatörer ska inte använda bilder eller videor framtagna av generativ AI för informationsspridning eller marknadsföring av sektionsverksamhet. Detta inkluderar, men är inte begränsat till, inlägg på sociala medier, META-TV, märken och affischer.
+
+Undantag till detta görs i fall där ett företag har tillhandagett oss AI-genererat material i syfte att marknadsföra samarbeten mellan sektionen och företaget.
