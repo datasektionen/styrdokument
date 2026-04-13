@@ -310,7 +310,7 @@ Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med
 
 Om en funktionärspost är vakant ska valberedningen lysa fyllnadsval till nästkommande valtillfälle. 
 
-Fyllnadsval ska lysas enligt §[5.3] senast 21 dagar före det valtillfälle då fyllnadsvalet sker. 
+Fyllnadsval ska lysas enligt §[5.3] senast 14 dagar före det valtillfälle då fyllnadsvalet sker. 
 
 Nomineringar till fyllnadsval av funktionärsposter måste lämnas in senast 4 dagar före valtillfället. Den nominerade måste acceptera sin nomination senast en dag efter nomineringsperioden för att kandidaturen ska vara giltig.
 
