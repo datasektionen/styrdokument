@@ -79,8 +79,7 @@ Trygghetsrådet ska:
 
 - För en varning eller avstängning krävs ett enhälligt beslut.
 
-Om en eller flera medlemmar av trygghetsrådet skulle gå av sitt mandat under ett pågående ärende så tillämpas ovanstående regler som att de fortfarande satt i trygg-
-hetsrådet för beslut i det ärendet. Nya medlemmar skall inte närvara för eller besluta i ärenden som pågick innan de klev på sin post.
+Om en eller flera medlemmar av trygghetsrådet skulle gå av sitt mandat under ett pågående ärende så tillämpas ovanstående regler som att de fortfarande satt i trygghetsrådet för beslut i det ärendet. Nya medlemmar skall inte närvara för eller besluta i ärenden som pågick innan de klev på sin post.
 
 ## §3.4 Anonymitet
 
