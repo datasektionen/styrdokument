@@ -79,6 +79,8 @@ Trygghetsrådet ska:
 
 - För en varning eller avstängning krävs ett enhälligt beslut.
 
+Om en eller flera medlemmar av trygghetsrådet skulle gå av sitt mandat under ett pågående ärende så tillämpas ovanstående regler som att de fortfarande satt i trygghetsrådet för beslut i det ärendet. Nya medlemmar skall inte närvara för eller besluta i ärenden som pågick innan de klev på sin post.
+
 ## §3.4 Anonymitet
 
 Anmälan till Trygghetsrådet sker alltid via skyddsombuden, dvs SMA och JMLA. Dessa funktionärer har juridisk tystnadsplikt men med målsägandens samtycke kan ärendet anmälas till Trygghetsrådet. Trygghetsrådet som helhet har ingen juridisk tystnadsplikt men agerar med respekt till målsäganden i sin hantering av ärendet. Ärenden som inte tas vidare till Trygghetsrådet kan inte leda till konsekvenser enligt denna policy.
