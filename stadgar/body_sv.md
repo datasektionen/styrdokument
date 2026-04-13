@@ -300,7 +300,7 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 Ordinarie val ska lysas enligt §[5.3] senast 35 dagar före ett valtillfälle då ordinarie val sker.
 
-Nomineringar till funktionärsposter måste lämnas in och accepteras senast 14 dagar före valtillfället för att kandidaturen ska vara giltig.
+Nomineringar till funktionärsposter måste lämnas in senast 14 dagar före valtillfället. Den nominerade måste acceptera sin nomination senast en dag efter nomineringsperioden för att kandidaturen ska vara giltig.
 
 Om en post saknar giltiga kandidaturer vid nomineringsperiodens slut kan valberedningen förlänga nomineringsperioden med 10 dagar för den posten. Detta gäller inte de poster som väljs med urnval enligt §[5.7] för att möjliggöra den processen.
 
