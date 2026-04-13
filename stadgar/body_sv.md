@@ -280,10 +280,10 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[4.2] i ka
 
 Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
 
-Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen
-på VM.
+Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen på VM.
 
 ## §5.1 Valtillfällen
+
 Val kan ske vid SM som regleras av §[3] eller vid VM som regleras av §[4].
 
 ## §5.2 Valberedningen
@@ -292,25 +292,36 @@ Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammans
 
 ## §5.3 Nomineringar
 
-Valberedningen ska i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.9]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
+Valberedningen ska lysa till val genom att anslå en lista över poster som ska väljas via officiella informationskanaler enligt §[1.9]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till valberedningen.
 
-Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås ska Valberedningen även anslå en lista på samtliga nominerade i valet.
+Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nomineringen.
 
 ## §5.4 Ordinarie val
-Nomineringslistan ska anslås enligt §[5.3] senast 35 dagar före ett valtillfälle då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det valtillfälle då valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det valtillfälle då valet sker för att kandidaturen ska vara giltig. Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[5.1].
 
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan valtillfället. Detta gäller inte de poster som väljs med urnval enligt §[5.7] för att möjliggöra den processen.
+Ordinarie val ska lysas enligt §[5.3] senast 35 dagar före ett valtillfälle då ordinarie val sker.
+
+Nomineringar till funktionärsposter måste lämnas in senast 14 dagar före valtillfället. Den nominerade måste acceptera sin nomination senast två dagar efter nomineringsperioden för att kandidaturen ska vara giltig.
+
+Om en post saknar giltiga kandidaturer vid nomineringsperiodens slut kan valberedningen förlänga nomineringsperioden med 10 dagar för den posten. Detta gäller inte de poster som väljs med urnval enligt §[5.7] för att möjliggöra den processen.
+
+Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[5.1].
 
 ## §5.5 Fyllnadsval
 
-Om en funktionärspost blir vakantsatt ska Valberedningen lysa fyllnadsval till nästkommande valtillfälle enligt §[5.1]. Vidare reglering av fyllnadsval vid varje valtillfälle kan ske i enlighet med §[5.1].
+Om en funktionärspost är vakant ska valberedningen lysa fyllnadsval till nästkommande valtillfälle. 
 
-Inför fyllnadsval ska nomineringslistan anslås enligt §[5.3] senast 21 dagar före det valtillfälle då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det valtillfälle där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det valtillfälle där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+Fyllnadsval ska lysas enligt §[5.3] senast 14 dagar före det valtillfälle då fyllnadsvalet sker. 
+
+Nomineringar till fyllnadsval av funktionärsposter måste lämnas in senast 4 dagar före valtillfället. Den nominerade måste acceptera sin nomination senast en dag efter nomineringsperioden för att kandidaturen ska vara giltig.
+
+Vidare reglering av fyllnadsval vid varje valtillfälle kan ske i enlighet med §[5.1].
 
 ## §5.6 Kandidatur under valtillfället
-Då ingen kandidat finns till en post under ett valtillfälle vartill val till posten lysts, kan valtillfället besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett beslut med 3/4-majoritet av valtillfället.
+
+Då ingen kandidat finns till en post under ett valtillfälle vartill val till posten lysts, kan valtillfället besluta att öppna för fri kandidatur. För val av kandidat vid fri kandidatur krävs ett beslut med 3/4-majoritet.
 
 ## §5.7 Avvikande valprocesser
+
 Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
