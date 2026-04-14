@@ -600,7 +600,7 @@ Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen 
 
 ### §2.10.2 Organisation
 
-Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
+Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik.
 
 Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
 
