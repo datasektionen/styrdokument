@@ -282,8 +282,6 @@ Mulle/Mullerina Schmeck har till uppgift att underhålla sektionens fordon samt 
 
 Tillhör Förvaltningsorganet.
 
-Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra sektionens fordon.
-
 #### §1.2.6.3 Verksamhet
 
 Mulle/Mullerina Schmeck ska
