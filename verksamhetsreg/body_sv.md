@@ -434,8 +434,6 @@ Datasektionens E-Sports Community ska:
 
 - skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 
-- samarbeta med Qulturnämnden för överlappande verksamhet
-
 ## §2.4 D-festeriet
 
 ### §2.4.1 Ändamål
