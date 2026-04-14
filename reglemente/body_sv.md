@@ -470,10 +470,6 @@ Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av proje
 
 Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
 
-## §6.5 Delade projekt
-
-Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
-
 # §7 Partitioner
 
 En partition är en sammanslutning inom sektionen som bedriver verksamhet utifrån ett gemensamt intresseområde. Partitioner kan antingen benämnas som aktiva eller som inaktiva.
