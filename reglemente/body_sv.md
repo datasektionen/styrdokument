@@ -72,6 +72,10 @@ Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt re
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet.
 
+## §3.3 Verkställande funktionärer
+
+Följande är nödvändiga funktionärer för Konglig Datasektionens administrering.
+
 ## §3.3.1 D-rektoratet
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
