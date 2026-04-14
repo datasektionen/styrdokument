@@ -240,7 +240,7 @@ Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemm
 
 #### §1.2.4.2 Organisation
 
-Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
+SM ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 #### §1.2.4.3 Verksamhet
 
