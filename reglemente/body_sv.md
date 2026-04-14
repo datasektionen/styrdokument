@@ -90,6 +90,8 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 -   hålla sektionens posthantering fungerande.
 
+- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
+
 ### §3.3.1.1 Ordförande
 
 Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
