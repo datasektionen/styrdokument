@@ -259,31 +259,31 @@ Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar m�
 
 Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy. 
 
-## §3.5 Talmanspresidiet
+## §3.3.3 Talmanspresidiet
 
-### §3.5.1 Ändamål
+### §3.3.3.1 Ändamål
 
 Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
 
 Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
 
-### §3.5.2 Organisation
+### §3.3.3.2 Organisation
 
 Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
 
-#### §3.5.2.1 Talman
+#### §3.3.3.2.1 Talman
 
 Är ordförande för Talmanspresidiet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-#### §3.5.2.2 Vice talman
+#### §3.3.3.2.2 Vice talman
 
 Bistår Talman i dess arbete.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.5.3 Verksamhet
+### §3.3.3.3 Verksamhet
 
 Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
 
