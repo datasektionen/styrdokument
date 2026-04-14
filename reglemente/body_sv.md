@@ -201,8 +201,6 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 - verka för att möjliggöra rekreation utanför skoltid
 
-- upprätthålla och förvalta kontakten med andra sektioner och organisationer
-
 - verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
