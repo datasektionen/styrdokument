@@ -792,8 +792,6 @@ Qulturnämnden ska:
 
 - årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
-- samarbeta med DESC respektive TM för överlappande verksamhet.
-
 ## §2.18 Redaqtionen
 
 ### §2.18.1 Ändamål
