@@ -72,7 +72,7 @@ Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt re
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet.
 
-## §3.3 D-rektoratet
+## §3.3.1 D-rektoratet
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
 
@@ -86,7 +86,7 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 -   hålla sektionens posthantering fungerande.
 
-### §3.3.1 Ordförande
+### §3.3.1.1 Ordförande
 
 Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
 
@@ -102,7 +102,7 @@ Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknar
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.2 Vice ordförande
+### §3.3.1.2 Vice ordförande
 
 Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
@@ -120,7 +120,7 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.3 Sekreterare
+### §3.3.1.3 Sekreterare
 
 Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
@@ -137,7 +137,7 @@ mötets avslutande.
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.4 Kassör
+### §3.3.1.4 Kassör
 
 Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
@@ -161,7 +161,7 @@ Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.5 Vice kassör
+### §3.3.1.5 Vice kassör
 
 Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
@@ -177,7 +177,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.6 Ledamot för näringsliv och kommunikation
+### §3.3.1.6 Ledamot för näringsliv och kommunikation
 
 Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -193,7 +193,7 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.7 Ledamot för studiesociala frågor
+### §3.3.1.7 Ledamot för studiesociala frågor
 
 Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
@@ -207,7 +207,7 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.8 Ledamot för utbildningsfrågor
+### §3.3.1.8 Ledamot för utbildningsfrågor
 
 Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -221,7 +221,7 @@ Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS o
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.9 Ledamot för studiemiljö och likabehandling
+### §3.3.1.9 Ledamot för studiemiljö och likabehandling
 
 Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
