@@ -306,8 +306,6 @@ Programansvarig student ansvarar för sektionens utbildningspåverkan på progra
 
 #### §1.2.7.2 Organisation
 
-Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
-
 I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
 
 Tillhör Påverkansorganet.
