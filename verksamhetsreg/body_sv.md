@@ -114,6 +114,8 @@ Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande 
 
 Är ordförande för Systemgruppen.
 
+Nytillträdd Systemansvarig övertar det yttersta ansvaret över Systemgruppens operativa och strategiska arbete när dennas mandatperiod börjar. Tidigare Systemansvarig skall då agera som vice ordförande för Systemgruppen, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
+
 Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §1.1.20 Tomtemor/-far
