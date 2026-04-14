@@ -190,8 +190,6 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
 - strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
 - bistå i samordnandet av näringslivsfrågor på sektionen.
-  
-- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
