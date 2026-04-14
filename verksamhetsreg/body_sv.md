@@ -412,6 +412,8 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 
 - erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
 
+- bistå annan sektionsverksamhet genom spelningar på evenemang
+
 ## §2.3 Datasektionens E-Sports Community
 
 ### §2.3.1 Ändamål
