@@ -235,25 +235,25 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-## §3.4 Valberedningen
+## §3.3.2 Valberedningen
 
-### §3.4.1 Ändamål
+### §3.3.2.1 Ändamål
 
 Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
 
-### §3.4.2 Organisation
+### §3.3.2.2 Organisation
 
 Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter.
 
-#### §3.4.2.1 Valberedningens ordförande
+#### §3.3.2.2.1 Valberedningens ordförande
 
 Väljs i period 4. Har läsår som mandatperiod.
 
-#### §3.4.2.2 Valberedningensledamöter
+#### §3.3.2.2.2 Valberedningensledamöter
 
 Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
 
-### §3.4.3 Verksamhet
+### §3.3.2.3 Verksamhet
 
 Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
