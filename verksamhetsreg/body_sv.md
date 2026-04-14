@@ -114,6 +114,8 @@ Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande 
 
 Är ordförande för Systemgruppen.
 
+Nytillträdd Systemansvarig övertar det yttersta ansvaret över Systemgruppens operativa och strategiska arbete när dennas mandatperiod börjar. Tidigare Systemansvarig skall då agera som vice ordförande för Systemgruppen, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
+
 Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §1.1.20 Tomtemor/-far
@@ -146,7 +148,7 @@ Ansvarar för sektionens grafiska utveckling och arbete.
 
 Tillhör Informationsorganet.
 
-#### §1.2.1.3 Verksamhet
+### §1.2.1.3 Verksamhet
 
 Datas Art Director ska:
 
@@ -158,7 +160,7 @@ Datas Art Director ska:
 
 - administrera över sektionens video- och fotoutrustning
 
-#### §1.2.1.4 Mandatperiod
+### §1.2.1.4 Mandatperiod
 
 Väljs i period 4. Har läsår som mandatperiod.
 
@@ -238,7 +240,7 @@ Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemm
 
 #### §1.2.4.2 Organisation
 
-Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
+SM ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 #### §1.2.4.3 Verksamhet
 
@@ -280,8 +282,6 @@ Mulle/Mullerina Schmeck har till uppgift att underhålla sektionens fordon samt 
 
 Tillhör Förvaltningsorganet.
 
-Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra sektionens fordon.
-
 #### §1.2.6.3 Verksamhet
 
 Mulle/Mullerina Schmeck ska
@@ -305,8 +305,6 @@ Väljs i Period 2. Har kalenderår som mandatperiod.
 Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
 
 #### §1.2.7.2 Organisation
-
-Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
 I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
 
@@ -414,21 +412,7 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 
 - erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
 
-- anordna regelbundna träffar för sektionernas medlemmar där deltagarna bland annat kan få:
-
-    - repa tillsammans med DEMON:s medlemmar
-
-    - dela med sig och föreslå låtar till DEMON:s framtida spelningar
-
-    - umgås med likasinnade människor.
-
-- anordna regelbundna repetitioner för DEMON:s medlemmar
-
 - bistå annan sektionsverksamhet genom spelningar på evenemang
-
-- säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
-
-- samordna gemensamma besök på konserter/festivaler/spelningar.
 
 ## §2.3 Datasektionens E-Sports Community
 
@@ -451,8 +435,6 @@ Datasektionens E-Sports Community ska:
 - anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
 
 - skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
-
-- samarbeta med Qulturnämnden för överlappande verksamhet
 
 ## §2.4 D-festeriet
 
@@ -618,7 +600,7 @@ Internationella nämnden är en delad nämnd mellan Datasektionen och Sektionen 
 
 ### §2.10.2 Organisation
 
-Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
+Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik.
 
 Övriga medlemmar utses av Internationell studentkoordinator och motsvarande funktionär på Sektionen för Medieteknik i samråd.
 
@@ -812,8 +794,6 @@ Qulturnämnden ska:
 
 - årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
-- samarbeta med DESC respektive TM för överlappande verksamhet.
-
 ## §2.18 Redaqtionen
 
 ### §2.18.1 Ändamål
@@ -847,8 +827,6 @@ Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslo
 Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
 
 Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
-
-Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
 
 I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
 
@@ -968,6 +946,8 @@ STUDS är en nämnd vars syfte är att koppla samman masterstudenter inom datate
 
 ### §2.22.2 Organisation
 
+Tillhör Näringslivsorganet.
+
 Ordförande för STUDS är STUDS-ansvarig.
 
 Övriga medlemmar utses av STUDS-ansvarig.
@@ -1001,8 +981,6 @@ METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projek
 - Att sätta upp spexföreställningar under nästkommande kalenderår.
 
 - Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de känner att de bidrar till ett större projekt.
-
-- Att ge medlemmar möjlighet att lära sig nya saker tillsammans och av varandra.
 
 - Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som relationerna mellan sektionernas medlemmar.
 
