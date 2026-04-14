@@ -948,6 +948,8 @@ STUDS är en nämnd vars syfte är att koppla samman masterstudenter inom datate
 
 ### §2.22.2 Organisation
 
+Tillhör Näringslivsorganet.
+
 Ordförande för STUDS är STUDS-ansvarig.
 
 Övriga medlemmar utses av STUDS-ansvarig.
