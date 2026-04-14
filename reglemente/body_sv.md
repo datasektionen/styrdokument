@@ -98,8 +98,6 @@ Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknar
 
 - tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
 
-- förvalta sektionens externa relationer
-
 - fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
 
 - ha en god överblick av sektionens ekonomi.
