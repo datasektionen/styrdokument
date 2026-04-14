@@ -980,8 +980,6 @@ METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projek
 
 - Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de känner att de bidrar till ett större projekt.
 
-- Att ge medlemmar möjlighet att lära sig nya saker tillsammans och av varandra.
-
 - Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som relationerna mellan sektionernas medlemmar.
 
 ### §3.1.4 Period
