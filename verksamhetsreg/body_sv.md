@@ -830,8 +830,6 @@ Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansv
 
 Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade. Ljud- och ljusansvarig tilldeles medlemskap i sektionslokalgruppen och arbetar med sektionslokalgruppen för att säkerställa koordinering mellan tekniken och resten av lokalen.
 
-Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektions ordförande att komma överens om och besluta i frågan.
-
 I det fall att Konglig Lokalchef är vakantsatt är styrelsens Ledamot för studiemiljö och likabehandling ställföreträdande nämndordförande.
 
 Tillhör Förvaltningsorganet.
