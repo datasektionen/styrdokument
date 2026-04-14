@@ -412,22 +412,6 @@ Data Et Medias OrquesterNämnd (DEMON) ska:
 
 - erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
 
-- anordna regelbundna träffar för sektionernas medlemmar där deltagarna bland annat kan få:
-
-    - repa tillsammans med DEMON:s medlemmar
-
-    - dela med sig och föreslå låtar till DEMON:s framtida spelningar
-
-    - umgås med likasinnade människor.
-
-- anordna regelbundna repetitioner för DEMON:s medlemmar
-
-- bistå annan sektionsverksamhet genom spelningar på evenemang
-
-- säkerställa att de band som använder DEMONs budget för replokaler eller fika är tillgängliga för att spela på något av sektionens evenemang och/eller spela å sektionens vägnar
-
-- samordna gemensamma besök på konserter/festivaler/spelningar.
-
 ## §2.3 Datasektionens E-Sports Community
 
 ### §2.3.1 Ändamål
