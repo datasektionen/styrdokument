@@ -289,13 +289,13 @@ Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför et
 
 Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
 
-## §3.6 Revisorer
+## §3.3.4 Revisorer
 
-### §3.6.1 Ändamål
+### §3.3.4.1 Ändamål
 
 Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
 
-### §3.6.2 Organisation
+### §3.3.4.2 Organisation
 
 Enligt sektionens stadgar finns två av SM utsedda revisorer.
 
@@ -303,27 +303,27 @@ Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte be
 
 Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
 
-### §3.6.3 Verksamhet
+### §3.3.4.3 Verksamhet
 
 Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-#### §3.6.3.1 Revisionsberättelse
+#### §3.3.4.3.1 Revisionsberättelse
 
 Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
 
 Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
-#### §3.6.3.2 Förvaltningsrevisionsrapport
+#### §3.3.4.3.2 Förvaltningsrevisionsrapport
 
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
 Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
 
-#### §3.6.3.3 Bokföring
+#### §3.3.4.3.3 Bokföring
 
 Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
 
-### §3.6.4 Mandatperiod
+### §3.3.4.4 Mandatperiod
 
 Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
