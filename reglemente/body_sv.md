@@ -72,7 +72,11 @@ Funktionär skall även på anmodan från D-rektoratet eller SM fullständigt re
 
 Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är föreskrivet.
 
-## §3.3 D-rektoratet
+## §3.3 Verkställande funktionärer
+
+Följande är nödvändiga funktionärer för Konglig Datasektionens administrering.
+
+### §3.3.1 D-rektoratet
 
 D-rektoratets ledamöter har ett gemensamt ansvar att
 
@@ -86,7 +90,9 @@ D-rektoratets ledamöter har ett gemensamt ansvar att
 
 -   hålla sektionens posthantering fungerande.
 
-### §3.3.1 Ordförande
+- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
+
+#### §3.3.1.1 Ordförande
 
 Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje nämnd. Dessa ansvarsområden inkluderar att
 
@@ -94,15 +100,13 @@ Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknar
 
 - tillsammans med lokalchefen ansvara för sektionslokalen gentemot KTH
 
-- förvalta sektionens externa relationer
-
 - fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
 
 - ha en god överblick av sektionens ekonomi.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.2 Vice ordförande
+#### §3.3.1.2 Vice ordförande
 
 Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Ordförande. Dessa ansvarsområden inkluderar att
 
@@ -120,7 +124,7 @@ Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt när
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.3 Sekreterare
+#### §3.3.1.3 Sekreterare
 
 Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
@@ -137,7 +141,7 @@ mötets avslutande.
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.4 Kassör
+#### §3.3.1.4 Kassör
 
 Är firmatecknare tillsammans med Ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
@@ -161,7 +165,7 @@ Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.5 Vice kassör
+#### §3.3.1.5 Vice kassör
 
 Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
@@ -177,7 +181,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.6 Ledamot för näringsliv och kommunikation
+#### §3.3.1.6 Ledamot för näringsliv och kommunikation
 
 Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -188,12 +192,10 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
 - strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
 - bistå i samordnandet av näringslivsfrågor på sektionen.
-  
-- upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.7 Ledamot för studiesociala frågor
+#### §3.3.1.7 Ledamot för studiesociala frågor
 
 Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
@@ -201,13 +203,11 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 - verka för att möjliggöra rekreation utanför skoltid
 
-- upprätthålla och förvalta kontakten med andra sektioner och organisationer
-
 - verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.8 Ledamot för utbildningsfrågor
+#### §3.3.1.8 Ledamot för utbildningsfrågor
 
 Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -221,7 +221,7 @@ Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS o
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-### §3.3.9 Ledamot för studiemiljö och likabehandling
+#### §3.3.1.9 Ledamot för studiemiljö och likabehandling
 
 Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -235,67 +235,67 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 Väljs på SM i period 2. Har kalenderår som mandatperiod.
 
-## §3.4 Valberedningen
+### §3.3.2 Valberedningen
 
-### §3.4.1 Ändamål
+#### §3.3.2.1 Ändamål
 
 Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens ordförande ansvarar för att valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
 
-### §3.4.2 Organisation
+#### §3.3.2.2 Organisation
 
 Valberedningen leds av Valberedningens ordförande. Valberedningen består av Valberedningens ordförande och ledamöter.
 
-#### §3.4.2.1 Valberedningens ordförande
+##### §3.3.2.2.1 Valberedningens ordförande
 
 Väljs i period 4. Har läsår som mandatperiod.
 
-#### §3.4.2.2 Valberedningensledamöter
+##### §3.3.2.2.2 Valberedningensledamöter
 
 Tre ledamöter väljs i period 4 och har läsår som mandatperiod. Ytterligare tre ledamöter väljs i period 2 och har kalenderår som mandatperiod.
 
-### §3.4.3 Verksamhet
+#### §3.3.2.3 Verksamhet
 
 Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat accepterar sin nominering ska valberedningen informera denne om valprocessen. Valberedningen får söka efter lämpliga kandidater till en post.
 
 Valberedningens arbete i samband med rekryteringar och inval definieras i sektionens Rekryteringspolicy. 
 
-## §3.5 Talmanspresidiet
+### §3.3.3 Talmanspresidiet
 
-### §3.5.1 Ändamål
+#### §3.3.3.1 Ändamål
 
 Talmanspresidiet har som uppgift att arrangera samt leda SM och VM.
 
 Talmanspresidiet skall säkerställa att dokument till och från SM och VM anslås i enlighet med styrdokumenten samt publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande. Ett signerat diskussionsprotokoll räknas som ett beslutsprotokoll.
 
-### §3.5.2 Organisation
+#### §3.3.3.2 Organisation
 
 Talmanspresidiet leds av Talman. Övriga medlemmar är Vice talman och Sekreterare.
 
-#### §3.5.2.1 Talman
+##### §3.3.3.2.1 Talman
 
 Är ordförande för Talmanspresidiet.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-#### §3.5.2.2 Vice talman
+##### §3.3.3.2.2 Vice talman
 
 Bistår Talman i dess arbete.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §3.5.3 Verksamhet
+#### §3.3.3.3 Verksamhet
 
 Talmanspresidiet ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet.
 
 Talmanspresidiet är neutralt och uttalar inte sina personliga ståndpunkter i sakfrågor.
 
-## §3.6 Revisorer
+### §3.3.4 Revisorer
 
-### §3.6.1 Ändamål
+#### §3.3.4.1 Ändamål
 
 Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbete.
 
-### §3.6.2 Organisation
+#### §3.3.4.2 Organisation
 
 Enligt sektionens stadgar finns två av SM utsedda revisorer.
 
@@ -303,27 +303,27 @@ Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte be
 
 Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
 
-### §3.6.3 Verksamhet
+#### §3.3.4.3 Verksamhet
 
 Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-#### §3.6.3.1 Revisionsberättelse
+##### §3.3.4.3.1 Revisionsberättelse
 
 Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger.
 
 Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
-#### §3.6.3.2 Förvaltningsrevisionsrapport
+##### §3.3.4.3.2 Förvaltningsrevisionsrapport
 
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
 Förvaltningsrevisionsrapporten är ett dokument som skildrar revideringen av all sektionens verksamhet som skett sedan det senaste sektionsmötet.
 
-#### §3.6.3.3 Bokföring
+##### §3.3.4.3.3 Bokföring
 
 Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens verksamhet.
 
-### §3.6.4 Mandatperiod
+#### §3.3.4.4 Mandatperiod
 
 Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
@@ -469,10 +469,6 @@ Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av proje
 ### §6.4.2 Rättigheter
 
 Projektledare för aktivt projekt anses vara funktionär. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
-
-## §6.5 Delade projekt
-
-Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet.
 
 # §7 Partitioner
 

@@ -39,7 +39,7 @@ Policyn berör händelser som sker:
 
 - i eller invid sektionslokalen
 
-- i eller invid sektionsbilen
+- i eller invid av sektionen ägda fordon
 
 - i sektionens officiella eller inofficiella informationskanaler
 
