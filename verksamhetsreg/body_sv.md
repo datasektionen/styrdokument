@@ -144,11 +144,11 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Ansvarar för sektionens grafiska utveckling och arbete.
 
-### §1.2.1.2 Organisation
+#### §1.2.1.2 Organisation
 
 Tillhör Informationsorganet.
 
-### §1.2.1.3 Verksamhet
+#### §1.2.1.3 Verksamhet
 
 Datas Art Director ska:
 
@@ -160,7 +160,7 @@ Datas Art Director ska:
 
 - administrera över sektionens video- och fotoutrustning
 
-### §1.2.1.4 Mandatperiod
+#### §1.2.1.4 Mandatperiod
 
 Väljs i period 4. Har läsår som mandatperiod.
 
