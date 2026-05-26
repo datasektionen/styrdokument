@@ -922,7 +922,7 @@ Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
 
 ### §2.21.2 Organisation
 
-Systemgruppen leds av Systemansvarig, internt benämnd Chefsåsnan.
+Systemgruppen leds av Systemansvarig och kallas Crash & Bränn.
 
 Övriga medlemmar utses av Systemansvarig.
 
