@@ -76,10 +76,6 @@ Utöver stadgarna finns ytterligare detaljstyrande dokument. Dessa förtecknas i
 
 Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 
-## §1.9 Officiella informationskanaler
-
-Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
-
 ## §1.10 Firmatecknare
 
 Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
