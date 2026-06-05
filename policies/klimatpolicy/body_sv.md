@@ -48,7 +48,7 @@ Sektionen bekostar inte fossila drivmedel för våra fordon eller för av sektio
 
 # §5 Mat
 
-God och klimatsmart mat ska premieras vid evenemang arrangerade av sektionen. Det ska alltid vara möjligt att välja ett vegetariskt alternativ.
+God, etisk och klimatsmart mat, exempelvis kravmärkt, ska premieras vid evenemang arrangerade av sektionen. Det ska alltid vara möjligt att välja ett vegetariskt alternativ.
 
 ## §5.1 Vegetariskt som prioritet
 
