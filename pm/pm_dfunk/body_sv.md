@@ -39,19 +39,19 @@ ansvarar för att aktuell information om deras nämnd eller projekt ska finnas t
 
 Om sådan information saknas så är det funktionärens ansvar att sammanställa den och göra den tillgänglig på sektionens officiella informationskanaler.
 
-## §1.7 Utbildningar
+## §1.8 Utbildningar
 
 Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Styrelsen har rätt att låta funktionärer tillgodoräkna likvärdiga utbildningsmoment.
 
-## §1.8 Råd och möten
+## §1.9 Råd och möten
 
 THS och D-rektoratets ledamöter kan anordna ämnesspecifika råd. Det är en funktionärs skyldighet att i största möjliga mån delta i de råd som D-rektoratet anser att de ska ingå i. Samma princip gäller för möten med andra funktionär och med D-rektoratet.
 
-## §1.9 Representant
+## §1.10 Representant
 
 Funktionärer är representanter för sektionen. Allt som skrivs via funktionärsmail samt sektionens övriga officiella och inofficiella informationskanaler kan tolkas som att det kommer från sektionen. Även i person representerar funktionärer sektionen. Det som görs och sägs utanför sektionsrelaterade åtaganden kan fortfarande anses komma från sektionen. Det är varje funktionärs skyldighet att representera sektionen väl.
 
-## §1.10 Verksamhetsmål
+## §1.11 Verksamhetsmål
 
 Det är en funktionärs skyldighet att planera och efter bästa förmåga genomföra arbete för att uppfylla de mål i verksamhetsplanen som berör funktionären samt anordna den verksamhet som förväntas av deras post och eventuell nämnd.
 
