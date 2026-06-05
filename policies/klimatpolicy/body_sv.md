@@ -56,7 +56,7 @@ Sektionen ska prioritera vegetarisk mat men alternativ med vitt kött, bl.a. få
 
 Rött kött får endast bekostas vid följande specifika undantag:
 - dJulmiddagen
-- Traditionella svenska rätter under evenemang med där svensk kultur främjas
+- Traditionella svenska rätter under evenemang där svensk kultur främjas
 - Vissa restprodukter:
     - Löpe
     - Gelatin
