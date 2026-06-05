@@ -258,7 +258,7 @@ Kallelse ska innehålla tid och lokal för mötet samt även information om en r
 
 ## §4.3 Beslutsmässighet
 
-VM är beslutsmässigt när mötet är behörigt utlyst enligt §[4.2] och minst 2δ +1, där δ är antalet ledamötposter i styrelsen, eller 15 om δ är mindre än 7, sektionsmedlemmar är närvarande.
+VM är beslutsmässigt när mötet är behörigt utlyst enligt §[4.2] och minst 2δ +1, där δ är antalet ledamötposter i styrelsen, eller 15 om δ är mindre än 7, röstberättigade sektionsmedlemmar är närvarande.
 
 ## §4.4 Beslut
 
