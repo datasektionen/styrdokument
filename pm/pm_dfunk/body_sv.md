@@ -32,6 +32,13 @@ Om en funktionär inte lämnat in en rapport inför Sektionsmötet så kan de is
 
 Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt verksamhetsår lämna in ett dokument till D-rektoratet som redogör för den verksamhet deras nämnd har drivit det senaste halvåret. I samband med att ett projekt avslutas är ansvarig projektledare skyldig att lämna in ett dokument som redogör för den verksamhet som projektet har drivit sedan dess uppstart.
 
+## §1.7 Information på officiella informationskanaler
+
+Funktionärer som är nämndordförande eller projektledare för återkommande projekt
+ansvarar för att aktuell information om deras nämnd eller projekt ska finnas tillgänglig på sektionens officiella informationskanaler, beskrivna i §1 i PM för informationsspridning. Funktionärer som inte är nämndordförande eller projektledare ansvarar för att aktuell information om deras arbete som är relevant för gemene sektionsmedlem ska finnas tillgänglig på sektionens officiella informationskanaler.
+
+Om sådan information saknas så är det funktionärens ansvar att sammanställa den och göra den tillgänglig på sektionens officiella informationskanaler.
+
 ## §1.7 Utbildningar
 
 Varje termin anordnas en funktionärsutbildning och en JML-workshop. Varje funktionär som inte redan gått på en funktionärsutbildning under en av sina tidigare mandatperioder är skyldig att göra det någon gång under sin nuvarande mandatperiod. D-rektoratet har alltid rätt att begära att en funktionär går på en funktionärsutbildning under sin nuvarande mandatperiod. Funktionärer är skyldiga delta på en JML-workshop under varje mandatperiod. Styrelsen har rätt att låta funktionärer tillgodoräkna likvärdiga utbildningsmoment.
