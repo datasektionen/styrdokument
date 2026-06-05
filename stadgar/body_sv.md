@@ -242,6 +242,8 @@ Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i ka
 
 # §4 Valmötet
 
+Valmötet, VM, är en form av möte som existerar specifikt för val av funktionärer.
+
 ## §4.1 Sammansättning
 
 Vid VM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt.
