@@ -16,7 +16,7 @@ Flergångsartiklar ska, i största möjliga mån, användas istället för engå
 
 ## §2.1 Flergångsservis
 
-Sektionslokalsgruppen ansvarar för att en komplett flergångsservis finns i sektionslokalen. Servisen ska vara lämplig för pubar och fulsittningar samt ha en kapacitet på minst 30 kuvert.
+Sektionslokalsgruppen ansvarar för att en komplett flergångsservis finns i sektionslokalen. Servisen ska vara lämplig för pubar och fulsittningar samt ha en kapacitet på minst 60 kuvert.
 
 Vid evenemang med högst 30 deltagare ska flergångsservisen användas istället för engångsartiklar.
 
