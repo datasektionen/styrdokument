@@ -52,7 +52,7 @@ Gällande stadgar och andra styrdokument ska finnas tillgängliga för samtliga 
 
 ### §1.7.2 Tolkning
 
-Vid tveksamhet tolkas sektionens stadgar och övriga styrdokument i stigande ordning av D-rektoratet, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Sådan tolkning ska presenteras på nästkommande SM.
+Vid tveksamhet eller konflikt tolkas sektionens stadgar och övriga styrdokument i stigande ordning av D-rektoratet, sektionens revisorer, THS kårstyrelse, THS sakrevisorer och THS stadgetolkningsnämnd. Vid konflikt ska tolkningar presenteras på nästkommande SM.
 
 ### §1.7.3 Konflikt
 
