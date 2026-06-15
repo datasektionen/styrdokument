@@ -1127,7 +1127,7 @@ D-Dagen har till uppgift att informera näringslivet om sektionen och datateknik
 
 ### §3.6.2 Organisation
 
-D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
+D-Dagen leds av D-Dagenansvarig. D-Dagens medlemmar utses av D-Dagenansvarig.
 
 Tillhör Näringslivsorganet.
 
