@@ -183,7 +183,7 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 ## §7.4 Källarfonden
 
-Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 4 prisbasbelopp till denna fond varje verksamhetsår.
+Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 3 prisbasbelopp till denna fond varje verksamhetsår.
 
 # §8 Subventionering av profilkläder
 
