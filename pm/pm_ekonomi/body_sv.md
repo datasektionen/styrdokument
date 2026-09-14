@@ -6,24 +6,24 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 
 # §1 Bokföringsplikt
 
-Bokföringspliktiga nämnder, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
+Bokföringspliktiga nämnder, samt vissa projekt, sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
 
 ## §1.1 Bokföringspliktiga nämnder
 
 Följande nämnder är bokföringspliktiga:
-- Sektionslokalgruppen
-- DKM
-- Näringslivsgruppen
-- Medias Klubbmästeri.
+* Sektionslokalgruppen
+* DKM
+* Näringslivsgruppen
+* Medias Klubbmästeri.
 
 ## §1.2 Bokföringsplikt för projekt
 
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
 Följande återkommande projekt är bokföringspliktiga:
-- METAspexet
-- Mottagningen
-- D-Dagen.
+* METAspexet
+* Mottagningen
+* D-Dagen.
 
 ## §1.3 Alkohol
 
@@ -49,7 +49,7 @@ Planerad verksamhet skall tas i beaktning vid val av datum för kvittostopp. Det
 
 DKM och MKM förvaltar var sitt dryckeslager, utom under mottagningsperioden då Mottagningen tar över DKM:s dryckeslager. Det innebär att det i huvudsak är de som fyller på lagren och bokför påfyllning. Sprit, vin, cider och öl som serveras vid pub-, klubb- och sittningsverksamhet ska lagerföras
 
-Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[4.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
+Dryckeslagren ska inventeras minst en gång per period samt innan och efter mottagningsperioden. Bokföringens lagervärden ska korrigeras efter genomförd inventering. Schablonbeloppen nämnda i §[3.2] ska anpassas med hänsyn till att minimera differenserna i lagerföringen.
 
 ## §3.2 Dryckeslager vid festtillfällen
 
@@ -179,11 +179,11 @@ Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden up
 
 ## §7.3 50-år jubileumsfonden
 
-50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §[8.2] Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
+50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §[7.2] Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
 ## §7.4 Källarfonden
 
-Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 4 prisbasbelopp till denna fond varje verksamhetsår.
+Källarfondens syfte är att möjliggöra för sektionen att införskaffa oss en lokal avskilt från campus, likt Osqvik. Där sektionen ska kunna anordna event. Dessa pengar ska investeras i fonder eller liknande, vilket enbart får göras efter styrelsebeslut. Om sektionen står i kris kan pengarna genom SM beslut användas för att fortsätta driva grundläggande verksamhet. Sektionen bör avsätta minst 3 prisbasbelopp till denna fond varje verksamhetsår.
 
 # §8 Subventionering av profilkläder
 
@@ -194,6 +194,7 @@ Profilkläder får maximalt subventioneras till antingen 50% av inköpspriset el
 Vid sponsringen dras summan först från delen som subventioneras av sektionen.
 
 # $9 Delade licenser
+
 Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen.
 
 # §10 Accesser
@@ -214,7 +215,7 @@ Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/
 
 Ifall det inte finns någon person som får attestera ett utlägg ska Ordförande och Kassör fatta ett enhälligt beslut i frågan. 
 
-Utlägg och fakturor attesteras genom sektionens system för det syftet, cashflow.
+Utlägg och fakturor attesteras genom sektionens system för det syftet, Cashflow.
 
 # §12 Avtal
 
@@ -231,17 +232,14 @@ Investeringar i olika börsnoterade tillgångar får enbart ske efter styrelsebe
 För att risken inte ska bli för hög ska investeringar enbart ske i börsnoterade tillgångar i form av:
 
 * Aktier och preferensaktier
-
 * Obligationer och räntebärande värdepapper
-
 * Fonder
-
 * Börshandlade fonder
 
 # §A Beslutsordning
 
-För att ha en organisation där vi kan ta snabba beslut men samtidigt ha en rättsäkerhet sker bedömning av de delar som refererar till denna paragraf av följande instanser i stigande ordning: Kassör, styrelse, Revisorer, SM. Om man anser att ett beslut är felaktigt kan man alltså överklaga till en högre instans.
+För att ha en organisation där vi kan ta snabba beslut men samtidigt ha en rättsäkerhet sker bedömning av de delar som refererar till denna paragraf av följande instanser i stigande ordning: kassör, styrelse, revisorer, SM. Om man anser att ett beslut är felaktigt kan man alltså överklaga till en högre instans.
 
-[4.2]: #4-2-dryckeslager-vid-festtillfällen
-[8.2]: #8-2-jubileumsfonden
+[3.2]: #3-2-dryckeslager-vid-festtillfällen
+[7.2]: #7-2-jubileumsfonden
 [A]: #a-beslutsordning
