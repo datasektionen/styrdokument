@@ -15,19 +15,19 @@ Vid lagbrott rekommenderar Trygghetsrådet målsägande att göra polisanmälan,
 Som sektionsmedlem ska man sträva efter att följa sektionens [Jämlikhetspolicy](../policies/jamlikhetspolicy), KTH:s uppförandekod för studenter och THS JML-policy.
 Exempel på brott mot dessa riktlinjer är:
 
-- överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm
+* överträda personliga gränser som, med god grund, kan sägas markerades eller om personen i fråga på annat sätt var märkbart obekväm
 
-- agera exkluderande
+* agera exkluderande
 
-- yttra, skriva eller på annat sätt kommunicera kränkande påstående eller budskap riktat mot individ eller identitet. Identitet innefattar men är ej begränsat till:
+* yttra, skriva eller på annat sätt kommunicera kränkande påstående eller budskap riktat mot individ eller identitet. Identitet innefattar men är ej begränsat till:
 
-	- kön
-	- könsöverskridande identitet eller uttryck
-	- religion eller annan trosuppfattning
-	- funktionsnedsättning
-	- etnisk bakgrund
-	- sexuell läggning
-	- ålder.
+	* kön
+	* könsöverskridande identitet eller uttryck
+	* religion eller annan trosuppfattning
+	* funktionsnedsättning
+	* etnisk bakgrund
+	* sexuell läggning
+	* ålder.
 
 Brott mot dessa kan medföra en tillsägelse, varning eller i värsta fall avstängning från sektionsevenemang (ej SM, DM eller studiepåverkande verksamhet av sina egna studier) och våra digitala gemensamma utrymmen.
 
@@ -35,15 +35,15 @@ Brott mot dessa kan medföra en tillsägelse, varning eller i värsta fall avst�
 
 Policyn berör händelser som sker:
 
-- inför, på eller strax efter ett av sektionen arrangerat event
+* inför, på eller strax efter ett av sektionen arrangerat event
 
-- i eller invid sektionslokalen
+* i eller invid sektionslokalen
 
-- i eller invid av sektionen ägda fordon
+* i eller invid av sektionen ägda fordon
 
-- i sektionens officiella eller inofficiella informationskanaler
+* i sektionens officiella eller inofficiella informationskanaler
 
-- inom sektionens verksamhet.
+* inom sektionens verksamhet.
 
 Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades igenom och anmälan av sådana händelser kan inte leda till en varning eller avstängning med denna policy som grund, utan till en diskussion med målet att förbättra situationen för de inblandade. 
 
@@ -51,7 +51,7 @@ Policyn berör inte händelser som inträffat innan Uppförandepolicyn röstades
 
 ## §3.1 Medlemmar
 
-Trygghetsrådet består av skyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, mångfalds- och likabehandlingsansvarig (JMLA), samt Ledamot för studiemiljö och likabehandling (D-SOL) i styrelsen.
+Trygghetsrådet består av studerandeskyddsombud, dvs Studiemiljöansvarig (SMA) och Jämlikhets-, mångfalds- och likabehandlingsansvarig (JMLA), samt Ledamot för studiemiljö och likabehandling (D-SOL) i styrelsen.
 
 Om Trygghetsrådet vänder sig till andra instanser på KTH eller THS för rådgivning om en inkommen anmälan ska alla inblandade hållas anonyma inför dessa.  Det bör observeras att detta gäller Trygghetsrådet som helhet endast efter det att inkommen anmälan till SSO tagits vidare till Trygghetsrådet.
 
@@ -59,25 +59,25 @@ Om Trygghetsrådet vänder sig till andra instanser på KTH eller THS för rådg
 
 Trygghetsrådet ska:
 
-- mottaga och utreda alla inkomna anmälningar till Trygghetsrådet
+* mottaga och utreda alla inkomna anmälningar till Trygghetsrådet
 
-- arbeta för att förbättra situationen för de inblandade, även då en faktisk konsekvens enligt konsekvenstrappan ej blir aktuell
+* arbeta för att förbättra situationen för de inblandade, även då en faktisk konsekvens enligt konsekvenstrappan ej blir aktuell
 
-- sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende - ifrågasätts skall denne entledigas från ärendet och ersättas enligt §[3.7] Vakanta poster i Trygghetsrådet
+* sträva efter att agera objektivt. Som medlem i Trygghetsrådet ska man avlägsna sig vid hanteringen av specifika fall då detta inte anses möjligt. Vid situation där en medlem i Trygghetsrådets oberoende ifrågasätts skall denne entledigas från ärendet och ersättas enligt §[3.7] Vakanta poster i Trygghetsrådet
 
-- vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt §[3.7] Vakanta poster i Trygghetsrådet
+* vid situation där en eller flera medlemmar i Trygghetsrådet ej kan agera objektivt skall denne eller dessa entledigas från ärendet och ersättas enligt §[3.7] Vakanta poster i Trygghetsrådet
 
-	- I de fall där det inte är möjligt att tillsätta tillräckligt många objektiva styrelseledamöter ska utredningen istället lämnas över till högre instans inom KTH eller THS.
+	* I de fall där det inte är möjligt att tillsätta tillräckligt många objektiva styrelseledamöter ska utredningen istället lämnas över till högre instans inom KTH eller THS.
 
-- dokumentera de incidenter som anmäls till Trygghetsrådet.
+* dokumentera de incidenter som anmäls till Trygghetsrådet.
 
 ## §3.3 Beslutsnivåer
 
-- För att ett giltigt beslut skall nås måste hela Trygghetsrådet närvara.
+* För att ett giltigt beslut skall nås måste hela Trygghetsrådet närvara.
 
-- För en tillsägelse krävs majoritet.
+* För en tillsägelse krävs majoritet.
 
-- För en varning eller avstängning krävs ett enhälligt beslut.
+* För en varning eller avstängning krävs ett enhälligt beslut.
 
 Om en eller flera medlemmar av trygghetsrådet skulle gå av sitt mandat under ett pågående ärende så tillämpas ovanstående regler som att de fortfarande satt i trygghetsrådet för beslut i det ärendet. Nya medlemmar skall inte närvara för eller besluta i ärenden som pågick innan de klev på sin post.
 
@@ -111,15 +111,15 @@ Om en medlem i Trygghetsrådet blir avstängd blir denne automatiskt entledigad 
 
 Anmälan av händelse eller allmän kontakt till skyddsombud kan göras genom följande:
 
-- Kontaktformuläret på [jml.datasektionen.se](http://jml.datasektionen.se). Här finns möjlighet att göra anmälan anonymt, men en anonym anmälan kan inte tas vidare till Trygghetsrådet
+* Kontaktformuläret på [jml.datasektionen.se](http://jml.datasektionen.se). Här finns möjlighet att göra anmälan anonymt, men en anonym anmälan kan inte tas vidare till Trygghetsrådet
 
-- Mail till båda skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
+* Mail till båda skyddsombuden via [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
-- Mail till JMLA via [jmla@datasektionen.se](mailto:jmla@datasektionen.se)
+* Mail till JMLA via [jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
-- Mail till SMA via [sma@datasektionen.se](mailto:sma@datasektionen.se)
+* Mail till SMA via [sma@datasektionen.se](mailto:sma@datasektionen.se)
 
-- På valfritt annat sätt (META-slack, Discord, med andra kontaktuppgifter eller i person)
+* På valfritt annat sätt (META-slack, Discord, med andra kontaktuppgifter eller i person).
 
 Med målsägandens samtycke, och efter diskussion om tystnadsplikt, kan skyddsombuden ta ärendet vidare till Trygghetsrådet. Målsägande kan när som helst välja att avsluta utredningen.
 
@@ -189,5 +189,5 @@ Vid varning eller avstängning kan Trygghetsrådet informera Valberedningens ord
 
 Vill man överklaga styrelsens beslut görs detta till THS Studiemiljöansvarig.
 
-[3.6]: #4-6-vid-utredning-av-medlem-i-trygghetsrådet
-[3.7]: #4-7-vakanta-poster-i-trygghetsrådet
+[3.6]: #3-6-vid-utredning-av-medlem-i-trygghetsrådet
+[3.7]: #3-7-vakanta-poster-i-trygghetsrådet

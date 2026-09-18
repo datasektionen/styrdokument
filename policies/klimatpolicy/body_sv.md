@@ -58,12 +58,17 @@ Sektionen ska prioritera vegetarisk mat men alternativ med vitt kött, bl.a. få
 
 Rött kött får endast bekostas vid följande specifika undantag:
 
-- dJulmiddagen
-- Traditionella svenska rätter under evenemang där svensk kultur främjas
-- Vissa restprodukter:
-    - Löpe
-    - Gelatin
-    - Bullens varmkorv
+* dJulmiddagen
+
+* Traditionella svenska rätter under evenemang där svensk kultur främjas
+
+* Vissa restprodukter:
+
+    * Löpe
+    
+    * Gelatin
+    
+    * Bullens varmkorv
 
 ## §5.2 Aktivt val
 

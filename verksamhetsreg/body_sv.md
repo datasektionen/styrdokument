@@ -108,7 +108,9 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Är ordförande för Studienämnden.
 
-Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år. Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar, tidigare SNO skall då agera som vice ordförande för Studienämnden, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
+Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar, tidigare SNO skall då agera som vice ordförande för Studienämnden, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
+
+Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år.
 
 ### §1.1.19 Systemansvarig
 
@@ -152,13 +154,13 @@ Tillhör Informationsorganet.
 
 Datas Art Director ska:
 
-- synliggöra sektionens funktionärer i sektionslokalen
+* synliggöra sektionens funktionärer i sektionslokalen
 
-- administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
+* administrera sektionens konstnärliga licenser och kunna låna ut dessa till övriga sektionen vid behov
 
-- samarbeta med övriga sektionen där det finns behov eller önskemål av design och grafisk utveckling
+* samarbeta med övriga sektionen där det finns behov eller önskemål av design och grafisk utveckling
 
-- administrera över sektionens video- och fotoutrustning
+* administrera över sektionens video- och fotoutrustning.
 
 #### §1.2.1.4 Mandatperiod
 
@@ -180,15 +182,15 @@ Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begrä
 
 Fanbärare ska:
 
-- närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS eller SSCO, samt i andra sammanhang efter beslut av D-rektoratet
+* närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS eller SSCO, samt i andra sammanhang efter beslut av D-rektoratet
 
-- hålla sektionens fana i gott skick
+* hålla sektionens fana i gott skick
 
-- bära hönan fagt.
+* bära hönan fagt.
 
 #### §1.2.2.4 Mandatperiod
 
-Fanbärare och Vice fanbärare Väljs i period 2 och har kalenderår som mandatperiod.
+Fanbärare och Vice fanbärare väljs i period 2 och har kalenderår som mandatperiod.
 
 ### §1.2.3 Jämlikhets-, mångfalds- och likabehandlingsansvarig
 
@@ -206,27 +208,27 @@ Tillhör Påverkansorganet.
 
 Jämlikhets-, mångfalds- och likabehandlingsansvarig ska
 
-- ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
+* ta emot och behandla anmälningar rörande incidenter kopplade till jämlikhet, mångfald, likabehandling och psykosocial studiemiljö
 
-- arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
+* arbeta för att öka jämlikheten och mångfalden på sektionen, i dess verksamhet och bland dess funktionärer
 
-- agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
+* agera informationskanal mellan sektionsmedlemmarna och THS i frågor gällande psykosocial studiemiljö
 
-- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+* närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
 
-- kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
+* kontinuerligt följa upp sektionens JML-arbete samt behov av JML-arbete, bland annat genom en årlig JML-enkät
 
-- göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
+* göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
 
-- arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
+* arbeta för att utbilda och informera sektionsmedlemmar, förtroendevalda och funktionärer om sektionens värdegrund och ställning till jämlikhet, mångfald och likabehandling
 
-- anordna minst en JML-utbildning per termin för sektionens funktionärer
+* anordna minst en JML-utbildning per termin för sektionens funktionärer
 
-- ha löpande samarbete med KTH, EECS och THS om JML-arbeten
+* ha löpande samarbete med KTH, EECS och THS om JML-arbeten
 
-- synliggöra sitt arbete för resten av sektionen
+* synliggöra sitt arbete för resten av sektionen
 
-- kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
+* kontinuerligt se över och uppdatera informationen om JML på sektionens hemsida.
 
 #### §1.2.3.4 Mandatperiod
 
@@ -248,7 +250,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §1.2.4.4 Mandatperiod
 
-Alla mandat tilldelade sektionen Väljs i period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen väljs i period 3 och har läsår som mandatperiod.
 
 ### §1.2.5 Ljud- och ljusansvarig
 
@@ -264,15 +266,15 @@ Tillhör Förvaltningsorganet.
 
 Ljud- och ljusansvarig ska
 
-- ansvara för underhållet och utvecklingen av sektionens ljud- och ljusutrustning
+* ansvara för underhållet och utvecklingen av sektionens ljud- och ljusutrustning
 
-- administrera bokningar av sektionens ljud- och ljusutrustning.
+* administrera bokningar av sektionens ljud- och ljusutrustning.
 
 #### §1.2.5.4 Mandatperiod
 
 Väljs i period 2. Har kalenderår som mandatperiod.
 
-### §1.2.6 Mulle/Mullerin Schmeck
+### §1.2.6 Mulle/Mullerina Schmeck
 
 #### §1.2.6.1 Ändamål
 
@@ -286,13 +288,13 @@ Tillhör Förvaltningsorganet.
 
 Mulle/Mullerina Schmeck ska
 
-- administrera bokningar av sektionens fordon
+* administrera bokningar av sektionens fordon
 
-- sköta reparation, underhåll och utveckling av sektionens fordon
+* sköta reparation, underhåll och utveckling av sektionens fordon
 
-- utforma samt upprätthålla regler för sektionens fordon
+* utforma samt upprätthålla regler för sektionens fordon
 
-- arbeta för att en körjournal används.
+* arbeta för att en körjournal används.
 
 #### §1.2.6.4 Mandatperiod
 
@@ -314,15 +316,15 @@ Tillhör Påverkansorganet.
 
 Programansvarig student ska
 
-- ansvara för sektionens utbildningspåverkan på programnivå
+* ansvara för sektionens utbildningspåverkan på programnivå
 
-- arbeta från studentsidan med utbildningsprogrammets utformning
+* arbeta från studentsidan med utbildningsprogrammets utformning
 
-- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
+* ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
 
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna
+* arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna
 
-- följa upp tidigare års utbildningspåverkansarbete.
+* följa upp tidigare års utbildningspåverkansarbete.
 
 #### §1.2.7.4 Mandatperiod
 
@@ -346,19 +348,19 @@ Tillhör Påverkansorganet.
 
 Studiemiljöansvarig ska
 
-- ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
+* ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
-- agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
+* agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
 
-- närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
+* närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
 
-- se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
+* se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
 
-- regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+* regelbundet kontrollera de brandsläckare som finns i sektionslokalen
 
-- inventera sjukvårdslådan en gång per period
+* inventera sjukvårdslådan en gång per period
 
-- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+* arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
 #### §1.2.8.4 Mandatperiod
 
@@ -384,11 +386,11 @@ Tillhör Eventorganet.
 
 Ada ska:
 
-- verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
+* verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra
 
-- anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
+* anordna flertalet event av olika slag där möjlighet till nätverkande finns. Minst två gånger per läsår ska event anordnas som endast är ämnade för tjejer och icke-binära. Exempel på sådana är sittningar, middagar eller myskvällar
 
-- arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
+* arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen, inom THS och på ingenjörsutbildningar över lag.
 
 ## §2.2 Data Et Medias OrquesterNämnd
 
@@ -406,23 +408,23 @@ Tillhör Studiesociala organet.
 
 ### §2.2.3 Verksamhet
 
-Data Et Medias OrquesterNämnd (DEMON) ska:
+DEMON ska:
 
-- verka för att främja musikintresset på Datasektionen och Sektionen för Medieteknik
+* verka för att främja musikintresset på Datasektionen och Sektionen för Medieteknik
 
-- erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
+* erbjuda ett kreativt utlopp för musikintresserade på Datasektionen och Sektionen för Medieteknik i formen av rep, låtskrivning och spelningar
 
-- bistå annan sektionsverksamhet genom spelningar på evenemang
+* bistå annan sektionsverksamhet genom spelningar på evenemang.
 
 ## §2.3 Datasektionens E-Sports Community
 
 ### §2.3.1 Ändamål
 
-Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens datorspelsoch e-sportstörst.
+Datasektionens E-Sports Community, DESC, syfte är att släcka sektionens datorspels- och e-sportstörst.
 
 ### §2.3.2 Organisation
 
-Datasektionens E-Sports Community leds av DESCtop.
+DESC leds av DESCtop.
 
 Övriga medlemmar utses av DESCtop.
 
@@ -430,11 +432,11 @@ Tillhör Studiesociala organet.
 
 ### §2.3.3 Verksamhet
 
-Datasektionens E-Sports Community ska:
+DESC ska:
 
-- anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
+* anordna ett flertal e-sportsevenemang för sektionens medlemmar per år, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
 
-- skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
+* skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 
 ## §2.4 D-festeriet
 
@@ -454,13 +456,13 @@ Tillhör Eventorganet.
 
 D-festeriet ska:
 
-- anordna gasquer och andra evenemang för sektionsmedlemmar
+* anordna gasquer och andra evenemang för sektionsmedlemmar
 
-- anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
+* anordna teambuilding samt Skiftes för funktionärer en gång per termin där D-rektoratet ska bistå med arbetskraft vid behov
 
-- anordna evenemang i samarbete med andra studentföreningar
+* anordna evenemang i samarbete med andra studentföreningar
 
-- hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
+* hjälpa andra nämnder med gasque- eller annan festverksamhet vid behov.
 
 ## §2.5 Dive
 
@@ -480,17 +482,17 @@ Tillhör Påverkansorganet.
 
 Dive ska:
 
-- motverka stereotyper och farhågor som potentiellt intresserade kandidater har genom att:
+* motverka stereotyper och farhågor som potentiellt intresserade kandidater har genom att:
 
-    - anordna event
+    * anordna event
 
-    - besöka gymnasieklasser
+    * besöka gymnasieklasser
 
-    - delta vid KTH Öppet hus och liknande arrangemang
+    * delta vid KTH Öppet hus och liknande arrangemang
 
-- utveckla och uppehålla material och kontakt för marknadsföring och informationsspridning
+* utveckla och uppehålla material och kontakt för marknadsföring och informationsspridning
 
-- bygga vidare på och uppehålla Datasektionens profil ut mot framtida universitetsstudenter genom sociala medier och en hemsida anpassad för detta ändamål.
+* bygga vidare på och uppehålla Datasektionens profil ut mot framtida universitetsstudenter genom sociala medier och en hemsida anpassad för detta ändamål.
 
 ## §2.6 dJulkalendern
 
@@ -510,9 +512,9 @@ Tillhör Informationsorganet.
 
 dJulkalendern ska:
 
-- anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
+* anordna en CTF-liknande tävling, dJulkalendern, på den världsvida webben för Konglig Datasektionens medlemmar samt övriga intresserade. Tävlingen ska ske i samband med julen
 
-- anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
+* anordna en CTF-liknande tävling, dHöstkalendern, för nyantagna medlemmar under Mottagningen.
 
 ## §2.7 Groda
 
@@ -532,13 +534,13 @@ Tillhör Påverkansorganet.
 
 Groda ska:
 
-- bistå sektionen och dess medlemmar med kunskap och arbete kring ekologisk hållbarhet
+* bistå sektionen och dess medlemmar med kunskap och arbete kring ekologisk hållbarhet
 
-- verka för att minska sektionens klimatpåverkan och öka dess ekologiska hållbarhet
+* verka för att minska sektionens klimatpåverkan och öka dess ekologiska hållbarhet
 
-- anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
+* anordna evenemang eller aktiviteter på temat ekologisk hållbarhet
 
-- göra det lättare att följa Klimatpolicyn.
+* göra det lättare att följa Klimatpolicyn.
 
 ## §2.8 GUDAR
 
@@ -558,17 +560,17 @@ Tillhör Informationsorganet.
 
 GUDAR (Gamla Uvar på Data med Anrika Redogörelser) ska:
 
-- samla in och dokumentera historisk information med anknytning till sektionen
+* samla in och dokumentera historisk information med anknytning till sektionen
 
-- ansvara för sektionens alumniverksamhet
+* ansvara för sektionens alumniverksamhet
 
-- varje år upprätta en årskrönika
+* varje år upprätta en årskrönika
 
-- ansvara för underhållet av sektionens märkesarkiv
+* ansvara för underhållet av sektionens märkesarkiv
 
-- vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
+* vid lämpliga tillfällen, eller digitalt, visa upp och informera om insamlade föremål
 
-- på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
+* på hösten hålla en föreläsning om sektionens historia riktad mot de nyantagna.
 
 ## §2.9 Idrottsnämnden
 
@@ -588,9 +590,9 @@ Tillhör Studiesociala organet.
 
 Idrottsnämnden ska:
 
-- anordna olika typer av idrottsaktiviteter för sektionens medlemmar
+* anordna olika typer av idrottsaktiviteter för sektionens medlemmar
 
-- sammanställa information för och ansöka om THS friskvårdsbidrag
+* sammanställa information för och ansöka om THS friskvårdsbidrag.
 
 ## §2.10 Internationella nämnden
 
@@ -610,21 +612,21 @@ Tillhör Eventorganet.
 
 Internationella nämnden ska:
 
-- samordna sektionens internationella verksamhet
+* samordna sektionens internationella verksamhet
 
-- hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
+* hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 
-- hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
+* hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
 
-- genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
+* genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
 
-- fungera som kontaktpersoner för utländska studenter på sektionerna
+* fungera som kontaktpersoner för utländska studenter på sektionerna
 
-- genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
+* genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
 
-- främja informationsspridning på engelska inom sektionen
+* främja informationsspridning på engelska inom sektionen
 
-- verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
+* verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 ## §2.11 Jämlikhetsnämnden
 
@@ -644,17 +646,17 @@ Tillhör Påverkansorganet.
 
 Jämlikhetsnämnden ska:
 
-- anordna minst två aktiviteter eller event per år med teman kopplade till JML
+* anordna minst två aktiviteter eller event per år med teman kopplade till JML
 
-- arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
+* arbeta för att skapa en engagerande och positiv inställning till JML bland sektionsmedlemmarna
 
-- samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för studiemiljö och likabehandling med syfte att förbättra JML på sektionen
+* samarbeta med Jämlikhets-, mångfalds- och likabehandlingsansvarig och Ledamot för studiemiljö och likabehandling med syfte att förbättra JML på sektionen
 
-- skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
+* skapa en tillhörighet bland de sektionsmedlemmar som känner sig intresserade av att arbeta med och främja JML
 
-- arbeta för att hålla gemensamma event med andra nämnder och sektioner
+* arbeta för att hålla gemensamma event med andra nämnder och sektioner
 
-- arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
+* arbeta för att ge utrymme på sektionen för de sektionsmedlemmar som vill arbeta med teman kopplade till JML.
 
 ## §2.12 Klubbmästeriet
 
@@ -674,13 +676,13 @@ Tillhör Eventorganet.
 
 Datas klubbmästeri (DKM) ska:
 
-- arrangera fester, jippon, pubar och andra sociala arrangemang
+* arrangera fester, jippon, pubar och andra sociala arrangemang
 
-- assistera resten av sektionen vid alkoholinköp till dryckslagret
+* assistera resten av sektionen vid alkoholinköp till dryckslagret
 
-- anordna den traditionella dJulmiddagen
+* anordna den traditionella dJulmiddagen
 
-- sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
+* sköta den kontinuerliga inventeringen och lagerhållningen av dryckeslagret.
 
 ## §2.13 Kommunikationsgruppen
 
@@ -690,7 +692,9 @@ Kommunikationsgruppen ska ansvara för sektionens kommunikation utåt och inåt.
 
 ### §2.13.2 Organisation
 
-Kommunikationsgruppen leds av Kommunikatör. Övriga medlemmar utses av Kommunikatör.
+Kommunikationsgruppen leds av Kommunikatör. 
+
+Övriga medlemmar utses av Kommunikatör.
 
 Tillhör Informationsorganet.
 
@@ -698,9 +702,9 @@ Tillhör Informationsorganet.
 
 Kommunikationsgruppen ska:
 
-- Administrera och moderera datasektionens officiella och inofficiella informationskanaler
+* administrera och moderera datasektionens officiella och inofficiella informationskanaler
 
-- Bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
+* bistå funktionärer, nämnder och projekt med deras kommunikation utåt.
 
 ## §2.14 Medias klubbmästeri
 
@@ -728,15 +732,15 @@ Tillhör Näringslivsorganet.
 
 Näringslivsgruppen ska:
 
-- skapa och främja kontakter mellan studenter och näringslivet, bland annat genom anordnande av evenemang där studenter och företag får mötas
+* skapa och främja kontakter mellan studenter och näringslivet, bland annat genom anordnande av evenemang där studenter och företag får mötas
 
-- göra reklam för sektionen och datateknikprogrammet gentemot näringslivet, att visa att sektionen finns och upprätthålla en god bild av sektionen utåt
+* göra reklam för sektionen och datateknikprogrammet gentemot näringslivet, att visa att sektionen finns och upprätthålla en god bild av sektionen utåt
 
-- tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför STUDS och D-Dagens verksamhet
+* tillsammans med D-rektoratet samordna prissättning för alla näringslivssamarbeten utanför STUDS och D-Dagens verksamhet
 
-- hålla och ständigt förbättra kontakten med näringslivet
+* hålla och ständigt förbättra kontakten med näringslivet
 
-- se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
+* se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
 ## §2.16 Prylmångleriet
 
@@ -756,19 +760,19 @@ Tillhör Studiesociala organet.
 
 Prylmångleriet ska:
 
-- kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt
+* kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt
 
-- anordna regelbundna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska även ordnas inför större fester och evenemang
+* anordna regelbundna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska även ordnas inför större fester och evenemang
 
-- under Mottagningen arrangera tillfällen då nØllan får prova overaller
+* under Mottagningen arrangera tillfällen då nØllan får prova overaller
 
-- köpa in, och sköta försäljningen av, overaller
+* köpa in, och sköta försäljningen av, overaller
 
-- hjälpa Ettan att utforma och beställa årskursmärken
+* hjälpa Ettan att utforma och beställa årskursmärken
 
-- vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
+* vid jubileum och andra större händelser på sektionen, i samarbete med ansvariga för händelsen, utforma och beställa prylar relaterade till händelsen
 
-- hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
+* hjälpa andra nämnder och projekt med försäljning av märken eller motsvarande föremål, samt ansvara för inköp och administration av sådana märken eller föremål om inte en annan överenskommelse för ansvar gjorts.
 
 ## §2.17 Qulturnämnden
 
@@ -788,11 +792,11 @@ Tillhör Studiesociala organet.
 
 Qulturnämnden ska:
 
-- anordna regelbundna aktiviteter som höjer den qulturella nivån på sektionen, såsom spelkvällar, filmvisningar och andra qulturella aktiviteter
+* anordna regelbundna aktiviteter som höjer den qulturella nivån på sektionen, såsom spelkvällar, filmvisningar och andra qulturella aktiviteter
 
-- ansvara för inköp och underhåll av qultur i sektionslokalen och digitalt
+* ansvara för inköp och underhåll av qultur i sektionslokalen och digitalt
 
-- årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
+* årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
 ## §2.18 Redaqtionen
 
@@ -802,7 +806,9 @@ Redaqtionen ansvarar för att ge ut sektionstidningen dbuggen.
 
 ### §2.18.2 Organisation
 
-Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar utses av Chefredaqtören.
+Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. 
+
+Övriga medlemmar utses av Chefredaqtören.
 
 Tillhör Informationsorganet.
 
@@ -810,11 +816,11 @@ Tillhör Informationsorganet.
 
 Redaqtionen ska:
 
-- ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
+* ge ut sektionstidningen dbuggen fysiskt och/eller digitalt
 
-- ge ut en nØlledbuggen till nØllan under Mottagningen
+* ge ut en nØlledbuggen till nØllan under Mottagningen
 
-- dela med sig av dbuggen till andra D-sektioner i Sverige.
+* dela med sig av dbuggen till andra D-sektioner i Sverige.
 
 ## §2.19 Sektionslokalsgruppen
 
@@ -836,17 +842,17 @@ Tillhör Förvaltningsorganet.
 
 Sektionslokalsgruppen ska:
 
-- administrera bokning och uthyrning av sektionslokalen samt dess olika rum
+* administrera bokning och uthyrning av sektionslokalen samt dess olika rum
 
-- underhålla teknik, möbler och inredning i sektionslokalen
+* underhålla teknik, möbler och inredning i sektionslokalen
 
-- fylla på förbrukningsmaterial i sektionslokalen
+* fylla på förbrukningsmaterial i sektionslokalen
 
-- organisera städning av sektionslokalen, bland annat genom måndagsstäd
+* organisera städning av sektionslokalen, bland annat genom måndagsstäd
 
-- upprätta och underhålla ett dokument med regler för sektionslokalen
+* upprätta och underhålla ett dokument med regler för sektionslokalen
 
-- sköta utveckling av sektionslokalen.
+* sköta utveckling av sektionslokalen.
 
 ## §2.20 Studienämnden
 
@@ -860,19 +866,19 @@ Studienämnden leds av Studienämndens ordförande.
 
 Övriga medlemmar är
 
-- Programansvarig student
+* Programansvarig student
 
-- Studiemiljöansvarig
+* Studiemiljöansvarig
 
-- Ledamot för utbildningsfrågor
+* Ledamot för utbildningsfrågor
 
-- Årskursrepresentanter för de tre första årskurserna
+* Årskursrepresentanter för de tre första årskurserna
 
-- Masterrepresentanter för masterprogram tillhörande Datasektionen
+* Masterrepresentanter för masterprogram tillhörande Datasektionen
 
-- Kursnämndsrepresentanter för alla aktuella kurser
+* Kursnämndsrepresentanter för alla aktuella kurser
 
-- övriga intresserade THS-medlemmar.
+* övriga intresserade THS-medlemmar.
 
 I det fall att posten Studienämndens ordförande är vakantsatt är styrelsens Ledamot för utbildningsfrågor ställföreträdande nämndordförande.
 
@@ -902,15 +908,15 @@ Kursnämndsrepresentanten ska fungera som kontakten mellan Årskursrepresentante
 
 Studienämnden ska hålla möte minst en gång per månad under terminstid. Mötena ska vara öppna för alla THS-medlemmar. Den huvudsakliga verksamheten ska vara att
 
-- både proaktivt och reaktivt inhämta studenternas åsikter om studiesituationen och med dessa som utgångspunkt arbeta för att förbättra kvaliteten på utbildningen
+* både proaktivt och reaktivt inhämta studenternas åsikter om studiesituationen och med dessa som utgångspunkt arbeta för att förbättra kvaliteten på utbildningen
 
-- utvärdera information och beslut från KTH:s organ
+* utvärdera information och beslut från KTH:s organ
 
-- bevaka och söka förbättra den fysiska och psykosociala studiemiljön
+* bevaka och söka förbättra den fysiska och psykosociala studiemiljön
 
-- verka för att alla sektionsmedlemmar är representerade i Studienämnden
+* verka för att alla sektionsmedlemmar är representerade i Studienämnden
 
-- verka för att sektionsmedlemmar ska känna till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den.
+* verka för att sektionsmedlemmar ska känna till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den.
 
 Studienämndens dokument ska i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
@@ -932,11 +938,11 @@ Tillhör Informationsorganet.
 
 Systemgruppen ska:
 
-- underhålla och utveckla sektionens datasystem
+* underhålla och utveckla sektionens datasystem
 
-- ansvara för drift och underhåll av sektionens servrar
+* ansvara för drift och underhåll av sektionens servrar
 
-- engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
+* engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
 
 ## §2.22 STUDS
 
@@ -956,9 +962,11 @@ Tillhör Näringslivsorganet.
 
 STUDS ska:
 
-- anordna företagsevent, huvudsakligen för master studenter, med intressanta företag i industrin
-- informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
-- se till att sektionen uppfyller avtal framförhandlade av STUDS.
+* anordna företagsevent, huvudsakligen för master studenter, med intressanta företag i industrin
+
+* informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
+
+* se till att sektionen uppfyller avtal framförhandlade av STUDS.
 
 # §3 Återkommande projekt
 
@@ -978,11 +986,11 @@ METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projek
 
 ### §3.1.3 Verksamhet
 
-- Att sätta upp spexföreställningar under nästkommande kalenderår.
+* Att sätta upp spexföreställningar under nästkommande kalenderår.
 
-- Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de känner att de bidrar till ett större projekt.
+* Att ge medlemmar utrymme till engagemang och kreativt arbete samtidigt som de känner att de bidrar till ett större projekt.
 
-- Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som relationerna mellan sektionernas medlemmar.
+* Att värna och utveckla relationen mellan Data och Media som sektioner, såväl som relationerna mellan sektionernas medlemmar.
 
 ### §3.1.4 Period
 
@@ -1004,9 +1012,9 @@ Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgru
 
 ### §3.2.3 Verksamhet
 
-- Att organisera en skidsemester för Konglig Datasektionens medlemmar.
+* Att organisera en skidsemester för Konglig Datasektionens medlemmar.
 
-- Att uppmuntra medlemmar oberoende av tidigare erfarenhet att delta i alpint idrottsengagemanget.
+* Att uppmuntra medlemmar oberoende av tidigare erfarenhet att delta i alpint idrottsengagemanget.
 
 ### §3.2.4 Period
 
@@ -1028,11 +1036,11 @@ Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
 
 ### §3.3.3 Verksamhet
 
-- Att anordna en finsittning med tillhörande efterkör under våren.
+* Att anordna en finsittning med tillhörande efterkör under våren.
 
-- Att bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
+* Att bjuda in externa representanter från exempelvis andra sektioner inom THS till Vårbalen.
 
-- Att bjuda in Ordförande Emeriti till Vårbalen.
+* Att bjuda in Ordförande Emeriti till Vårbalen.
 
 ### §3.3.4 Period
 
@@ -1054,13 +1062,13 @@ Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgr
 
 ### §3.4.3 Verksamhet
 
-- Att arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
+* Att arbeta för att uppmärksamma och främja Konglig Datasektionens JML-arbete, främst mot HBTQIA+, både internt och externt.
 
-- Att anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
+* Att anordna ett bidrag till Stockholm Pride Parade för Konglig Datasektionen, samt arbeta för att anordna fler evenemang relaterat till nämndens ändamål.
 
-- Att möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
+* Att möjliggöra att så många av Konglig Datasektionens medlemmar som möjligt ska kunna delta under evenemangen.
 
-- Att se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
+* Att se om möjlighet finns till samarbete med andra delar av sektionen, och om så finnes arbeta för att främja detta.
 
 ### §3.4.4 Period
 
@@ -1089,19 +1097,19 @@ Tillhör Mottagningsorganet.
 
 Mottagningen ska:
 
-- planera och anordna aktiviteter som främjar Mottagningens ändamål
+* planera och anordna aktiviteter som främjar Mottagningens ändamål
 
-- ansvara för nØllans eventuella upphöjelse till Ettan i samband med nØllegasquen
+* ansvara för nØllans eventuella upphöjelse till Ettan i samband med nØllegasquen
 
-- i samråd med D-rektoratet välja årskursnamn som utfärdas i samband med upphöjelsen
+* i samråd med D-rektoratet välja årskursnamn som utfärdas i samband med upphöjelsen
 
-- bistå Ettan i planering och genomförande av Mottagningstack och Ettans fest
+* bistå Ettan i planering och genomförande av Mottagningstack och Ettans fest
 
-- introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
+* introducera internationella studenter med anknytning till datateknikprogrammet till sektionen
 
-- introducera de nyantagna studenterna till sektionens JML-arbete
+* introducera de nyantagna studenterna till sektionens JML-arbete
 
-- involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
+* involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
 ### §3.5.4 Ordförandes roll
 
@@ -1135,13 +1143,13 @@ Tillhör Näringslivsorganet.
 
 D-Dagen ska:
 
-- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+* göra reklam för arbetsmarknadsdagen gentemot berörda studenter
 
-- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+* hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
 
-- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+* arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
 
-- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+* se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
 ### §3.6.4 D-Dagen
 
