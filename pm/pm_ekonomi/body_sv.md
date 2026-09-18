@@ -11,6 +11,7 @@ Bokföringspliktiga nämnder, samt vissa projekt, sköter sin egen bokföring. B
 ## §1.1 Bokföringspliktiga nämnder
 
 Följande nämnder är bokföringspliktiga:
+
 * Sektionslokalgruppen
 * DKM
 * Näringslivsgruppen
@@ -21,6 +22,7 @@ Följande nämnder är bokföringspliktiga:
 D-rektoratet har rätten att via DM besluta om uppstartade projekt ska vara bokföringspliktiga.
 
 Följande återkommande projekt är bokföringspliktiga:
+
 * METAspexet
 * Mottagningen
 * D-Dagen.
