@@ -45,6 +45,7 @@ Gång, cykel eller kollektivtrafik ska användas som transportmedel i största m
 Sektionen bekostar inte fossila drivmedel för våra fordon eller för av sektionen disponerade fordon. Dieselfordon kan tankas med HVO100 eller annat för motorn godkänt icke-fossilt drivmedel. Bensindrivna fordon får tankas med drivmedel med upp till 25% fossil inblandning då det inte finns fossilfria alternativ på marknaden.
 
 ## §4.3 Flygresor
+
 Sektionen bekostar inte flygresor. Medlemmar ska inte behöva flyga för att vara med på sektionens resor eller event.
 
 # §5 Mat
@@ -56,6 +57,7 @@ God, etisk och klimatsmart mat, exempelvis kravmärkt, ska premieras vid evenema
 Sektionen ska prioritera vegetarisk mat men alternativ med vitt kött, bl.a. fågel, fisk och skaldjur, får erbjudas som aktivt val. Fläskkött räknas inte som vitt kött.
 
 Rött kött får endast bekostas vid följande specifika undantag:
+
 - dJulmiddagen
 - Traditionella svenska rätter under evenemang där svensk kultur främjas
 - Vissa restprodukter:
