@@ -12,15 +12,15 @@ Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@
 
 Genom bestämmelser i högskolelagen och studentkårsförordningen är det i svensk rätt fastställt att studentkårerna vid statliga universitet och högskolor bedriver verksamhet som är en uppgift av allmänt intresse (prop 2017/18:218, paragraf 9.2.7). Följande är de lagliga grunder vilka vi använder för att spara och behandla personuppgifter:
 
--   **Samtycke** enligt **artikel 6.1 a** i dataskyddsförordningen.
+* **Samtycke** enligt **artikel 6.1 a** i dataskyddsförordningen.
 
--   **Fullgörande** av avtal enligt **artikel 6.1 b** i dataskyddsförordningen.
+* **Fullgörande** av avtal enligt **artikel 6.1 b** i dataskyddsförordningen.
 
--   **Rättslig förpliktelse** enligt **artikel 6.1 c** i dataskyddsförordningen.
+* **Rättslig förpliktelse** enligt **artikel 6.1 c** i dataskyddsförordningen.
 
--   **Allmänt intresse** enligt **artikel 6.1 e** i dataskyddsförordningen.
+* **Allmänt intresse** enligt **artikel 6.1 e** i dataskyddsförordningen.
 
--   **Intresseavvägning** enligt **artikel 6.1 f** i dataskyddsförordningen.
+* **Intresseavvägning** enligt **artikel 6.1 f** i dataskyddsförordningen.
 
 # §2 Dina rättigheter
 
@@ -40,15 +40,15 @@ I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du
 
 Enligt dataskyddsförordningen artikel 17 har du i vissa fall rätt att kräva radering av dina personuppgifter. Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respektive ändamål. I följande fall kan du begära att uppgifter relaterade till dig tas bort:
 
--   Om uppgifterna inte längre är nödvändiga för ändamålet.
+* Om uppgifterna inte längre är nödvändiga för ändamålet.
 
--   Om du återkallar ditt samtycke till att uppgifterna hanteras och grunden till hanteringen baseras på samtycke.
+* Om du återkallar ditt samtycke till att uppgifterna hanteras och grunden till hanteringen baseras på samtycke.
 
--   Du invänder mot en intresseavvägning sektionen har gjort och dina skäl för invändningen väger tyngre än sektionens berättigade intresse.
+* Du invänder mot en intresseavvägning sektionen har gjort och dina skäl för invändningen väger tyngre än sektionens berättigade intresse.
 
--   Uppgifter behandlas på ett felaktigt sätt.
+* Uppgifter behandlas på ett felaktigt sätt.
 
--   Uppgifter måste raderas för att uppfylla en rättslig förpliktelse som sektionen omfattas om.
+* Uppgifter måste raderas för att uppfylla en rättslig förpliktelse som sektionen omfattas om.
 
 Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga grunder som förhindrar omedelbar borttagning eller om uppgifterna är nödvändiga för pågående utredning. I det fallet kommer sektionen istället blockera användning av uppgifterna i andra syften än det som förhindrar borttagning. Om du vill begära att sektionen tar bort uppgifter relaterade till dig kan du kontakta sektionens styrelse på [drek@datasektionen.se](mailto:drek@datasektionen.se).
 

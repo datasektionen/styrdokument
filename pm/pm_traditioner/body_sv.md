@@ -10,24 +10,42 @@ Sektionsmedlemar kan önska att D-rektoratet skall lägga till traditioner, vano
 
 Sektionens traditioner, vanor, och livsregler lyder:
 
-* Det är tradition att traditioner hålls, det är en vana att vanor hålls, och livsregler kan man oftast skita i 
+* Det är tradition att traditioner hålls, det är en vana att vanor hålls, och livsregler kan man oftast skita i
+
 * Konglig Datasektionens maskot är Lusen
+
 * På gasquer ämnade för medlemmar av Konglig Datasektionen så ska varmrätten sjungas in med Datas bordsvisa
+
 * Konglig Datasektionens frackband skall alltid sitta högst på fracken, precis över kårband. Eventuellt annat frackband bärs under dessa två. Om sektionsmedlem ej bär Konglig Datasektionens frackband överst bör de inte bära Konglig Datasektionens frackband alls.
+
 * Konglig Datasektionens sittningar avslutas alltid med En liten blå förgätmigej
+
 * Konglig Datasektionens officiella drink är anrik, men benämns icke i detta dokument
-    – Ingredienserna till denna skall finnas i dryckesinventariet för alla av Konglig Datasektionen arrangerade evenemang
+
+    * Ingredienserna till denna skall finnas i dryckesinventariet för alla av Konglig Datasektionen arrangerade evenemang
+
 * Konglig Datasektionen firar dJubileum var 5:e år efter sektionens födelse den 7:e oktober 1983
+
 * De som tidigare varit förtoendevalda funktionärer eller projektledare på Konglig Datasektionen benämns dFunkt
+
 * På Glögg-SM så bjuder man på glögg
+
 * På Budget-SM ska fikat vara gyllene
+
 * På den årliga dJulmiddagen ska den nyvalda ordförande hålla ett tal som rimmar för att sätta tonen för det kommande året
+
 * Om Konglig Datasektionen ej delar sektionslokal med en annan sektion så ska deras lokal heta ESCapen och dess adress ska bytas till Osquars Backe 27
+
 * Konglig Datasektionens pubar och efterkör avslutas med Closing Time
+
 * Konglig Datasektionens sittningar inleds med Trippeln
+
 * På Glass-SM bjuds det på glass
+
 * Mötesordförande ska ha tomteskägg på Glögg-SM
+
 * Partitioner är klubbar
+
 * DM-låten ska spelas i samband med DM:s högtidliga öppnande
 
 ## §1.2 D-rektiv
@@ -46,7 +64,7 @@ Sektionens traditioner, vanor, och livsregler lyder:
 
 ### 2009 - Joel Westberg
 
-"Don’t stop believin’, hold on to that feelin’. And do the Safety Dance."
+"Don't stop believin', hold on to that feelin'. And do the Safety Dance."
 
 ### 2010 - Egil Antonsen
 
@@ -54,10 +72,12 @@ Sektionens traditioner, vanor, och livsregler lyder:
 
 ### 2011 - Andreas Falk
 
-"Vi har alla våra hemliga span på Facebook som vi kanske är lite för fega att avslöja oss för! Inför Alla Hjärtans Dag är det dags för skärpning: gå in på www.lovechicken.se och peka på den du har ett visst intresse för. Ni kommer att avslöjas för varandra bara om ni båda är intresserade av varandra, annars förblir din hemlis säker!"
+"Vi har alla våra hemliga span på Facebook som vi kanske är lite för fega att avslöja oss för! Inför Alla Hjärtans Dag är det dags för skärpning: gå in på https://www.lovechicken.se och peka på den du har ett visst intresse för. Ni kommer att avslöjas för varandra bara om ni båda är intresserade av varandra, annars förblir din hemlis säker!"
 
-"I’m not sure where the pros get their mojo, but for me, creativity is a background process. 
-I don't sit around in brow-furrowed rumination, trying to think of great ideas or something really clever to say. No - I'm eating a sandwich, and suddenly: ‘holy crap, that cat should have a rocket-propelled scratching post!’ I just can't control that kind of brilliance.
+"I'm not sure where the pros get their mojo, but for me, creativity is a background process. 
+
+I don't sit around in brow-furrowed rumination, trying to think of great ideas or something really clever to say. No - I'm eating a sandwich, and suddenly: ‘holy crap, that cat should have a rocket-propelled scratching post!' I just can't control that kind of brilliance.
+
 When work piles up, my brain doesn't have any idle cycles. It jumps directly from one task to another, so there's no background processing. No creativity! And it feels like all the color and life has been sucked out of the world."
 
 – Andy Matuschak, SE (2009)
@@ -80,16 +100,22 @@ When work piles up, my brain doesn't have any idle cycles. It jumps directly fro
 
 ### 2015 - Lovisa Runhem
 
-"There is a truth and it’s on our side
+"There is a truth and it's on our side
+
 Dawn is coming
+
 Open your eyes
+
 Look into the sun as a new days rise"
 
 ### 2016 - Henrik Johansson
 
 "It's in our hearts to discover
+
 the dreams we share with each other
-’Cause we will light a brighter day
+
+'Cause we will light a brighter day
+
 we are your tomorrow"
 
 ### 2017 - Alexander Viklund
@@ -110,8 +136,9 @@ we are your tomorrow"
 
 ### 2021 - Johan Hamredal
 
-"It’s about drive, it’s about power, we stay hungry, we devour
-Put in the work, put in the hours, and take what’s ours"
+"It's about drive, it's about power, we stay hungry, we devour
+
+Put in the work, put in the hours, and take what's ours"
 
 ### 2022 - David Puustinen
 
