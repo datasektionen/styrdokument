@@ -15,7 +15,7 @@ Följande nämnder är bokföringspliktiga:
 * Sektionslokalgruppen
 * DKM
 * Näringslivsgruppen
-* Medias Klubbmästeri.
+* Medias Klubbmästeri
 
 ## §1.2 Bokföringsplikt för projekt
 
@@ -25,7 +25,7 @@ Följande återkommande projekt är bokföringspliktiga:
 
 * METAspexet
 * Mottagningen
-* D-Dagen.
+* D-Dagen
 
 ## §1.3 Alkohol
 

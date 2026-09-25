@@ -12,23 +12,23 @@ Sektionen har till ändamål att främja sina medlemmars studier och vad som har
 
 Sektionens uppgifter är att
 
--   utveckla och upprätthålla kamratskap och sammanhållning bland sektionens medlemmar
+* utveckla och upprätthålla kamratskap och sammanhållning bland sektionens medlemmar
 
--   skapa och upprätthålla goda kontakter med närstående personer och organisationer
+* skapa och upprätthålla goda kontakter med närstående personer och organisationer
 
--   aktivt motverka diskriminering inom sektionen
+* aktivt motverka diskriminering inom sektionen
 
--   driva bevakning av utbildningen för de program som är kopplade till sektionen.
+* driva bevakning av utbildningen för de program som är kopplade till sektionen.
 
 ## §1.3 Verksamhet
 
 Sektionen ska verka för att
 
--   driva verksamhet som bevakar medlemmarnas utbildning
+* driva verksamhet som bevakar medlemmarnas utbildning
 
--   driva en mottagning som välkomnar nyantagna studenter
+* driva en mottagning som välkomnar nyantagna studenter
 
--   driva verksamhet som tar hand om sektionens lokaler om sådana finns
+* driva verksamhet som tar hand om sektionens lokaler om sådana finns
 
 samt annan verksamhet som sektionens medlemmar anser främjar sektionens ändamål.
 
@@ -42,7 +42,7 @@ Sektionen tillhör Tekniska Högskolans Studentkår, THS.
 
 ## §1.6 Verksamhetsår
 
-Sektionens verksamhetsår löper från 1:a januari till 31:a december.
+Sektionens verksamhetsår löper från 1a januari till 31a december.
 
 ## §1.7 Styrdokument
 
@@ -84,15 +84,15 @@ Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta besl
 
 Sektionsmedlem är
 
--   ordinarie sektionsmedlem enligt §[2.1]
+* ordinarie sektionsmedlem enligt §[2.1]
 
--   hedersmedlem enligt §[2.2]
+* hedersmedlem enligt §[2.2]
 
--   alumnimedlem enligt §[2.3]
+* alumnimedlem enligt §[2.3]
 
--   juniormedlem enligt §[2.4]
+* juniormedlem enligt §[2.4]
 
--   gästmedlem enligt §[2.5].
+* gästmedlem enligt §[2.5].
 
 ## §2.1 Ordinarie sektionsmedlem
 
@@ -100,13 +100,13 @@ Ordinarie sektionsmedlem är medlem i THS som enligt THS föreskrifter eller bes
 
 Ordinarie sektionsmedlem har rätt att
 
--   delta med närvaro-, yttrande-, yrkande- och rösträtt på SM
+* delta med närvaro-, yttrande-, yrkande- och rösträtt på SM
 
--   få motion eller interpellation behandlad av SM
+* få motion eller interpellation behandlad av SM
 
--   kandidera till samtliga förtroendeuppdrag inom sektionen
+* kandidera till samtliga förtroendeuppdrag inom sektionen
 
--   närvara på DM med yttranderätt såvida det inte beslutats om lyckta dörrar.
+* närvara på DM med yttranderätt såvida det inte beslutats om lyckta dörrar.
 
 ## §2.2 Hedersmedlem
 
@@ -114,7 +114,7 @@ Sektionen kan utse till hedersmedlem sådan person som synnerligen främjat sekt
 
 Hedersmedlem har rätt att
 
--   delta med närvaro- och yttranderätt på SM
+* delta med närvaro- och yttranderätt på SM.
 
 ## §2.3 Alumnimedlem
 
@@ -122,11 +122,11 @@ Alumnimedlem är medlem som har anknytning till sektionen och antingen under sam
 
 Alumnimedlem har rätt att
 
--   delta med närvaro-, yttrande- och yrkanderätt på SM
+* delta med närvaro-, yttrande- och yrkanderätt på SM
 
--   kandidera till samtliga förtroendeuppdrag inom sektionen
+* kandidera till samtliga förtroendeuppdrag inom sektionen
 
--   närvara på DM såvida det inte beslutats om lyckta dörrar.
+* närvara på DM såvida det inte beslutats om lyckta dörrar.
 
 ## §2.4 Juniormedlem
 
@@ -134,7 +134,7 @@ Endast för nyligen antagen till datateknikprogrammet eller nyligen antagen inte
 
 Juniormedlem har rätt att
 
--   delta med närvaro- och yttranderätt på SM.
+* delta med närvaro- och yttranderätt på SM.
 
 ## §2.5 Gästmedlemskap
 
@@ -142,11 +142,11 @@ Gästmedlemskap kan tilldelas personer som är medlemmar i THS och som vill enga
 
 Gästmedlemmar har rätt att
 
--   delta med närvaro- och yttrande-rätt på SM
+* delta med närvaro- och yttrande-rätt på SM
 
--   närvara på DM såvida det inte beslutats om lyckta dörrar
+* närvara på DM såvida det inte beslutats om lyckta dörrar
 
--   delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar.
+* delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar.
 
 ## §2.6 Medlemsavgift
 
@@ -164,17 +164,17 @@ Medlemmars rättigheter på sektionsmötet definieras under §[2] Medlemskap. Le
 
 Det åligger SM att
 
--   fastställa riktlinjer och budget för sektionens verksamhet
+* fastställa riktlinjer och budget för sektionens verksamhet
 
--   granska funktionärers och revisorers berättelser samt sektionens ekonomiska redovisning
+* granska funktionärers och revisorers berättelser samt sektionens ekonomiska redovisning
 
--   ta ställning till ansvarsfrihet för D-rektoratet
+* ta ställning till ansvarsfrihet för D-rektoratet
 
--   om sektionsmedlem så önskar granska protokoll från DM
+* om sektionsmedlem så önskar granska protokoll från DM
 
--   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[5.7]
+* välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[5.7]
 
--   genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
+* genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
 ## §3.3 Kallelse
 
@@ -234,7 +234,7 @@ D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan en
 
 ## §3.12 Ajournering
 
-Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen, angivna reservtiden.
 
 # §4 Valmötet
 
@@ -272,11 +272,11 @@ Det ska förekomma maximalt ett VM per period. VM får inte hållas under tentam
 
 ## §4.7 Ajournering
 
-Mötesordförande äger rätt att ajournera mötet till den, enligt §[4.2] i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[4.2] i kallelsen, angivna reservtiden.
 
 # §5 Val
 
-Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder samt skyldigheter definieras vidare i reglementet.
+Vilka ansvarsposter som väljs via val definieras i reglementet. Dessa benämns funktionärer och deras ansvarsområden, mandatperioder, samt skyldigheter definieras vidare i reglementet.
 
 Om inget annat är föreskrivet så väljs funktionärer via den ordinarie valprocessen på VM.
 
@@ -286,7 +286,7 @@ Val kan ske vid SM som regleras av §[3] eller vid VM som regleras av §[4].
 
 ## §5.2 Valberedningen
 
-Sektionens val ska beredas av Valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
+Sektionens val ska beredas av valberedningen. Valberedningens arbete och sammansättning definieras vidare i reglementet.
 
 ## §5.3 Nomineringar
 
@@ -334,13 +334,13 @@ Styrelsen är sektionens högst verkställande organ och benämns D-rektoratet.
 
 D-rektoratet består av
 
-- Ordförande
+* Ordförande
 
-- Vice ordförande
+* Vice ordförande
 
-- Kassör
+* Kassör
 
-- Vice kassör
+* Vice kassör
 
 samt övriga ledamöter föreskrivna i reglementet.
 
@@ -366,19 +366,19 @@ På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jäm
 
 Det åligger D-rektoratet att
 
--   sköta sektionens löpande förvaltning
+* sköta sektionens löpande förvaltning
 
--   verkställa av SM fattade beslut
+* verkställa av SM fattade beslut
 
--   efter skriftlig begäran från en av SM vald funktionär entlediga densamme
+* efter skriftlig begäran från en av SM vald funktionär entlediga densamme
 
--   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
+* vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
 
--   vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
+* vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
 
--   svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
+* svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
--   om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, studerandeskyddsombud, kårfullmäktigeledamot, kårfullmäktigesuppleant eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
+* om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, studerandeskyddsombud, kårfullmäktigeledamot, kårfullmäktigesuppleant eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM.
 
 ## §6.4 Brådskande ärenden
 
@@ -388,7 +388,7 @@ I brådskande fall äger Ordförande rätt att utöva D-rektoratets befogenheter
 
 ## §6.5 Beslutsrätt gällande mindre summor
 
-D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
+D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten "Styrelsens dispositionsfond". Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
 
 ## §6.6 Ställföreträdande Ordförande
 
@@ -416,31 +416,31 @@ SM ska utse två revisorer.
 
 Revisorerna har rätt att
 
--   närhelst de så önskar ta del av samtliga räkenskaper, protokoll och andra handlingar
+* närhelst de så önskar ta del av samtliga räkenskaper, protokoll och andra handlingar
 
--   begära och erhålla upplysningar rörande verksamhet och förvaltning
+* begära och erhålla upplysningar rörande verksamhet och förvaltning
 
--   bevaka samtliga av sektionens sammanträden med närvaro-, yttrande- och yrkanderätt
+* bevaka samtliga av sektionens sammanträden med närvaro-, yttrande- och yrkanderätt
 
--   kalla till möte med samtliga delar av sektionen.
+* kalla till möte med samtliga delar av sektionen.
 
 ### §7.1.2 Uppgifter
 
 Det åligger revisorerna att
 
--   fortlöpande granska sektionens förvaltning och verksamhet
+* fortlöpande granska sektionens förvaltning och verksamhet
 
--   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt sektionens informationsspridningspolicy samt inlämna revisionberättelse till D-rektoratet.
+* senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt sektionens informationsspridningspolicy samt inlämna revisionberättelse till D-rektoratet.
 
 ### §7.1.3 Revisionssed
 
 Under det verksamhetsår de är valda för att granska är revisorerna skyldiga att inte
 
--   vara nämndansvarig för en bokföringspliktig nämnd eller projekt
+* vara nämndansvarig för en bokföringspliktig nämnd eller projekt
 
--   vara bokföringsansvarig för en nämnd eller projekt
+* vara bokföringsansvarig för en nämnd eller projekt
 
--   ha något ansvar inom sektionens styrelse eller valberedning.
+* ha något ansvar inom sektionens styrelse eller valberedning.
 
 ## §7.2 Verksamhetsberättelse och årsbokslut
 
@@ -448,7 +448,6 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 
 [1.1]: #1-1-namn
 [1.7]: #1-7-styrdokument
-[1.9]: #1-9-officiella-informationskanaler
 [2]: #2-medlemskap
 [2.1]: #2-1-ordinarie-sektionsmedlem
 [2.2]: #2-2-hedersmedlem
