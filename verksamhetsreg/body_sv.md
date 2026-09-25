@@ -112,7 +112,13 @@ Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa 
 
 Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år.
 
-### §1.1.19 Systemansvarig
+### §1.1.19 STUDS-ansvarig
+
+Är ordförande för STUDS.
+
+Väljs i period 4. Har läsår som mandatperiod.
+
+### §1.1.20 Systemansvarig
 
 Är ordförande för Systemgruppen.
 
@@ -120,23 +126,17 @@ Nytillträdd Systemansvarig övertar det yttersta ansvaret över Systemgruppens 
 
 Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-### §1.1.20 Tomtemor/-far
+### §1.1.21 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
 Väljs på SM i period 3. Har mandatperiod från 1:a april till 31:a mars.
 
-### §1.1.21 ÄrkeDEMON
+### §1.1.22 Ärkedemon
 
 Är ordförande för Data Et Medias OrquesterNämnd.
 
 Väljs i period 2. Har kalenderår som mandatperiod.
-
-### §1.1.22 STUDS-ansvarig
-
-Är ordförande för STUDS.
-
-Väljs i period 4. Har läsår som mandatperiod.
 
 ## §1.2 Övriga funktionärer
 
@@ -400,9 +400,9 @@ Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset 
 
 ### §2.2.2 Organisation
 
-DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
+DEMON leds av Ärkedemon tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
 
-Övriga medlemmar utses av ÄrkeDEMON och motsvarande funktionär på Sektionen för Medieteknik.
+Övriga medlemmar utses av Ärkedemon och motsvarande funktionär på Sektionen för Medieteknik.
 
 Tillhör Studiesociala organet.
 
@@ -920,37 +920,13 @@ Studienämnden ska hålla möte minst en gång per månad under terminstid. Möt
 
 Studienämndens dokument ska i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-## §2.21 Systemgruppen
+## §2.21 STUDS
 
 ### §2.21.1 Ändamål
 
-Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
-
-### §2.21.2 Organisation
-
-Systemgruppen leds av Systemansvarig och kallas Crash & Bränn.
-
-Övriga medlemmar utses av Systemansvarig.
-
-Tillhör Informationsorganet.
-
-### §2.21.3 Verksamhet
-
-Systemgruppen ska:
-
-* underhålla och utveckla sektionens datasystem
-
-* ansvara för drift och underhåll av sektionens servrar
-
-* engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
-
-## §2.22 STUDS
-
-### §2.22.1 Ändamål
-
 STUDS är en nämnd vars syfte är att koppla samman masterstudenter inom datateknik och andra relaterade områden med intressanta företag i industrin. STUDS, din språngbräda in i arbetslivet.
 
-### §2.22.2 Organisation
+### §2.21.2 Organisation
 
 Ordförande för STUDS är STUDS-ansvarig.
 
@@ -958,7 +934,7 @@ Ordförande för STUDS är STUDS-ansvarig.
 
 Tillhör Näringslivsorganet.
 
-### §2.22.3 Verksamhet
+### §2.21.3 Verksamhet
 
 STUDS ska:
 
@@ -967,6 +943,30 @@ STUDS ska:
 * informera masterstudenter inom sektionen om arbetsgivare inom datateknik och koppla samman dessa
 
 * se till att sektionen uppfyller avtal framförhandlade av STUDS.
+
+## §2.22 Systemgruppen
+
+### §2.22.1 Ändamål
+
+Systemgruppen ska ansvara för sektionens datasystem och drift av dessa.
+
+### §2.22.2 Organisation
+
+Systemgruppen leds av Systemansvarig och kallas Crash & Bränn.
+
+Övriga medlemmar utses av Systemansvarig.
+
+Tillhör Informationsorganet.
+
+### §2.22.3 Verksamhet
+
+Systemgruppen ska:
+
+* underhålla och utveckla sektionens datasystem
+
+* ansvara för drift och underhåll av sektionens servrar
+
+* engagera sektionsmedlemmar i underhåll av sektionens system och i konstruktionen av nya.
 
 # §3 Återkommande projekt
 
