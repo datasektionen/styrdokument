@@ -110,7 +110,7 @@ Väljs i period 2. Har kalenderår som mandatperiod.
 
 Nytillträdd SNO övertar det yttersta ansvaret över Studienämndens operativa och strategiska arbete när dennas mandatperiod börjar, tidigare SNO skall då agera som vice ordförande för Studienämnden, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
 
-Väljs i period 4. Har mandatperiod från 1:a juli till 31:e december följande år.
+Väljs i period 4. Har mandatperiod från 1a juli till 31a december följande år.
 
 ### §1.1.19 STUDS-ansvarig
 
@@ -124,13 +124,13 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Nytillträdd Systemansvarig övertar det yttersta ansvaret över Systemgruppens operativa och strategiska arbete när dennas mandatperiod börjar. Tidigare Systemansvarig skall då agera som vice ordförande för Systemgruppen, agera operativt stöd, samt se till att en gedigen kunskapsöverföring sker tills dess mandat går ut.
 
-Väljs i period 4. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+Väljs i period 4. Har mandatperiod från 1a juli till 30e december nästkommande år.
 
 ### §1.1.21 Tomtemor/-far
 
 Är ordförande för dJulkalendern.
 
-Väljs på SM i period 3. Har mandatperiod från 1:a april till 31:a mars.
+Väljs på SM i period 3. Har mandatperiod från 1a april till 31a mars.
 
 ### §1.1.22 Ärkedemon
 
@@ -994,7 +994,7 @@ METAspexets direqteurer ansvarar för att rekrytera samt leda METAspexets projek
 
 ### §3.1.4 Period
 
-Nya METAspexet-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att alla dess föreställningar har skett nästkommande kalenderår.
+Nya METAspexet-projekt öppnas årligen 1a april och bör bedriva verksamhet framtill att alla dess föreställningar har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är METAspexet <år>, där <år> är det år METAspexets föreställningar planeras hållas.
 
@@ -1018,7 +1018,7 @@ Projektledare för dÅre ansvarar för att rekrytera samt leda dÅres projektgru
 
 ### §3.2.4 Period
 
-Nya dÅre-projekt öppnas årligen 1:a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
+Nya dÅre-projekt öppnas årligen 1a april och bör bedriva verksamhet framtill att dess planerade skidresa skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är dÅre <år>, där <år> är det år dÅres skidresa planeras hållas.
 
@@ -1044,7 +1044,7 @@ Vårbalsgeneral ansvarar för att rekrytera samt leda Vårbalens projektgrupp.
 
 ### §3.3.4 Period
 
-Nya Vårbalen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att dess planerade sittning skett nästkommande kalenderår.
+Nya Vårbalen-projekt öppnas årligen 1a april och bör bedriva verksamhet fram till att dess planerade sittning skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Vårbalen <år>, där <år> är det år Vårbalens sittning planeras hållas.
 
@@ -1072,7 +1072,7 @@ Projektledare för Project Pride ansvarar för att rekrytera samt leda projektgr
 
 ### §3.4.4 Period
 
-Nya Project Pride-projekt öppnas årligen 16:e november och bör bedriva verksamhet fram till
+Nya Project Pride-projekt öppnas årligen 16e november och bör bedriva verksamhet fram till
 att dess deltagande i Stockholm Pride har skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Project Pride <år>, där <år> är det år Project Prides deltagande i Stockholm Pride Parade planeras hållas.
@@ -1123,7 +1123,7 @@ Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som 
 
 ### §3.5.5 Period
 
-Nya Mottagningen-projekt öppnas årligen 1:a september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
+Nya Mottagningen-projekt öppnas årligen 1a september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
@@ -1153,7 +1153,7 @@ D-Dagen ska:
 
 ### §3.6.4 D-Dagen
 
-Nya D-Dagen-projekt öppnas årligen 1:a april och bör bedriva verksamhet fram till att D-Dagen skett nästkommande kalenderår.
+Nya D-Dagen-projekt öppnas årligen 1a april och bör bedriva verksamhet fram till att D-Dagen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är D-Dagen <år>, där <år> är det år D-Dagen planeras hållas.
 
@@ -1177,7 +1177,7 @@ Jubileumsmarskalk ansvarar för att rekrytera samt leda dJubileets projektgrupp.
 
 ### §3.7.4 Period
 
-Nya dJubileum-projekt öppnas på sektionens födelsedag, den 7:e oktober, varje år y där y + 2 ≡ 1983 (mod 5) och bör bedriva verksamhet fram till dess att allt arbete som är kopplat till firandet har slutförts.
+Nya dJubileum-projekt öppnas på sektionens födelsedag, den 7e oktober, varje år y där y + 2 ≡ 1983 (mod 5) och bör bedriva verksamhet fram till dess att allt arbete som är kopplat till firandet har slutförts.
 
 Projekttitel för respektive årgång är dJubileet <år>, där <år> är det år då jubileumet som firas sker.
 
