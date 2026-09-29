@@ -105,7 +105,7 @@ METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
 METAcrafts verksamhets består av att
 
 - driva sektionens Minecraftserver METAcraft
-- anordna event och turneringar inom Minecraft
+- anordna event och turneringar inom Minecraft.
 
 ## §4.6 Bakverket
 
@@ -122,7 +122,7 @@ Bakverket leds av partiledare för Bakverket, benämnd Bakis.
 Bakverket verksamhets består av att
 
 - anordna event där sektionens medlemmar får baka
-- baka temaenligt fika inför SM
+- baka temaenligt fika inför SM.
 
 ## §4.7 dRådet
 
@@ -141,6 +141,23 @@ dRådets verksamhet består av att
 - anordna återkommande diskussioner för sektionsmedlemmar
 - samla in och sammanställa förslag och synpunkter från sektionsmedlemmar
 - vid behov bidra med underlag eller återkoppling till styrelsen och/eller SM
-- främja transparens, delaktighet och engagemang i sektionens utveckling
+- främja transparens, delaktighet och engagemang i sektionens utveckling.
+
+## §4.8 Game Theory
+
+### §4.8.1 Ändamål
+
+Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spelutveckling inom sektionen.
+
+### §4.8.2 Organisation
+
+Game Theory leds av partiledare för Game Theory, benämnt Datas Lata Ceo (DLC). Resterande medlemmar utses av DLC, övriga får delta på alla publika event.
+
+### §4.8.3 Verksamhet
+
+Game Theorys verksamhet består av att
+
+- hålla och utföra Game Jams
+- utveckla spel för sektionen.
 
 [1]: #1-uppstart
