@@ -11,8 +11,10 @@ Syftet med denna policy ämnar att reglera de samarbeten med företag och organi
 Datasektionen har tre grupper som självständigt arbetar med näringslivet. Dessa är:
 
 * Näringslivsgruppen
+
 * D-Dagen
-* STUDS
+
+* STUDS.
 
 ## §1.2 Övriga näringslivssamarbeten
 
@@ -24,9 +26,11 @@ Den som önskar näringslivssamarbeten med övriga delar av sektionen ska kontak
 
 Sektionens näringslivsgrupper och projekt ska främja ansvarstagande och hållbarhet inom alla aspekter av verksamheten. Affärsrelationer, samarbeten och investeringar ska undvikas med företag vars huvudverksamhet är:
 
-* Tillverkning eller försäljning av tobak/nikotinprodukter
-* Satsningsspel, inklusive lotterier och kasinon.
-* Vapenindustri, exklusive de företag som är reglerade av den svenska staten
+* tillverkning eller försäljning av tobak/nikotinprodukter
+
+* satsningsspel, inklusive lotterier och kasinon
+
+* vapenindustri, exklusive de företag som är reglerade av den svenska staten.
 
 ## §2.2 Startups
 

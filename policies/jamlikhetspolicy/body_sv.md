@@ -1,18 +1,18 @@
 <!-- Konglig Datasektionens jämlikhetspolicy -->
 
 # Syfte
+
 Syftet med Konglig Datasektionens Jämlikhetspolicy är att klargöra och skapa riktlinjer för hur Konglig Datasektionen arbetar med inkludering och behandling av sektionsmedlemmar. Jämlikhetspolicyn syftar även till att skapa en stabil grund för en positiv och berikande studiemiljö för Konglig Datasektionens medlemmar, så att alla kan må bra, vara sig själva och utvecklas som personer. Dessa värderingar ska också vägleda rekrytering och planering av verksamhet och på så vis agera som en kompass för sektionens verksamhet.
 
 Genom att omfamna dessa riktlinjer kan Datasektionen bli en plats där så många medlemmar som möjligt kan växa och trivas. Genom att kontinuerligt arbeta med att förbättra oss inom dessa områden kan tiden på Datasektionen bli något våra medlemmar kan se tillbaka på med värme och stolthet.
 
-Mer information och definitioner av viktiga begrepp finns på datasektionen.se/jml. Där finns även information om hur du anmäler om du upplevt ett brott mot denna policy.
+Mer information och definitioner av viktiga begrepp finns på https://datasektionen.se/jml. Där finns även information om hur du anmäler om du upplevt ett brott mot denna policy.
 
-# §1 Inkludering och Mångfald
+# §1 Inkludering och mångfald
 
 Konglig Datasektionens organisation och verksamhet ska ha en öppen och inkluderande kultur samt genomsyras av mångfald. 
 
 Vi strävar efter att ha stor mångfald i sektionens nämnder och projekt. Vid rekrytering bör det uppnås genom att ta hänsyn, inte bara till hur väl anpassade individer är för rollen man söker, utan till hela gruppens potentiella dynamik och vad varje individ kan bidra med till gruppen.
-
 
 ## §1.1 Inkludering
 
@@ -38,7 +38,7 @@ Vi strävar efter att skapa möjligheter för alla våra medlemmar att förvärv
 
 Dessa möjligheter tillhandahålls genom ett varierat utbud av evenemang och engagemang, däribland möjligheten att ta på sig ansvarskrävande roller. Samtidigt måste deltagande ske på ett hållbart sätt. Det vill säga att arbetet i sektionen är frivilligt och inte kan förväntas ske på bekostnad av medlemmars hälsa eller studier.
 
-# §3 Likabehandling och Lika villkor
+# §3 Likabehandling och lika villkor
 
 Inom Konglig Datasektionen ska alla behandlas på lika villkor och ha samma möjlighet att ta del av Konglig Datasektionens verksamhet och organisation. 
 
@@ -56,7 +56,7 @@ Det ska finnas resurser för att jobba med JML på sektionens hemsida och alla f
 
 Vi uppmuntrar att eventuella händelser anmäls till rätt instans och sektionen arbetar aktivt med att förhindra liknande händelser i fortsättningen.
 
-# §5 Normkritik och Självgranskning
+# §5 Normkritik och självgranskning
 
 Konglig Datasektionen ska vara aktivt normkritisk och självgranskande.
 
