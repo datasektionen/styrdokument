@@ -80,7 +80,7 @@ Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 
 Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
 
-## §1.11 Upplösning
+## §1.10 Upplösning
 
 Vid upplösning av sektionen tillfaller samtliga medel en nybildad stiftelse med uppdrag att stödja datateknikstudenter på KTH.
 
