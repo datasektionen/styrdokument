@@ -197,7 +197,7 @@ Vid sponsringen dras summan först från delen som subventioneras av sektionen.
 
 # $9 Delade licenser
 
-Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen.
+Sektionen innehar centraliserade licenser som får användas vid sektionsverksamhet. Ytterligare licenser av samma typ som de centraliserade licenserna bekostas ej av sektionen. Inköp av temporära licenser av samma typ som de centraliserade kan godkännas av styrelsen på DM.
 
 # §10 Accesser
 
