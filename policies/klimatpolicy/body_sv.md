@@ -22,7 +22,7 @@ Vid evenemang med högst 30 deltagare ska flergångsservisen användas istället
 
 Under pubar ska flergångsservisen användas i första hand.
 
-## §2.1 Bärkassar
+## §2.2 Bärkassar
 
 Sektionen betalar ej för inköp av bärkassar om det inte är särskilt motiverat. Sektionslokalsgruppen ansvarar för att flergångskassar som kan användas istället ska finnas tillgängliga i sektionslokalen.
 
