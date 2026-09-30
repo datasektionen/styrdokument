@@ -369,11 +369,11 @@ Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den pub
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
-## §4.5 Valhandlingar
+## §4.4 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
 
-### §4.5.1 Innehåll
+### §4.4.1 Innehåll
 
 Valhandlingarna ska innehålla
 
@@ -393,19 +393,19 @@ Valhandlingarna ska innehålla
 
 * samtliga lämplighetsbedömningar som utförts.
 
-### §4.5.2 Publiceringsplats
+### §4.4.2 Publiceringsplats
 
 Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
 
-### §4.5.3 Publiceringstid
+### §4.4.3 Publiceringstid
 
 Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska valhandlingarna publiceras senast 1 dag före valtillfället.
 
-### §4.5.4 Sekretessbeläggning
+### §4.4.4 Sekretessbeläggning
 
 Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
 
-## §4.6 Gemensam kandidatur
+## §4.5 Gemensam kandidatur
 
 När flera personer önskar kandidera gemensamt till samma funktionärspost skall detta anmälas till valberedningen innan acceptansstopp för den aktuella posten. Under valberedningsprocessen ska kandidaterna till valberedningen individuellt motivera sitt val att kandidera tillsammans samt redogöra för de fördelar de anser att den gemensamma kandidaturen medför.
 
