@@ -48,8 +48,7 @@ Verksamhetsregistret är ett dokument som definierar sektionens nämnder, återk
 
 ### §2.3.2 Verksamhetsplan
 
-Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
-Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot. Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
 
 ### §2.3.3 Budget
 
@@ -369,18 +368,6 @@ Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den pub
 ## §4.3 Sekretess
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
-
-## §4.4 Urnval
-
-Vid urnval ska valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av Systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
-
-Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
-
-Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
-
-Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
-
-Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
 
 ## §4.5 Valhandlingar
 
