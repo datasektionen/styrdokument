@@ -318,14 +318,6 @@ Vidare reglering av fyllnadsval vid varje valtillfälle kan ske i enlighet med �
 
 Då ingen kandidat finns till en post under ett valtillfälle vartill val till posten lysts, kan valtillfället besluta att öppna för fri kandidatur. För val av kandidat vid fri kandidatur krävs ett beslut med 3/4-majoritet.
 
-## §5.7 Avvikande valprocesser
-
-Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
-
-Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
-
-Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
-
 # §6 Styrelsen
 
 Styrelsen är sektionens högst verkställande organ och benämns D-rektoratet.
@@ -463,6 +455,5 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [4.7]: #4-7-ajournering
 [5.1]: #5-1-valtillfällen
 [5.3]: #5-3-nomineringar
-[5.7]: #5-7-avvikande-valprocesser
 [6.2.1]: #6-2-1-kallelse
 [7.1]: #7-1-revisorer
