@@ -393,8 +393,6 @@ Valhandlingarna ska innehålla
 
 * samtliga lämplighetsbedömningar som utförts.
 
-Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
-
 ### §4.5.2 Publiceringsplats
 
 Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
