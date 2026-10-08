@@ -172,9 +172,9 @@ Det åligger SM att
 
 * om sektionsmedlem så önskar granska protokoll från DM
 
-* välja funktionärer, med undantag av de som har avvikande valprocesser enligt §[5.7]
+* välja funktionärer
 
-* genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
+* genomföra fyllnadsval vid behov.
 
 ## §3.3 Kallelse
 
@@ -300,7 +300,7 @@ Ordinarie val ska lysas enligt §[5.3] senast 35 dagar före ett valtillfälle d
 
 Nomineringar till funktionärsposter måste lämnas in senast 14 dagar före valtillfället. Den nominerade måste acceptera sin nomination senast två dagar efter nomineringsperioden för att kandidaturen ska vara giltig.
 
-Om en post saknar giltiga kandidaturer vid nomineringsperiodens slut kan valberedningen förlänga nomineringsperioden med 10 dagar för den posten. Detta gäller inte de poster som väljs med urnval enligt §[5.7] för att möjliggöra den processen.
+Om en post saknar giltiga kandidaturer vid nomineringsperiodens slut kan valberedningen förlänga nomineringsperioden med 10 dagar för den posten. 
 
 Vidare reglering av ordinarie val vid varje valtillfälle kan ske i enlighet med §[5.1].
 
@@ -317,14 +317,6 @@ Vidare reglering av fyllnadsval vid varje valtillfälle kan ske i enlighet med �
 ## §5.6 Kandidatur under valtillfället
 
 Då ingen kandidat finns till en post under ett valtillfälle vartill val till posten lysts, kan valtillfället besluta att öppna för fri kandidatur. För val av kandidat vid fri kandidatur krävs ett beslut med 3/4-majoritet.
-
-## §5.7 Avvikande valprocesser
-
-Ordförande, Vice ordförande, Kassör, Vice kassör samt Kårfullmäktigeledamöter och -suppleanter väljs med urnval i enlighet med reglementet.
-
-Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
-
-Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
 # §6 Styrelsen
 
@@ -463,6 +455,5 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [4.7]: #4-7-ajournering
 [5.1]: #5-1-valtillfällen
 [5.3]: #5-3-nomineringar
-[5.7]: #5-7-avvikande-valprocesser
 [6.2.1]: #6-2-1-kallelse
 [7.1]: #7-1-revisorer

@@ -48,8 +48,7 @@ Verksamhetsregistret är ett dokument som definierar sektionens nämnder, återk
 
 ### §2.3.2 Verksamhetsplan
 
-Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot.
-Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
+Sektionen har en verksamhetsplan som funktionärer, i den mån det är möjligt, ska arbeta mot. Verksamhetsplanen för det kommande verksamhetsåret ska fastslås på verksamhetsårets sista ordinarie sektionsmöte. Verksamhetsplanen ska tas fram av styrelsen i samråd med sektionens funktionärer och medlemmar.
 
 ### §2.3.3 Budget
 
@@ -61,7 +60,7 @@ Om sektionen delar sektionslokal med en annan sektion ska det finnas ett avtal s
 
 # §3 Funktionärer
 
-Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som funktionär. Sektionens funktionärer definieras vidare i Verksamhetsregistret.
+Endast sektionsmedlem som valts till ett förtroendeuppdrag av SM, VM eller via tillförordning kan räknas som funktionär. Sektionens funktionärer definieras vidare i Verksamhetsregistret.
 
 ## §3.1 Skyldigheter
 
@@ -370,23 +369,11 @@ Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den pub
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
-## §4.4 Urnval
-
-Vid urnval ska valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av Systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska annonseras senast fem dagar i förväg.
-
-Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
-
-Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
-
-Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.8](../stadgar#1-8-beslutsnivåer).
-
-Kandidater som ställer upp i urnval får inte vara inblandade i administrationen av urnvalsprocessen.
-
-## §4.5 Valhandlingar
+## §4.4 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
 
-### §4.5.1 Innehåll
+### §4.4.1 Innehåll
 
 Valhandlingarna ska innehålla
 
@@ -406,21 +393,19 @@ Valhandlingarna ska innehålla
 
 * samtliga lämplighetsbedömningar som utförts.
 
-Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
-
-### §4.5.2 Publiceringsplats
+### §4.4.2 Publiceringsplats
 
 Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
 
-### §4.5.3 Publiceringstid
+### §4.4.3 Publiceringstid
 
 Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska valhandlingarna publiceras senast 1 dag före valtillfället.
 
-### §4.5.4 Sekretessbeläggning
+### §4.4.4 Sekretessbeläggning
 
 Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
 
-## §4.6 Gemensam kandidatur
+## §4.5 Gemensam kandidatur
 
 När flera personer önskar kandidera gemensamt till samma funktionärspost skall detta anmälas till valberedningen innan acceptansstopp för den aktuella posten. Under valberedningsprocessen ska kandidaterna till valberedningen individuellt motivera sitt val att kandidera tillsammans samt redogöra för de fördelar de anser att den gemensamma kandidaturen medför.
 
@@ -462,7 +447,7 @@ Efter att projektets verksamhet är genomförd ska projektledare snarast möjlig
 
 ## §6.4 Projektledare
 
-För varje projekt ska det finnas en eller flera personer som är projektledare. Endast sektionsmedlem som tillsatts av SM, VM, genom avvikande valprocess eller via tillförordning kan räknas som projektledare. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
+För varje projekt ska det finnas en eller flera personer som är projektledare. Endast sektionsmedlem som tillsatts av SM, VM eller via tillförordning kan räknas som projektledare. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
 
 ### §6.4.1 Skyldigheter
 
