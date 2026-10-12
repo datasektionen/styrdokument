@@ -42,7 +42,7 @@ Sektionen tillhör Tekniska Högskolans Studentkår, THS.
 
 ## §1.6 Verksamhetsår
 
-Sektionens verksamhetsår löper från 1a januari till 31a december.
+Sektionens verksamhetsår löper från 1 januari till 31 december.
 
 ## §1.7 Styrdokument
 
@@ -79,6 +79,10 @@ Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 ## §1.9 Firmatecknare
 
 Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
+
+## §1.10 Upplösning
+
+Vid upplösning av sektionen tillfaller samtliga medel en nybildad stiftelse med uppdrag att stödja datateknikstudenter på KTH.
 
 # §2 Medlemskap
 
