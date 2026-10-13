@@ -64,7 +64,7 @@ Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är
 
 # §5 Intern rekrytering
 
-Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskri i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
+Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskrii i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
 
 # §6 Transparens
 
