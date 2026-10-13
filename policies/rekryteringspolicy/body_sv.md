@@ -8,7 +8,7 @@ Syftet med detta dokument är att beskriva hur inval och rekrytering till såvä
 
 Ett **öppet val** till Datasektionens funktionärsposter hålls under sektionsmötet där alla medlemmar har rätt att kandidera. Undantaget är när en funktionärspost är vakantsatt, då har styrelsen möjligheten att tillförordna en medlem på posten tills dessa att fyllnadsval kan ske.
 
-Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. Inval är exempelvis val av ledningsgrupper till projekt samt, i dagsläget, val av medlemmar i DKM och mottagningspersonal.
+Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. I delad verksamhet omfattar inval även medlemmar från den eller de organisationer som ingår i samarbetet.
 
 **Rekrytering** syftar på hur nämnder och projekt arbetar för att engagera och rekrytera fler medlemmar till sina verksamheter.
 
