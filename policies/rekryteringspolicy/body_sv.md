@@ -54,7 +54,7 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
-* Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
+* Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad. Rekrytering av Studienämndens årskursrepresentanter för årskurs ett kräver inget särskilt godkännande.
 
 * Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
 
