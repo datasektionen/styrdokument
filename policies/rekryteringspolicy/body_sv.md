@@ -60,7 +60,7 @@ Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är
 
 * Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad.
 
-* Valberedningen förväntas ej kontrollera eller reglera rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delas med andra sektioner eller organisationer.
+* Rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delar verksamhet med andra sektioner eller organisationer är tillåtet givet eventuella mottagningsregler hos de inblandade parterna respekteras. 
 
 # §5 Intern rekrytering
 
