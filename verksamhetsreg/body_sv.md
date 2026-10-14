@@ -1123,7 +1123,7 @@ Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som 
 
 ### §3.5.5 Period
 
-Nya Mottagningen-projekt öppnas årligen 1a september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
+Nya Mottagningen-projekt öppnas årligen 1 september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
