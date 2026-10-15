@@ -8,7 +8,7 @@ Syftet med detta dokument är att beskriva hur inval och rekrytering till såvä
 
 Ett **öppet val** till Datasektionens funktionärsposter hålls under sektionsmötet där alla medlemmar har rätt att kandidera. Undantaget är när en funktionärspost är vakantsatt, då har styrelsen möjligheten att tillförordna en medlem på posten tills dessa att fyllnadsval kan ske.
 
-Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. Inval är exempelvis val av ledningsgrupper till projekt samt, i dagsläget, val av medlemmar i DKM och mottagningspersonal.
+Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd eller ett projekt av en eller flera förtroendevalda av sektionen. I delad verksamhet omfattar inval även medlemmar från den eller de organisationer som ingår i samarbetet.
 
 **Rekrytering** syftar på hur nämnder och projekt arbetar för att engagera och rekrytera fler medlemmar till sina verksamheter.
 
@@ -54,17 +54,17 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 
 Inval är tillåtet under Mottagningen, d.v.s. innan nØllegasquens sittning är påbörjad, under särskilda förhållanden.
 
-* Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad.
+* Vid inval av studenter som påbörjar sitt första år på Datateknikprogrammet (nØllan) krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför invalet inte kan vänta till efter nØllegasquens sittning är påbörjad. Rekrytering av Studienämndens årskursrepresentanter för årskurs ett kräver inget särskilt godkännande.
 
 * Vid inval av sektionsmedlemmar som påbörjat sitt andra år på Datateknikprogrammet eller högre krävs godkännande från Styrelsen och Valberedningen. Dessutom krävs god anledning varför nØllan exkluderas från invalet.
 
 * Vid rekrytering av samtliga medlemmar krävs godkännande från Mottagningen, Styrelsen och Valberedningen. Dessutom krävs god anledning varför rekryteringen inte kan vänta till efter nØllegasquens sittning är påbörjad.
 
-* Valberedningen förväntas ej kontrollera eller reglera rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delas med andra sektioner eller organisationer.
+* Rekrytering av personer som ej är medlemmar i Datasektionen till projekt eller nämnder som delar verksamhet med andra sektioner eller organisationer är tillåtet givet eventuella mottagningsregler hos de inblandade parterna respekteras. 
 
 # §5 Intern rekrytering
 
-Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskri i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
+Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskrii i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
 
 # §6 Transparens
 
