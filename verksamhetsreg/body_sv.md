@@ -26,7 +26,7 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Är ordförande för D-festeriet.
 
-Väljs i period 2. Har kalenderår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.5 Dives ordförande
 
