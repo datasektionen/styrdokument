@@ -130,7 +130,7 @@ Väljs i period 4. Har mandatperiod från 1a juli till 30e december nästkommand
 
 Är ordförande för dJulkalendern.
 
-Väljs på SM i period 3. Har mandatperiod från 1a april till 31a mars.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.22 Ärkedemon
 
