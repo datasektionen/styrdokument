@@ -26,7 +26,7 @@ Väljs i period 4. Har läsår som mandatperiod.
 
 Är ordförande för D-festeriet.
 
-Väljs i period 2. Har kalenderår som mandatperiod.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.5 Dives ordförande
 
@@ -130,7 +130,7 @@ Väljs i period 4. Har mandatperiod från 1 juli till 30 december nästkommande 
 
 Är ordförande för dJulkalendern.
 
-Väljs på SM i period 3. Har mandatperiod från 1 april till 31 mars.
+Väljs i period 4. Har läsår som mandatperiod.
 
 ### §1.1.22 Ärkedemon
 
@@ -174,7 +174,7 @@ Fanbärare är ett mycket hedersfyllt uppdrag inom sektionen. Fanbärare försva
 
 #### §1.2.2.2 Organisation
 
-SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+Sektionen ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
@@ -242,7 +242,7 @@ Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemm
 
 #### §1.2.4.2 Organisation
 
-SM ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+Sektionen ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 #### §1.2.4.3 Verksamhet
 
@@ -250,7 +250,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §1.2.4.4 Mandatperiod
 
-Alla mandat tilldelade sektionen väljs i period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen väljs i period 4 och har läsår som mandatperiod.
 
 ### §1.2.5 Ljud- och ljusansvarig
 
@@ -1123,7 +1123,7 @@ Ordförande bör inte inneha något annat uppdrag inom Mottagningen än det som 
 
 ### §3.5.5 Period
 
-Nya Mottagningen-projekt öppnas årligen 1 september och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
+Nya Mottagningen-projekt öppnas årligen 7 oktober och bör bedriva verksamhet fram till att Mottagningen skett nästkommande kalenderår.
 
 Projekttitel för respektive årgång är Mottagningen <år>, där <år> är det år Mottagningen planeras hållas.
 
