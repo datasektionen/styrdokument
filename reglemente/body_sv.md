@@ -294,8 +294,6 @@ Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionens arbet
 
 #### §3.2.4.2 Organisation
 
-Enligt sektionens stadgar finns två av SM utsedda revisorer.
-
 Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
 
 Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
@@ -422,7 +420,7 @@ Ett projekt är tidsbestämt och avser genomföra för projektet avsatt ändamå
 
 ## §6.1 Uppstart
 
-Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer på nästkommande SM.
+Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syfte, budget, verksamhetsplan och en ungefärlig tidsplan finnas med. Projektledare kan antingen väljas direkt av SM genom fri nominering eller genom val med samma procedur som för övriga funktionärer.
 
 ## §6.2 Återkommande projekt
 

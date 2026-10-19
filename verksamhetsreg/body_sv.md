@@ -174,7 +174,7 @@ Fanbärare är ett mycket hedersfyllt uppdrag inom sektionen. Fanbärare försva
 
 #### §1.2.2.2 Organisation
 
-SM ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+Sektionen ska välja en Fanbärare och en Vice fanbärare. Valet ska ske genom rangordning av samtliga kandidater, där den som rankas högst i den sammanställda rangordningen blir Fanbärare, och den som rankas näst högst blir Vice fanbärare. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 Ordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
@@ -242,7 +242,7 @@ Kårfullmäktigeledamöterna och -suppleanterna representerar sektionens medlemm
 
 #### §1.2.4.2 Organisation
 
-SM ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+Sektionen ska välja ett antal kårfullmäktigeledamöter samt suppleanter enligt THS styrdokument. Valet ska ske genom rangordning av samtliga kandidater, där de som rangordnas högst i den sammanställda rangordningen blir kårfullmäktigeledamöter, och de som rankas högst efter de tidigare valda blir kårfullmäktigesuppleanter. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
 
 #### §1.2.4.3 Verksamhet
 
