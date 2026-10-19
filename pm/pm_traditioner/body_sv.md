@@ -24,7 +24,7 @@ Sektionens traditioner, vanor, och livsregler lyder:
 
     * Ingredienserna till denna skall finnas i dryckesinventariet för alla av Konglig Datasektionen arrangerade evenemang
 
-* Konglig Datasektionen firar dJubileum var 5:e år efter sektionens födelse den 7:e oktober 1983
+* Konglig Datasektionen firar dJubileum var 5:e år efter sektionens födelse den 7 oktober 1983
 
 * De som tidigare varit förtoendevalda funktionärer eller projektledare på Konglig Datasektionen benämns dFunkt
 
