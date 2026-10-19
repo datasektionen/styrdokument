@@ -250,7 +250,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §1.2.4.4 Mandatperiod
 
-Alla mandat tilldelade sektionen väljs i period 3 och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen väljs i period 4 och har läsår som mandatperiod.
 
 ### §1.2.5 Ljud- och ljusansvarig
 
