@@ -140,7 +140,7 @@ Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområ
 
 * efter ett SM, VM eller DM publicera ett beslutsprotokoll inom 48 timmar från mötets avslutande.
 
-Väljs på SM i period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.3.1.4 Kassör
 
@@ -194,7 +194,7 @@ Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikati
 
 * bistå i samordnandet av näringslivsfrågor på sektionen.
 
-Väljs på SM i period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.3.1.7 Ledamot för studiesociala frågor
 
@@ -206,7 +206,7 @@ Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. A
 
 * verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på SM i period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.3.1.8 Ledamot för utbildningsfrågor
 
@@ -220,7 +220,7 @@ Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS o
 
 * från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
 
-Väljs på SM i period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 #### §3.3.1.9 Ledamot för studiemiljö och likabehandling
 
@@ -234,7 +234,7 @@ Har det övergripande ansvaret för alla frågor kopplade till den fysiska och p
 
 * från styrelsen arbeta med frågor som berör jämlikhet, mångfald, likabehandling, miljö och hållbarhet på sektionen.
 
-Väljs på SM i period 2. Har kalenderår som mandatperiod.
+Väljs i period 2. Har kalenderår som mandatperiod.
 
 ### §3.3.2 Valberedningen
 
@@ -326,7 +326,7 @@ Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, 
 
 #### §3.3.4.4 Mandatperiod
 
-Revisorerna väljs på SM i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1a januari till 30e juni nästkommande år.
+Revisorerna väljs i period 2 till revisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1a januari till 30e juni nästkommande år.
 
 # §4 Valprocess
 
