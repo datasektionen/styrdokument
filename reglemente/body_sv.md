@@ -326,7 +326,13 @@ Revisorerna väljs i period 2 till revisor för sektionen under ett verksamhets�
 
 # §4 Valprocess
 
-## §4.1 Utlåtande
+## §4.1 Frågeformulär
+
+Valberedningen ska inför varje val tillhandahålla ett frågeformulär för samtliga kandidater där de får presentera sig själva samt sina planer för sin tid på posten.
+
+## §4.2 Utlåtande
+
+### §4.2.1 Intervjuer
 
 Valberedningen bör hålla intervjuer med samtliga kandidater som sökt till:
 
@@ -340,36 +346,27 @@ Valberedningen bör hålla intervjuer med samtliga kandidater som sökt till:
 * Klubbmästare
 * Studienämndens ordförande
 * Studiemiljöansvarig
-* Jämlikhets-, mångfalds* och likabehandlingsansvarig
+* Jämlikhets-, mångfalds- och likabehandlingsansvarig
 * Konglig Lokalchef
 * Systemansvarig
-* Talman
 * Programansvarig student
 * Kommunikatör
 
-hädanefter benämnda intervjuposter. Med hjälp av det material som insamlats under intervjun ska valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+hädanefter benämnda intervjuposter.
 
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
+### §4.2.2 Valprofiler
 
-I de fall där kandidaten inte intervjuas ska valberedningen tillhandahålla ett frågeformulär.
+Till varje intervjupost finns en tillhörande valprofil. Valprofiler ska framställas av Valberedningen och ska bestå av önskade färdigheter och meriterande erfarenheter för posten. Vid skapande eller ändring i valprofilsmallarna ska dessa godkännas på ett av valberedningens möten genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i valberedningen ska erbjudas chansen att delta på detta möte.
 
-## §4.2 Lämplighetsbedömning
+### §4.2.3 Sammanställning
 
-I de fall där en kandidat intervjuats ska valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av valberedningens möten och fastställas genom sluten votering med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med valberedningens utlåtande om kandidaten.
+I det fall där en kandidat har intervjuats ska valberedningen sammanställa ett utlåtande baserat på material insamlat från intervjun och bestå av en jämförelse av kandidaten gentemot valprofilen. När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun.
 
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
-
-Kandidaten skall delges sin lämplighetsbedömning senast ett dygn innan den publiceras. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur skall lämplighetsbedömningen inte publiceras.
-
-## §4.3 Sekretess
-
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
-
-## §4.4 Valhandlingar
+## §4.3 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM eller VM där valet sker.
 
-### §4.4.1 Innehåll
+### §4.3.1 Innehåll
 
 Valhandlingarna ska innehålla
 
@@ -385,21 +382,23 @@ Valhandlingarna ska innehålla
 
 * samtliga utlåtanden från de intervjuer valberedningen har hållit
 
-* samtliga svar från de frågeformulär som kandidaterna har fått svara på
+* samtliga svar från de frågeformulär som kandidaterna har fått svara på.
 
-* samtliga lämplighetsbedömningar som utförts.
+### §4.3.2 Publiceringsplats
 
-### §4.4.2 Publiceringsplats
+Valhandlingarna ska publiceras via officiella informationskanaler enligt sektionens informationsspridningspolicy.
 
-Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §[1.9](../stadgar#1-9-officiella-informationskanaler).
-
-### §4.4.3 Publiceringstid
+### §4.3.3 Publiceringstid
 
 Valhandlingarna ska inför ordinarie val publiceras senast 3 dagar före valtillfället. Inför fyllnadsval ska valhandlingarna publiceras senast 1 dag före valtillfället.
 
-### §4.4.4 Sekretessbeläggning
+### §4.3.4 Begränsad tillgänglighet
 
-Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM eller VM där valet i fråga sker.
+På begäran av någon av kandidaterna, någon av valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna måste valhandlingarna begränsas till att endast vara tillgängliga för personer som har närvarorätt på SM eller VM där valet i fråga sker. Då får de alltså inte publiceras online eller delas ut i fysiskt format utanför möteslokalen.
+
+## §4.4 Sekretess
+
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
 ## §4.5 Gemensam kandidatur
 
