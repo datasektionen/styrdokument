@@ -34,7 +34,7 @@ Funktionärer som är nämndordförande är skyldiga att i slutet av varje halvt
 
 ## §1.7 Information på officiella informationskanaler
 
-Funktionärer som är nämndordförande eller projektledare för återkommande projekt ansvarar för att aktuell information om deras nämnd eller projekt ska finnas tillgänglig på sektionens hemsida. Övriga funktionärer som inte är projektledare ansvarar för att aktuell information om deras arbete som är relevant för gemene sektionsmedlem ska finnas tillgänglig på sektionens hemsida.
+Funktionärer som är nämndordförande eller projektledare för återkommande projekt ansvarar för att aktuell information om deras nämnd eller projekt ska finnas tillgänglig på sektionens hemsida. Övriga funktionärer som inte är projektledare ansvarar för att aktuell information om deras arbete, som är relevant för gemene sektionsmedlem, finns tillgänglig på sektionens hemsida.
 
 ## §1.8 Utbildningar
 
