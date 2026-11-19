@@ -1,6 +1,7 @@
 <!-- Konglig Datasektionens PM för partitioner -->
 
 # Syfte
+
 Detta dokument definierar sektionens aktiva partitioner och beskriver vad som gäller för partitioner som slutar vara aktiva.
 
 # §1 Uppstart
@@ -15,7 +16,7 @@ Om en partiledare inte lämnat in en rapport inför sektionsmötet kan de istäl
 
 # §3 Stängning
 
-Om en partition saknar partiledare, rapporterar utebliven verksamhet eller underlåter att rapportera vid två på varandra följande SM kan D-rektoratet stänga partitionen. Den klassas då som inaktiv och förs in i en offentlig [förteckning över inaktiva partitioner](https://dsekt.se/inaktivapartitioner). En inaktiv partition kan åter uppstartas genom samma process som beskrivs i §[1].
+Om en partition saknar partiledare, rapporterar utebliven verksamhet eller underlåter att rapportera vid två på varandra följande SM kan D-rektoratet stänga partitionen. Den klassas då som inaktiv och förs in i en offentlig [förteckning över inaktiva partitioner](https://dsekt.se/inaktivapartitioner). En inaktiv partition kan återstartas genom samma process som beskrivs i §[1].
 
 # §4 Aktiva partitioner
 
@@ -23,7 +24,7 @@ Om en partition saknar partiledare, rapporterar utebliven verksamhet eller under
 
 ### §4.1.1 Ändamål
 
-Bakverket syfte är att främja och samla intresset för bakning inom sektionen.
+Bakverkets syfte är att främja och samla intresset för bakning inom sektionen.
 
 ### §4.1.2 Organisation
 
@@ -31,7 +32,7 @@ Bakverket leds av partiledare för Bakverket, benämnd Bakis.
 
 ### §4.1.3 Verksamhet
 
-Bakverket verksamhets består av att
+Bakverkets verksamhet består av att
 
 - anordna event där sektionens medlemmar får baka
 - baka temaenligt fika inför SM.
@@ -40,7 +41,7 @@ Bakverket verksamhets består av att
 
 ### §4.2.1 Ändamål
 
-Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
+Blodgruppens syfte är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
 
 ### §4.2.2 Organisation
 
@@ -79,7 +80,7 @@ Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spe
 
 ### §4.4.2 Organisation
 
-Game Theory leds av partiledare för Game Theory, benämnt Datas Lata Ceo (DLC). 
+Game Theory leds av partiledare för Game Theory, benämnd Datas Lata Ceo (DLC). 
 
 Resterande medlemmar utses av DLC, övriga får delta på alla publika event.
 
@@ -104,7 +105,7 @@ METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
 
 ### §4.5.3 Verksamhet
 
-METAcrafts verksamhets består av att
+METAcrafts verksamhet består av att
 
 - driva sektionens Minecraftserver METAcraft
 - anordna event och turneringar inom Minecraft.
@@ -117,7 +118,7 @@ Närstridskommitténs syfte är att väcka och samla intresse för fightingspel.
 
 ### §4.6.2 Organisation
 
-Närstridskommittén leds av partiledare för närstridskommittén, benämnd Professorn.
+Närstridskommittén leds av partiledare för Närstridskommittén, benämnd Professorn.
 
 ### §4.6.3 Verksamhet
 
