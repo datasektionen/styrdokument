@@ -19,78 +19,6 @@ Om en partition saknar partiledare, rapporterar utebliven verksamhet eller under
 
 # §4 Aktiva partitioner
 
-## §4.1 Närstridskommittén
-
-### §4.1.1 Ändamål
-
-Närstridskommitténs syfte är att väcka och samla intresse för fightingspel.
-
-### §4.1.2 Organisation
-
-Närstridskommittén leds av partiledare för närstridskommittén, benämnd Professorn.
-
-### §4.1.3 Verksamhet
-
-Närstridskommitténs verksamhet består av att
-
-- anordna turneringar och spelkvällar för fightingspel
-- samordna gemensamt deltagande på externa fightingspelsevent.
-
-## §4.3 Blodgruppen
-
-### §4.3.1 Ändamål
-
-Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens
-medlemmar att ge blod.
-
-### §4.3.2 Organisation
-
-Blodgruppen leds av partiledare för Blodgruppen, benämnd dRacula.
-
-### §4.3.3 Verksamhet
-
-Blodgruppens verksamhet består av att
-
-- organisera regelbundna besök till blodcentraler och blodbussar.
-
-## §4.4 Tech-i-taka
-
-### §4.4.1 Ändamål
-
-Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
-
-### §4.4.2 Organisation
-
-Tech-i-taka leds av partiledare för Tech-i-taka, benämnd Geten.
-
-Huvudtruppen utses av Geten, övriga ska få möjlighet att delta på träningar.
-
-### §4.4.3 Verksamhet
-
-Tech-i-takas verksamhet består av att
-
-- arrangera fotbollsträningar
-- delta på korpenmatcher både inom och utanför KTH.
-
-## §4.5 METAcraft
-
-### §4.5.1 Ändamål
-
-METAcrafts syfte är att driva och underhålla sektionens Minecraftserver.
-
-### §4.5.2 Organisation
-
-METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
-
-Övriga medlemmar utses av Herobrine.
-
-### §4.5.3 Verksamhet
-
-METAcrafts verksamhets består av att
-
-- driva sektionens Minecraftserver METAcraft
-- anordna event och turneringar inom Minecraft.
-
 ## §4.6 Bakverket
 
 ### §4.6.1 Ändamål
@@ -107,6 +35,22 @@ Bakverket verksamhets består av att
 
 - anordna event där sektionens medlemmar får baka
 - baka temaenligt fika inför SM.
+
+## §4.3 Blodgruppen
+
+### §4.3.1 Ändamål
+
+Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
+
+### §4.3.2 Organisation
+
+Blodgruppen leds av partiledare för Blodgruppen, benämnd dRacula.
+
+### §4.3.3 Verksamhet
+
+Blodgruppens verksamhet består av att
+
+- organisera regelbundna besök till blodcentraler och blodbussar.
 
 ## §4.7 dRådet
 
@@ -135,7 +79,9 @@ Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spe
 
 ### §4.8.2 Organisation
 
-Game Theory leds av partiledare för Game Theory, benämnt Datas Lata Ceo (DLC). Resterande medlemmar utses av DLC, övriga får delta på alla publika event.
+Game Theory leds av partiledare för Game Theory, benämnt Datas Lata Ceo (DLC). 
+
+Resterande medlemmar utses av DLC, övriga får delta på alla publika event.
 
 ### §4.8.3 Verksamhet
 
@@ -143,5 +89,60 @@ Game Theorys verksamhet består av att
 
 - hålla och utföra Game Jams
 - utveckla spel för sektionen.
+
+## §4.5 METAcraft
+
+### §4.5.1 Ändamål
+
+METAcrafts syfte är att driva och underhålla sektionens Minecraftserver.
+
+### §4.5.2 Organisation
+
+METAcraft leds av partiledare för METAcraft, benämnd Herobrine.
+
+Övriga medlemmar utses av Herobrine.
+
+### §4.5.3 Verksamhet
+
+METAcrafts verksamhets består av att
+
+- driva sektionens Minecraftserver METAcraft
+- anordna event och turneringar inom Minecraft.
+
+## §4.1 Närstridskommittén
+
+### §4.1.1 Ändamål
+
+Närstridskommitténs syfte är att väcka och samla intresse för fightingspel.
+
+### §4.1.2 Organisation
+
+Närstridskommittén leds av partiledare för närstridskommittén, benämnd Professorn.
+
+### §4.1.3 Verksamhet
+
+Närstridskommitténs verksamhet består av att
+
+- anordna turneringar och spelkvällar för fightingspel
+- samordna gemensamt deltagande på externa fightingspelsevent.
+
+## §4.4 Tech-i-taka
+
+### §4.4.1 Ändamål
+
+Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
+
+### §4.4.2 Organisation
+
+Tech-i-taka leds av partiledare för Tech-i-taka, benämnd Geten.
+
+Huvudtruppen utses av Geten, övriga ska få möjlighet att delta på träningar.
+
+### §4.4.3 Verksamhet
+
+Tech-i-takas verksamhet består av att
+
+- arrangera fotbollsträningar
+- delta på korpenmatcher både inom och utanför KTH.
 
 [1]: #1-uppstart
