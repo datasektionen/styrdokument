@@ -80,7 +80,7 @@ Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spe
 
 ### §4.4.2 Organisation
 
-Game Theory leds av partiledare för Game Theory, benämnd Datas Lata Ceo (DLC). 
+Game Theory leds av partiledare för Game Theory, benämnd Datas lata CEO (DLC). 
 
 Resterande medlemmar utses av DLC, övriga får delta på alla publika event.
 
